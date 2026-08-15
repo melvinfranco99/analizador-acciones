@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Analizador de acciones — Top 10</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="page">
+
+  <header class="header">
+    <div class="header-text">
+      <h1>Analizador de acciones</h1>
+      <p class="subtitle">Ranking automatico de las 10 mejores oportunidades — analisis tecnico + fundamental, horizonte 3 meses</p>
+    </div>
+    <button id="analyze-btn" class="btn-primary">Actualizar analisis</button>
+  </header>
+
+  <div class="disclaimer">
+    <strong>Aviso importante:</strong> esta herramienta genera un ranking automatizado a partir de datos publicos
+    (Yahoo Finance) con fines puramente informativos y educativos. <strong>No es asesoramiento financiero ni una
+    recomendacion de compra o venta.</strong> Los precios objetivo y stop loss son estimaciones estadisticas, no
+    garantias. Verifica siempre disponibilidad y condiciones en tu broker (p. ej. Trade Republic) antes de invertir,
+    y no inviertas dinero que no puedas permitirte perder.
+  </div>
+
+  <section id="meta-bar" class="meta-bar hidden"></section>
+
+  <section id="status" class="status">
+    <p>Pulsa <strong>«Actualizar analisis»</strong> para descargar datos en vivo, calcular indicadores tecnicos y
+    fundamentales sobre el S&amp;P 500 + Nasdaq 100, y generar el ranking. La primera ejecucion puede tardar 1-2
+    minutos.</p>
+  </section>
+
+  <section id="results" class="results hidden"></section>
+
+</div>
+
+<template id="card-template">
+  <article class="card">
+    <div class="card-top">
+      <div class="rank"></div>
+      <div class="identity">
+        <div class="ticker"></div>
+        <div class="name"></div>
+        <div class="sector"></div>
+      </div>
+      <div class="total-score">
+        <div class="total-score-value"></div>
+        <div class="total-score-label">score total</div>
+      </div>
+    </div>
+
+    <div class="card-prices">
+      <div class="price-box">
+        <div class="price-label">Precio actual</div>
+        <div class="price-value price-current"></div>
+      </div>
+      <div class="price-box target">
+        <div class="price-label">Objetivo 3M</div>
+        <div class="price-value price-target"></div>
+        <div class="price-sub upside"></div>
+      </div>
+      <div class="price-box stop">
+        <div class="price-label">Stop loss</div>
+        <div class="price-value price-stop"></div>
+        <div class="price-sub stoppct"></div>
+      </div>
+    </div>
+
+    <div class="card-scores">
+      <div class="score-row">
+        <span class="score-name">Tecnico</span>
+        <div class="meter"><div class="meter-fill tech-fill"></div></div>
+        <span class="score-num tech-num"></span>
+      </div>
+      <div class="score-row">
+        <span class="score-name">Fundamental</span>
+        <div class="meter"><div class="meter-fill fund-fill"></div></div>
+        <span class="score-num fund-num"></span>
+      </div>
+    </div>
+
+    <ul class="rationale"></ul>
+  </article>
+</template>
+
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

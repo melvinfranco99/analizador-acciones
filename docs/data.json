@@ -1,0 +1,358 @@
+{
+  "generated_at": "2026-08-15T22:19:46",
+  "duration_seconds": 17.2,
+  "universe_size": 436,
+  "tickers_with_data": 426,
+  "candidates_analyzed": 45,
+  "benchmark_return_3m": 3.8,
+  "results": [
+    {
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "price": 971.66,
+      "target_price": 1107.37,
+      "upside_pct": 14.0,
+      "stop_loss": 826.15,
+      "stop_loss_pct": 15.0,
+      "technical_score": 100.0,
+      "fundamental_score": 92.2,
+      "total_score": 96.5,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 93.8
+      },
+      "rationale": [
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (345.7% interanual).",
+        "Consenso de 43 analistas con precio objetivo medio de 1501.98."
+      ],
+      "pe": 21.978285,
+      "num_analysts": 43,
+      "rank": 1
+    },
+    {
+      "ticker": "HBAN",
+      "name": "Huntington Bancshares Incorporated",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "price": 17.91,
+      "target_price": 18.82,
+      "upside_pct": 5.1,
+      "stop_loss": 17.19,
+      "stop_loss_pct": 4.0,
+      "technical_score": 100.0,
+      "fundamental_score": 88.7,
+      "total_score": 94.9,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 75,
+        "analyst_consensus": 74.9
+      },
+      "rationale": [
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (47.6% interanual).",
+        "Valoracion contenida (PER 13.8x)."
+      ],
+      "pe": 13.776923,
+      "num_analysts": 18,
+      "rank": 2
+    },
+    {
+      "ticker": "CFG",
+      "name": "Citizens Financial Group, Inc.",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "price": 74.73,
+      "target_price": 78.95,
+      "upside_pct": 5.7,
+      "stop_loss": 71.69,
+      "stop_loss_pct": 4.1,
+      "technical_score": 100.0,
+      "fundamental_score": 83.3,
+      "total_score": 92.5,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 75,
+        "analyst_consensus": 78.3
+      },
+      "rationale": [
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Valoracion contenida (PER 16.3x).",
+        "Consenso de 17 analistas con precio objetivo medio de 80.59."
+      ],
+      "pe": 16.281046,
+      "num_analysts": 17,
+      "rank": 3
+    },
+    {
+      "ticker": "WFC",
+      "name": "Wells Fargo & Company",
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified",
+      "price": 88.82,
+      "target_price": 94.09,
+      "upside_pct": 5.9,
+      "stop_loss": 85.23,
+      "stop_loss_pct": 4.0,
+      "technical_score": 100.0,
+      "fundamental_score": 82.6,
+      "total_score": 92.2,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 100,
+        "growth": 80,
+        "profitability": 75,
+        "analyst_consensus": 74.2
+      },
+      "rationale": [
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Valoracion contenida (PER 12.9x).",
+        "Consenso de 23 analistas con precio objetivo medio de 100.24."
+      ],
+      "pe": 12.9098835,
+      "num_analysts": 23,
+      "rank": 4
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML Holding N.V.",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "price": 1844.08,
+      "target_price": 1955.89,
+      "upside_pct": 6.1,
+      "stop_loss": 1698.31,
+      "stop_loss_pct": 7.9,
+      "technical_score": 100.0,
+      "fundamental_score": 77.3,
+      "total_score": 89.8,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 15,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 94.2
+      },
+      "rationale": [
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (21.3% interanual).",
+        "Valoracion exigente (PER 62.9x); ya descuenta buenas noticias."
+      ],
+      "pe": 62.89495,
+      "num_analysts": 15,
+      "rank": 5
+    },
+    {
+      "ticker": "MPC",
+      "name": "Marathon Petroleum Corporation",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "price": 355.42,
+      "target_price": 376.25,
+      "upside_pct": 5.9,
+      "stop_loss": 332.17,
+      "stop_loss_pct": 6.5,
+      "technical_score": 92.5,
+      "fundamental_score": 85.3,
+      "total_score": 89.3,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 70,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 41.1
+      },
+      "rationale": [
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "RSI en zona de sobrecompra (74); posible correccion a corto plazo.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (53.7% interanual)."
+      ],
+      "pe": 12.332409,
+      "num_analysts": 18,
+      "rank": 6
+    },
+    {
+      "ticker": "COP",
+      "name": "ConocoPhillips",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "price": 126.78,
+      "target_price": 131.22,
+      "upside_pct": 3.5,
+      "stop_loss": 119.96,
+      "stop_loss_pct": 5.4,
+      "technical_score": 94.0,
+      "fundamental_score": 83.2,
+      "total_score": 89.1,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 100,
+        "relative_strength": 70
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 75,
+        "analyst_consensus": 77.9
+      },
+      "rationale": [
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (35.5% interanual).",
+        "Valoracion contenida (PER 16.8x)."
+      ],
+      "pe": 16.769842,
+      "num_analysts": 24,
+      "rank": 7
+    },
+    {
+      "ticker": "GEN",
+      "name": "Gen Digital Inc.",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 28.48,
+      "target_price": 30.29,
+      "upside_pct": 6.3,
+      "stop_loss": 26.51,
+      "stop_loss_pct": 6.9,
+      "technical_score": 91.2,
+      "fundamental_score": 86.5,
+      "total_score": 89.1,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 65,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 71.1
+      },
+      "rationale": [
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Valoracion contenida (PER 16.7x).",
+        "Consenso de 10 analistas con precio objetivo medio de 32.11."
+      ],
+      "pe": 16.65497,
+      "num_analysts": 10,
+      "rank": 8
+    },
+    {
+      "ticker": "URI",
+      "name": "United Rentals, Inc.",
+      "sector": "Industrials",
+      "industry": "Rental & Leasing Services",
+      "price": 1153.83,
+      "target_price": 1212.03,
+      "upside_pct": 5.0,
+      "stop_loss": 1084.98,
+      "stop_loss_pct": 6.0,
+      "technical_score": 100.0,
+      "fundamental_score": 75.6,
+      "total_score": 89.0,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 50,
+        "growth": 80,
+        "profitability": 100,
+        "analyst_consensus": 76.6
+      },
+      "rationale": [
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Consenso de 21 analistas con precio objetivo medio de 1269.57."
+      ],
+      "pe": 27.776358,
+      "num_analysts": 21,
+      "rank": 9
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup Inc.",
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified",
+      "price": 139.33,
+      "target_price": 144.96,
+      "upside_pct": 4.0,
+      "stop_loss": 132.89,
+      "stop_loss_pct": 4.6,
+      "technical_score": 94.0,
+      "fundamental_score": 82.9,
+      "total_score": 89.0,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 100,
+        "relative_strength": 70
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 75,
+        "analyst_consensus": 76.8
+      },
+      "rationale": [
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (15.5% interanual).",
+        "Valoracion contenida (PER 15.0x)."
+      ],
+      "pe": 15.014009,
+      "num_analysts": 20,
+      "rank": 10
+    }
+  ]
+}
