@@ -16,7 +16,7 @@ BENCHMARK_TICKER = "^GSPC"
 PRICE_PERIOD = "1y"
 PRICE_INTERVAL = "1d"
 CHUNK_SIZE = 80
-FUNDAMENTALS_WORKERS = 12
+FUNDAMENTALS_WORKERS = 20
 
 
 def download_price_history(tickers: list[str]) -> dict[str, pd.DataFrame]:

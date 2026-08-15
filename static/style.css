@@ -61,7 +61,7 @@ body {
 }
 
 .page {
-  max-width: 980px;
+  max-width: 1280px;
   margin: 0 auto;
   padding: 32px 20px 80px;
 }
@@ -244,6 +244,13 @@ body {
 .price-box.stop .price-value { color: var(--critical); }
 .price-sub.stoppct { color: var(--critical); }
 
+.price-sub.price-current-eur,
+.price-sub.price-target-eur,
+.price-sub.price-stop-eur {
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
 .card-scores {
   display: flex;
   flex-direction: column;
@@ -302,6 +309,99 @@ body {
   padding: 16px;
   color: var(--critical);
   background: var(--surface-1);
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 340px;
+  gap: 24px;
+  align-items: start;
+}
+
+.main-col { min-width: 0; }
+
+.sidebar {
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px;
+  position: sticky;
+  top: 20px;
+  max-height: calc(100vh - 40px);
+  overflow-y: auto;
+}
+
+.sidebar-title {
+  margin: 0 0 14px;
+  font-size: 1rem;
+}
+
+.sidebar-subtitle {
+  font-weight: 400;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.changes-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.changes-empty {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.change-item {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  background: var(--page);
+}
+
+.change-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.change-badge {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.change-badge.positive { color: var(--good); background: color-mix(in srgb, var(--good) 15%, transparent); }
+.change-badge.negative { color: var(--critical); background: color-mix(in srgb, var(--critical) 15%, transparent); }
+.change-badge.neutral { color: var(--text-secondary); background: var(--gridline); }
+
+.change-date {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.change-ticker {
+  font-weight: 700;
+  font-size: 0.88rem;
+  margin-bottom: 2px;
+}
+
+.change-desc {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+@media (max-width: 860px) {
+  .layout { grid-template-columns: 1fr; }
+  .sidebar { position: static; max-height: none; }
 }
 
 @media (max-width: 560px) {

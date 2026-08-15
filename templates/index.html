@@ -12,7 +12,7 @@
   <header class="header">
     <div class="header-text">
       <h1>Analizador de acciones</h1>
-      <p class="subtitle">Ranking automatico de las 10 mejores oportunidades — analisis tecnico + fundamental, horizonte 3 meses</p>
+      <p class="subtitle">Ranking automatico de las mejores oportunidades — analisis tecnico + fundamental, horizonte 3 meses, potencial minimo exigido del 5%/mes</p>
     </div>
     <button id="analyze-btn" class="btn-primary">Actualizar analisis</button>
   </header>
@@ -21,8 +21,11 @@
     <strong>Aviso importante:</strong> esta herramienta genera un ranking automatizado a partir de datos publicos
     (Yahoo Finance) con fines puramente informativos y educativos. <strong>No es asesoramiento financiero ni una
     recomendacion de compra o venta.</strong> Los precios objetivo y stop loss son estimaciones estadisticas, no
-    garantias. Verifica siempre disponibilidad y condiciones en tu broker (p. ej. Trade Republic) antes de invertir,
-    y no inviertas dinero que no puedas permitirte perder.
+    garantias. Solo se muestran acciones cuyo potencial estimado a 3 meses supera el 5% mensual compuesto: si el
+    mercado no ofrece suficientes oportunidades que cumplan ese listón, apareceran menos de 10 (o ninguna). Los
+    precios en euros son una conversion orientativa al tipo de cambio del momento del analisis, no el precio de
+    cotizacion en un broker europeo. Verifica siempre disponibilidad y condiciones en tu broker (p. ej. Trade
+    Republic) antes de invertir, y no inviertas dinero que no puedas permitirte perder.
   </div>
 
   <section id="meta-bar" class="meta-bar hidden"></section>
@@ -33,7 +36,18 @@
     minutos.</p>
   </section>
 
-  <section id="results" class="results hidden"></section>
+  <div class="layout">
+    <main class="main-col">
+      <section id="results" class="results hidden"></section>
+    </main>
+
+    <aside class="sidebar">
+      <h2 class="sidebar-title">Cambios recientes <span class="sidebar-subtitle">(ultimos 3 meses)</span></h2>
+      <div id="changes-list" class="changes-list">
+        <p class="changes-empty">Ejecuta un analisis para ver el historial de cambios.</p>
+      </div>
+    </aside>
+  </div>
 
 </div>
 
@@ -56,15 +70,18 @@
       <div class="price-box">
         <div class="price-label">Precio actual</div>
         <div class="price-value price-current"></div>
+        <div class="price-sub price-current-eur"></div>
       </div>
       <div class="price-box target">
         <div class="price-label">Objetivo 3M</div>
         <div class="price-value price-target"></div>
+        <div class="price-sub price-target-eur"></div>
         <div class="price-sub upside"></div>
       </div>
       <div class="price-box stop">
         <div class="price-label">Stop loss</div>
         <div class="price-value price-stop"></div>
+        <div class="price-sub price-stop-eur"></div>
         <div class="price-sub stoppct"></div>
       </div>
     </div>
@@ -84,6 +101,17 @@
 
     <ul class="rationale"></ul>
   </article>
+</template>
+
+<template id="change-template">
+  <div class="change-item">
+    <div class="change-head">
+      <span class="change-badge"></span>
+      <span class="change-date"></span>
+    </div>
+    <div class="change-ticker"></div>
+    <div class="change-desc"></div>
+  </div>
 </template>
 
 <script src="{{ url_for('static', filename='app.js') }}"></script>

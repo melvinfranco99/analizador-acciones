@@ -12,16 +12,22 @@ from __future__ import annotations
 import logging
 import threading
 import webbrowser
+from pathlib import Path
 
 from flask import Flask, jsonify, render_template
 
 from engine.analyze import run_analysis
+from engine.changes import build_changes
 
 logging.basicConfig(level=logging.INFO)
 
 app = Flask(__name__)
 
 _analysis_lock = threading.Lock()
+
+BASE_DIR = Path(__file__).parent
+STATE_PATH = BASE_DIR / "state" / "last_run.json"
+CHANGES_PATH = BASE_DIR / "docs" / "changes.json"
 
 
 @app.route("/")
@@ -35,6 +41,7 @@ def api_analyze():
         return jsonify({"error": "Ya hay un analisis en curso, espera a que termine."}), 429
     try:
         payload = run_analysis()
+        payload["changes"] = build_changes(payload["results"], STATE_PATH, CHANGES_PATH)
         return jsonify(payload)
     except Exception as exc:  # pragma: no cover
         logging.exception("Error durante el analisis")

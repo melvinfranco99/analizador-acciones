@@ -9,6 +9,14 @@ from __future__ import annotations
 TECH_WEIGHT = 0.55
 FUND_WEIGHT = 0.45
 
+# Rentabilidad objetivo minima exigida: 5% mensual compuesto durante el
+# horizonte de 3 meses. Cualquier accion cuyo precio objetivo implique menos
+# potencial que esto se descarta del ranking (no es "suficientemente buena
+# oportunidad" segun el criterio pedido).
+MIN_MONTHLY_RETURN = 0.05
+TARGET_HORIZON_MONTHS = 3
+MIN_UPSIDE_PCT = round(((1 + MIN_MONTHLY_RETURN) ** TARGET_HORIZON_MONTHS - 1) * 100, 1)
+
 
 def _clamp(value: float, lo: float, hi: float) -> float:
     return max(lo, min(hi, value))
@@ -172,19 +180,21 @@ def compute_target_and_stop(tech: dict, fund: dict) -> dict:
     # --- Precio objetivo a 3 meses ---
     # Componente tecnico: extrapolacion amortiguada del retorno de los
     # ultimos 3 meses (evita proyectar tendencias insostenibles).
-    tech_component = _clamp(tech["return_3m"] * 0.35, -0.12, 0.15)
+    tech_component = _clamp(tech["return_3m"] * 0.40, -0.12, 0.18)
 
     target_mean = fund.get("target_mean_price")
     if target_mean and price:
         annual_upside = (target_mean - price) / price
         # Un precio objetivo de analistas suele tener horizonte ~12 meses;
-        # aplicamos solo una fraccion prudente a un horizonte de 3 meses.
-        analyst_component = _clamp(annual_upside * 0.35, -0.12, 0.20)
+        # aplicamos solo una fraccion (algo mayor que la parte proporcional
+        # de 3/12 para reflejar que las revalorizaciones fuertes suelen
+        # concentrarse en los primeros meses tras la revision) a 3 meses.
+        analyst_component = _clamp(annual_upside * 0.45, -0.15, 0.30)
         blended_return = 0.5 * tech_component + 0.5 * analyst_component
     else:
         blended_return = tech_component
 
-    blended_return = _clamp(blended_return, -0.10, 0.25)
+    blended_return = _clamp(blended_return, -0.10, 0.30)
     target_price = round(price * (1 + blended_return), 2)
 
     # --- Stop loss ---
@@ -209,8 +219,17 @@ def combined_score(tech_s: float, fund_s: float) -> float:
     return round(tech_s * TECH_WEIGHT + fund_s * FUND_WEIGHT, 1)
 
 
-def build_rationale(tech: dict, fund: dict, tech_breakdown: dict, fund_breakdown: dict) -> list[str]:
+def build_rationale(
+    tech: dict, fund: dict, tech_breakdown: dict, fund_breakdown: dict, upside_pct: float | None = None
+) -> list[str]:
     notes = []
+
+    if upside_pct is not None:
+        monthly_equiv = ((1 + upside_pct / 100) ** (1 / TARGET_HORIZON_MONTHS) - 1) * 100
+        notes.append(
+            f"Potencial estimado a 3 meses: {upside_pct:+.1f}% (~{monthly_equiv:+.1f}%/mes), "
+            f"por encima del umbral minimo exigido del {MIN_MONTHLY_RETURN*100:.0f}%/mes."
+        )
 
     if tech_breakdown["trend"] >= 90:
         notes.append("Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.")
@@ -244,4 +263,4 @@ def build_rationale(tech: dict, fund: dict, tech_breakdown: dict, fund_breakdown
     if not notes:
         notes.append("Señales mixtas: perfil equilibrado entre riesgo y oportunidad.")
 
-    return notes[:4]
+    return notes[:5]

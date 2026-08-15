@@ -1,0 +1,407 @@
+[
+  {
+    "id": "1a0219f05df38afb",
+    "date": "2026-08-16",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Micron Technology, Inc. entra en el Top 10 (puesto #1) con precio objetivo de 1140.01 $ (+17.3% a 3 meses)."
+  },
+  {
+    "id": "c3e6e4b917b4a8e7",
+    "date": "2026-08-07",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 1400.00 $ a 1150.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "7e637e9b511d5b08",
+    "date": "2026-07-14",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 1600.00 $ a 1750.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7750edabd7715939",
+    "date": "2026-06-29",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 1500.00 $ a 2000.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "3936de77f2bd487f",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 1175.00 $ a 2000.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "cc258d9ca6de2195",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 1200.00 $ a 1400.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ce6a00aa2f14cdde",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 900.00 $ a 1100.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "a1f72997ff92dff5",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 1050.00 $ a 1200.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "86ee502fedc81089",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 1100.00 $ a 1500.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "d16d663dd2e9d12a",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Deutsche Bank sube su precio objetivo de 1500.00 $ a 1550.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "2570bd3a66fee6a8",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 1300.00 $ a 1400.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "7555490ebe2ae04c",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 1150.00 $ a 1375.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "25c4eb9638c6b589",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 1500.00 $ a 2000.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a9944a78dec94afa",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 1220.00 $ a 1525.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "14df19678b3390d3",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 1200.00 $ a 1500.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "cd66b737a11d7624",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 1500.00 $ a 1600.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "212bf39548c82a19",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 1750.00 $ a 2000.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "69cb4df640ae5802",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 1200.00 $ a 1500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "82bc0e6a67ba1526",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 600.00 $ a 1600.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "00887885757c5d48",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 1500.00 $ a 1550.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "68183cb7d8fd1ccb",
+    "date": "2026-06-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 1550.00 $ a 1650.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d24b04f43b08430a",
+    "date": "2026-06-24",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-06-24: BPA real 25.11 $ vs estimado 20.69 $ (sorpresa +21.4%)."
+  },
+  {
+    "id": "fae59ecf8f615abe",
+    "date": "2026-06-23",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 950.00 $ a 1500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "0914d2147061ba7f",
+    "date": "2026-06-22",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 500.00 $ a 1550.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e8eb49fbd1d0d38f",
+    "date": "2026-06-18",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 600.00 $ a 1200.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b2c3bb28635e9722",
+    "date": "2026-06-18",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 550.00 $ a 1500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "774d4a508183a48d",
+    "date": "2026-06-18",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 550.00 $ a 1300.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "ee927d3e1947e0b1",
+    "date": "2026-06-17",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 840.00 $ a 1200.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3fabed8327670469",
+    "date": "2026-06-17",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Deutsche Bank sube su precio objetivo de 1000.00 $ a 1500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "5bdace139db360d8",
+    "date": "2026-06-15",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 660.00 $ a 1500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "81b98e55b1be8b1f",
+    "date": "2026-06-15",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 525.00 $ a 1200.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "77775cd0180ca0ce",
+    "date": "2026-06-11",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wolfe Research sube su precio objetivo de 550.00 $ a 1250.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "1ab53cfe1e706d84",
+    "date": "2026-06-10",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 400.00 $ a 900.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "b2e133ee3128262c",
+    "date": "2026-06-08",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 550.00 $ a 1220.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "15a92bcfa310591d",
+    "date": "2026-06-08",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 700.00 $ a 1500.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "3436be4b50c37f2c",
+    "date": "2026-06-03",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 520.00 $ a 1050.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "dd362cf3ab9dfd31",
+    "date": "2026-06-01",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 530.00 $ a 1100.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "cf6302caaedafe54",
+    "date": "2026-05-29",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 600.00 $ a 1750.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "bd45f84ee5e85750",
+    "date": "2026-05-28",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 1000.00 $ a 1500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "bc6bb7a635c85391",
+    "date": "2026-05-28",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 800.00 $ a 1150.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "5e6fd25c7105c0c8",
+    "date": "2026-05-27",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 675.00 $ a 1175.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "e12d4359aa4843d0",
+    "date": "2026-05-26",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 535.00 $ a 1625.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "acb5b776dc275e90",
+    "date": "2026-05-19",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 425.00 $ a 840.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "4c57776f41514fd0",
+    "date": "2026-05-19",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Melius Research sube su precio objetivo de 700.00 $ a 1100.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "994f51d654d713c1",
+    "date": "2026-05-19",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 740.00 $ a 800.00 $ (mantiene Outperform)."
+  }
+]

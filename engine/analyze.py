@@ -5,26 +5,32 @@ Orquestador del pipeline de analisis:
   2. Calcula el snapshot e indicador tecnico de cada accion valida.
   3. Preselecciona los mejores candidatos por tecnico (evita pedir
      fundamentales de 500+ tickers, que seria muy lento).
-  4. Descarga fundamentales solo de esos candidatos.
-  5. Calcula score combinado, precio objetivo y stop loss.
-  6. Devuelve el top 10 final ordenado.
+  4. Descarga fundamentales solo de esos candidatos, mas el tipo de cambio
+     EUR/USD.
+  5. Calcula score combinado, precio objetivo (tambien en EUR) y stop loss.
+  6. Descarta las acciones cuyo potencial a 3 meses no llegue al minimo
+     exigido (5%/mes compuesto) y devuelve el top 10 final ordenado
+     (pueden ser menos de 10 si no hay suficientes oportunidades que
+     cumplan el umbral).
 """
 from __future__ import annotations
 
 import datetime as dt
 import logging
 
-from . import data, fundamental, scoring, technical
+from . import data, fundamental, fx, scoring, technical
 from .tickers import UNIVERSE
 
 logger = logging.getLogger(__name__)
 
-CANDIDATE_POOL_SIZE = 45
+CANDIDATE_POOL_SIZE = 350
 TOP_N = 10
 
 
 def run_analysis() -> dict:
     started_at = dt.datetime.now()
+
+    fx_rate = fx.fetch_usd_to_eur_rate()
 
     price_data = data.download_price_history(UNIVERSE)
     benchmark_df = price_data.pop(data.BENCHMARK_TICKER, None)
@@ -44,7 +50,8 @@ def run_analysis() -> dict:
 
     fundamentals_map = data.fetch_fundamentals_bulk([c[0] for c in pool])
 
-    results = []
+    qualifying = []
+    below_threshold_count = 0
     for ticker, tech_snap, t_score, t_breakdown in pool:
         info = fundamentals_map.get(ticker)
         if not info:
@@ -53,18 +60,29 @@ def run_analysis() -> dict:
         f_score, f_breakdown = scoring.fundamental_score(fund_snap, tech_snap["price"])
         target_stop = scoring.compute_target_and_stop(tech_snap, fund_snap)
         total = scoring.combined_score(t_score, f_score)
-        rationale = scoring.build_rationale(tech_snap, fund_snap, t_breakdown, f_breakdown)
 
-        results.append(
+        if target_stop["upside_pct"] < scoring.MIN_UPSIDE_PCT:
+            below_threshold_count += 1
+            continue
+
+        rationale = scoring.build_rationale(
+            tech_snap, fund_snap, t_breakdown, f_breakdown, upside_pct=target_stop["upside_pct"]
+        )
+
+        price = tech_snap["price"]
+        qualifying.append(
             {
                 "ticker": ticker,
                 "name": fund_snap["name"] or ticker,
                 "sector": fund_snap["sector"],
                 "industry": fund_snap["industry"],
-                "price": round(tech_snap["price"], 2),
+                "price": round(price, 2),
+                "price_eur": fx.usd_to_eur(price, fx_rate),
                 "target_price": target_stop["target_price"],
+                "target_price_eur": fx.usd_to_eur(target_stop["target_price"], fx_rate),
                 "upside_pct": target_stop["upside_pct"],
                 "stop_loss": target_stop["stop_loss"],
+                "stop_loss_eur": fx.usd_to_eur(target_stop["stop_loss"], fx_rate),
                 "stop_loss_pct": target_stop["stop_loss_pct"],
                 "technical_score": t_score,
                 "fundamental_score": f_score,
@@ -77,8 +95,8 @@ def run_analysis() -> dict:
             }
         )
 
-    results.sort(key=lambda r: r["total_score"], reverse=True)
-    top = results[:TOP_N]
+    qualifying.sort(key=lambda r: r["total_score"], reverse=True)
+    top = qualifying[:TOP_N]
     for i, r in enumerate(top, start=1):
         r["rank"] = i
 
@@ -90,6 +108,10 @@ def run_analysis() -> dict:
         "universe_size": len(UNIVERSE),
         "tickers_with_data": len(tech_candidates),
         "candidates_analyzed": len(pool),
+        "candidates_below_threshold": below_threshold_count,
+        "min_monthly_return_pct": round(scoring.MIN_MONTHLY_RETURN * 100, 1),
+        "min_upside_pct_3m": scoring.MIN_UPSIDE_PCT,
         "benchmark_return_3m": round(benchmark_return_3m * 100, 1),
+        "eur_usd_rate": fx_rate,
         "results": top,
     }
