@@ -9,6 +9,96 @@
     "description": "Micron Technology, Inc. entra en el Top 10 (puesto #1) con precio objetivo de 1140.01 $ (+17.3% a 3 meses)."
   },
   {
+    "id": "33e4c0e9300484ea",
+    "date": "2026-08-16",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 1140.01 $ a 1236.82 $ (+8.5%)."
+  },
+  {
+    "id": "7c109450ebf95cb8",
+    "date": "2026-08-16",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Marathon Petroleum Corporation entra en el Top 10 (puesto #2) con precio objetivo de 432.52 $ (+21.7% a 3 meses)."
+  },
+  {
+    "id": "f1806bee476467ef",
+    "date": "2026-08-16",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Valero Energy Corporation entra en el Top 10 (puesto #3) con precio objetivo de 411.36 $ (+20.4% a 3 meses)."
+  },
+  {
+    "id": "7cafc1cceaf02a2e",
+    "date": "2026-08-16",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #4) con precio objetivo de 662.59 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "530981ff1fe8d407",
+    "date": "2026-08-16",
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Stanley Black & Decker, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 119.07 $ (+16.7% a 3 meses)."
+  },
+  {
+    "id": "213d40073f73e909",
+    "date": "2026-08-16",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "NVIDIA Corporation entra en el Top 10 (puesto #6) con precio objetivo de 263.99 $ (+17.2% a 3 meses)."
+  },
+  {
+    "id": "24f54510764bb5cf",
+    "date": "2026-08-16",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Phillips 66 entra en el Top 10 (puesto #7) con precio objetivo de 276.77 $ (+18.5% a 3 meses)."
+  },
+  {
+    "id": "e06dbf3609b48597",
+    "date": "2026-08-16",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Best Buy Co., Inc. entra en el Top 10 (puesto #8) con precio objetivo de 109.97 $ (+27.2% a 3 meses)."
+  },
+  {
+    "id": "c2b0442b75b7c6ea",
+    "date": "2026-08-16",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "DexCom, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 114.53 $ (+27.6% a 3 meses)."
+  },
+  {
+    "id": "7ce953e063612945",
+    "date": "2026-08-16",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "HP Inc. entra en el Top 10 (puesto #10) con precio objetivo de 37.15 $ (+23.4% a 3 meses)."
+  },
+  {
     "id": "c3e6e4b917b4a8e7",
     "date": "2026-08-07",
     "ticker": "MU",
@@ -16,6 +106,51 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Citigroup baja su precio objetivo de 1400.00 $ a 1150.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "368f6340a80b1f3c",
+    "date": "2026-08-05",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-05: BPA real 9.41 $ vs estimado 7.50 $ (sorpresa +25.4%)."
+  },
+  {
+    "id": "06e96903c0045c74",
+    "date": "2026-08-04",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-04: BPA real 17.73 $ vs estimado 13.95 $ (sorpresa +27.1%)."
+  },
+  {
+    "id": "fa8129794ba9ce62",
+    "date": "2026-07-30",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-30: BPA real 12.54 $ vs estimado 10.13 $ (sorpresa +23.8%)."
+  },
+  {
+    "id": "1d813acf1484ee7a",
+    "date": "2026-07-30",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-30: BPA real 0.70 $ vs estimado 0.61 $ (sorpresa +15.1%)."
+  },
+  {
+    "id": "6d2aeae14ab5ccb6",
+    "date": "2026-07-29",
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-29: BPA real 1.57 $ vs estimado 1.21 $ (sorpresa +29.9%)."
   },
   {
     "id": "7e637e9b511d5b08",
@@ -360,6 +495,24 @@
     "description": "Mizuho sube su precio objetivo de 800.00 $ a 1150.00 $ (mantiene Outperform)."
   },
   {
+    "id": "8107e3d3d62d8884",
+    "date": "2026-05-28",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-05-28: BPA real 4.86 $ vs estimado 2.96 $ (sorpresa +64.0%)."
+  },
+  {
+    "id": "6b7ee8220bfb22ed",
+    "date": "2026-05-28",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-05-28: BPA real 1.28 $ vs estimado 1.23 $ (sorpresa +4.3%)."
+  },
+  {
     "id": "5e6fd25c7105c0c8",
     "date": "2026-05-27",
     "ticker": "MU",
@@ -369,6 +522,15 @@
     "description": "Barclays sube su precio objetivo de 675.00 $ a 1175.00 $ (mantiene Overweight)."
   },
   {
+    "id": "d1c0a19fccbfb20c",
+    "date": "2026-05-27",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-05-27: BPA real 0.86 $ vs estimado 0.72 $ (sorpresa +20.3%)."
+  },
+  {
     "id": "e12d4359aa4843d0",
     "date": "2026-05-26",
     "ticker": "MU",
@@ -376,6 +538,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 535.00 $ a 1625.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d49762714a174a96",
+    "date": "2026-05-20",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-05-20: BPA real 1.87 $ vs estimado 1.77 $ (sorpresa +5.5%)."
   },
   {
     "id": "acb5b776dc275e90",

@@ -2,8 +2,71 @@
   "MU": {
     "rank": 1,
     "name": "Micron Technology, Inc.",
-    "target_price": 1140.01,
-    "upside_pct": 17.3,
+    "target_price": 1236.82,
+    "upside_pct": 27.3,
     "total_score": 96.5
+  },
+  "MPC": {
+    "rank": 2,
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 432.52,
+    "upside_pct": 21.7,
+    "total_score": 89.3
+  },
+  "VLO": {
+    "rank": 3,
+    "name": "Valero Energy Corporation",
+    "target_price": 411.36,
+    "upside_pct": 20.4,
+    "total_score": 86.9
+  },
+  "DELL": {
+    "rank": 4,
+    "name": "Dell Technologies Inc.",
+    "target_price": 662.59,
+    "upside_pct": 35.0,
+    "total_score": 83.5
+  },
+  "SWK": {
+    "rank": 5,
+    "name": "Stanley Black & Decker, Inc.",
+    "target_price": 119.07,
+    "upside_pct": 16.7,
+    "total_score": 82.6
+  },
+  "NVDA": {
+    "rank": 6,
+    "name": "NVIDIA Corporation",
+    "target_price": 263.99,
+    "upside_pct": 17.2,
+    "total_score": 82.4
+  },
+  "PSX": {
+    "rank": 7,
+    "name": "Phillips 66",
+    "target_price": 276.77,
+    "upside_pct": 18.5,
+    "total_score": 81.8
+  },
+  "BBY": {
+    "rank": 8,
+    "name": "Best Buy Co., Inc.",
+    "target_price": 109.97,
+    "upside_pct": 27.2,
+    "total_score": 80.8
+  },
+  "DXCM": {
+    "rank": 9,
+    "name": "DexCom, Inc.",
+    "target_price": 114.53,
+    "upside_pct": 27.6,
+    "total_score": 79.8
+  },
+  "HPQ": {
+    "rank": 10,
+    "name": "HP Inc.",
+    "target_price": 37.15,
+    "upside_pct": 23.4,
+    "total_score": 79.7
   }
 }

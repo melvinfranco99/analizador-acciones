@@ -332,7 +332,7 @@ body {
 }
 
 .sidebar-title {
-  margin: 0 0 14px;
+  margin: 0 0 6px;
   font-size: 1rem;
 }
 
@@ -340,6 +340,26 @@ body {
   font-weight: 400;
   font-size: 0.78rem;
   color: var(--text-muted);
+}
+
+.sidebar-desc {
+  margin: 0 0 16px;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.main-title {
+  margin: 0 0 4px;
+  font-size: 1.1rem;
+}
+
+.main-subtitle {
+  margin: 0 0 16px;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  max-width: 70ch;
 }
 
 .changes-list {

@@ -178,23 +178,33 @@ def compute_target_and_stop(tech: dict, fund: dict) -> dict:
     price = tech["price"]
 
     # --- Precio objetivo a 3 meses ---
-    # Componente tecnico: extrapolacion amortiguada del retorno de los
-    # ultimos 3 meses (evita proyectar tendencias insostenibles).
-    tech_component = _clamp(tech["return_3m"] * 0.40, -0.12, 0.18)
+    # Dos senales independientes, cada una amortiguada al 50% para no
+    # extrapolar sin mas una tendencia insostenible:
+    #  - Componente tecnico: la mitad del retorno de los ultimos 3 meses
+    #    (continuacion parcial del momentum reciente).
+    #  - Componente de analistas: la mitad del recorrido hasta el precio
+    #    objetivo medio de consenso (su horizonte tipico es ~12 meses, pero
+    #    las revisiones fuertes tienden a concentrarse nada mas producirse).
+    # Usamos la MEJOR de las dos (no la media): exigir que ambas senales
+    # sean simultaneamente extremas descartaba casi todo. El score tecnico
+    # y fundamental combinado (mas abajo) sigue exigiendo calidad conjunta;
+    # esto solo evita que una unica senal fuerte quede diluida por la otra.
+    tech_component = _clamp(tech["return_3m"] * 0.50, -0.15, 0.35)
 
     target_mean = fund.get("target_mean_price")
+    target_driver = "tecnico"
     if target_mean and price:
         annual_upside = (target_mean - price) / price
-        # Un precio objetivo de analistas suele tener horizonte ~12 meses;
-        # aplicamos solo una fraccion (algo mayor que la parte proporcional
-        # de 3/12 para reflejar que las revalorizaciones fuertes suelen
-        # concentrarse en los primeros meses tras la revision) a 3 meses.
-        analyst_component = _clamp(annual_upside * 0.45, -0.15, 0.30)
-        blended_return = 0.5 * tech_component + 0.5 * analyst_component
+        analyst_component = _clamp(annual_upside * 0.50, -0.15, 0.35)
+        if analyst_component > tech_component:
+            blended_return = analyst_component
+            target_driver = "analistas"
+        else:
+            blended_return = tech_component
     else:
         blended_return = tech_component
 
-    blended_return = _clamp(blended_return, -0.10, 0.30)
+    blended_return = _clamp(blended_return, -0.15, 0.35)
     target_price = round(price * (1 + blended_return), 2)
 
     # --- Stop loss ---
@@ -212,6 +222,7 @@ def compute_target_and_stop(tech: dict, fund: dict) -> dict:
         "upside_pct": round(blended_return * 100, 1),
         "stop_loss": stop_loss,
         "stop_loss_pct": round(stop_pct * 100, 1),
+        "target_driver": target_driver,
     }
 
 
@@ -220,15 +231,24 @@ def combined_score(tech_s: float, fund_s: float) -> float:
 
 
 def build_rationale(
-    tech: dict, fund: dict, tech_breakdown: dict, fund_breakdown: dict, upside_pct: float | None = None
+    tech: dict,
+    fund: dict,
+    tech_breakdown: dict,
+    fund_breakdown: dict,
+    upside_pct: float | None = None,
+    target_driver: str | None = None,
 ) -> list[str]:
     notes = []
 
     if upside_pct is not None:
         monthly_equiv = ((1 + upside_pct / 100) ** (1 / TARGET_HORIZON_MONTHS) - 1) * 100
+        driver_txt = {
+            "tecnico": " (impulsado por el momentum tecnico reciente)",
+            "analistas": " (impulsado por el consenso de precio objetivo de analistas)",
+        }.get(target_driver, "")
         notes.append(
             f"Potencial estimado a 3 meses: {upside_pct:+.1f}% (~{monthly_equiv:+.1f}%/mes), "
-            f"por encima del umbral minimo exigido del {MIN_MONTHLY_RETURN*100:.0f}%/mes."
+            f"por encima del umbral minimo exigido del {MIN_MONTHLY_RETURN*100:.0f}%/mes{driver_txt}."
         )
 
     if tech_breakdown["trend"] >= 90:

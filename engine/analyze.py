@@ -66,7 +66,12 @@ def run_analysis() -> dict:
             continue
 
         rationale = scoring.build_rationale(
-            tech_snap, fund_snap, t_breakdown, f_breakdown, upside_pct=target_stop["upside_pct"]
+            tech_snap,
+            fund_snap,
+            t_breakdown,
+            f_breakdown,
+            upside_pct=target_stop["upside_pct"],
+            target_driver=target_stop.get("target_driver"),
         )
 
         price = tech_snap["price"]
