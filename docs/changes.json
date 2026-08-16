@@ -117,6 +117,24 @@
     "description": "CDW Corporation Common Stock entra en el Top 10 (puesto #8) con precio objetivo de 165.05 $ (+18.4% a 3 meses)."
   },
   {
+    "id": "12e58624073d26b7",
+    "date": "2026-08-16",
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Stanley Black & Decker, Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "6ba3d11d282b2e2b",
+    "date": "2026-08-16",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Agilent Technologies, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 172.16 $ (+15.9% a 3 meses)."
+  },
+  {
     "id": "0590771dd84d3227",
     "date": "2026-08-14",
     "ticker": "DELL",
@@ -133,6 +151,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 79.00 $ a 88.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "a5361ea9f5514aa1",
+    "date": "2026-08-12",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Overweight)."
   },
   {
     "id": "f499ddb7ceee3b44",
@@ -201,7 +228,7 @@
     "id": "36d6cef39cf749ae",
     "date": "2026-08-06",
     "ticker": "CDW",
-    "name": "CDW Corporation Common Stock",
+    "name": "CDW Corporation",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 170.00 $ a 171.00 $ (mantiene Overweight)."
@@ -300,7 +327,7 @@
     "id": "86d2e7b8c1ebd432",
     "date": "2026-08-05",
     "ticker": "CDW",
-    "name": "CDW Corporation Common Stock",
+    "name": "CDW Corporation",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-05: BPA real 2.91 $ vs estimado 2.80 $ (sorpresa +4.0%)."
@@ -696,7 +723,7 @@
     "id": "660092c913fee700",
     "date": "2026-07-13",
     "ticker": "CDW",
-    "name": "CDW Corporation Common Stock",
+    "name": "CDW Corporation",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 123.00 $ a 145.00 $ (mantiene Neutral)."
@@ -745,6 +772,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Evercore ISI Group sube su precio objetivo de 450.00 $ a 500.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "f29e0819b4f5f5aa",
+    "date": "2026-07-06",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 144.00 $ a 148.00 $ (mantiene Outperform)."
   },
   {
     "id": "3a28ca249b8779ca",
@@ -954,6 +990,15 @@
     "description": "Resultados del 2026-06-24: BPA real 25.11 $ vs estimado 20.69 $ (sorpresa +21.4%)."
   },
   {
+    "id": "92cff7befb6506f3",
+    "date": "2026-06-24",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 145.00 $ a 150.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "fae59ecf8f615abe",
     "date": "2026-06-23",
     "ticker": "MU",
@@ -975,7 +1020,7 @@
     "id": "0f35243808158363",
     "date": "2026-06-23",
     "ticker": "CDW",
-    "name": "CDW Corporation Common Stock",
+    "name": "CDW Corporation",
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Morgan Stanley sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 170.00 $."
@@ -1170,6 +1215,15 @@
     "description": "Morgan Stanley sube su precio objetivo de 520.00 $ a 1050.00 $ (mantiene Overweight)."
   },
   {
+    "id": "0233b14ca9248d25",
+    "date": "2026-06-03",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "HSBC baja su precio objetivo de 180.00 $ a 165.00 $ (mantiene Buy)."
+  },
+  {
     "id": "bc4c7070bcf0e986",
     "date": "2026-06-02",
     "ticker": "BBY",
@@ -1177,6 +1231,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "DA Davidson sube su precio objetivo de 78.00 $ a 90.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a53111105b34ea4e",
+    "date": "2026-06-02",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 145.00 $ a 155.00 $ (mantiene Buy)."
   },
   {
     "id": "dd362cf3ab9dfd31",
@@ -1503,6 +1566,51 @@
     "description": "Citigroup sube su precio objetivo de 79.00 $ a 84.00 $ (mantiene Buy)."
   },
   {
+    "id": "1f3add5348676587",
+    "date": "2026-05-28",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 153.00 $ a 155.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "3303c3f8b98c49b5",
+    "date": "2026-05-28",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 147.00 $ a 155.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "405b2571cc8c77a5",
+    "date": "2026-05-28",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 140.00 $ a 145.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "05be5728536572ef",
+    "date": "2026-05-28",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 165.00 $ a 160.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "23ceca1fca5e2186",
+    "date": "2026-05-28",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "B of A Securities sube la recomendacion de Neutral a Buy. Precio objetivo: 145.00 $."
+  },
+  {
     "id": "5e6fd25c7105c0c8",
     "date": "2026-05-27",
     "ticker": "MU",
@@ -1551,7 +1659,7 @@
     "id": "b56e256a18a927b4",
     "date": "2026-05-27",
     "ticker": "CDW",
-    "name": "CDW Corporation Common Stock",
+    "name": "CDW Corporation",
     "category": "analista",
     "type": "upgrade_analista",
     "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 130.00 $."
@@ -1566,6 +1674,15 @@
     "description": "Mizuho sube la recomendacion de Neutral a Outperform. Precio objetivo: 212.00 $."
   },
   {
+    "id": "a839219003187c95",
+    "date": "2026-05-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-05-27: BPA real 1.49 $ vs estimado 1.41 $ (sorpresa +5.8%)."
+  },
+  {
     "id": "e12d4359aa4843d0",
     "date": "2026-05-26",
     "ticker": "MU",
@@ -1573,6 +1690,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 535.00 $ a 1625.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "7fca92d9132e354f",
+    "date": "2026-05-26",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 155.00 $ a 156.00 $ (mantiene Outperform)."
   },
   {
     "id": "62271a6b27ddeeee",
