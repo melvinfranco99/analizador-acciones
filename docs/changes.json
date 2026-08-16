@@ -153,6 +153,24 @@
     "description": "CDW Corporation sale del Top 10 (antes en el puesto #8)."
   },
   {
+    "id": "c18ebe77758e0fed",
+    "date": "2026-08-16",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "DexCom, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "f98f2422670c275d",
+    "date": "2026-08-16",
+    "ticker": "CDW",
+    "name": "CDW Corporation Common Stock",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "CDW Corporation Common Stock entra en el Top 10 (puesto #9) con precio objetivo de 165.41 $ (+18.6% a 3 meses)."
+  },
+  {
     "id": "0590771dd84d3227",
     "date": "2026-08-14",
     "ticker": "DELL",
@@ -255,7 +273,7 @@
     "id": "36d6cef39cf749ae",
     "date": "2026-08-06",
     "ticker": "CDW",
-    "name": "CDW Corporation",
+    "name": "CDW Corporation Common Stock",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 170.00 $ a 171.00 $ (mantiene Overweight)."
@@ -354,7 +372,7 @@
     "id": "86d2e7b8c1ebd432",
     "date": "2026-08-05",
     "ticker": "CDW",
-    "name": "CDW Corporation",
+    "name": "CDW Corporation Common Stock",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-05: BPA real 2.91 $ vs estimado 2.80 $ (sorpresa +4.0%)."
@@ -750,7 +768,7 @@
     "id": "660092c913fee700",
     "date": "2026-07-13",
     "ticker": "CDW",
-    "name": "CDW Corporation",
+    "name": "CDW Corporation Common Stock",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 123.00 $ a 145.00 $ (mantiene Neutral)."
@@ -1047,7 +1065,7 @@
     "id": "0f35243808158363",
     "date": "2026-06-23",
     "ticker": "CDW",
-    "name": "CDW Corporation",
+    "name": "CDW Corporation Common Stock",
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Morgan Stanley sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 170.00 $."
@@ -1767,7 +1785,7 @@
     "id": "b56e256a18a927b4",
     "date": "2026-05-27",
     "ticker": "CDW",
-    "name": "CDW Corporation",
+    "name": "CDW Corporation Common Stock",
     "category": "analista",
     "type": "upgrade_analista",
     "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 130.00 $."
