@@ -135,6 +135,24 @@
     "description": "Agilent Technologies, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 172.16 $ (+15.9% a 3 meses)."
   },
   {
+    "id": "150943db2f590564",
+    "date": "2026-08-16",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Agilent Technologies, Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "ab8949232f142f61",
+    "date": "2026-08-16",
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "CDW Corporation sale del Top 10 (antes en el puesto #8)."
+  },
+  {
     "id": "0590771dd84d3227",
     "date": "2026-08-14",
     "ticker": "DELL",
@@ -160,6 +178,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "6ddc9954dd5d9784",
+    "date": "2026-08-12",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 19.00 $ a 21.00 $ (mantiene Sell)."
   },
   {
     "id": "f499ddb7ceee3b44",
@@ -1242,6 +1269,15 @@
     "description": "B of A Securities sube su precio objetivo de 145.00 $ a 155.00 $ (mantiene Buy)."
   },
   {
+    "id": "36f17597493b11db",
+    "date": "2026-06-02",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 16.00 $ a 19.00 $ (mantiene Sell)."
+  },
+  {
     "id": "dd362cf3ab9dfd31",
     "date": "2026-06-01",
     "ticker": "MU",
@@ -1611,6 +1647,78 @@
     "description": "B of A Securities sube la recomendacion de Neutral a Buy. Precio objetivo: 145.00 $."
   },
   {
+    "id": "5394a64d40bc428e",
+    "date": "2026-05-28",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 20.00 $ a 26.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "7aaba1c668c5bf2a",
+    "date": "2026-05-28",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 20.00 $ a 25.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "bc69cb4e3615b7a5",
+    "date": "2026-05-28",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 22.00 $ a 26.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "0e02e644a875ae5e",
+    "date": "2026-05-28",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 20.00 $ a 26.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "27d654ea3da6491a",
+    "date": "2026-05-28",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 16.00 $ a 19.00 $ (mantiene Underweight)."
+  },
+  {
+    "id": "4c22724eb0001e39",
+    "date": "2026-05-28",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 18.00 $ a 20.00 $ (mantiene Underweight)."
+  },
+  {
+    "id": "7c6e1fb6e4cda0e7",
+    "date": "2026-05-28",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 16.00 $ a 18.00 $ (mantiene Underperform)."
+  },
+  {
+    "id": "e703c24880904502",
+    "date": "2026-05-28",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 17.00 $ a 19.00 $ (mantiene Underweight)."
+  },
+  {
     "id": "5e6fd25c7105c0c8",
     "date": "2026-05-27",
     "ticker": "MU",
@@ -1843,6 +1951,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Needham sube su precio objetivo de 240.00 $ a 270.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d245c9b5d35c150d",
+    "date": "2026-05-21",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 16.00 $ a 17.00 $ (mantiene Underweight)."
   },
   {
     "id": "d49762714a174a96",
