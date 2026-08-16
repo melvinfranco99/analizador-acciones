@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16T01:58:54",
-  "duration_seconds": 21.2,
+  "generated_at": "2026-08-16T01:42:32",
+  "duration_seconds": 36.6,
   "universe_size": 436,
   "tickers_with_data": 426,
   "candidates_analyzed": 350,
-  "candidates_below_threshold": 160,
+  "candidates_below_threshold": 306,
   "min_monthly_return_pct": 5.0,
   "min_upside_pct_3m": 15.8,
-  "benchmark_return_3m": 3.8,
+  "benchmark_return_3m": 5.0,
   "eur_usd_rate": 1.157273530960083,
   "results": [
     {
@@ -197,11 +197,49 @@
       "rationale": [
         "Potencial estimado a 3 meses: +16.7% (~+5.3%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Consenso de 11 analistas con precio objetivo medio de 98.00."
+        "Consenso de 11 analistas con precio objetivo medio de 99.36."
       ],
       "pe": 24.95599,
       "num_analysts": 11,
       "rank": 5
+    },
+    {
+      "ticker": "BBY",
+      "name": "Best Buy Co., Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "price": 86.42,
+      "price_eur": 74.68,
+      "target_price": 109.97,
+      "target_price_eur": 95.03,
+      "upside_pct": 27.2,
+      "stop_loss": 81.0,
+      "stop_loss_eur": 69.99,
+      "stop_loss_pct": 6.3,
+      "technical_score": 88.8,
+      "fundamental_score": 75.0,
+      "total_score": 82.6,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 55,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 80,
+        "profitability": 100,
+        "analyst_consensus": 49.2
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +27.2% (~+8.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Valoracion contenida (PER 16.0x).",
+        "Consenso de 20 analistas con precio objetivo medio de 82.35."
+      ],
+      "pe": 16.003702,
+      "num_analysts": 20,
+      "rank": 6
     },
     {
       "ticker": "NVDA",
@@ -239,7 +277,45 @@
       ],
       "pe": 34.480858,
       "num_analysts": 58,
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "ticker": "CDW",
+      "name": "CDW Corporation Common Stock",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "price": 139.42,
+      "price_eur": 120.47,
+      "target_price": 165.05,
+      "target_price_eur": 142.62,
+      "upside_pct": 18.4,
+      "stop_loss": 125.61,
+      "stop_loss_eur": 108.54,
+      "stop_loss_pct": 9.9,
+      "technical_score": 88.8,
+      "fundamental_score": 74.1,
+      "total_score": 82.2,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 55,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 55,
+        "profitability": 100,
+        "analyst_consensus": 75.5
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +18.4% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Valoracion contenida (PER 16.8x).",
+        "Consenso de 9 analistas con precio objetivo medio de 155.89."
+      ],
+      "pe": 16.757212,
+      "num_analysts": 9,
+      "rank": 8
     },
     {
       "ticker": "PSX",
@@ -248,12 +324,12 @@
       "industry": "Oil & Gas Refining & Marketing",
       "price": 233.61,
       "price_eur": 201.86,
-      "target_price": 276.77,
-      "target_price_eur": 239.16,
-      "upside_pct": 18.5,
-      "stop_loss": 218.92,
-      "stop_loss_eur": 189.17,
-      "stop_loss_pct": 6.3,
+      "target_price": 277.06,
+      "target_price_eur": 239.41,
+      "upside_pct": 18.6,
+      "stop_loss": 219.22,
+      "stop_loss_eur": 189.43,
+      "stop_loss_pct": 6.2,
       "technical_score": 82.5,
       "fundamental_score": 80.9,
       "total_score": 81.8,
@@ -270,7 +346,7 @@
         "analyst_consensus": 43.5
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +18.5% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Potencial estimado a 3 meses: +18.6% (~+5.9%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "RSI en zona de sobrecompra (77); posible correccion a corto plazo.",
         "MACD en cruce alcista con impulso creciente.",
@@ -278,45 +354,7 @@
       ],
       "pe": 13.333904,
       "num_analysts": 19,
-      "rank": 7
-    },
-    {
-      "ticker": "BBY",
-      "name": "Best Buy Co., Inc.",
-      "sector": "Consumer Cyclical",
-      "industry": "Specialty Retail",
-      "price": 86.42,
-      "price_eur": 74.68,
-      "target_price": 109.97,
-      "target_price_eur": 95.03,
-      "upside_pct": 27.2,
-      "stop_loss": 81.0,
-      "stop_loss_eur": 69.99,
-      "stop_loss_pct": 6.3,
-      "technical_score": 88.8,
-      "fundamental_score": 71.0,
-      "total_score": 80.8,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 55,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 75,
-        "growth": 80,
-        "profitability": 100,
-        "analyst_consensus": 33.0
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +27.2% (~+8.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Valoracion contenida (PER 16.0x).",
-        "Consenso de 20 analistas con precio objetivo medio de 80.90."
-      ],
-      "pe": 16.003702,
-      "num_analysts": 20,
-      "rank": 8
+      "rank": 9
     },
     {
       "ticker": "DXCM",
@@ -353,44 +391,6 @@
       ],
       "pe": 35.474308,
       "num_analysts": 25,
-      "rank": 9
-    },
-    {
-      "ticker": "HPQ",
-      "name": "HP Inc.",
-      "sector": "Technology",
-      "industry": "Computer Hardware",
-      "price": 30.11,
-      "price_eur": 26.02,
-      "target_price": 37.15,
-      "target_price_eur": 32.1,
-      "upside_pct": 23.4,
-      "stop_loss": 27.37,
-      "stop_loss_eur": 23.65,
-      "stop_loss_pct": 9.1,
-      "technical_score": 91.2,
-      "fundamental_score": 65.6,
-      "total_score": 79.7,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 65,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 100,
-        "growth": 80,
-        "profitability": 50,
-        "analyst_consensus": 26.5
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +23.4% (~+7.3%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Valoracion contenida (PER 11.2x).",
-        "Consenso de 16 analistas con precio objetivo medio de 23.10."
-      ],
-      "pe": 11.151852,
-      "num_analysts": 16,
       "rank": 10
     }
   ]

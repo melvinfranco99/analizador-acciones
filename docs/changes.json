@@ -99,6 +99,78 @@
     "description": "HP Inc. entra en el Top 10 (puesto #10) con precio objetivo de 37.15 $ (+23.4% a 3 meses)."
   },
   {
+    "id": "23275e9f8e5195da",
+    "date": "2026-08-16",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "HP Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "3067777fb9ff321f",
+    "date": "2026-08-16",
+    "ticker": "CDW",
+    "name": "CDW Corporation Common Stock",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "CDW Corporation Common Stock entra en el Top 10 (puesto #8) con precio objetivo de 165.05 $ (+18.4% a 3 meses)."
+  },
+  {
+    "id": "0590771dd84d3227",
+    "date": "2026-08-14",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 505.00 $ a 545.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "4744327481c661d8",
+    "date": "2026-08-13",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 79.00 $ a 88.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "f499ddb7ceee3b44",
+    "date": "2026-08-11",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 284.00 $ a 304.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "ed134aa9878c8e2a",
+    "date": "2026-08-11",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 65.00 $ a 85.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "3670547b08c8f7a9",
+    "date": "2026-08-11",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Truist Securities sube la recomendacion de Hold a Buy. Precio objetivo: 95.00 $."
+  },
+  {
+    "id": "2f725a6288c1eea1",
+    "date": "2026-08-10",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 208.00 $ a 209.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "c3e6e4b917b4a8e7",
     "date": "2026-08-07",
     "ticker": "MU",
@@ -106,6 +178,69 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Citigroup baja su precio objetivo de 1400.00 $ a 1150.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d726d884ec570407",
+    "date": "2026-08-06",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 343.00 $ a 344.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "bdfd267fffb0b4da",
+    "date": "2026-08-06",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 289.00 $ a 321.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "36d6cef39cf749ae",
+    "date": "2026-08-06",
+    "ticker": "CDW",
+    "name": "CDW Corporation Common Stock",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 170.00 $ a 171.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "e26a6f7fc48bbe54",
+    "date": "2026-08-06",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 240.00 $ a 255.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "47d22549d13f2e25",
+    "date": "2026-08-06",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 201.00 $ a 239.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "628b4682d8e30b8a",
+    "date": "2026-08-06",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 200.00 $ a 220.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "6c4d75893f873b23",
+    "date": "2026-08-06",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 183.00 $ a 216.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "368f6340a80b1f3c",
@@ -117,6 +252,60 @@
     "description": "Resultados del 2026-08-05: BPA real 9.41 $ vs estimado 7.50 $ (sorpresa +25.4%)."
   },
   {
+    "id": "821d8c71e9b2b437",
+    "date": "2026-08-05",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 357.00 $ a 375.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a91da593ff730c10",
+    "date": "2026-08-05",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 303.00 $ a 318.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "d2b407e9f0e15af9",
+    "date": "2026-08-05",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 344.00 $ a 359.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "9ac4f58a9087efd5",
+    "date": "2026-08-05",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 300.00 $ a 330.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "3565bc45175b4d46",
+    "date": "2026-08-05",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Jefferies baja la recomendacion de Buy a Hold. Precio objetivo: 85.00 $."
+  },
+  {
+    "id": "86d2e7b8c1ebd432",
+    "date": "2026-08-05",
+    "ticker": "CDW",
+    "name": "CDW Corporation Common Stock",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-05: BPA real 2.91 $ vs estimado 2.80 $ (sorpresa +4.0%)."
+  },
+  {
     "id": "06e96903c0045c74",
     "date": "2026-08-04",
     "ticker": "MPC",
@@ -124,6 +313,168 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-04: BPA real 17.73 $ vs estimado 13.95 $ (sorpresa +27.1%)."
+  },
+  {
+    "id": "c387750f5ac7f096",
+    "date": "2026-08-04",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 289.00 $ a 300.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "380cac22dfac5e24",
+    "date": "2026-08-04",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 86.00 $ a 96.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "0e2fe53cb73807a6",
+    "date": "2026-08-03",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 338.00 $ a 350.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "7bce9575142f3927",
+    "date": "2026-08-03",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 82.00 $ a 90.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "9d10ecd95c1e7404",
+    "date": "2026-07-31",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 280.00 $ a 355.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "0aed356831fb79a0",
+    "date": "2026-07-31",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 292.00 $ a 356.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "68f93bdf6d52629c",
+    "date": "2026-07-31",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 279.00 $ a 323.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "70c69daf97088b01",
+    "date": "2026-07-31",
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 100.00 $ a 107.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "5abb86b387ffa72b",
+    "date": "2026-07-31",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 84.00 $ a 88.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "43cbe9346dbd1789",
+    "date": "2026-07-31",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 85.00 $ a 90.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "4216b9f6d0d2173e",
+    "date": "2026-07-31",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 90.00 $ a 95.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e5b6395ded6d7895",
+    "date": "2026-07-31",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 65.00 $ a 82.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "44ceb5aad4415e15",
+    "date": "2026-07-31",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 88.00 $ a 95.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "be536ac5716bd821",
+    "date": "2026-07-31",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 85.00 $ a 90.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "e3657f21a742eb06",
+    "date": "2026-07-31",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 90.00 $ a 95.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "1d70a2c2d351161d",
+    "date": "2026-07-31",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Benchmark sube su precio objetivo de 77.00 $ a 82.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "731abb121bd77b4b",
+    "date": "2026-07-31",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 87.00 $ a 93.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "62e9885c55244248",
+    "date": "2026-07-31",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 80.00 $ a 90.00 $ (mantiene Buy)."
   },
   {
     "id": "fa8129794ba9ce62",
@@ -153,6 +504,96 @@
     "description": "Resultados del 2026-07-29: BPA real 1.57 $ vs estimado 1.21 $ (sorpresa +29.9%)."
   },
   {
+    "id": "efdf755b2b90fa5c",
+    "date": "2026-07-27",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 212.00 $ a 235.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "6688b8d117bbea98",
+    "date": "2026-07-24",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 475.00 $ a 515.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "88b0ba279f340b3b",
+    "date": "2026-07-22",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 286.00 $ a 357.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "75ac913300d5e489",
+    "date": "2026-07-22",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 291.00 $ a 376.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d1013b71646877a8",
+    "date": "2026-07-22",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 207.00 $ a 235.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "40cc7d14ecedd356",
+    "date": "2026-07-21",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 292.00 $ a 338.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "e0c6fab9aa7f093b",
+    "date": "2026-07-21",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 315.00 $ a 357.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "cf9ebb210c09eb32",
+    "date": "2026-07-21",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 220.00 $ a 240.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "316cce20cf6147fa",
+    "date": "2026-07-16",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 80.00 $ a 87.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a2573b35972339d1",
+    "date": "2026-07-15",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 85.00 $ a 90.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "7e637e9b511d5b08",
     "date": "2026-07-14",
     "ticker": "MU",
@@ -162,6 +603,159 @@
     "description": "Keybanc sube su precio objetivo de 1600.00 $ a 1750.00 $ (mantiene Overweight)."
   },
   {
+    "id": "e86cab7a9c2ad4ac",
+    "date": "2026-07-14",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 259.00 $ a 302.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "99b8946fc83c7a59",
+    "date": "2026-07-14",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 257.00 $ a 303.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "8763003373ad3530",
+    "date": "2026-07-14",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 310.00 $ a 330.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "74953521fe8fd556",
+    "date": "2026-07-14",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 183.00 $ a 204.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "84914d3126867589",
+    "date": "2026-07-13",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "361708d8774e664b",
+    "date": "2026-07-13",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 300.00 $ a 340.00 $ (mantiene Strong Buy)."
+  },
+  {
+    "id": "793766c1df5d2168",
+    "date": "2026-07-13",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 245.00 $ a 300.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "98e57f25f9d49f00",
+    "date": "2026-07-13",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 300.00 $ a 335.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "75f84ad3faa1af90",
+    "date": "2026-07-13",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 270.00 $ a 289.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "fd43066e72c563d8",
+    "date": "2026-07-13",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Loop Capital baja la recomendacion de Buy a Hold. Precio objetivo: 82.00 $."
+  },
+  {
+    "id": "660092c913fee700",
+    "date": "2026-07-13",
+    "ticker": "CDW",
+    "name": "CDW Corporation Common Stock",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 123.00 $ a 145.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "e909443dd2bd2918",
+    "date": "2026-07-13",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 195.00 $ a 200.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e974f49d90273e5c",
+    "date": "2026-07-13",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 218.00 $ a 235.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "a1199991510fb329",
+    "date": "2026-07-09",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 191.00 $ a 207.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "a120c10171c19612",
+    "date": "2026-07-09",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 177.00 $ a 183.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "2cd9b6987d7808b5",
+    "date": "2026-07-08",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 450.00 $ a 500.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "3a28ca249b8779ca",
+    "date": "2026-07-01",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 261.00 $ a 279.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "7750edabd7715939",
     "date": "2026-06-29",
     "ticker": "MU",
@@ -169,6 +763,33 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Cantor Fitzgerald sube su precio objetivo de 1500.00 $ a 2000.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "69a18a6bad7727b6",
+    "date": "2026-06-29",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 276.00 $ a 292.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "ff3df05c7ba6fef1",
+    "date": "2026-06-29",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 320.00 $ a 315.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "29bd423d13bc1a4c",
+    "date": "2026-06-29",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 213.00 $ a 220.00 $ (mantiene Buy)."
   },
   {
     "id": "3936de77f2bd487f",
@@ -342,6 +963,24 @@
     "description": "B of A Securities sube su precio objetivo de 950.00 $ a 1500.00 $ (mantiene Buy)."
   },
   {
+    "id": "b40a82189f514529",
+    "date": "2026-06-23",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 448.00 $ a 477.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "0f35243808158363",
+    "date": "2026-06-23",
+    "ticker": "CDW",
+    "name": "CDW Corporation Common Stock",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Morgan Stanley sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 170.00 $."
+  },
+  {
     "id": "0914d2147061ba7f",
     "date": "2026-06-22",
     "ticker": "MU",
@@ -376,6 +1015,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wedbush sube su precio objetivo de 550.00 $ a 1300.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "68331de51236ccf5",
+    "date": "2026-06-18",
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 80.00 $ a 90.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "ee927d3e1947e0b1",
@@ -414,6 +1062,42 @@
     "description": "RBC Capital sube su precio objetivo de 525.00 $ a 1200.00 $ (mantiene Outperform)."
   },
   {
+    "id": "69783370b2684204",
+    "date": "2026-06-15",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 75.00 $ a 88.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "aaec5a63873f45d7",
+    "date": "2026-06-12",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 232.00 $ a 255.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "38a864771c7d75f4",
+    "date": "2026-06-12",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 233.00 $ a 265.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "a4c7d4487086faef",
+    "date": "2026-06-12",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 180.00 $ a 196.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "77775cd0180ca0ce",
     "date": "2026-06-11",
     "ticker": "MU",
@@ -430,6 +1114,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Goldman Sachs sube su precio objetivo de 400.00 $ a 900.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "1b38f77164e0b336",
+    "date": "2026-06-10",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 75.00 $ a 95.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "18831d0746929fd2",
+    "date": "2026-06-09",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 75.00 $ a 85.00 $ (mantiene Outperform)."
   },
   {
     "id": "b2e133ee3128262c",
@@ -450,6 +1152,15 @@
     "description": "Cantor Fitzgerald sube su precio objetivo de 700.00 $ a 1500.00 $ (mantiene Overweight)."
   },
   {
+    "id": "0b3b33fed4d817d3",
+    "date": "2026-06-05",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 85.00 $ a 90.00 $ (mantiene Buy)."
+  },
+  {
     "id": "3436be4b50c37f2c",
     "date": "2026-06-03",
     "ticker": "MU",
@@ -457,6 +1168,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 520.00 $ a 1050.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "bc4c7070bcf0e986",
+    "date": "2026-06-02",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 78.00 $ a 90.00 $ (mantiene Buy)."
   },
   {
     "id": "dd362cf3ab9dfd31",
@@ -468,6 +1188,42 @@
     "description": "Raymond James sube su precio objetivo de 530.00 $ a 1100.00 $ (mantiene Outperform)."
   },
   {
+    "id": "67603a793bee2861",
+    "date": "2026-06-01",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 230.00 $ a 500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b8ba5c534ec497cb",
+    "date": "2026-06-01",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 435.00 $ a 500.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "755dd9acf2b7448a",
+    "date": "2026-06-01",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 280.00 $ a 500.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "44942d7d9044a26e",
+    "date": "2026-06-01",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Morgan Stanley sube la recomendacion de Underweight a Equal-Weight. Precio objetivo: 448.00 $."
+  },
+  {
     "id": "cf6302caaedafe54",
     "date": "2026-05-29",
     "ticker": "MU",
@@ -475,6 +1231,213 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Susquehanna sube su precio objetivo de 600.00 $ a 1750.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "54bba2795a08d41c",
+    "date": "2026-05-29",
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 87.00 $ a 84.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "66589e5bdb49bedf",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 168.00 $ a 550.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "3da1fb8f2b748790",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 280.00 $ a 500.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "c7abcd7bf9909e71",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 280.00 $ a 500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "be9df734348d6c01",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 290.00 $ a 475.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "001884c94a7eb258",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 170.00 $ a 360.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "848ee2556e6f96d8",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 167.00 $ a 497.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "065fd24eba770b4b",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 270.00 $ a 505.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "f83def74174886dc",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 270.00 $ a 450.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "679f5a2a5668c77d",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Susquehanna sube la recomendacion de Neutral a Positive. Precio objetivo: 700.00 $."
+  },
+  {
+    "id": "701650d58e71dca1",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 350.00 $ a 435.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "27b4125d575ce447",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 182.00 $ a 500.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "db11c60eb83a83fe",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Loop Capital sube su precio objetivo de 150.00 $ a 550.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "431344a384c06a78",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 150.00 $ a 450.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "1cb20e1abde2345c",
+    "date": "2026-05-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 200.00 $ a 460.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "dfc602a324ebfe53",
+    "date": "2026-05-29",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 60.00 $ a 79.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "e6fc4d27d3aa12c2",
+    "date": "2026-05-29",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 66.00 $ a 81.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "b9ef40ee24372efc",
+    "date": "2026-05-29",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 76.00 $ a 84.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "5bb1cf45c03cdabc",
+    "date": "2026-05-29",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 60.00 $ a 65.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "38444b87a05168e2",
+    "date": "2026-05-29",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 65.00 $ a 85.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "0ded4365bccc35e4",
+    "date": "2026-05-29",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 70.00 $ a 75.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "986fdccbbf8e2024",
+    "date": "2026-05-29",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "UBS baja la recomendacion de Buy a Neutral. Precio objetivo: 86.00 $."
+  },
+  {
+    "id": "c1b3a47b6905b3c6",
+    "date": "2026-05-29",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 72.00 $ a 80.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "bd45f84ee5e85750",
@@ -513,6 +1476,33 @@
     "description": "Resultados del 2026-05-28: BPA real 1.28 $ vs estimado 1.23 $ (sorpresa +4.3%)."
   },
   {
+    "id": "4f44f60ae088b5d5",
+    "date": "2026-05-28",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 300.00 $ a 350.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "24d5142c96a8c012",
+    "date": "2026-05-28",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 83.00 $ a 89.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e392c23c882954c8",
+    "date": "2026-05-28",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 79.00 $ a 84.00 $ (mantiene Buy)."
+  },
+  {
     "id": "5e6fd25c7105c0c8",
     "date": "2026-05-27",
     "ticker": "MU",
@@ -531,6 +1521,51 @@
     "description": "Resultados del 2026-05-27: BPA real 0.86 $ vs estimado 0.72 $ (sorpresa +20.3%)."
   },
   {
+    "id": "a6d228162b1e0538",
+    "date": "2026-05-27",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 222.00 $ a 289.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "4556030bc8760ca5",
+    "date": "2026-05-27",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 224.00 $ a 284.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "6b85ec15bc96c11b",
+    "date": "2026-05-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Tigress Financial sube su precio objetivo de 360.00 $ a 425.00 $ (mantiene Strong Buy)."
+  },
+  {
+    "id": "b56e256a18a927b4",
+    "date": "2026-05-27",
+    "ticker": "CDW",
+    "name": "CDW Corporation Common Stock",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 130.00 $."
+  },
+  {
+    "id": "e027fa42d19c6e36",
+    "date": "2026-05-27",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Mizuho sube la recomendacion de Neutral a Outperform. Precio objetivo: 212.00 $."
+  },
+  {
     "id": "e12d4359aa4843d0",
     "date": "2026-05-26",
     "ticker": "MU",
@@ -540,6 +1575,150 @@
     "description": "UBS sube su precio objetivo de 535.00 $ a 1625.00 $ (mantiene Buy)."
   },
   {
+    "id": "62271a6b27ddeeee",
+    "date": "2026-05-22",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 180.00 $ a 270.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "5f7ebec1d073f6b1",
+    "date": "2026-05-21",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 110.00 $ a 170.00 $ (mantiene Underweight)."
+  },
+  {
+    "id": "2e857e9f28ebc7ba",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 275.00 $ a 280.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "6747a1536982204e",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 352.00 $ a 413.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "b2eecf444388774c",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 287.00 $ a 307.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "fa7814eb17cca690",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 250.00 $ a 270.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "97f8a22e09632f22",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 300.00 $ a 330.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "f896f77111687614",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 250.00 $ a 282.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e2702242f09cb8b8",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 265.00 $ a 280.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "b2a38c7c17e96e80",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 275.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "486d3477e7158b8b",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 285.00 $ a 288.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "4cb650e8c0270bba",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 300.00 $ a 310.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1cdda9129650df3a",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Benchmark sube su precio objetivo de 250.00 $ a 335.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "4a24720d912c8eee",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 320.00 $ a 350.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a2a9f90857ed69cb",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 300.00 $ a 500.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "1206cb72ae472215",
+    "date": "2026-05-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 240.00 $ a 270.00 $ (mantiene Buy)."
+  },
+  {
     "id": "d49762714a174a96",
     "date": "2026-05-20",
     "ticker": "NVDA",
@@ -547,6 +1726,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-05-20: BPA real 1.87 $ vs estimado 1.77 $ (sorpresa +5.5%)."
+  },
+  {
+    "id": "d9f4b82f1d68d38d",
+    "date": "2026-05-20",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 192.00 $ a 207.00 $ (mantiene Neutral)."
   },
   {
     "id": "acb5b776dc275e90",
@@ -574,5 +1762,77 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Mizuho sube su precio objetivo de 740.00 $ a 800.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "453d12c33465d569",
+    "date": "2026-05-19",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "HSBC sube su precio objetivo de 295.00 $ a 325.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f5ea368bbe499a8d",
+    "date": "2026-05-18",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 246.00 $ a 280.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e155d1e887233591",
+    "date": "2026-05-18",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a0fadf38df2724dc",
+    "date": "2026-05-18",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 260.00 $ a 285.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "9f70b617b3b9fd05",
+    "date": "2026-05-18",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 275.00 $ a 300.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1fb7ee5333d91cd0",
+    "date": "2026-05-18",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Canaccord Genuity baja su precio objetivo de 100.00 $ a 82.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "02fc9ba1da2df733",
+    "date": "2026-05-18",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B of A Securities baja su precio objetivo de 100.00 $ a 80.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "bd0fea91773e2dfe",
+    "date": "2026-05-18",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 67.00 $ a 64.00 $ (mantiene Underweight)."
   }
 ]
