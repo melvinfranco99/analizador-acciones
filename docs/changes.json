@@ -1,5 +1,23 @@
 [
   {
+    "id": "c9c6e3f7bb563cfc",
+    "date": "2026-08-17",
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Stanley Black & Decker, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "a7c77b1d267c6041",
+    "date": "2026-08-17",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "DexCom, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 114.53 $ (+27.6% a 3 meses)."
+  },
+  {
     "id": "1a0219f05df38afb",
     "date": "2026-08-16",
     "ticker": "MU",
@@ -2032,68 +2050,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "HSBC sube su precio objetivo de 295.00 $ a 325.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "f5ea368bbe499a8d",
-    "date": "2026-05-18",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "B of A Securities sube su precio objetivo de 246.00 $ a 280.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "e155d1e887233591",
-    "date": "2026-05-18",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "DA Davidson sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "a0fadf38df2724dc",
-    "date": "2026-05-18",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 260.00 $ a 285.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "9f70b617b3b9fd05",
-    "date": "2026-05-18",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Keybanc sube su precio objetivo de 275.00 $ a 300.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "1fb7ee5333d91cd0",
-    "date": "2026-05-18",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Canaccord Genuity baja su precio objetivo de 100.00 $ a 82.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "02fc9ba1da2df733",
-    "date": "2026-05-18",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "B of A Securities baja su precio objetivo de 100.00 $ a 80.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "bd0fea91773e2dfe",
-    "date": "2026-05-18",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Barclays baja su precio objetivo de 67.00 $ a 64.00 $ (mantiene Underweight)."
   }
 ]
