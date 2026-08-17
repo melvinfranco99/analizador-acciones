@@ -36,6 +36,24 @@
     "description": "Stanley Black & Decker, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 119.07 $ (+16.7% a 3 meses)."
   },
   {
+    "id": "8b2612f71646a1b0",
+    "date": "2026-08-17",
+    "ticker": "SWK",
+    "name": "Stanley Black & Decker, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Stanley Black & Decker, Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "fc156a03720f3f5a",
+    "date": "2026-08-17",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Agilent Technologies, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 172.16 $ (+15.9% a 3 meses)."
+  },
+  {
     "id": "1a0219f05df38afb",
     "date": "2026-08-16",
     "ticker": "MU",
