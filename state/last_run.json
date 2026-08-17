@@ -2,71 +2,71 @@
   "MU": {
     "rank": 1,
     "name": "Micron Technology, Inc.",
-    "target_price": 1236.82,
-    "upside_pct": 27.3,
+    "target_price": 1259.96,
+    "upside_pct": 23.8,
     "total_score": 96.5
   },
-  "MPC": {
+  "APH": {
     "rank": 2,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 432.52,
-    "upside_pct": 21.7,
-    "total_score": 89.3
+    "name": "Amphenol Corporation",
+    "target_price": 201.93,
+    "upside_pct": 18.4,
+    "total_score": 91.3
+  },
+  "DXCM": {
+    "rank": 3,
+    "name": "DexCom, Inc.",
+    "target_price": 107.77,
+    "upside_pct": 21.8,
+    "total_score": 87.6
   },
   "VLO": {
-    "rank": 3,
+    "rank": 4,
     "name": "Valero Energy Corporation",
-    "target_price": 411.36,
-    "upside_pct": 20.4,
+    "target_price": 416.01,
+    "upside_pct": 19.8,
     "total_score": 86.9
   },
-  "DELL": {
-    "rank": 4,
-    "name": "Dell Technologies Inc.",
-    "target_price": 662.59,
-    "upside_pct": 35.0,
-    "total_score": 83.5
+  "BKNG": {
+    "rank": 5,
+    "name": "Booking Holdings Inc.",
+    "target_price": 239.37,
+    "upside_pct": 16.7,
+    "total_score": 84.8
+  },
+  "MPC": {
+    "rank": 6,
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 437.55,
+    "upside_pct": 21.1,
+    "total_score": 83.8
   },
   "A": {
-    "rank": 5,
+    "rank": 7,
     "name": "Agilent Technologies, Inc.",
-    "target_price": 172.16,
-    "upside_pct": 15.9,
+    "target_price": 173.68,
+    "upside_pct": 16.7,
     "total_score": 82.9
   },
   "BBY": {
-    "rank": 6,
+    "rank": 8,
     "name": "Best Buy Co., Inc.",
-    "target_price": 108.88,
-    "upside_pct": 26.0,
+    "target_price": 108.78,
+    "upside_pct": 27.1,
     "total_score": 82.6
   },
   "NVDA": {
-    "rank": 7,
+    "rank": 9,
     "name": "NVIDIA Corporation",
-    "target_price": 263.99,
-    "upside_pct": 17.2,
+    "target_price": 264.29,
+    "upside_pct": 17.1,
     "total_score": 82.4
   },
-  "CDW": {
-    "rank": 8,
-    "name": "CDW Corporation Common Stock",
-    "target_price": 165.05,
-    "upside_pct": 18.4,
-    "total_score": 82.2
-  },
   "PSX": {
-    "rank": 9,
-    "name": "Phillips 66",
-    "target_price": 277.06,
-    "upside_pct": 18.6,
-    "total_score": 81.8
-  },
-  "DXCM": {
     "rank": 10,
-    "name": "DexCom, Inc.",
-    "target_price": 114.53,
-    "upside_pct": 27.6,
-    "total_score": 79.8
+    "name": "Phillips 66",
+    "target_price": 287.93,
+    "upside_pct": 20.3,
+    "total_score": 81.8
   }
 }

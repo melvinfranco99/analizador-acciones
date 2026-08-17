@@ -54,6 +54,51 @@
     "description": "Agilent Technologies, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 172.16 $ (+15.9% a 3 meses)."
   },
   {
+    "id": "3c91f42211e7a952",
+    "date": "2026-08-17",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "39d1393263278f2e",
+    "date": "2026-08-17",
+    "ticker": "CDW",
+    "name": "CDW Corporation Common Stock",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "CDW Corporation Common Stock sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "e492c6e03e25db4b",
+    "date": "2026-08-17",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #2) con precio objetivo de 201.93 $ (+18.4% a 3 meses)."
+  },
+  {
+    "id": "dfe63c08692c955f",
+    "date": "2026-08-17",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 114.53 $ a 107.77 $ (-5.9%)."
+  },
+  {
+    "id": "7007e8a1edaf8153",
+    "date": "2026-08-17",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Booking Holdings Inc. entra en el Top 10 (puesto #5) con precio objetivo de 239.37 $ (+16.7% a 3 meses)."
+  },
+  {
     "id": "1a0219f05df38afb",
     "date": "2026-08-16",
     "ticker": "MU",
@@ -297,6 +342,15 @@
     "description": "Piper Sandler sube su precio objetivo de 208.00 $ a 209.00 $ (mantiene Neutral)."
   },
   {
+    "id": "0a4d3fe8de82288f",
+    "date": "2026-08-10",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 210.00 $ a 245.00 $ (mantiene Buy)."
+  },
+  {
     "id": "c3e6e4b917b4a8e7",
     "date": "2026-08-07",
     "ticker": "MU",
@@ -432,6 +486,96 @@
     "description": "Resultados del 2026-08-05: BPA real 2.91 $ vs estimado 2.80 $ (sorpresa +4.0%)."
   },
   {
+    "id": "c8f5f256e996cdf4",
+    "date": "2026-08-05",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 266.00 $ a 274.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "c267cfc6c051165d",
+    "date": "2026-08-05",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Benchmark sube su precio objetivo de 220.00 $ a 250.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "deecb9dc0b99cb12",
+    "date": "2026-08-05",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 225.00 $ a 236.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3a3b48c7b88b9bde",
+    "date": "2026-08-05",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 215.00 $ a 240.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e6936fdf3060d6ef",
+    "date": "2026-08-05",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B. Riley Securities sube su precio objetivo de 264.00 $ a 274.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "0194132d5338f3ed",
+    "date": "2026-08-05",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 195.00 $ a 215.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "252827ed2ca0c041",
+    "date": "2026-08-05",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 214.00 $ a 220.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "600f82393c0a6fe8",
+    "date": "2026-08-05",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 211.00 $ a 247.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "3e1bb8eec4f40fef",
+    "date": "2026-08-05",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 175.00 $ a 220.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "7340d6d2287ceab8",
+    "date": "2026-08-05",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 240.00 $ a 250.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "06e96903c0045c74",
     "date": "2026-08-04",
     "ticker": "MPC",
@@ -457,6 +601,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Argus Research sube su precio objetivo de 86.00 $ a 96.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "96db54d8370193d8",
+    "date": "2026-08-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-04: BPA real 2.54 $ vs estimado 2.43 $ (sorpresa +4.5%)."
   },
   {
     "id": "0e2fe53cb73807a6",
@@ -621,6 +774,51 @@
     "description": "Resultados del 2026-07-30: BPA real 0.70 $ vs estimado 0.61 $ (sorpresa +15.1%)."
   },
   {
+    "id": "1b1ed34b5d7ee5f5",
+    "date": "2026-07-30",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 249.00 $ a 266.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "84b494073ac04c98",
+    "date": "2026-07-30",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 185.00 $ a 197.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "681af056f0cee1b8",
+    "date": "2026-07-30",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BNP Paribas sube su precio objetivo de 200.00 $ a 215.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "d59cff1c88d70299",
+    "date": "2026-07-30",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 195.00 $ a 210.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "57cbeaa6ebf31fe1",
+    "date": "2026-07-30",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 200.00 $ a 215.00 $ (mantiene Buy)."
+  },
+  {
     "id": "6d2aeae14ab5ccb6",
     "date": "2026-07-29",
     "ticker": "SWK",
@@ -628,6 +826,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-07-29: BPA real 1.57 $ vs estimado 1.21 $ (sorpresa +29.9%)."
+  },
+  {
+    "id": "5e908c4deef05f0d",
+    "date": "2026-07-29",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-29: BPA real 1.35 $ vs estimado 1.19 $ (sorpresa +13.2%)."
   },
   {
     "id": "efdf755b2b90fa5c",
@@ -765,6 +972,15 @@
     "description": "Citigroup sube su precio objetivo de 183.00 $ a 204.00 $ (mantiene Neutral)."
   },
   {
+    "id": "d814971e786d2482",
+    "date": "2026-07-14",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 180.00 $ a 190.00 $ (mantiene Hold)."
+  },
+  {
     "id": "84914d3126867589",
     "date": "2026-07-13",
     "ticker": "VLO",
@@ -846,6 +1062,33 @@
     "description": "Raymond James sube su precio objetivo de 218.00 $ a 235.00 $ (mantiene Outperform)."
   },
   {
+    "id": "af37a154e5c54e61",
+    "date": "2026-07-13",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 135.00 $ a 175.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "914b9479e9c86c3a",
+    "date": "2026-07-13",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 180.00 $ a 195.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "21919a25656fc3d0",
+    "date": "2026-07-13",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 198.00 $ a 200.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "a1199991510fb329",
     "date": "2026-07-09",
     "ticker": "PSX",
@@ -862,6 +1105,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 177.00 $ a 183.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "f5be575f1b8bd9c1",
+    "date": "2026-07-09",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 178.00 $ a 185.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "4710a488b2a1bcd7",
+    "date": "2026-07-09",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 180.00 $ a 185.00 $ (mantiene Buy)."
   },
   {
     "id": "2cd9b6987d7808b5",
@@ -889,6 +1150,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 261.00 $ a 279.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "dc813f8f87c7ccd1",
+    "date": "2026-06-30",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 215.00 $ a 214.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "7750edabd7715939",
