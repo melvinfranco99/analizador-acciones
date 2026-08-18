@@ -2,71 +2,71 @@
   "MU": {
     "rank": 1,
     "name": "Micron Technology, Inc.",
-    "target_price": 1259.96,
-    "upside_pct": 23.8,
+    "target_price": 1256.86,
+    "upside_pct": 24.2,
     "total_score": 96.5
   },
   "APH": {
     "rank": 2,
     "name": "Amphenol Corporation",
-    "target_price": 201.93,
-    "upside_pct": 18.4,
+    "target_price": 202.4,
+    "upside_pct": 18.5,
     "total_score": 91.3
   },
-  "DXCM": {
-    "rank": 3,
-    "name": "DexCom, Inc.",
-    "target_price": 107.77,
-    "upside_pct": 21.8,
-    "total_score": 87.6
-  },
   "VLO": {
-    "rank": 4,
+    "rank": 3,
     "name": "Valero Energy Corporation",
-    "target_price": 416.01,
+    "target_price": 416.04,
     "upside_pct": 19.8,
     "total_score": 86.9
+  },
+  "DXCM": {
+    "rank": 4,
+    "name": "DexCom, Inc.",
+    "target_price": 108.3,
+    "upside_pct": 22.0,
+    "total_score": 85.4
   },
   "BKNG": {
     "rank": 5,
     "name": "Booking Holdings Inc.",
-    "target_price": 239.37,
-    "upside_pct": 16.7,
+    "target_price": 238.73,
+    "upside_pct": 16.6,
     "total_score": 84.8
   },
   "MPC": {
     "rank": 6,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 437.55,
-    "upside_pct": 21.1,
+    "target_price": 431.58,
+    "upside_pct": 20.5,
     "total_score": 83.8
   },
   "A": {
     "rank": 7,
     "name": "Agilent Technologies, Inc.",
-    "target_price": 173.68,
-    "upside_pct": 16.7,
+    "target_price": 173.06,
+    "upside_pct": 16.6,
     "total_score": 82.9
   },
   "BBY": {
     "rank": 8,
     "name": "Best Buy Co., Inc.",
-    "target_price": 108.78,
-    "upside_pct": 27.1,
+    "target_price": 108.44,
+    "upside_pct": 26.9,
     "total_score": 82.6
   },
   "NVDA": {
     "rank": 9,
     "name": "NVIDIA Corporation",
-    "target_price": 264.29,
-    "upside_pct": 17.1,
+    "target_price": 263.92,
+    "upside_pct": 17.3,
     "total_score": 82.4
   },
   "PSX": {
     "rank": 10,
     "name": "Phillips 66",
-    "target_price": 287.93,
-    "upside_pct": 20.3,
+    "target_price": 285.67,
+    "upside_pct": 18.8,
     "total_score": 81.8
   }
 }

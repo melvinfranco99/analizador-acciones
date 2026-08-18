@@ -2320,41 +2320,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Goldman Sachs sube su precio objetivo de 192.00 $ a 207.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "acb5b776dc275e90",
-    "date": "2026-05-19",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 425.00 $ a 840.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "4c57776f41514fd0",
-    "date": "2026-05-19",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Melius Research sube su precio objetivo de 700.00 $ a 1100.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "994f51d654d713c1",
-    "date": "2026-05-19",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 740.00 $ a 800.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "453d12c33465d569",
-    "date": "2026-05-19",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "HSBC sube su precio objetivo de 295.00 $ a 325.00 $ (mantiene Buy)."
   }
 ]
