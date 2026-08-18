@@ -81,6 +81,78 @@
     "description": "CDW Corporation entra en el Top 10 (puesto #7) con precio objetivo de 165.05 $ (+18.4% a 3 meses)."
   },
   {
+    "id": "9ee75a2260c47203",
+    "date": "2026-08-18",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "5a27b8de7632c951",
+    "date": "2026-08-18",
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "CDW Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "5712da654c9f06c2",
+    "date": "2026-08-18",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "DexCom, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "9a2481c803a1c151",
+    "date": "2026-08-18",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "HP Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "aa6550fd03b77780",
+    "date": "2026-08-18",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Booking Holdings Inc. entra en el Top 10 (puesto #1) con precio objetivo de 247.89 $ (+17.9% a 3 meses)."
+  },
+  {
+    "id": "486954b727807d3a",
+    "date": "2026-08-18",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Western Digital Corporation entra en el Top 10 (puesto #3) con precio objetivo de 580.91 $ (+16.9% a 3 meses)."
+  },
+  {
+    "id": "92c65c6fb3d47d3e",
+    "date": "2026-08-18",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Agilent Technologies, Inc. entra en el Top 10 (puesto #4) con precio objetivo de 173.61 $ (+16.6% a 3 meses)."
+  },
+  {
+    "id": "3636eb9d0d42b1cf",
+    "date": "2026-08-18",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #10) con precio objetivo de 446.63 $ (+21.0% a 3 meses)."
+  },
+  {
     "id": "c9c6e3f7bb563cfc",
     "date": "2026-08-17",
     "ticker": "SWK",
@@ -441,6 +513,15 @@
     "description": "Citigroup baja su precio objetivo de 1400.00 $ a 1150.00 $ (mantiene Buy)."
   },
   {
+    "id": "fb803d07f69a5ce5",
+    "date": "2026-08-07",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 800.00 $ a 740.00 $ (mantiene Buy)."
+  },
+  {
     "id": "d726d884ec570407",
     "date": "2026-08-06",
     "ticker": "MPC",
@@ -502,6 +583,33 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 183.00 $ a 216.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "3aec46ff2bf4db1b",
+    "date": "2026-08-06",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 500.00 $ a 540.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3be29055a0de4d8a",
+    "date": "2026-08-06",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 560.00 $ a 525.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "1449fd77ebf0687f",
+    "date": "2026-08-06",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Rosenblatt baja su precio objetivo de 900.00 $ a 800.00 $ (mantiene Buy)."
   },
   {
     "id": "368f6340a80b1f3c",
@@ -657,6 +765,78 @@
     "description": "BMO Capital sube su precio objetivo de 240.00 $ a 250.00 $ (mantiene Outperform)."
   },
   {
+    "id": "87d58203dff1c8fa",
+    "date": "2026-08-05",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 400.00 $ a 450.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "7f86e615a63d645a",
+    "date": "2026-08-05",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 306.00 $ a 396.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "1e6c442fbc11bef8",
+    "date": "2026-08-05",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 296.00 $ a 355.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "ac31702b1d634d21",
+    "date": "2026-08-05",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BNP Paribas sube su precio objetivo de 370.00 $ a 455.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "fd7469471a946b7c",
+    "date": "2026-08-05",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 305.00 $ a 430.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "b20fad7bd38b8015",
+    "date": "2026-08-05",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 346.00 $ a 410.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "d2f3f047c31da97e",
+    "date": "2026-08-05",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 345.00 $ a 410.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e184c91a393c2338",
+    "date": "2026-08-05",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-05: BPA real 3.56 $ vs estimado 3.30 $ (sorpresa +7.9%)."
+  },
+  {
     "id": "06e96903c0045c74",
     "date": "2026-08-04",
     "ticker": "MPC",
@@ -691,6 +871,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-04: BPA real 2.54 $ vs estimado 2.43 $ (sorpresa +4.5%)."
+  },
+  {
+    "id": "820c714ad94776df",
+    "date": "2026-08-04",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-04: BPA real 6.35 $ vs estimado 4.38 $ (sorpresa +45.1%)."
   },
   {
     "id": "0e2fe53cb73807a6",
@@ -1170,6 +1359,33 @@
     "description": "Barclays sube su precio objetivo de 198.00 $ a 200.00 $ (mantiene Overweight)."
   },
   {
+    "id": "ca21e75a4f532832",
+    "date": "2026-07-13",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 685.00 $ a 800.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "117620fae412f264",
+    "date": "2026-07-13",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 284.00 $ a 306.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "e8d65be4a94e1ce7",
+    "date": "2026-07-10",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 575.00 $ a 730.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "a1199991510fb329",
     "date": "2026-07-09",
     "ticker": "PSX",
@@ -1215,6 +1431,15 @@
     "description": "Evercore ISI Group sube su precio objetivo de 450.00 $ a 500.00 $ (mantiene Outperform)."
   },
   {
+    "id": "0d4ad4e63346dfd4",
+    "date": "2026-07-08",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 360.00 $ a 500.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "f29e0819b4f5f5aa",
     "date": "2026-07-06",
     "ticker": "A",
@@ -1224,6 +1449,15 @@
     "description": "Evercore ISI Group sube su precio objetivo de 144.00 $ a 148.00 $ (mantiene Outperform)."
   },
   {
+    "id": "6f0a5e9065d33fee",
+    "date": "2026-07-02",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 267.00 $ a 296.00 $ (mantiene Hold)."
+  },
+  {
     "id": "3a28ca249b8779ca",
     "date": "2026-07-01",
     "ticker": "VLO",
@@ -1231,6 +1465,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 261.00 $ a 279.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "2c8520fbf6e0a84a",
+    "date": "2026-07-01",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 610.00 $ a 732.00 $ (mantiene Buy)."
   },
   {
     "id": "dc813f8f87c7ccd1",
@@ -1276,6 +1519,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "TD Cowen sube su precio objetivo de 213.00 $ a 220.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "dd0214f140bd2a0f",
+    "date": "2026-06-29",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 660.00 $ a 900.00 $ (mantiene Overweight)."
   },
   {
     "id": "3936de77f2bd487f",
@@ -1476,6 +1728,15 @@
     "description": "Morgan Stanley sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 170.00 $."
   },
   {
+    "id": "e4d9006fad981ece",
+    "date": "2026-06-23",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 345.00 $ a 346.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "0914d2147061ba7f",
     "date": "2026-06-22",
     "ticker": "MU",
@@ -1566,6 +1827,15 @@
     "description": "Piper Sandler sube su precio objetivo de 75.00 $ a 88.00 $ (mantiene Overweight)."
   },
   {
+    "id": "8f9569a92e05510d",
+    "date": "2026-06-15",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 488.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "aaec5a63873f45d7",
     "date": "2026-06-12",
     "ticker": "VLO",
@@ -1591,6 +1861,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 180.00 $ a 196.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "2145e9782ed34fdf",
+    "date": "2026-06-12",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 530.00 $ a 650.00 $ (mantiene Overweight)."
   },
   {
     "id": "77775cd0180ca0ce",
@@ -1647,6 +1926,15 @@
     "description": "Cantor Fitzgerald sube su precio objetivo de 700.00 $ a 1500.00 $ (mantiene Overweight)."
   },
   {
+    "id": "01fb70c26447e026",
+    "date": "2026-06-08",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 550.00 $ a 685.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "0b3b33fed4d817d3",
     "date": "2026-06-05",
     "ticker": "DXCM",
@@ -1701,6 +1989,15 @@
     "description": "Goldman Sachs sube su precio objetivo de 16.00 $ a 19.00 $ (mantiene Sell)."
   },
   {
+    "id": "310823c6bb816aef",
+    "date": "2026-06-02",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 500.00 $ a 685.00 $ (mantiene Buy)."
+  },
+  {
     "id": "dd362cf3ab9dfd31",
     "date": "2026-06-01",
     "ticker": "MU",
@@ -1744,6 +2041,15 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Morgan Stanley sube la recomendacion de Underweight a Equal-Weight. Precio objetivo: 448.00 $."
+  },
+  {
+    "id": "de17b6d63ebd50e0",
+    "date": "2026-06-01",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 500.00 $ a 575.00 $ (mantiene Overweight)."
   },
   {
     "id": "cf6302caaedafe54",
@@ -2214,6 +2520,15 @@
     "description": "Resultados del 2026-05-27: BPA real 1.49 $ vs estimado 1.41 $ (sorpresa +5.8%)."
   },
   {
+    "id": "1f6543244f2f733a",
+    "date": "2026-05-27",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 450.00 $ a 620.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "e12d4359aa4843d0",
     "date": "2026-05-26",
     "ticker": "MU",
@@ -2230,6 +2545,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Baird sube su precio objetivo de 155.00 $ a 156.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "7c1387181f96c377",
+    "date": "2026-05-26",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 500.00 $ a 575.00 $ (mantiene Outperform)."
   },
   {
     "id": "62271a6b27ddeeee",
