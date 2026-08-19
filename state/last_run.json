@@ -1,72 +1,72 @@
 {
-  "BKNG": {
+  "MU": {
     "rank": 1,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1256.86,
+    "upside_pct": 24.2,
+    "total_score": 96.5
+  },
+  "APH": {
+    "rank": 2,
+    "name": "Amphenol Corporation",
+    "target_price": 202.4,
+    "upside_pct": 18.5,
+    "total_score": 89.9
+  },
+  "VLO": {
+    "rank": 3,
+    "name": "Valero Energy Corporation",
+    "target_price": 416.04,
+    "upside_pct": 19.8,
+    "total_score": 86.8
+  },
+  "DXCM": {
+    "rank": 4,
+    "name": "DexCom, Inc.",
+    "target_price": 108.3,
+    "upside_pct": 22.0,
+    "total_score": 85.4
+  },
+  "BKNG": {
+    "rank": 5,
     "name": "Booking Holdings Inc.",
     "target_price": 244.31,
     "upside_pct": 17.3,
     "total_score": 83.9
   },
   "MPC": {
-    "rank": 2,
+    "rank": 6,
     "name": "Marathon Petroleum Corporation",
     "target_price": 442.46,
     "upside_pct": 20.8,
     "total_score": 83.8
   },
   "WDC": {
-    "rank": 3,
+    "rank": 7,
     "name": "Western Digital Corporation",
     "target_price": 580.54,
     "upside_pct": 17.0,
     "total_score": 83.0
   },
   "A": {
-    "rank": 4,
+    "rank": 8,
     "name": "Agilent Technologies, Inc.",
     "target_price": 172.68,
     "upside_pct": 16.3,
     "total_score": 82.9
   },
+  "BBY": {
+    "rank": 9,
+    "name": "Best Buy Co., Inc.",
+    "target_price": 107.38,
+    "upside_pct": 25.7,
+    "total_score": 82.6
+  },
   "NVDA": {
-    "rank": 5,
+    "rank": 10,
     "name": "NVIDIA Corporation",
     "target_price": 261.28,
     "upside_pct": 18.9,
     "total_score": 82.4
-  },
-  "PSX": {
-    "rank": 6,
-    "name": "Phillips 66",
-    "target_price": 287.49,
-    "upside_pct": 18.1,
-    "total_score": 81.8
-  },
-  "MU": {
-    "rank": 7,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1221.37,
-    "upside_pct": 29.8,
-    "total_score": 81.8
-  },
-  "DXCM": {
-    "rank": 8,
-    "name": "DexCom, Inc.",
-    "target_price": 106.47,
-    "upside_pct": 18.8,
-    "total_score": 81.3
-  },
-  "VLO": {
-    "rank": 9,
-    "name": "Valero Energy Corporation",
-    "target_price": 414.06,
-    "upside_pct": 18.3,
-    "total_score": 81.3
-  },
-  "BBY": {
-    "rank": 10,
-    "name": "Best Buy Co., Inc.",
-    "target_price": 113.14,
-    "upside_pct": 29.6,
-    "total_score": 80.9
   }
 }

@@ -18,6 +18,33 @@
     "description": "DexCom, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 106.47 $ (+18.8% a 3 meses)."
   },
   {
+    "id": "7882a6f3e454fbf6",
+    "date": "2026-08-19",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Phillips 66 sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "ae9ba7958b3383de",
+    "date": "2026-08-19",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #2) con precio objetivo de 202.40 $ (+18.5% a 3 meses)."
+  },
+  {
+    "id": "56819c1c72f2314a",
+    "date": "2026-08-19",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 113.14 $ a 107.38 $ (-5.1%)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
