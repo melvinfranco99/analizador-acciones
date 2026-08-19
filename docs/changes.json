@@ -1,5 +1,23 @@
 [
   {
+    "id": "3b93195006e4315d",
+    "date": "2026-08-19",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Zebra Technologies Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "1495897e8efb760d",
+    "date": "2026-08-19",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "DexCom, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 106.47 $ (+18.8% a 3 meses)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
@@ -2707,23 +2725,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 16.00 $ a 17.00 $ (mantiene Underweight)."
-  },
-  {
-    "id": "d49762714a174a96",
-    "date": "2026-05-20",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-05-20: BPA real 1.87 $ vs estimado 1.77 $ (sorpresa +5.5%)."
-  },
-  {
-    "id": "d9f4b82f1d68d38d",
-    "date": "2026-05-20",
-    "ticker": "PSX",
-    "name": "Phillips 66",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Goldman Sachs sube su precio objetivo de 192.00 $ a 207.00 $ (mantiene Neutral)."
   }
 ]
