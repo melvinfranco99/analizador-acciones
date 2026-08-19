@@ -1,72 +1,72 @@
 {
-  "MPC": {
+  "BKNG": {
     "rank": 1,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 442.46,
-    "upside_pct": 20.8,
-    "total_score": 83.8
+    "name": "Booking Holdings Inc.",
+    "target_price": 257.11,
+    "upside_pct": 19.7,
+    "total_score": 90.7
   },
-  "WDC": {
+  "INCY": {
     "rank": 2,
-    "name": "Western Digital Corporation",
-    "target_price": 580.54,
-    "upside_pct": 17.0,
-    "total_score": 83.0
+    "name": "Incyte Corporation",
+    "target_price": 150.24,
+    "upside_pct": 17.1,
+    "total_score": 88.0
+  },
+  "BBY": {
+    "rank": 3,
+    "name": "Best Buy Co., Inc.",
+    "target_price": 112.48,
+    "upside_pct": 26.2,
+    "total_score": 87.1
+  },
+  "MPC": {
+    "rank": 4,
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 428.77,
+    "upside_pct": 18.8,
+    "total_score": 84.5
   },
   "NVDA": {
-    "rank": 3,
+    "rank": 5,
     "name": "NVIDIA Corporation",
-    "target_price": 261.28,
+    "target_price": 261.23,
     "upside_pct": 18.9,
     "total_score": 82.4
   },
-  "PSX": {
-    "rank": 4,
-    "name": "Phillips 66",
-    "target_price": 287.49,
-    "upside_pct": 18.1,
-    "total_score": 81.8
-  },
-  "MU": {
-    "rank": 5,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1221.37,
-    "upside_pct": 29.8,
-    "total_score": 81.8
-  },
-  "DXCM": {
+  "CDW": {
     "rank": 6,
-    "name": "DexCom, Inc.",
-    "target_price": 106.47,
-    "upside_pct": 18.8,
-    "total_score": 81.3
+    "name": "CDW Corporation",
+    "target_price": 160.87,
+    "upside_pct": 17.4,
+    "total_score": 82.2
   },
   "VLO": {
     "rank": 7,
     "name": "Valero Energy Corporation",
-    "target_price": 414.06,
-    "upside_pct": 18.3,
-    "total_score": 81.3
+    "target_price": 400.32,
+    "upside_pct": 16.2,
+    "total_score": 82.0
   },
-  "BBY": {
+  "MU": {
     "rank": 8,
-    "name": "Best Buy Co., Inc.",
-    "target_price": 110.3,
-    "upside_pct": 26.4,
-    "total_score": 80.9
+    "name": "Micron Technology, Inc.",
+    "target_price": 1215.9,
+    "upside_pct": 30.8,
+    "total_score": 81.8
   },
-  "ZBRA": {
+  "HPE": {
     "rank": 9,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 455.26,
-    "upside_pct": 24.2,
-    "total_score": 80.5
+    "name": "Hewlett Packard Enterprise Company",
+    "target_price": 69.49,
+    "upside_pct": 31.3,
+    "total_score": 81.1
   },
-  "DELL": {
+  "A": {
     "rank": 10,
-    "name": "Dell Technologies Inc.",
-    "target_price": 632.68,
-    "upside_pct": 35.0,
-    "total_score": 80.1
+    "name": "Agilent Technologies, Inc.",
+    "target_price": 186.89,
+    "upside_pct": 20.4,
+    "total_score": 80.8
   }
 }

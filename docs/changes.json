@@ -99,6 +99,96 @@
     "description": "Dell Technologies Inc. entra en el Top 10 (puesto #10) con precio objetivo de 632.68 $ (+35.0% a 3 meses)."
   },
   {
+    "id": "115e505eca9d89d4",
+    "date": "2026-08-19",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Western Digital Corporation sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "4025b8e5c554fc3d",
+    "date": "2026-08-19",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Phillips 66 sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "89621483933da739",
+    "date": "2026-08-19",
+    "ticker": "DXCM",
+    "name": "DexCom, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "DexCom, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "ef467a9b638cfc28",
+    "date": "2026-08-19",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Zebra Technologies Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "91e309fd23fa26b1",
+    "date": "2026-08-19",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "956e524f78ccba44",
+    "date": "2026-08-19",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Booking Holdings Inc. entra en el Top 10 (puesto #1) con precio objetivo de 257.11 $ (+19.7% a 3 meses)."
+  },
+  {
+    "id": "5d66373dabbcc8f5",
+    "date": "2026-08-19",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Incyte Corporation entra en el Top 10 (puesto #2) con precio objetivo de 150.24 $ (+17.1% a 3 meses)."
+  },
+  {
+    "id": "bbc347c3f574852b",
+    "date": "2026-08-19",
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "CDW Corporation entra en el Top 10 (puesto #6) con precio objetivo de 160.87 $ (+17.4% a 3 meses)."
+  },
+  {
+    "id": "57fc4d3a9c362e60",
+    "date": "2026-08-19",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Hewlett Packard Enterprise Company entra en el Top 10 (puesto #9) con precio objetivo de 69.49 $ (+31.3% a 3 meses)."
+  },
+  {
+    "id": "9172a0690b4b8220",
+    "date": "2026-08-19",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Agilent Technologies, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 186.89 $ (+20.4% a 3 meses)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
@@ -351,6 +441,15 @@
     "description": "Booking Holdings Inc. entra en el Top 10 (puesto #5) con precio objetivo de 239.37 $ (+16.7% a 3 meses)."
   },
   {
+    "id": "1299b22c39a1fb32",
+    "date": "2026-08-17",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 110.00 $ a 130.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "1a0219f05df38afb",
     "date": "2026-08-16",
     "ticker": "MU",
@@ -601,6 +700,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Argus Research sube su precio objetivo de 210.00 $ a 245.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ea1d101e8026aba7",
+    "date": "2026-08-10",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Morgan Stanley sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 69.00 $."
   },
   {
     "id": "c3e6e4b917b4a8e7",
@@ -981,6 +1089,15 @@
     "description": "Resultados del 2026-08-04: BPA real 6.35 $ vs estimado 4.38 $ (sorpresa +45.1%)."
   },
   {
+    "id": "42c9dd17adb99bbe",
+    "date": "2026-08-04",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 121.00 $ a 137.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "0e2fe53cb73807a6",
     "date": "2026-08-03",
     "ticker": "VLO",
@@ -997,6 +1114,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Canaccord Genuity sube su precio objetivo de 82.00 $ a 90.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "285ed82909af8aef",
+    "date": "2026-08-03",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Leerink Partners sube su precio objetivo de 131.00 $ a 155.00 $ (mantiene Outperform)."
   },
   {
     "id": "9d10ecd95c1e7404",
@@ -1206,6 +1332,60 @@
     "description": "Resultados del 2026-07-29: BPA real 1.35 $ vs estimado 1.19 $ (sorpresa +13.2%)."
   },
   {
+    "id": "f943847f1a6af4b8",
+    "date": "2026-07-29",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 99.00 $ a 109.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "2f484de9aa52419d",
+    "date": "2026-07-29",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 136.00 $ a 150.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f54809c91fdac3af",
+    "date": "2026-07-29",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 112.00 $ a 130.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "0d5b24e83a4e8fd8",
+    "date": "2026-07-29",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 134.00 $ a 139.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "b7e3c7028cc721ca",
+    "date": "2026-07-29",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "HC Wainwright & Co. sube su precio objetivo de 140.00 $ a 150.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "83b7d6a918897987",
+    "date": "2026-07-28",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-28: BPA real 3.09 $ vs estimado 2.15 $ (sorpresa +44.0%)."
+  },
+  {
     "id": "efdf755b2b90fa5c",
     "date": "2026-07-27",
     "ticker": "PSX",
@@ -1222,6 +1402,33 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 475.00 $ a 515.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "963c387021c71aaa",
+    "date": "2026-07-24",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 70.00 $ a 74.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "aca4adc3ae7be16c",
+    "date": "2026-07-23",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 105.00 $ a 110.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "6fa2072e15f0349a",
+    "date": "2026-07-23",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 103.00 $ a 104.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "88b0ba279f340b3b",
@@ -1350,6 +1557,15 @@
     "description": "Jefferies sube su precio objetivo de 180.00 $ a 190.00 $ (mantiene Hold)."
   },
   {
+    "id": "0b5c12c43cbf6e50",
+    "date": "2026-07-14",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 117.00 $ a 134.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "84914d3126867589",
     "date": "2026-07-13",
     "ticker": "VLO",
@@ -1476,6 +1692,15 @@
     "description": "Citigroup sube su precio objetivo de 284.00 $ a 306.00 $ (mantiene Neutral)."
   },
   {
+    "id": "85aa80ca8550dde0",
+    "date": "2026-07-13",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 94.00 $ a 112.00 $ (mantiene Market Perform)."
+  },
+  {
     "id": "e8d65be4a94e1ce7",
     "date": "2026-07-10",
     "ticker": "WDC",
@@ -1537,6 +1762,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Susquehanna sube su precio objetivo de 360.00 $ a 500.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "0e03abb82810a4c0",
+    "date": "2026-07-07",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 95.00 $ a 99.00 $ (mantiene Sector Perform)."
   },
   {
     "id": "f29e0819b4f5f5aa",
@@ -1627,6 +1861,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Cantor Fitzgerald sube su precio objetivo de 660.00 $ a 900.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "fefb083b10eb93b4",
+    "date": "2026-06-26",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 103.00 $ a 113.00 $ (mantiene Neutral)."
   },
   {
     "id": "3936de77f2bd487f",
@@ -1845,6 +2088,24 @@
     "description": "Needham sube su precio objetivo de 500.00 $ a 1550.00 $ (mantiene Buy)."
   },
   {
+    "id": "62c26e1ac6e68845",
+    "date": "2026-06-22",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 103.00 $ a 105.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "86161e9504378886",
+    "date": "2026-06-22",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "BMO Capital sube la recomendacion de Underperform a Market Perform. Precio objetivo: 94.00 $."
+  },
+  {
     "id": "e8eb49fbd1d0d38f",
     "date": "2026-06-18",
     "ticker": "MU",
@@ -2007,6 +2268,15 @@
     "description": "Mizuho sube su precio objetivo de 75.00 $ a 85.00 $ (mantiene Outperform)."
   },
   {
+    "id": "2fd8dc7b402c6af1",
+    "date": "2026-06-09",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "HC Wainwright & Co. sube su precio objetivo de 135.00 $ a 140.00 $ (mantiene Buy)."
+  },
+  {
     "id": "b2e133ee3128262c",
     "date": "2026-06-08",
     "ticker": "MU",
@@ -2061,6 +2331,24 @@
     "description": "HSBC baja su precio objetivo de 180.00 $ a 165.00 $ (mantiene Buy)."
   },
   {
+    "id": "d529c13faacf1c70",
+    "date": "2026-06-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 32.00 $ a 79.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ad0fae698910f422",
+    "date": "2026-06-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 30.00 $ a 70.00 $ (mantiene Buy)."
+  },
+  {
     "id": "bc4c7070bcf0e986",
     "date": "2026-06-02",
     "ticker": "BBY",
@@ -2095,6 +2383,132 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 500.00 $ a 685.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "363ebde69e5f8b31",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 40.00 $ a 70.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "1b3e4f082b140ab6",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 23.00 $ a 63.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2bda7fc7351be175",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 31.00 $ a 69.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "248f0d088101d515",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 39.00 $ a 70.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f1d5a6cbc1d3cce7",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Loop Capital sube la recomendacion de Hold a Buy. Precio objetivo: 75.00 $."
+  },
+  {
+    "id": "9c4308fc44228f58",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 28.00 $ a 67.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "aa7c503c794b6831",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 33.00 $ a 71.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "f94ce8f338263808",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 35.00 $ a 62.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "9b5503964b24cb78",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 21.00 $ a 65.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "ac2db5eec6f24285",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 37.00 $ a 68.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "36d1d6547d7eaa86",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 29.00 $ a 74.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "c8d0d0ab81383d19",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 25.00 $ a 65.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "b31b1eb8b662628f",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 26.00 $ a 67.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "7843e7b37f908f68",
+    "date": "2026-06-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 38.00 $ a 80.00 $ (mantiene Buy)."
   },
   {
     "id": "dd362cf3ab9dfd31",
@@ -2149,6 +2563,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 500.00 $ a 575.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "642340898325028c",
+    "date": "2026-06-01",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-06-01: BPA real 0.79 $ vs estimado 0.53 $ (sorpresa +48.0%)."
   },
   {
     "id": "cf6302caaedafe54",
@@ -2806,5 +3229,14 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 16.00 $ a 17.00 $ (mantiene Underweight)."
+  },
+  {
+    "id": "4db9a678521715ed",
+    "date": "2026-05-21",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 25.00 $ a 33.00 $ (mantiene Equal-Weight)."
   }
 ]
