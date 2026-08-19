@@ -45,6 +45,60 @@
     "description": "Precio objetivo de nuestro modelo revisado de 113.14 $ a 107.38 $ (-5.1%)."
   },
   {
+    "id": "c8de46d2cd3cb6df",
+    "date": "2026-08-19",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amphenol Corporation sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "c57f4714f637e277",
+    "date": "2026-08-19",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Booking Holdings Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "7d7b34e60e25318b",
+    "date": "2026-08-19",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Agilent Technologies, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "539e04cd056e64ad",
+    "date": "2026-08-19",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Phillips 66 entra en el Top 10 (puesto #4) con precio objetivo de 287.49 $ (+18.1% a 3 meses)."
+  },
+  {
+    "id": "0440826f32af6e08",
+    "date": "2026-08-19",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #9) con precio objetivo de 455.26 $ (+24.2% a 3 meses)."
+  },
+  {
+    "id": "79290c46ac4c44a6",
+    "date": "2026-08-19",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #10) con precio objetivo de 632.68 $ (+35.0% a 3 meses)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",

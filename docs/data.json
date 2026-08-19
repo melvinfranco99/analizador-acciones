@@ -1,218 +1,27 @@
 {
-  "generated_at": "2026-08-19T06:53:25",
-  "duration_seconds": 31.3,
+  "generated_at": "2026-08-19T12:56:53",
+  "duration_seconds": 42.1,
   "universe_size": 436,
   "tickers_with_data": 426,
   "candidates_analyzed": 350,
   "candidates_below_threshold": 306,
   "min_monthly_return_pct": 5.0,
   "min_upside_pct_3m": 15.8,
-  "benchmark_return_3m": 3.9,
-  "eur_usd_rate": 1.1599582433700562,
+  "benchmark_return_3m": 3.3,
+  "eur_usd_rate": 1.1644154787063599,
   "results": [
-    {
-      "ticker": "MU",
-      "name": "Micron Technology, Inc.",
-      "sector": "Technology",
-      "industry": "Semiconductors",
-      "price": 1011.75,
-      "price_eur": 872.23,
-      "target_price": 1256.86,
-      "target_price_eur": 1083.54,
-      "upside_pct": 24.2,
-      "stop_loss": 867.43,
-      "stop_loss_eur": 747.81,
-      "stop_loss_pct": 14.3,
-      "technical_score": 100.0,
-      "fundamental_score": 92.2,
-      "total_score": 96.5,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 100,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 75,
-        "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 93.8
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +24.2% (~+7.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "MACD en cruce alcista con impulso creciente.",
-        "Crecimiento de ingresos solido (345.7% interanual).",
-        "Consenso de 43 analistas con precio objetivo medio de 1501.98."
-      ],
-      "pe": 21.279348,
-      "num_analysts": 43,
-      "rank": 1
-    },
-    {
-      "ticker": "APH",
-      "name": "Amphenol Corporation",
-      "sector": "Technology",
-      "industry": "Electronic Components",
-      "price": 170.87,
-      "price_eur": 147.31,
-      "target_price": 202.4,
-      "target_price_eur": 174.49,
-      "upside_pct": 18.5,
-      "stop_loss": 157.96,
-      "stop_loss_eur": 136.18,
-      "stop_loss_pct": 7.6,
-      "technical_score": 100.0,
-      "fundamental_score": 77.6,
-      "total_score": 89.9,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 100,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 30,
-        "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 80.4
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +18.5% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "MACD en cruce alcista con impulso creciente.",
-        "Crecimiento de ingresos solido (55.0% interanual).",
-        "Consenso de 17 analistas con precio objetivo medio de 191.88."
-      ],
-      "pe": 42.780163,
-      "num_analysts": 17,
-      "rank": 2
-    },
-    {
-      "ticker": "VLO",
-      "name": "Valero Energy Corporation",
-      "sector": "Energy",
-      "industry": "Oil & Gas Refining & Marketing",
-      "price": 347.19,
-      "price_eur": 299.31,
-      "target_price": 416.04,
-      "target_price_eur": 358.67,
-      "upside_pct": 19.8,
-      "stop_loss": 324.23,
-      "stop_loss_eur": 279.52,
-      "stop_loss_pct": 6.6,
-      "technical_score": 92.5,
-      "fundamental_score": 79.9,
-      "total_score": 86.8,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 70,
-        "macd": 100,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 100,
-        "growth": 100,
-        "profitability": 75,
-        "analyst_consensus": 39.8
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +19.8% (~+6.2%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "RSI en zona de sobrecompra (75); posible correccion a corto plazo.",
-        "MACD en cruce alcista con impulso creciente.",
-        "Crecimiento de ingresos solido (51.7% interanual)."
-      ],
-      "pe": 14.591496,
-      "num_analysts": 19,
-      "rank": 3
-    },
-    {
-      "ticker": "DXCM",
-      "name": "DexCom, Inc.",
-      "sector": "Healthcare",
-      "industry": "Medical Devices",
-      "price": 88.76,
-      "price_eur": 76.52,
-      "target_price": 108.3,
-      "target_price_eur": 93.37,
-      "upside_pct": 22.0,
-      "stop_loss": 83.08,
-      "stop_loss_eur": 71.62,
-      "stop_loss_pct": 6.4,
-      "technical_score": 91.2,
-      "fundamental_score": 78.2,
-      "total_score": 85.4,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 65,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 30,
-        "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 82.7
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +22.0% (~+6.9%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Consenso de 25 analistas con precio objetivo medio de 94.12."
-      ],
-      "pe": 35.137257,
-      "num_analysts": 25,
-      "rank": 4
-    },
-    {
-      "ticker": "BKNG",
-      "name": "Booking Holdings Inc.",
-      "sector": "Consumer Cyclical",
-      "industry": "Travel Services",
-      "price": 208.25,
-      "price_eur": 179.53,
-      "target_price": 244.31,
-      "target_price_eur": 210.62,
-      "upside_pct": 17.3,
-      "stop_loss": 194.14,
-      "stop_loss_eur": 167.37,
-      "stop_loss_pct": 6.8,
-      "technical_score": 80.0,
-      "fundamental_score": 88.6,
-      "total_score": 83.9,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 20,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 75,
-        "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 79.2
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +17.3% (~+5.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Consenso de 36 analistas con precio objetivo medio de 237.81."
-      ],
-      "pe": 22.734716,
-      "num_analysts": 36,
-      "rank": 5
-    },
     {
       "ticker": "MPC",
       "name": "Marathon Petroleum Corporation",
       "sector": "Energy",
       "industry": "Oil & Gas Refining & Marketing",
       "price": 366.21,
-      "price_eur": 315.71,
+      "price_eur": 314.5,
       "target_price": 442.46,
-      "target_price_eur": 381.44,
+      "target_price_eur": 379.98,
       "upside_pct": 20.8,
       "stop_loss": 343.62,
-      "stop_loss_eur": 296.23,
+      "stop_loss_eur": 295.1,
       "stop_loss_pct": 6.2,
       "technical_score": 82.5,
       "fundamental_score": 85.3,
@@ -236,9 +45,9 @@
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (53.7% interanual)."
       ],
-      "pe": 12.42232,
+      "pe": 12.689189,
       "num_analysts": 18,
-      "rank": 6
+      "rank": 1
     },
     {
       "ticker": "WDC",
@@ -246,12 +55,12 @@
       "sector": "Technology",
       "industry": "Computer Hardware",
       "price": 496.16,
-      "price_eur": 427.74,
+      "price_eur": 426.1,
       "target_price": 580.54,
-      "target_price_eur": 500.48,
+      "target_price_eur": 498.57,
       "upside_pct": 17.0,
       "stop_loss": 421.74,
-      "stop_loss_eur": 363.58,
+      "stop_loss_eur": 362.19,
       "stop_loss_pct": 15.0,
       "technical_score": 76.0,
       "fundamental_score": 91.6,
@@ -274,84 +83,9 @@
         "Crecimiento de ingresos solido (43.8% interanual).",
         "Consenso de 24 analistas con precio objetivo medio de 664.92."
       ],
-      "pe": 19.918106,
+      "pe": 18.417223,
       "num_analysts": 24,
-      "rank": 7
-    },
-    {
-      "ticker": "A",
-      "name": "Agilent Technologies, Inc.",
-      "sector": "Healthcare",
-      "industry": "Diagnostics & Research",
-      "price": 148.44,
-      "price_eur": 127.97,
-      "target_price": 172.68,
-      "target_price_eur": 148.87,
-      "upside_pct": 16.3,
-      "stop_loss": 141.81,
-      "stop_loss_eur": 122.25,
-      "stop_loss_pct": 4.5,
-      "technical_score": 83.8,
-      "fundamental_score": 81.9,
-      "total_score": 82.9,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 70,
-        "macd": 65,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 50,
-        "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 77.5
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +16.3% (~+5.2%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Consenso de 19 analistas con precio objetivo medio de 160.11."
-      ],
-      "pe": 29.867205,
-      "num_analysts": 19,
-      "rank": 8
-    },
-    {
-      "ticker": "BBY",
-      "name": "Best Buy Co., Inc.",
-      "sector": "Consumer Cyclical",
-      "industry": "Specialty Retail",
-      "price": 85.44,
-      "price_eur": 73.66,
-      "target_price": 107.38,
-      "target_price_eur": 92.57,
-      "upside_pct": 25.7,
-      "stop_loss": 79.89,
-      "stop_loss_eur": 68.87,
-      "stop_loss_pct": 6.5,
-      "technical_score": 88.8,
-      "fundamental_score": 75.0,
-      "total_score": 82.6,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 55,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 75,
-        "growth": 80,
-        "profitability": 100,
-        "analyst_consensus": 49.2
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +25.7% (~+7.9%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Valoracion contenida (PER 15.8x).",
-        "Consenso de 20 analistas con precio objetivo medio de 82.35."
-      ],
-      "pe": 15.809782,
-      "num_analysts": 20,
-      "rank": 9
+      "rank": 2
     },
     {
       "ticker": "NVDA",
@@ -359,12 +93,12 @@
       "sector": "Technology",
       "industry": "Semiconductors",
       "price": 219.74,
-      "price_eur": 189.44,
+      "price_eur": 188.71,
       "target_price": 261.28,
-      "target_price_eur": 225.25,
+      "target_price_eur": 224.39,
       "upside_pct": 18.9,
       "stop_loss": 206.49,
-      "stop_loss_eur": 178.02,
+      "stop_loss_eur": 177.33,
       "stop_loss_pct": 6.0,
       "technical_score": 79.2,
       "fundamental_score": 86.4,
@@ -387,8 +121,275 @@
         "Crecimiento de ingresos solido (85.2% interanual).",
         "Consenso de 58 analistas con precio objetivo medio de 302.83."
       ],
-      "pe": 34.49608,
+      "pe": 33.65084,
       "num_analysts": 58,
+      "rank": 3
+    },
+    {
+      "ticker": "PSX",
+      "name": "Phillips 66",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "price": 243.49,
+      "price_eur": 209.11,
+      "target_price": 287.49,
+      "target_price_eur": 246.9,
+      "upside_pct": 18.1,
+      "stop_loss": 229.36,
+      "stop_loss_eur": 196.97,
+      "stop_loss_pct": 5.8,
+      "technical_score": 82.5,
+      "fundamental_score": 80.9,
+      "total_score": 81.8,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 30,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 75,
+        "analyst_consensus": 43.5
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +18.1% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "RSI en zona de sobrecompra (81); posible correccion a corto plazo.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (53.1% interanual)."
+      ],
+      "pe": 13.889903,
+      "num_analysts": 19,
+      "rank": 4
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "price": 940.76,
+      "price_eur": 807.92,
+      "target_price": 1221.37,
+      "target_price_eur": 1048.91,
+      "upside_pct": 29.8,
+      "stop_loss": 799.65,
+      "stop_loss_eur": 686.74,
+      "stop_loss_pct": 15.0,
+      "technical_score": 73.2,
+      "fundamental_score": 92.2,
+      "total_score": 81.8,
+      "technical_breakdown": {
+        "trend": 40,
+        "momentum": 100,
+        "macd": 65,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 93.8
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +29.8% (~+9.1%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Crecimiento de ingresos solido (345.7% interanual).",
+        "Consenso de 43 analistas con precio objetivo medio de 1501.98."
+      ],
+      "pe": 21.274536,
+      "num_analysts": 43,
+      "rank": 5
+    },
+    {
+      "ticker": "DXCM",
+      "name": "DexCom, Inc.",
+      "sector": "Healthcare",
+      "industry": "Medical Devices",
+      "price": 89.6,
+      "price_eur": 76.95,
+      "target_price": 106.47,
+      "target_price_eur": 91.44,
+      "upside_pct": 18.8,
+      "stop_loss": 83.94,
+      "stop_loss_eur": 72.09,
+      "stop_loss_pct": 6.3,
+      "technical_score": 83.8,
+      "fundamental_score": 78.2,
+      "total_score": 81.3,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 70,
+        "macd": 65,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 30,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 82.7
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +18.8% (~+5.9%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Consenso de 25 analistas con precio objetivo medio de 94.12."
+      ],
+      "pe": 35.41502,
+      "num_analysts": 25,
+      "rank": 6
+    },
+    {
+      "ticker": "VLO",
+      "name": "Valero Energy Corporation",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "price": 350.05,
+      "price_eur": 300.62,
+      "target_price": 414.06,
+      "target_price_eur": 355.59,
+      "upside_pct": 18.3,
+      "stop_loss": 327.8,
+      "stop_loss_eur": 281.51,
+      "stop_loss_pct": 6.4,
+      "technical_score": 82.5,
+      "fundamental_score": 79.9,
+      "total_score": 81.3,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 30,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 75,
+        "analyst_consensus": 39.8
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +18.3% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "RSI en zona de sobrecompra (76); posible correccion a corto plazo.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (51.7% interanual)."
+      ],
+      "pe": 14.597581,
+      "num_analysts": 19,
+      "rank": 7
+    },
+    {
+      "ticker": "BBY",
+      "name": "Best Buy Co., Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Specialty Retail",
+      "price": 87.27,
+      "price_eur": 74.95,
+      "target_price": 110.3,
+      "target_price_eur": 94.73,
+      "upside_pct": 26.4,
+      "stop_loss": 81.9,
+      "stop_loss_eur": 70.34,
+      "stop_loss_pct": 6.1,
+      "technical_score": 88.8,
+      "fundamental_score": 71.3,
+      "total_score": 80.9,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 55,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 80,
+        "profitability": 100,
+        "analyst_consensus": 34.2
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +26.4% (~+8.1%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Valoracion contenida (PER 16.2x).",
+        "Consenso de 20 analistas con precio objetivo medio de 82.35."
+      ],
+      "pe": 16.16111,
+      "num_analysts": 20,
+      "rank": 8
+    },
+    {
+      "ticker": "ZBRA",
+      "name": "Zebra Technologies Corporation",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "price": 366.42,
+      "price_eur": 314.68,
+      "target_price": 455.26,
+      "target_price_eur": 390.98,
+      "upside_pct": 24.2,
+      "stop_loss": 339.51,
+      "stop_loss_eur": 291.57,
+      "stop_loss_pct": 7.3,
+      "technical_score": 83.8,
+      "fundamental_score": 76.5,
+      "total_score": 80.5,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 70,
+        "macd": 65,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 50,
+        "growth": 100,
+        "profitability": 75,
+        "analyst_consensus": 76.0
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +24.2% (~+7.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "RSI en zona de sobrecompra (71); posible correccion a corto plazo.",
+        "Crecimiento de ingresos solido (20.4% interanual).",
+        "Consenso de 16 analistas con precio objetivo medio de 405.31."
+      ],
+      "pe": 33.554947,
+      "num_analysts": 16,
+      "rank": 9
+    },
+    {
+      "ticker": "DELL",
+      "name": "Dell Technologies Inc.",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "price": 468.65,
+      "price_eur": 402.48,
+      "target_price": 632.68,
+      "target_price_eur": 543.35,
+      "upside_pct": 35.0,
+      "stop_loss": 404.1,
+      "stop_loss_eur": 347.04,
+      "stop_loss_pct": 13.8,
+      "technical_score": 91.2,
+      "fundamental_score": 66.5,
+      "total_score": 80.1,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 65,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 30,
+        "growth": 100,
+        "profitability": 50,
+        "analyst_consensus": 75.8
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +35.0% (~+10.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Crecimiento de ingresos solido (87.5% interanual).",
+        "Consenso de 23 analistas con precio objetivo medio de 506.61."
+      ],
+      "pe": 37.312897,
+      "num_analysts": 23,
       "rank": 10
     }
   ]
