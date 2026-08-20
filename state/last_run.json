@@ -2,71 +2,71 @@
   "INCY": {
     "rank": 1,
     "name": "Incyte Corporation",
-    "target_price": 148.76,
-    "upside_pct": 15.8,
+    "target_price": 150.56,
+    "upside_pct": 17.2,
     "total_score": 88.0
   },
-  "MPC": {
+  "BBY": {
     "rank": 2,
+    "name": "Best Buy Co., Inc.",
+    "target_price": 112.61,
+    "upside_pct": 26.2,
+    "total_score": 87.1
+  },
+  "MPC": {
+    "rank": 3,
     "name": "Marathon Petroleum Corporation",
     "target_price": 429.4,
     "upside_pct": 19.0,
     "total_score": 84.5
   },
   "NVDA": {
-    "rank": 3,
+    "rank": 4,
     "name": "NVIDIA Corporation",
     "target_price": 260.19,
     "upside_pct": 19.6,
     "total_score": 82.4
   },
   "CDW": {
-    "rank": 4,
+    "rank": 5,
     "name": "CDW Corporation",
-    "target_price": 161.28,
-    "upside_pct": 17.5,
+    "target_price": 159.6,
+    "upside_pct": 16.3,
     "total_score": 82.2
   },
   "VLO": {
-    "rank": 5,
+    "rank": 6,
     "name": "Valero Energy Corporation",
     "target_price": 403.37,
     "upside_pct": 16.5,
     "total_score": 82.0
   },
   "MU": {
-    "rank": 6,
+    "rank": 7,
     "name": "Micron Technology, Inc.",
     "target_price": 1219.54,
     "upside_pct": 30.1,
     "total_score": 81.8
   },
   "HPE": {
-    "rank": 7,
+    "rank": 8,
     "name": "Hewlett Packard Enterprise Company",
     "target_price": 69.96,
     "upside_pct": 31.7,
     "total_score": 81.1
   },
-  "BBY": {
-    "rank": 8,
-    "name": "Best Buy Co., Inc.",
-    "target_price": 115.74,
-    "upside_pct": 29.7,
-    "total_score": 80.9
-  },
   "A": {
     "rank": 9,
     "name": "Agilent Technologies, Inc.",
-    "target_price": 186.03,
-    "upside_pct": 19.7,
+    "target_price": 187.13,
+    "upside_pct": 20.4,
     "total_score": 80.8
   },
   "NTAP": {
     "rank": 10,
     "name": "NetApp, Inc.",
-    "target_price": 255.4,
-    "upside_pct": 31.3,
+    "target_price": 254.54,
+    "upside_pct": 30.9,
     "total_score": 80.1
   }
 }
