@@ -1,5 +1,23 @@
 [
   {
+    "id": "74cf6cc05fc3bdf4",
+    "date": "2026-08-20",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Booking Holdings Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "b8cc58757382e6e4",
+    "date": "2026-08-20",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "NetApp, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 255.40 $ (+31.3% a 3 meses)."
+  },
+  {
     "id": "3b93195006e4315d",
     "date": "2026-08-19",
     "ticker": "ZBRA",
@@ -340,6 +358,15 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #10) con precio objetivo de 446.63 $ (+21.0% a 3 meses)."
+  },
+  {
+    "id": "0b18f8f68f6d7e2e",
+    "date": "2026-08-18",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 150.00 $ a 209.00 $ (mantiene Neutral)."
   },
   {
     "id": "c9c6e3f7bb563cfc",
@@ -709,6 +736,15 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Morgan Stanley sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 69.00 $."
+  },
+  {
+    "id": "6f6571b4b0e34607",
+    "date": "2026-08-10",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Morgan Stanley sube la recomendacion de Underweight a Equal-Weight. Precio objetivo: 173.00 $."
   },
   {
     "id": "c3e6e4b917b4a8e7",
@@ -2574,6 +2610,15 @@
     "description": "Resultados del 2026-06-01: BPA real 0.79 $ vs estimado 0.53 $ (sorpresa +48.0%)."
   },
   {
+    "id": "bcc05a413a2a499d",
+    "date": "2026-06-01",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 130.00 $ a 200.00 $ (mantiene Buy)."
+  },
+  {
     "id": "cf6302caaedafe54",
     "date": "2026-05-29",
     "ticker": "MU",
@@ -2790,6 +2835,96 @@
     "description": "Morgan Stanley sube su precio objetivo de 72.00 $ a 80.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "1b2b0668b4856959",
+    "date": "2026-05-29",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 120.00 $ a 199.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "feb0157973385fdf",
+    "date": "2026-05-29",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 110.00 $ a 150.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2d11a1770c7fab32",
+    "date": "2026-05-29",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 125.00 $ a 150.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "6584351cc8fcc67c",
+    "date": "2026-05-29",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 114.00 $ a 150.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "9fdc3a6caaab9415",
+    "date": "2026-05-29",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 115.00 $ a 180.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "fa4baba3b90f4ce0",
+    "date": "2026-05-29",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 115.00 $ a 170.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "ee133b48c4dd54cf",
+    "date": "2026-05-29",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 110.00 $ a 185.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "1a31d9cdd0d8faca",
+    "date": "2026-05-29",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 115.00 $ a 150.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "04430738144d2bd7",
+    "date": "2026-05-29",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Northland Capital Markets sube su precio objetivo de 137.00 $ a 171.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "2eba0dab20b04dda",
+    "date": "2026-05-29",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 88.00 $ a 137.00 $ (mantiene Underweight)."
+  },
+  {
     "id": "bd45f84ee5e85750",
     "date": "2026-05-28",
     "ticker": "MU",
@@ -2970,6 +3105,15 @@
     "description": "Morgan Stanley sube su precio objetivo de 17.00 $ a 19.00 $ (mantiene Underweight)."
   },
   {
+    "id": "e578c0da28c31b5d",
+    "date": "2026-05-28",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-05-28: BPA real 2.43 $ vs estimado 2.27 $ (sorpresa +7.2%)."
+  },
+  {
     "id": "5e6fd25c7105c0c8",
     "date": "2026-05-27",
     "ticker": "MU",
@@ -3085,158 +3229,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 180.00 $ a 270.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "5f7ebec1d073f6b1",
-    "date": "2026-05-21",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 110.00 $ a 170.00 $ (mantiene Underweight)."
-  },
-  {
-    "id": "2e857e9f28ebc7ba",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 275.00 $ a 280.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "6747a1536982204e",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Evercore ISI Group sube su precio objetivo de 352.00 $ a 413.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "b2eecf444388774c",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Truist Securities sube su precio objetivo de 287.00 $ a 307.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "fa7814eb17cca690",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "RBC Capital sube su precio objetivo de 250.00 $ a 270.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "97f8a22e09632f22",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wedbush sube su precio objetivo de 300.00 $ a 330.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "f896f77111687614",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Stifel sube su precio objetivo de 250.00 $ a 282.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "e2702242f09cb8b8",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "JP Morgan sube su precio objetivo de 265.00 $ a 280.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "b2a38c7c17e96e80",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Jefferies sube su precio objetivo de 275.00 $ a 300.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "486d3477e7158b8b",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 285.00 $ a 288.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "4cb650e8c0270bba",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Keybanc sube su precio objetivo de 300.00 $ a 310.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "1cdda9129650df3a",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Benchmark sube su precio objetivo de 250.00 $ a 335.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "4a24720d912c8eee",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "B of A Securities sube su precio objetivo de 320.00 $ a 350.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "a2a9f90857ed69cb",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Baird sube su precio objetivo de 300.00 $ a 500.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "1206cb72ae472215",
-    "date": "2026-05-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Needham sube su precio objetivo de 240.00 $ a 270.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "d245c9b5d35c150d",
-    "date": "2026-05-21",
-    "ticker": "HPQ",
-    "name": "HP Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 16.00 $ a 17.00 $ (mantiene Underweight)."
-  },
-  {
-    "id": "4db9a678521715ed",
-    "date": "2026-05-21",
-    "ticker": "HPE",
-    "name": "Hewlett Packard Enterprise Company",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 25.00 $ a 33.00 $ (mantiene Equal-Weight)."
   }
 ]
