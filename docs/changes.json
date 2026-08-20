@@ -18,6 +18,60 @@
     "description": "NetApp, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 255.40 $ (+31.3% a 3 meses)."
   },
   {
+    "id": "0b23544add26c61c",
+    "date": "2026-08-20",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Hewlett Packard Enterprise Company sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "030867196320bc5a",
+    "date": "2026-08-20",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Best Buy Co., Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "5c44b843b1983390",
+    "date": "2026-08-20",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "NetApp, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "8ee02ca3d5d4eac1",
+    "date": "2026-08-20",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Booking Holdings Inc. entra en el Top 10 (puesto #3) con precio objetivo de 248.84 $ (+18.3% a 3 meses)."
+  },
+  {
+    "id": "79878140ec861f39",
+    "date": "2026-08-20",
+    "ticker": "AMCR",
+    "name": "Amcor plc",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amcor plc entra en el Top 10 (puesto #7) con precio objetivo de 55.87 $ (+16.5% a 3 meses)."
+  },
+  {
+    "id": "30440d795f40709b",
+    "date": "2026-08-20",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Paychex, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 143.19 $ (+16.0% a 3 meses)."
+  },
+  {
     "id": "3b93195006e4315d",
     "date": "2026-08-19",
     "ticker": "ZBRA",
@@ -477,6 +531,15 @@
     "description": "Piper Sandler sube su precio objetivo de 110.00 $ a 130.00 $ (mantiene Overweight)."
   },
   {
+    "id": "253fbe3690fe87b9",
+    "date": "2026-08-17",
+    "ticker": "AMCR",
+    "name": "Amcor plc",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "JP Morgan baja la recomendacion de Overweight a Neutral. Precio objetivo: 47.00 $."
+  },
+  {
     "id": "1a0219f05df38afb",
     "date": "2026-08-16",
     "ticker": "MU",
@@ -657,6 +720,33 @@
     "description": "Wells Fargo sube su precio objetivo de 505.00 $ a 545.00 $ (mantiene Overweight)."
   },
   {
+    "id": "82fc449aac9e3b77",
+    "date": "2026-08-14",
+    "ticker": "AMCR",
+    "name": "Amcor plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 47.00 $ a 52.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "0069adf5fd692649",
+    "date": "2026-08-14",
+    "ticker": "AMCR",
+    "name": "Amcor plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 43.00 $ a 44.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "adb417d0d9b940ca",
+    "date": "2026-08-14",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "New Street Research sube la recomendacion de Neutral a Buy. Precio objetivo: 1250.00 $."
+  },
+  {
     "id": "4744327481c661d8",
     "date": "2026-08-13",
     "ticker": "BBY",
@@ -664,6 +754,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 79.00 $ a 88.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "04c02748dad72233",
+    "date": "2026-08-13",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 105.00 $ a 120.00 $ (mantiene Hold)."
   },
   {
     "id": "a5361ea9f5514aa1",
@@ -682,6 +781,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Goldman Sachs sube su precio objetivo de 19.00 $ a 21.00 $ (mantiene Sell)."
+  },
+  {
+    "id": "9e58a1d99757af70",
+    "date": "2026-08-12",
+    "ticker": "AMCR",
+    "name": "Amcor plc",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-12: BPA real 1.23 $ vs estimado 1.18 $ (sorpresa +4.2%)."
   },
   {
     "id": "f499ddb7ceee3b44",
@@ -1350,6 +1458,15 @@
     "description": "Truist Securities sube su precio objetivo de 200.00 $ a 215.00 $ (mantiene Buy)."
   },
   {
+    "id": "0df42ce3a9d6b349",
+    "date": "2026-07-30",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 140.00 $ a 150.00 $ (mantiene Buy)."
+  },
+  {
     "id": "6d2aeae14ab5ccb6",
     "date": "2026-07-29",
     "ticker": "SWK",
@@ -1494,6 +1611,24 @@
     "description": "Goldman Sachs sube su precio objetivo de 207.00 $ a 235.00 $ (mantiene Neutral)."
   },
   {
+    "id": "9082596e5938e5de",
+    "date": "2026-07-22",
+    "ticker": "AMCR",
+    "name": "Amcor plc",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Jefferies baja la recomendacion de Buy a Hold."
+  },
+  {
+    "id": "9dd6b011ebaf2c21",
+    "date": "2026-07-22",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 105.00 $ a 115.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "40cc7d14ecedd356",
     "date": "2026-07-21",
     "ticker": "VLO",
@@ -1537,6 +1672,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Mizuho sube su precio objetivo de 85.00 $ a 90.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "fbd190b7c45fe17a",
+    "date": "2026-07-15",
+    "ticker": "AMCR",
+    "name": "Amcor plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 41.00 $ a 43.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "7e637e9b511d5b08",
@@ -1600,6 +1744,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 117.00 $ a 134.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "6ab8dfc628787f09",
+    "date": "2026-07-14",
+    "ticker": "AMCR",
+    "name": "Amcor plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 48.00 $ a 51.00 $ (mantiene Buy)."
   },
   {
     "id": "84914d3126867589",
@@ -1854,6 +2007,15 @@
     "description": "Wells Fargo baja su precio objetivo de 215.00 $ a 214.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "bc2a9406e7eed2c9",
+    "date": "2026-06-30",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 107.00 $ a 109.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "7750edabd7715939",
     "date": "2026-06-29",
     "ticker": "MU",
@@ -2061,6 +2223,24 @@
     "description": "Needham sube su precio objetivo de 1550.00 $ a 1650.00 $ (mantiene Buy)."
   },
   {
+    "id": "3d2c8d9ea2955e77",
+    "date": "2026-06-25",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 100.00 $ a 98.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "fd1db8545a9357dc",
+    "date": "2026-06-25",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 100.00 $ a 105.00 $ (mantiene Underweight)."
+  },
+  {
     "id": "d24b04f43b08430a",
     "date": "2026-06-24",
     "ticker": "MU",
@@ -2196,6 +2376,15 @@
     "description": "Deutsche Bank sube su precio objetivo de 1000.00 $ a 1500.00 $ (mantiene Buy)."
   },
   {
+    "id": "6a6ee74c5c261426",
+    "date": "2026-06-17",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 105.00 $ a 110.00 $ (mantiene Hold)."
+  },
+  {
     "id": "5bdace139db360d8",
     "date": "2026-06-15",
     "ticker": "MU",
@@ -2230,6 +2419,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 488.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "72e73bba533c9a77",
+    "date": "2026-06-15",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Citigroup sube la recomendacion de Neutral a Buy. Precio objetivo: 140.00 $."
   },
   {
     "id": "aaec5a63873f45d7",
@@ -2338,6 +2536,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Mizuho sube su precio objetivo de 550.00 $ a 685.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "a2e24d68ca2e15ae",
+    "date": "2026-06-08",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 94.00 $ a 98.00 $ (mantiene Hold)."
   },
   {
     "id": "0b3b33fed4d817d3",

@@ -2,71 +2,71 @@
   "INCY": {
     "rank": 1,
     "name": "Incyte Corporation",
-    "target_price": 148.76,
-    "upside_pct": 15.8,
+    "target_price": 149.9,
+    "upside_pct": 17.1,
     "total_score": 88.0
   },
   "MPC": {
     "rank": 2,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 429.4,
-    "upside_pct": 19.0,
+    "target_price": 430.26,
+    "upside_pct": 19.7,
     "total_score": 84.5
   },
-  "NVDA": {
+  "BKNG": {
     "rank": 3,
+    "name": "Booking Holdings Inc.",
+    "target_price": 248.84,
+    "upside_pct": 18.3,
+    "total_score": 83.9
+  },
+  "NVDA": {
+    "rank": 4,
     "name": "NVIDIA Corporation",
-    "target_price": 260.19,
-    "upside_pct": 19.6,
+    "target_price": 260.38,
+    "upside_pct": 20.2,
     "total_score": 82.4
   },
   "CDW": {
-    "rank": 4,
+    "rank": 5,
     "name": "CDW Corporation",
-    "target_price": 159.33,
-    "upside_pct": 16.1,
+    "target_price": 160.32,
+    "upside_pct": 17.3,
     "total_score": 82.2
   },
   "VLO": {
-    "rank": 5,
+    "rank": 6,
     "name": "Valero Energy Corporation",
-    "target_price": 403.37,
-    "upside_pct": 16.5,
+    "target_price": 406.4,
+    "upside_pct": 18.3,
     "total_score": 82.0
   },
-  "MU": {
-    "rank": 6,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1219.54,
-    "upside_pct": 30.1,
-    "total_score": 81.8
-  },
-  "HPE": {
+  "AMCR": {
     "rank": 7,
-    "name": "Hewlett Packard Enterprise Company",
-    "target_price": 69.96,
-    "upside_pct": 31.7,
-    "total_score": 81.1
+    "name": "Amcor plc",
+    "target_price": 55.87,
+    "upside_pct": 16.5,
+    "total_score": 81.9
   },
-  "BBY": {
+  "MU": {
     "rank": 8,
-    "name": "Best Buy Co., Inc.",
-    "target_price": 115.74,
-    "upside_pct": 29.7,
-    "total_score": 80.9
+    "name": "Micron Technology, Inc.",
+    "target_price": 1237.06,
+    "upside_pct": 29.9,
+    "total_score": 81.8
   },
   "A": {
     "rank": 9,
     "name": "Agilent Technologies, Inc.",
-    "target_price": 186.03,
-    "upside_pct": 19.7,
+    "target_price": 189.12,
+    "upside_pct": 20.3,
     "total_score": 80.8
   },
-  "NTAP": {
+  "PAYX": {
     "rank": 10,
-    "name": "NetApp, Inc.",
-    "target_price": 255.4,
-    "upside_pct": 31.3,
-    "total_score": 80.1
+    "name": "Paychex, Inc.",
+    "target_price": 143.19,
+    "upside_pct": 16.0,
+    "total_score": 80.0
   }
 }
