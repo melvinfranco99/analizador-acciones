@@ -2,71 +2,71 @@
   "MU": {
     "rank": 1,
     "name": "Micron Technology, Inc.",
-    "target_price": 1247.98,
-    "upside_pct": 28.1,
-    "total_score": 96.6
+    "target_price": 1244.07,
+    "upside_pct": 28.7,
+    "total_score": 91.7
+  },
+  "INCY": {
+    "rank": 2,
+    "name": "Incyte Corporation",
+    "target_price": 148.92,
+    "upside_pct": 15.9,
+    "total_score": 88.0
   },
   "MPC": {
-    "rank": 2,
+    "rank": 3,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 428.14,
-    "upside_pct": 19.5,
+    "target_price": 446.7,
+    "upside_pct": 23.2,
     "total_score": 84.5
   },
   "BKNG": {
-    "rank": 3,
-    "name": "Booking Holdings Inc.",
-    "target_price": 245.6,
-    "upside_pct": 17.0,
-    "total_score": 83.9
-  },
-  "NVDA": {
     "rank": 4,
-    "name": "NVIDIA Corporation",
-    "target_price": 260.49,
-    "upside_pct": 20.1,
-    "total_score": 82.4
+    "name": "Booking Holdings Inc.",
+    "target_price": 243.27,
+    "upside_pct": 15.9,
+    "total_score": 83.9
   },
   "VLO": {
     "rank": 5,
     "name": "Valero Energy Corporation",
-    "target_price": 402.53,
-    "upside_pct": 17.9,
+    "target_price": 427.96,
+    "upside_pct": 22.6,
     "total_score": 82.0
   },
   "A": {
     "rank": 6,
     "name": "Agilent Technologies, Inc.",
-    "target_price": 185.71,
-    "upside_pct": 18.8,
+    "target_price": 191.1,
+    "upside_pct": 19.7,
     "total_score": 80.8
   },
-  "IQV": {
+  "PAYX": {
     "rank": 7,
+    "name": "Paychex, Inc.",
+    "target_price": 143.78,
+    "upside_pct": 16.3,
+    "total_score": 80.0
+  },
+  "IQV": {
+    "rank": 8,
     "name": "IQVIA Holdings Inc.",
-    "target_price": 319.17,
-    "upside_pct": 24.7,
+    "target_price": 326.76,
+    "upside_pct": 26.7,
     "total_score": 79.9
   },
-  "TMO": {
-    "rank": 8,
-    "name": "Thermo Fisher Scientific Inc.",
-    "target_price": 750.05,
-    "upside_pct": 19.5,
-    "total_score": 78.2
-  },
-  "BBY": {
+  "DLTR": {
     "rank": 9,
-    "name": "Best Buy Co., Inc.",
-    "target_price": 103.93,
-    "upside_pct": 21.2,
-    "total_score": 77.8
+    "name": "Dollar Tree, Inc.",
+    "target_price": 154.12,
+    "upside_pct": 18.1,
+    "total_score": 79.5
   },
-  "DELL": {
+  "TMO": {
     "rank": 10,
-    "name": "Dell Technologies Inc.",
-    "target_price": 586.95,
-    "upside_pct": 35.0,
-    "total_score": 77.6
+    "name": "Thermo Fisher Scientific Inc",
+    "target_price": 746.59,
+    "upside_pct": 19.6,
+    "total_score": 78.2
   }
 }

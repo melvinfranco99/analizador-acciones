@@ -72,6 +72,69 @@
     "description": "Dell Technologies Inc. entra en el Top 10 (puesto #10) con precio objetivo de 586.95 $ (+35.0% a 3 meses)."
   },
   {
+    "id": "55742527d88ac332",
+    "date": "2026-08-21",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "NVIDIA Corporation sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "b7d4de8a98cfbe72",
+    "date": "2026-08-21",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Best Buy Co., Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "e61aab4cc04f9617",
+    "date": "2026-08-21",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "8e6a75b2a1ddc2e7",
+    "date": "2026-08-21",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Incyte Corporation entra en el Top 10 (puesto #2) con precio objetivo de 148.92 $ (+15.9% a 3 meses)."
+  },
+  {
+    "id": "770f04f85bbf5dfe",
+    "date": "2026-08-21",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 402.53 $ a 427.96 $ (+6.3%)."
+  },
+  {
+    "id": "5e4e93bcd5cfcb8c",
+    "date": "2026-08-21",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Paychex, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 143.78 $ (+16.3% a 3 meses)."
+  },
+  {
+    "id": "f4860790ff1a3b57",
+    "date": "2026-08-21",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dollar Tree, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 154.12 $ (+18.1% a 3 meses)."
+  },
+  {
     "id": "74cf6cc05fc3bdf4",
     "date": "2026-08-20",
     "ticker": "BKNG",
@@ -349,6 +412,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Evercore ISI Group sube su precio objetivo de 500.00 $ a 550.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "3f036425fe9a6b00",
+    "date": "2026-08-19",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Jefferies sube la recomendacion de Underperform a Hold. Precio objetivo: 135.00 $."
   },
   {
     "id": "3e63e83fb083b335",
@@ -630,6 +702,15 @@
     "description": "JP Morgan baja la recomendacion de Overweight a Neutral. Precio objetivo: 47.00 $."
   },
   {
+    "id": "95c24fbd983439de",
+    "date": "2026-08-17",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 145.00 $ a 155.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "1a0219f05df38afb",
     "date": "2026-08-16",
     "ticker": "MU",
@@ -907,6 +988,15 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Truist Securities sube la recomendacion de Hold a Buy. Precio objetivo: 95.00 $."
+  },
+  {
+    "id": "de0c9e85dd1c43b9",
+    "date": "2026-08-11",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 90.00 $ a 98.00 $ (mantiene Underperform)."
   },
   {
     "id": "2f725a6288c1eea1",
@@ -1485,6 +1575,15 @@
     "description": "BTIG sube su precio objetivo de 80.00 $ a 90.00 $ (mantiene Buy)."
   },
   {
+    "id": "bf353aa59916cdef",
+    "date": "2026-07-31",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 124.00 $ a 127.00 $ (mantiene Market Perform)."
+  },
+  {
     "id": "fa8129794ba9ce62",
     "date": "2026-07-30",
     "ticker": "VLO",
@@ -1704,7 +1803,7 @@
     "id": "470406c0096e0124",
     "date": "2026-07-27",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 510.00 $ a 600.00 $ (mantiene Neutral)."
@@ -1713,7 +1812,7 @@
     "id": "b0ee61b0c29566b1",
     "date": "2026-07-27",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 620.00 $ a 650.00 $ (mantiene Overweight)."
@@ -1740,7 +1839,7 @@
     "id": "b53c307e2a0b9a6f",
     "date": "2026-07-24",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "RBC Capital sube su precio objetivo de 490.00 $ a 580.00 $ (mantiene Sector Perform)."
@@ -1749,7 +1848,7 @@
     "id": "2993d28bf405005a",
     "date": "2026-07-24",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 625.00 $ a 650.00 $ (mantiene Overweight)."
@@ -1776,7 +1875,7 @@
     "id": "ddbf123ea97742af",
     "date": "2026-07-23",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-07-23: BPA real 6.03 $ vs estimado 5.71 $ (sorpresa +5.6%)."
@@ -2160,6 +2259,24 @@
     "description": "Susquehanna sube su precio objetivo de 360.00 $ a 500.00 $ (mantiene Neutral)."
   },
   {
+    "id": "0b3a15a195c97cc2",
+    "date": "2026-07-08",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Raymond James sube la recomendacion de Market Perform a Outperform. Precio objetivo: 140.00 $."
+  },
+  {
+    "id": "c71daabec5a09cd5",
+    "date": "2026-07-08",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Goldman Sachs sube la recomendacion de Sell a Neutral. Precio objetivo: 125.00 $."
+  },
+  {
     "id": "0e03abb82810a4c0",
     "date": "2026-07-07",
     "ticker": "INCY",
@@ -2181,10 +2298,19 @@
     "id": "28ef2969a68d5ff6",
     "date": "2026-07-06",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Evercore ISI Group baja su precio objetivo de 575.00 $ a 570.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "847ffc20ff053bf0",
+    "date": "2026-07-06",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 160.00 $ a 170.00 $ (mantiene Overweight)."
   },
   {
     "id": "6f0a5e9065d33fee",
@@ -2829,7 +2955,7 @@
     "id": "b4eb227274abbdf6",
     "date": "2026-06-03",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "downgrade_analista",
     "description": "HSBC baja la recomendacion de Buy a Hold. Precio objetivo: 540.00 $."
@@ -3375,6 +3501,42 @@
     "description": "Morgan Stanley sube su precio objetivo de 88.00 $ a 137.00 $ (mantiene Underweight)."
   },
   {
+    "id": "f70791ac2bfb30ec",
+    "date": "2026-05-29",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BNP Paribas sube su precio objetivo de 88.00 $ a 98.00 $ (mantiene Underperform)."
+  },
+  {
+    "id": "81232e93b3b35ade",
+    "date": "2026-05-29",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 107.00 $ a 136.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f8de8d4e9a04b5c3",
+    "date": "2026-05-29",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 130.00 $ a 135.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ed27281b8ccff76f",
+    "date": "2026-05-29",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 126.00 $ a 130.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "bd45f84ee5e85750",
     "date": "2026-05-28",
     "ticker": "MU",
@@ -3564,6 +3726,24 @@
     "description": "Resultados del 2026-05-28: BPA real 2.43 $ vs estimado 2.27 $ (sorpresa +7.2%)."
   },
   {
+    "id": "d5be4f16d6ddb515",
+    "date": "2026-05-28",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Freedom Broker baja la recomendacion de Buy a Hold. Precio objetivo: 124.00 $."
+  },
+  {
+    "id": "a908767c84ee760c",
+    "date": "2026-05-28",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-05-28: BPA real 1.74 $ vs estimado 1.54 $ (sorpresa +12.9%)."
+  },
+  {
     "id": "5e6fd25c7105c0c8",
     "date": "2026-05-27",
     "ticker": "MU",
@@ -3645,6 +3825,24 @@
     "description": "Barclays sube su precio objetivo de 450.00 $ a 620.00 $ (mantiene Overweight)."
   },
   {
+    "id": "0ae685b9b39ab8b0",
+    "date": "2026-05-27",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 142.00 $ a 107.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "7f1767eb1db0ac72",
+    "date": "2026-05-27",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 149.00 $ a 131.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "e12d4359aa4843d0",
     "date": "2026-05-26",
     "ticker": "MU",
@@ -3670,5 +3868,14 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Evercore ISI Group sube su precio objetivo de 500.00 $ a 575.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "a2d51c9fbaa176d6",
+    "date": "2026-05-26",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 116.00 $ a 101.00 $ (mantiene Neutral)."
   }
 ]
