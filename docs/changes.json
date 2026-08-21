@@ -1,5 +1,77 @@
 [
   {
+    "id": "65d41412646398c2",
+    "date": "2026-08-21",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Incyte Corporation sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "c55e3c279637e36b",
+    "date": "2026-08-21",
+    "ticker": "CDW",
+    "name": "CDW Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "CDW Corporation sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "20a5e9c565654f39",
+    "date": "2026-08-21",
+    "ticker": "AMCR",
+    "name": "Amcor plc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amcor plc sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "b378e3d5aedbd6d8",
+    "date": "2026-08-21",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paychex, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "3551f9a4beb61a6a",
+    "date": "2026-08-21",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "IQVIA Holdings Inc. entra en el Top 10 (puesto #7) con precio objetivo de 317.31 $ (+23.9% a 3 meses)."
+  },
+  {
+    "id": "fb6dba84ba3a8fc4",
+    "date": "2026-08-21",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Thermo Fisher Scientific Inc. entra en el Top 10 (puesto #8) con precio objetivo de 750.05 $ (+19.5% a 3 meses)."
+  },
+  {
+    "id": "eeec8e361c99262c",
+    "date": "2026-08-21",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Best Buy Co., Inc. entra en el Top 10 (puesto #9) con precio objetivo de 103.93 $ (+21.2% a 3 meses)."
+  },
+  {
+    "id": "e9258a04f0972fe9",
+    "date": "2026-08-21",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #10) con precio objetivo de 586.95 $ (+35.0% a 3 meses)."
+  },
+  {
     "id": "74cf6cc05fc3bdf4",
     "date": "2026-08-20",
     "ticker": "BKNG",
@@ -70,6 +142,15 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Paychex, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 143.19 $ (+16.0% a 3 meses)."
+  },
+  {
+    "id": "56a093602dc09eb2",
+    "date": "2026-08-20",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 77.00 $ a 85.00 $ (mantiene Neutral)."
   },
   {
     "id": "3b93195006e4315d",
@@ -259,6 +340,15 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Agilent Technologies, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 186.89 $ (+20.4% a 3 meses)."
+  },
+  {
+    "id": "3461ddf885d9f4c9",
+    "date": "2026-08-19",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 500.00 $ a 550.00 $ (mantiene Outperform)."
   },
   {
     "id": "3e63e83fb083b335",
@@ -1530,6 +1620,60 @@
     "description": "HC Wainwright & Co. sube su precio objetivo de 140.00 $ a 150.00 $ (mantiene Buy)."
   },
   {
+    "id": "294cdf5a240e975a",
+    "date": "2026-07-29",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 225.00 $ a 285.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7246feeae2607370",
+    "date": "2026-07-29",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 220.00 $ a 276.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "24d8ae8e79ab93a0",
+    "date": "2026-07-29",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 233.00 $ a 288.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "9c3487a34c65a92a",
+    "date": "2026-07-29",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 221.00 $ a 247.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "fe0e27c67d2efba2",
+    "date": "2026-07-29",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 210.00 $ a 270.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "a833cf8ef5c41b26",
+    "date": "2026-07-29",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 252.00 $ a 287.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "83b7d6a918897987",
     "date": "2026-07-28",
     "ticker": "INCY",
@@ -1539,6 +1683,15 @@
     "description": "Resultados del 2026-07-28: BPA real 3.09 $ vs estimado 2.15 $ (sorpresa +44.0%)."
   },
   {
+    "id": "07fc5025f1622991",
+    "date": "2026-07-28",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-28: BPA real 3.15 $ vs estimado 3.03 $ (sorpresa +3.9%)."
+  },
+  {
     "id": "efdf755b2b90fa5c",
     "date": "2026-07-27",
     "ticker": "PSX",
@@ -1546,6 +1699,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 212.00 $ a 235.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "470406c0096e0124",
+    "date": "2026-07-27",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 510.00 $ a 600.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "b0ee61b0c29566b1",
+    "date": "2026-07-27",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 620.00 $ a 650.00 $ (mantiene Overweight)."
   },
   {
     "id": "6688b8d117bbea98",
@@ -1566,6 +1737,24 @@
     "description": "Citigroup sube su precio objetivo de 70.00 $ a 74.00 $ (mantiene Buy)."
   },
   {
+    "id": "b53c307e2a0b9a6f",
+    "date": "2026-07-24",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 490.00 $ a 580.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "2993d28bf405005a",
+    "date": "2026-07-24",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 625.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "aca4adc3ae7be16c",
     "date": "2026-07-23",
     "ticker": "INCY",
@@ -1582,6 +1771,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 103.00 $ a 104.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "ddbf123ea97742af",
+    "date": "2026-07-23",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-23: BPA real 6.03 $ vs estimado 5.71 $ (sorpresa +5.6%)."
   },
   {
     "id": "88b0ba279f340b3b",
@@ -1890,6 +2088,15 @@
     "description": "BMO Capital sube su precio objetivo de 94.00 $ a 112.00 $ (mantiene Market Perform)."
   },
   {
+    "id": "ce3f35d66e535cdb",
+    "date": "2026-07-13",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 215.00 $ a 230.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "e8d65be4a94e1ce7",
     "date": "2026-07-10",
     "ticker": "WDC",
@@ -1971,6 +2178,15 @@
     "description": "Evercore ISI Group sube su precio objetivo de 144.00 $ a 148.00 $ (mantiene Outperform)."
   },
   {
+    "id": "28ef2969a68d5ff6",
+    "date": "2026-07-06",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Evercore ISI Group baja su precio objetivo de 575.00 $ a 570.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "6f0a5e9065d33fee",
     "date": "2026-07-02",
     "ticker": "ZBRA",
@@ -1996,6 +2212,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "B of A Securities sube su precio objetivo de 610.00 $ a 732.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "214b2143bddb8c19",
+    "date": "2026-07-01",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 230.00 $ a 249.00 $ (mantiene Outperform)."
   },
   {
     "id": "dc813f8f87c7ccd1",
@@ -2385,6 +2610,15 @@
     "description": "Stifel sube su precio objetivo de 105.00 $ a 110.00 $ (mantiene Hold)."
   },
   {
+    "id": "da1a77ec8525457a",
+    "date": "2026-06-17",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Morgan Stanley baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 200.00 $."
+  },
+  {
     "id": "5bdace139db360d8",
     "date": "2026-06-15",
     "ticker": "MU",
@@ -2590,6 +2824,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Argus Research sube su precio objetivo de 30.00 $ a 70.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b4eb227274abbdf6",
+    "date": "2026-06-03",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "HSBC baja la recomendacion de Buy a Hold. Precio objetivo: 540.00 $."
   },
   {
     "id": "bc4c7070bcf0e986",
@@ -3427,14 +3670,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Evercore ISI Group sube su precio objetivo de 500.00 $ a 575.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "62271a6b27ddeeee",
-    "date": "2026-05-22",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 180.00 $ a 270.00 $ (mantiene Overweight)."
   }
 ]

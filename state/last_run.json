@@ -1,72 +1,72 @@
 {
-  "INCY": {
+  "MU": {
     "rank": 1,
-    "name": "Incyte Corporation",
-    "target_price": 149.9,
-    "upside_pct": 17.1,
-    "total_score": 88.0
+    "name": "Micron Technology, Inc.",
+    "target_price": 1247.98,
+    "upside_pct": 28.1,
+    "total_score": 96.6
   },
   "MPC": {
     "rank": 2,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 430.26,
-    "upside_pct": 19.7,
+    "target_price": 428.14,
+    "upside_pct": 19.5,
     "total_score": 84.5
   },
   "BKNG": {
     "rank": 3,
     "name": "Booking Holdings Inc.",
-    "target_price": 248.84,
-    "upside_pct": 18.3,
+    "target_price": 245.6,
+    "upside_pct": 17.0,
     "total_score": 83.9
   },
   "NVDA": {
     "rank": 4,
     "name": "NVIDIA Corporation",
-    "target_price": 260.38,
-    "upside_pct": 20.2,
+    "target_price": 260.49,
+    "upside_pct": 20.1,
     "total_score": 82.4
   },
-  "CDW": {
-    "rank": 5,
-    "name": "CDW Corporation",
-    "target_price": 160.32,
-    "upside_pct": 17.3,
-    "total_score": 82.2
-  },
   "VLO": {
-    "rank": 6,
+    "rank": 5,
     "name": "Valero Energy Corporation",
-    "target_price": 406.4,
-    "upside_pct": 18.3,
+    "target_price": 402.53,
+    "upside_pct": 17.9,
     "total_score": 82.0
   },
-  "AMCR": {
-    "rank": 7,
-    "name": "Amcor plc",
-    "target_price": 55.87,
-    "upside_pct": 16.5,
-    "total_score": 81.9
-  },
-  "MU": {
-    "rank": 8,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1237.06,
-    "upside_pct": 29.9,
-    "total_score": 81.8
-  },
   "A": {
-    "rank": 9,
+    "rank": 6,
     "name": "Agilent Technologies, Inc.",
-    "target_price": 189.12,
-    "upside_pct": 20.3,
+    "target_price": 185.71,
+    "upside_pct": 18.8,
     "total_score": 80.8
   },
-  "PAYX": {
+  "IQV": {
+    "rank": 7,
+    "name": "IQVIA Holdings Inc.",
+    "target_price": 317.31,
+    "upside_pct": 23.9,
+    "total_score": 79.9
+  },
+  "TMO": {
+    "rank": 8,
+    "name": "Thermo Fisher Scientific Inc.",
+    "target_price": 750.05,
+    "upside_pct": 19.5,
+    "total_score": 78.2
+  },
+  "BBY": {
+    "rank": 9,
+    "name": "Best Buy Co., Inc.",
+    "target_price": 103.93,
+    "upside_pct": 21.2,
+    "total_score": 77.8
+  },
+  "DELL": {
     "rank": 10,
-    "name": "Paychex, Inc.",
-    "target_price": 143.19,
-    "upside_pct": 16.0,
-    "total_score": 80.0
+    "name": "Dell Technologies Inc.",
+    "target_price": 586.95,
+    "upside_pct": 35.0,
+    "total_score": 77.6
   }
 }
