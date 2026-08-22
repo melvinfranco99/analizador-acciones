@@ -37,7 +37,7 @@
   "PAYX": {
     "rank": 6,
     "name": "Paychex, Inc.",
-    "target_price": 145.29,
+    "target_price": 145.3,
     "upside_pct": 16.7,
     "total_score": 80.0
   },
@@ -57,7 +57,7 @@
   },
   "TMO": {
     "rank": 9,
-    "name": "Thermo Fisher Scientific Inc",
+    "name": "Thermo Fisher Scientific Inc.",
     "target_price": 755.67,
     "upside_pct": 20.1,
     "total_score": 78.2
