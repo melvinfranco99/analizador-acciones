@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T12:49:54",
-  "duration_seconds": 29.9,
+  "generated_at": "2026-08-22T18:37:58",
+  "duration_seconds": 41.8,
   "universe_size": 436,
   "tickers_with_data": 426,
   "candidates_analyzed": 350,
@@ -17,9 +17,9 @@
       "industry": "Semiconductors",
       "price": 966.78,
       "price_eur": 827.85,
-      "target_price": 1244.2,
-      "target_price_eur": 1065.41,
-      "upside_pct": 28.7,
+      "target_price": 1240.95,
+      "target_price_eur": 1062.63,
+      "upside_pct": 28.4,
       "stop_loss": 833.3,
       "stop_loss_eur": 713.55,
       "stop_loss_pct": 13.8,
@@ -36,15 +36,15 @@
         "valuation": 75,
         "growth": 100,
         "profitability": 100,
-        "analyst_consensus": 94.5
+        "analyst_consensus": 94.6
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +28.7% (~+8.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +28.4% (~+8.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Crecimiento de ingresos solido (345.7% interanual).",
-        "Consenso de 44 analistas con precio objetivo medio de 1521.62."
+        "Consenso de 44 analistas con precio objetivo medio de 1515.11."
       ],
-      "pe": 21.858015,
+      "pe": 21.833334,
       "num_analysts": 44,
       "rank": 1
     },
@@ -196,7 +196,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "RSI en zona de sobrecompra (81); posible correccion a corto plazo.",
         "MACD en cruce alcista con impulso creciente.",
-        "Consenso de 19 analistas con precio objetivo medio de 160.11."
+        "Consenso de 19 analistas con precio objetivo medio de 160.89."
       ],
       "pe": 31.927711,
       "num_analysts": 19,
@@ -311,7 +311,7 @@
         "MACD en cruce alcista con impulso creciente.",
         "Consenso de 26 analistas con precio objetivo medio de 631.42."
       ],
-      "pe": 33.777245,
+      "pe": 33.904636,
       "num_analysts": 26,
       "rank": 8
     },
