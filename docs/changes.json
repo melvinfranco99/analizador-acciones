@@ -18,6 +18,24 @@
     "description": "Best Buy Co., Inc. entra en el Top 10 (puesto #10) con precio objetivo de 104.07 $ (+21.2% a 3 meses)."
   },
   {
+    "id": "857e597d4a55d101",
+    "date": "2026-08-22",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "IQVIA Holdings Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "2f4e3e98ead31709",
+    "date": "2026-08-22",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #10) con precio objetivo de 181.90 $ (+18.6% a 3 meses)."
+  },
+  {
     "id": "65d41412646398c2",
     "date": "2026-08-21",
     "ticker": "INCY",
@@ -232,6 +250,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 77.00 $ a 85.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "90670cf3a0067b1e",
+    "date": "2026-08-20",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 168.00 $ a 177.00 $ (mantiene Buy)."
   },
   {
     "id": "3b93195006e4315d",
@@ -1161,6 +1188,15 @@
     "description": "Rosenblatt baja su precio objetivo de 900.00 $ a 800.00 $ (mantiene Buy)."
   },
   {
+    "id": "fea159a8fd210794",
+    "date": "2026-08-06",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 128.00 $ a 154.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "368f6340a80b1f3c",
     "date": "2026-08-05",
     "ticker": "PSX",
@@ -1386,6 +1422,42 @@
     "description": "Resultados del 2026-08-05: BPA real 3.56 $ vs estimado 3.30 $ (sorpresa +7.9%)."
   },
   {
+    "id": "0a7a35476288ad24",
+    "date": "2026-08-05",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 137.00 $ a 168.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "4f50f357a212ba17",
+    "date": "2026-08-05",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 172.00 $ a 178.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7989d6ac9d7f44ff",
+    "date": "2026-08-05",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 140.00 $ a 165.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "0be9ecee91e7c8d9",
+    "date": "2026-08-05",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 150.00 $ a 180.00 $ (mantiene Buy)."
+  },
+  {
     "id": "06e96903c0045c74",
     "date": "2026-08-04",
     "ticker": "MPC",
@@ -1438,6 +1510,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Mizuho sube su precio objetivo de 121.00 $ a 137.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "9872cf9fc23551a8",
+    "date": "2026-08-04",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-04: BPA real 1.84 $ vs estimado 1.61 $ (sorpresa +14.2%)."
   },
   {
     "id": "0e2fe53cb73807a6",
@@ -1821,7 +1902,7 @@
     "id": "470406c0096e0124",
     "date": "2026-07-27",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 510.00 $ a 600.00 $ (mantiene Neutral)."
@@ -1830,7 +1911,7 @@
     "id": "b0ee61b0c29566b1",
     "date": "2026-07-27",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 620.00 $ a 650.00 $ (mantiene Overweight)."
@@ -1857,7 +1938,7 @@
     "id": "b53c307e2a0b9a6f",
     "date": "2026-07-24",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "RBC Capital sube su precio objetivo de 490.00 $ a 580.00 $ (mantiene Sector Perform)."
@@ -1866,7 +1947,7 @@
     "id": "2993d28bf405005a",
     "date": "2026-07-24",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 625.00 $ a 650.00 $ (mantiene Overweight)."
@@ -1893,7 +1974,7 @@
     "id": "ddbf123ea97742af",
     "date": "2026-07-23",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-07-23: BPA real 6.03 $ vs estimado 5.71 $ (sorpresa +5.6%)."
@@ -1942,6 +2023,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 105.00 $ a 115.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "5db6423707c29778",
+    "date": "2026-07-22",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 122.00 $ a 128.00 $ (mantiene Neutral)."
   },
   {
     "id": "40cc7d14ecedd356",
@@ -2316,7 +2406,7 @@
     "id": "28ef2969a68d5ff6",
     "date": "2026-07-06",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Evercore ISI Group baja su precio objetivo de 575.00 $ a 570.00 $ (mantiene Outperform)."
@@ -2430,6 +2520,15 @@
     "description": "Cantor Fitzgerald sube su precio objetivo de 660.00 $ a 900.00 $ (mantiene Overweight)."
   },
   {
+    "id": "65d1188f4edc68a3",
+    "date": "2026-06-29",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 180.00 $ a 165.00 $ (mantiene Buy)."
+  },
+  {
     "id": "fefb083b10eb93b4",
     "date": "2026-06-26",
     "ticker": "INCY",
@@ -2437,6 +2536,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 103.00 $ a 113.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "86a6b69a10f27c0d",
+    "date": "2026-06-26",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 155.00 $ a 137.00 $ (mantiene Buy)."
   },
   {
     "id": "3936de77f2bd487f",
@@ -2973,7 +3081,7 @@
     "id": "b4eb227274abbdf6",
     "date": "2026-06-03",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "downgrade_analista",
     "description": "HSBC baja la recomendacion de Buy a Hold. Precio objetivo: 540.00 $."

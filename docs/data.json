@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T06:49:07",
-  "duration_seconds": 22.9,
+  "generated_at": "2026-08-22T12:49:54",
+  "duration_seconds": 29.9,
   "universe_size": 436,
   "tickers_with_data": 426,
   "candidates_analyzed": 350,
@@ -81,9 +81,9 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "RSI en zona de sobrecompra (72); posible correccion a corto plazo.",
         "Crecimiento de ingresos solido (53.7% interanual).",
-        "Valoracion contenida (PER 12.4x)."
+        "Valoracion contenida (PER 12.5x)."
       ],
-      "pe": 12.421487,
+      "pe": 12.4989605,
       "num_analysts": 18,
       "rank": 2
     },
@@ -157,9 +157,9 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "RSI en zona de sobrecompra (71); posible correccion a corto plazo.",
         "Crecimiento de ingresos solido (51.7% interanual).",
-        "Valoracion contenida (PER 14.2x)."
+        "Valoracion contenida (PER 14.6x)."
       ],
-      "pe": 14.244997,
+      "pe": 14.554026,
       "num_analysts": 19,
       "rank": 4
     },
@@ -198,7 +198,7 @@
         "MACD en cruce alcista con impulso creciente.",
         "Consenso de 19 analistas con precio objetivo medio de 160.11."
       ],
-      "pe": 31.360945,
+      "pe": 31.927711,
       "num_analysts": 19,
       "rank": 5
     },
@@ -235,48 +235,9 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 14 analistas con precio objetivo medio de 111.00."
       ],
-      "pe": 25.146465,
+      "pe": 25.455011,
       "num_analysts": 14,
       "rank": 6
-    },
-    {
-      "ticker": "IQV",
-      "name": "IQVIA Holdings Inc.",
-      "sector": "Healthcare",
-      "industry": "Diagnostics & Research",
-      "price": 259.82,
-      "price_eur": 222.48,
-      "target_price": 330.8,
-      "target_price_eur": 283.26,
-      "upside_pct": 27.3,
-      "stop_loss": 243.23,
-      "stop_loss_eur": 208.28,
-      "stop_loss_pct": 6.4,
-      "technical_score": 92.5,
-      "fundamental_score": 64.4,
-      "total_score": 79.9,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 70,
-        "macd": 100,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 50,
-        "growth": 55,
-        "profitability": 75,
-        "analyst_consensus": 81.8
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +27.3% (~+8.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "RSI en zona de sobrecompra (73); posible correccion a corto plazo.",
-        "MACD en cruce alcista con impulso creciente.",
-        "Consenso de 18 analistas con precio objetivo medio de 275.17."
-      ],
-      "pe": 31.840689,
-      "num_analysts": 18,
-      "rank": 7
     },
     {
       "ticker": "DLTR",
@@ -311,13 +272,13 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 25 analistas con precio objetivo medio de 130.04."
       ],
-      "pe": 20.608149,
+      "pe": 21.104334,
       "num_analysts": 25,
-      "rank": 8
+      "rank": 7
     },
     {
       "ticker": "TMO",
-      "name": "Thermo Fisher Scientific Inc.",
+      "name": "Thermo Fisher Scientific Inc",
       "sector": "Healthcare",
       "industry": "Diagnostics & Research",
       "price": 629.27,
@@ -352,7 +313,7 @@
       ],
       "pe": 33.777245,
       "num_analysts": 26,
-      "rank": 9
+      "rank": 8
     },
     {
       "ticker": "BBY",
@@ -388,8 +349,45 @@
         "Valoracion contenida (PER 15.9x).",
         "Consenso de 20 analistas con precio objetivo medio de 82.75."
       ],
-      "pe": 15.876156,
+      "pe": 15.905555,
       "num_analysts": 20,
+      "rank": 9
+    },
+    {
+      "ticker": "PCTY",
+      "name": "Paylocity Holding Corporation",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 153.34,
+      "price_eur": 131.31,
+      "target_price": 181.9,
+      "target_price_eur": 155.76,
+      "upside_pct": 18.6,
+      "stop_loss": 141.7,
+      "stop_loss_eur": 121.34,
+      "stop_loss_pct": 7.6,
+      "technical_score": 81.2,
+      "fundamental_score": 71.7,
+      "total_score": 76.9,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 70,
+        "macd": 55,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 50,
+        "growth": 80,
+        "profitability": 75,
+        "analyst_consensus": 80.8
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +18.6% (~+5.9%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Consenso de 19 analistas con precio objetivo medio de 172.00."
+      ],
+      "pe": 31.166666,
+      "num_analysts": 19,
       "rank": 10
     }
   ]
