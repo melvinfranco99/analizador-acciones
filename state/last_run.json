@@ -2,71 +2,71 @@
   "MU": {
     "rank": 1,
     "name": "Micron Technology, Inc.",
-    "target_price": 1244.07,
+    "target_price": 1244.2,
     "upside_pct": 28.7,
     "total_score": 91.7
   },
-  "INCY": {
-    "rank": 2,
-    "name": "Incyte Corporation",
-    "target_price": 148.92,
-    "upside_pct": 15.9,
-    "total_score": 88.0
-  },
   "MPC": {
-    "rank": 3,
+    "rank": 2,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 446.7,
-    "upside_pct": 23.2,
+    "target_price": 442.96,
+    "upside_pct": 22.8,
     "total_score": 84.5
   },
   "BKNG": {
-    "rank": 4,
+    "rank": 3,
     "name": "Booking Holdings Inc.",
-    "target_price": 243.27,
-    "upside_pct": 15.9,
+    "target_price": 242.75,
+    "upside_pct": 15.8,
     "total_score": 83.9
   },
   "VLO": {
-    "rank": 5,
+    "rank": 4,
     "name": "Valero Energy Corporation",
-    "target_price": 427.96,
+    "target_price": 427.81,
     "upside_pct": 22.6,
     "total_score": 82.0
   },
   "A": {
-    "rank": 6,
+    "rank": 5,
     "name": "Agilent Technologies, Inc.",
-    "target_price": 191.1,
-    "upside_pct": 19.7,
+    "target_price": 189.83,
+    "upside_pct": 19.4,
     "total_score": 80.8
   },
   "PAYX": {
-    "rank": 7,
+    "rank": 6,
     "name": "Paychex, Inc.",
-    "target_price": 143.78,
-    "upside_pct": 16.3,
+    "target_price": 145.29,
+    "upside_pct": 16.7,
     "total_score": 80.0
   },
   "IQV": {
-    "rank": 8,
+    "rank": 7,
     "name": "IQVIA Holdings Inc.",
-    "target_price": 326.76,
-    "upside_pct": 26.7,
+    "target_price": 330.8,
+    "upside_pct": 27.3,
     "total_score": 79.9
   },
   "DLTR": {
-    "rank": 9,
+    "rank": 8,
     "name": "Dollar Tree, Inc.",
-    "target_price": 154.12,
-    "upside_pct": 18.1,
+    "target_price": 156.05,
+    "upside_pct": 18.7,
     "total_score": 79.5
   },
   "TMO": {
-    "rank": 10,
+    "rank": 9,
     "name": "Thermo Fisher Scientific Inc",
-    "target_price": 746.59,
-    "upside_pct": 19.6,
+    "target_price": 755.67,
+    "upside_pct": 20.1,
     "total_score": 78.2
+  },
+  "BBY": {
+    "rank": 10,
+    "name": "Best Buy Co., Inc.",
+    "target_price": 104.07,
+    "upside_pct": 21.2,
+    "total_score": 77.8
   }
 }
