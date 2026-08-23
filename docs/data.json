@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T06:50:37",
-  "duration_seconds": 44.3,
+  "generated_at": "2026-08-23T12:50:42",
+  "duration_seconds": 32.1,
   "universe_size": 436,
   "tickers_with_data": 426,
   "candidates_analyzed": 350,
@@ -278,7 +278,7 @@
     },
     {
       "ticker": "TMO",
-      "name": "Thermo Fisher Scientific Inc.",
+      "name": "Thermo Fisher Scientific Inc",
       "sector": "Healthcare",
       "industry": "Diagnostics & Research",
       "price": 629.27,
