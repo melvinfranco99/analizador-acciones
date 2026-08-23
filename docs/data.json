@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T18:37:58",
-  "duration_seconds": 41.8,
+  "generated_at": "2026-08-23T01:44:12",
+  "duration_seconds": 31.2,
   "universe_size": 436,
   "tickers_with_data": 426,
   "candidates_analyzed": 350,
@@ -278,7 +278,7 @@
     },
     {
       "ticker": "TMO",
-      "name": "Thermo Fisher Scientific Inc",
+      "name": "Thermo Fisher Scientific Inc.",
       "sector": "Healthcare",
       "industry": "Diagnostics & Research",
       "price": 629.27,
@@ -347,7 +347,7 @@
         "Potencial estimado a 3 meses: +21.2% (~+6.6%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Valoracion contenida (PER 15.9x).",
-        "Consenso de 20 analistas con precio objetivo medio de 82.75."
+        "Consenso de 20 analistas con precio objetivo medio de 82.90."
       ],
       "pe": 15.905555,
       "num_analysts": 20,
