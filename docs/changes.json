@@ -1,5 +1,68 @@
 [
   {
+    "id": "af4ab1995538e12c",
+    "date": "2026-08-24",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paychex, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "c7e5c84038497a62",
+    "date": "2026-08-24",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paylocity Holding Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "1d3263db69261b1b",
+    "date": "2026-08-24",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Incyte Corporation entra en el Top 10 (puesto #2) con precio objetivo de 147.96 $ (+15.8% a 3 meses)."
+  },
+  {
+    "id": "69c6c3c5537bbab5",
+    "date": "2026-08-24",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 189.83 $ a 178.84 $ (-5.8%)."
+  },
+  {
+    "id": "84deab60e7ae798d",
+    "date": "2026-08-24",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 156.05 $ a 163.86 $ (+5.0%)."
+  },
+  {
+    "id": "44d5ee340301eb4e",
+    "date": "2026-08-24",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #9) con precio objetivo de 438.96 $ (+21.0% a 3 meses)."
+  },
+  {
+    "id": "b17e51095bf552db",
+    "date": "2026-08-24",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 245.00 $ a 270.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "cef957e3c4f90e0f",
     "date": "2026-08-22",
     "ticker": "INCY",
@@ -1902,7 +1965,7 @@
     "id": "470406c0096e0124",
     "date": "2026-07-27",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 510.00 $ a 600.00 $ (mantiene Neutral)."
@@ -1911,7 +1974,7 @@
     "id": "b0ee61b0c29566b1",
     "date": "2026-07-27",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 620.00 $ a 650.00 $ (mantiene Overweight)."
@@ -1938,7 +2001,7 @@
     "id": "b53c307e2a0b9a6f",
     "date": "2026-07-24",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "RBC Capital sube su precio objetivo de 490.00 $ a 580.00 $ (mantiene Sector Perform)."
@@ -1947,7 +2010,7 @@
     "id": "2993d28bf405005a",
     "date": "2026-07-24",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 625.00 $ a 650.00 $ (mantiene Overweight)."
@@ -1974,7 +2037,7 @@
     "id": "ddbf123ea97742af",
     "date": "2026-07-23",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-07-23: BPA real 6.03 $ vs estimado 5.71 $ (sorpresa +5.6%)."
@@ -2406,7 +2469,7 @@
     "id": "28ef2969a68d5ff6",
     "date": "2026-07-06",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Evercore ISI Group baja su precio objetivo de 575.00 $ a 570.00 $ (mantiene Outperform)."
@@ -3081,7 +3144,7 @@
     "id": "b4eb227274abbdf6",
     "date": "2026-06-03",
     "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
+    "name": "Thermo Fisher Scientific Inc",
     "category": "analista",
     "type": "downgrade_analista",
     "description": "HSBC baja la recomendacion de Buy a Hold. Precio objetivo: 540.00 $."
