@@ -18,6 +18,42 @@
     "description": "Etsy, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 104.23 $ (+19.8% a 3 meses)."
   },
   {
+    "id": "d6cfc9569f4af4a2",
+    "date": "2026-08-25",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Zebra Technologies Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "c866192dc8d0588d",
+    "date": "2026-08-25",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "IQVIA Holdings Inc. entra en el Top 10 (puesto #9) con precio objetivo de 331.80 $ (+27.5% a 3 meses)."
+  },
+  {
+    "id": "b6a6a952410639ba",
+    "date": "2026-08-25",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Mizuho baja su precio objetivo de 1375.00 $ a 1300.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "c57c4100f21d8a5a",
+    "date": "2026-08-25",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 135.00 $ a 145.00 $ (mantiene Buy)."
+  },
+  {
     "id": "af4ab1995538e12c",
     "date": "2026-08-24",
     "ticker": "PAYX",

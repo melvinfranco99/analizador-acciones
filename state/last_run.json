@@ -55,18 +55,18 @@
     "upside_pct": 16.9,
     "total_score": 81.5
   },
-  "ETSY": {
+  "IQV": {
     "rank": 9,
+    "name": "IQVIA Holdings Inc.",
+    "target_price": 331.8,
+    "upside_pct": 27.5,
+    "total_score": 79.8
+  },
+  "ETSY": {
+    "rank": 10,
     "name": "Etsy, Inc.",
     "target_price": 104.23,
     "upside_pct": 19.8,
-    "total_score": 78.4
-  },
-  "ZBRA": {
-    "rank": 10,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 439.89,
-    "upside_pct": 21.1,
     "total_score": 78.4
   }
 }
