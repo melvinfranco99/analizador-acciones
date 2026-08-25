@@ -2,71 +2,71 @@
   "BKNG": {
     "rank": 1,
     "name": "Booking Holdings Inc.",
-    "target_price": 248.53,
+    "target_price": 248.36,
     "upside_pct": 16.4,
     "total_score": 88.7
   },
   "INCY": {
     "rank": 2,
     "name": "Incyte Corporation",
-    "target_price": 147.96,
-    "upside_pct": 15.8,
+    "target_price": 148.28,
+    "upside_pct": 15.9,
     "total_score": 88.1
   },
-  "A": {
-    "rank": 3,
-    "name": "Agilent Technologies, Inc.",
-    "target_price": 178.84,
-    "upside_pct": 16.8,
-    "total_score": 87.0
-  },
-  "DLTR": {
-    "rank": 4,
-    "name": "Dollar Tree, Inc.",
-    "target_price": 163.86,
-    "upside_pct": 21.2,
-    "total_score": 85.7
-  },
   "MPC": {
-    "rank": 5,
+    "rank": 3,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 436.31,
-    "upside_pct": 21.0,
+    "target_price": 440.01,
+    "upside_pct": 21.4,
     "total_score": 84.5
   },
+  "BBY": {
+    "rank": 4,
+    "name": "Best Buy Co., Inc.",
+    "target_price": 106.65,
+    "upside_pct": 21.9,
+    "total_score": 82.6
+  },
   "VLO": {
-    "rank": 6,
+    "rank": 5,
     "name": "Valero Energy Corporation",
-    "target_price": 419.24,
-    "upside_pct": 20.6,
+    "target_price": 416.32,
+    "upside_pct": 20.3,
     "total_score": 82.0
   },
   "MU": {
-    "rank": 7,
+    "rank": 6,
     "name": "Micron Technology, Inc.",
-    "target_price": 1215.77,
-    "upside_pct": 32.7,
+    "target_price": 1212.77,
+    "upside_pct": 33.2,
     "total_score": 81.8
   },
-  "BBY": {
-    "rank": 8,
-    "name": "Best Buy Co., Inc.",
-    "target_price": 107.33,
-    "upside_pct": 22.2,
-    "total_score": 80.9
+  "DLTR": {
+    "rank": 7,
+    "name": "Dollar Tree, Inc.",
+    "target_price": 166.82,
+    "upside_pct": 22.0,
+    "total_score": 81.6
   },
-  "ZBRA": {
+  "A": {
+    "rank": 8,
+    "name": "Agilent Technologies, Inc.",
+    "target_price": 179.3,
+    "upside_pct": 16.9,
+    "total_score": 81.5
+  },
+  "ETSY": {
     "rank": 9,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 438.96,
-    "upside_pct": 21.0,
+    "name": "Etsy, Inc.",
+    "target_price": 104.23,
+    "upside_pct": 19.8,
     "total_score": 78.4
   },
-  "TMO": {
+  "ZBRA": {
     "rank": 10,
-    "name": "Thermo Fisher Scientific Inc",
-    "target_price": 749.48,
-    "upside_pct": 19.8,
-    "total_score": 78.2
+    "name": "Zebra Technologies Corporation",
+    "target_price": 439.89,
+    "upside_pct": 21.1,
+    "total_score": 78.4
   }
 }

@@ -1,5 +1,23 @@
 [
   {
+    "id": "6cf742496a1fb44a",
+    "date": "2026-08-25",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Thermo Fisher Scientific Inc sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "d17cec704c2a8a7f",
+    "date": "2026-08-25",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Etsy, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 104.23 $ (+19.8% a 3 meses)."
+  },
+  {
     "id": "af4ab1995538e12c",
     "date": "2026-08-24",
     "ticker": "PAYX",
@@ -322,6 +340,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "TD Cowen sube su precio objetivo de 168.00 $ a 177.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e56e383e5d08e761",
+    "date": "2026-08-20",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "B of A Securities sube la recomendacion de Neutral a Buy. Precio objetivo: 105.00 $."
   },
   {
     "id": "3b93195006e4315d",
@@ -1143,6 +1170,15 @@
     "description": "Morgan Stanley sube la recomendacion de Underweight a Equal-Weight. Precio objetivo: 173.00 $."
   },
   {
+    "id": "804733a00d2689e3",
+    "date": "2026-08-10",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B. Riley Securities sube su precio objetivo de 75.00 $ a 82.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "c3e6e4b917b4a8e7",
     "date": "2026-08-07",
     "ticker": "MU",
@@ -1159,6 +1195,96 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Citigroup baja su precio objetivo de 800.00 $ a 740.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "153f2439c20901e4",
+    "date": "2026-08-07",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 74.00 $ a 86.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "db084fb1ac69a1f5",
+    "date": "2026-08-07",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 60.00 $ a 92.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "a4b4873059cca69e",
+    "date": "2026-08-07",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 85.00 $ a 95.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "2f8ad75bbfd1a1af",
+    "date": "2026-08-07",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 70.00 $ a 80.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "d5092090d88e7352",
+    "date": "2026-08-07",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 61.00 $ a 76.00 $ (mantiene Underweight)."
+  },
+  {
+    "id": "cc293885b8ac0374",
+    "date": "2026-08-07",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 72.00 $ a 83.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "7c1c1d1039b0123f",
+    "date": "2026-08-07",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 80.00 $ a 85.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "a25c6795d9f8b287",
+    "date": "2026-08-07",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 82.00 $ a 94.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "412cf349b70bdf2e",
+    "date": "2026-08-07",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 100.00 $."
+  },
+  {
+    "id": "1fbe86910538ab2f",
+    "date": "2026-08-07",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 85.00 $ a 100.00 $ (mantiene Buy)."
   },
   {
     "id": "d726d884ec570407",
@@ -1519,6 +1645,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "BTIG sube su precio objetivo de 150.00 $ a 180.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "5aeb91c95f2db572",
+    "date": "2026-08-05",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "resultados",
+    "type": "resultados_negativos",
+    "description": "Resultados del 2026-08-05: BPA real -0.36 $ vs estimado 0.73 $ (sorpresa -149.1%)."
   },
   {
     "id": "06e96903c0045c74",
@@ -2097,6 +2232,15 @@
     "description": "UBS sube su precio objetivo de 122.00 $ a 128.00 $ (mantiene Neutral)."
   },
   {
+    "id": "feecdf52fc131b0c",
+    "date": "2026-07-22",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 85.00 $ a 90.00 $ (mantiene Buy)."
+  },
+  {
     "id": "40cc7d14ecedd356",
     "date": "2026-07-21",
     "ticker": "VLO",
@@ -2124,6 +2268,15 @@
     "description": "TD Cowen sube su precio objetivo de 220.00 $ a 240.00 $ (mantiene Buy)."
   },
   {
+    "id": "ac7b558c702d4e31",
+    "date": "2026-07-21",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 75.00 $ a 92.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "316cce20cf6147fa",
     "date": "2026-07-16",
     "ticker": "DXCM",
@@ -2131,6 +2284,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Truist Securities sube su precio objetivo de 80.00 $ a 87.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "8a812a20c8cf268a",
+    "date": "2026-07-16",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "BTIG baja la recomendacion de Buy a Neutral."
   },
   {
     "id": "a2573b35972339d1",
@@ -2149,6 +2311,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 41.00 $ a 43.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "5641c68e766e3644",
+    "date": "2026-07-15",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 78.00 $ a 85.00 $ (mantiene Neutral)."
   },
   {
     "id": "7e637e9b511d5b08",
@@ -2221,6 +2392,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "B of A Securities sube su precio objetivo de 48.00 $ a 51.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "204c2c4685cd894f",
+    "date": "2026-07-14",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 62.00 $ a 80.00 $ (mantiene Hold)."
   },
   {
     "id": "84914d3126867589",
@@ -3013,6 +3193,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "JP Morgan sube su precio objetivo de 530.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "8c158d5663a9cc7f",
+    "date": "2026-06-12",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 75.00 $ a 78.00 $ (mantiene Neutral)."
   },
   {
     "id": "77775cd0180ca0ce",
@@ -3933,6 +4122,15 @@
     "description": "Resultados del 2026-05-28: BPA real 1.74 $ vs estimado 1.54 $ (sorpresa +12.9%)."
   },
   {
+    "id": "9fca5b047a0c4100",
+    "date": "2026-05-28",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 72.00 $ a 75.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "5e6fd25c7105c0c8",
     "date": "2026-05-27",
     "ticker": "MU",
@@ -4030,41 +4228,5 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Barclays baja su precio objetivo de 149.00 $ a 131.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "e12d4359aa4843d0",
-    "date": "2026-05-26",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 535.00 $ a 1625.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "7fca92d9132e354f",
-    "date": "2026-05-26",
-    "ticker": "A",
-    "name": "Agilent Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Baird sube su precio objetivo de 155.00 $ a 156.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "7c1387181f96c377",
-    "date": "2026-05-26",
-    "ticker": "WDC",
-    "name": "Western Digital Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Evercore ISI Group sube su precio objetivo de 500.00 $ a 575.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "a2d51c9fbaa176d6",
-    "date": "2026-05-26",
-    "ticker": "DLTR",
-    "name": "Dollar Tree, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Piper Sandler baja su precio objetivo de 116.00 $ a 101.00 $ (mantiene Neutral)."
   }
 ]
