@@ -54,6 +54,87 @@
     "description": "Guggenheim sube su precio objetivo de 135.00 $ a 145.00 $ (mantiene Buy)."
   },
   {
+    "id": "d8d85bf501cffb25",
+    "date": "2026-08-25",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Booking Holdings Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "c62c6849353cfb7d",
+    "date": "2026-08-25",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Best Buy Co., Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "ba4b7cd1f4440bb8",
+    "date": "2026-08-25",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "IQVIA Holdings Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "c0d81ea930169743",
+    "date": "2026-08-25",
+    "ticker": "ETSY",
+    "name": "Etsy, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Etsy, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "245c2097aafc8e75",
+    "date": "2026-08-25",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Phillips 66 entra en el Top 10 (puesto #3) con precio objetivo de 286.77 $ (+19.4% a 3 meses)."
+  },
+  {
+    "id": "0338501c35299ef4",
+    "date": "2026-08-25",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Arthur J. Gallagher & Co. entra en el Top 10 (puesto #4) con precio objetivo de 311.70 $ (+16.1% a 3 meses)."
+  },
+  {
+    "id": "c53425d9a01a2772",
+    "date": "2026-08-25",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Atlassian Corporation entra en el Top 10 (puesto #8) con precio objetivo de 224.10 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "a80a1e28d142f600",
+    "date": "2026-08-25",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #9) con precio objetivo de 560.91 $ (+24.2% a 3 meses)."
+  },
+  {
+    "id": "fb0e6818eb883eb5",
+    "date": "2026-08-25",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 136.00 $ a 138.00 $ (mantiene Buy)."
+  },
+  {
     "id": "af4ab1995538e12c",
     "date": "2026-08-24",
     "ticker": "PAYX",
@@ -115,6 +196,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Evercore ISI Group sube su precio objetivo de 245.00 $ a 270.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "722b35fc59189959",
+    "date": "2026-08-24",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 430.00 $ a 434.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "cef957e3c4f90e0f",
@@ -387,6 +477,15 @@
     "description": "B of A Securities sube la recomendacion de Neutral a Buy. Precio objetivo: 105.00 $."
   },
   {
+    "id": "7ecc524e0a1a68b1",
+    "date": "2026-08-20",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 160.00 $ a 185.00 $ (mantiene Buy)."
+  },
+  {
     "id": "3b93195006e4315d",
     "date": "2026-08-19",
     "ticker": "ZBRA",
@@ -592,6 +691,15 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Jefferies sube la recomendacion de Underperform a Hold. Precio objetivo: 135.00 $."
+  },
+  {
+    "id": "da9be3cb02aac33f",
+    "date": "2026-08-19",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 270.00 $ a 290.00 $ (mantiene Overweight)."
   },
   {
     "id": "3e63e83fb083b335",
@@ -880,6 +988,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 145.00 $ a 155.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "2fc5aa268c6e7a5b",
+    "date": "2026-08-17",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 267.00 $ a 300.00 $ (mantiene Buy)."
   },
   {
     "id": "1a0219f05df38afb",
@@ -1215,6 +1332,33 @@
     "description": "B. Riley Securities sube su precio objetivo de 75.00 $ a 82.00 $ (mantiene Neutral)."
   },
   {
+    "id": "29ea9988378b9b6a",
+    "date": "2026-08-10",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 110.00 $ a 170.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3c98604516ec3adf",
+    "date": "2026-08-10",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 112.00 $ a 172.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "5071cbf24baecbbc",
+    "date": "2026-08-08",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 95.00 $ a 160.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "c3e6e4b917b4a8e7",
     "date": "2026-08-07",
     "ticker": "MU",
@@ -1323,6 +1467,87 @@
     "description": "Needham sube su precio objetivo de 85.00 $ a 100.00 $ (mantiene Buy)."
   },
   {
+    "id": "36a0f0f5c966cea5",
+    "date": "2026-08-07",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 105.00 $ a 145.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "3f144073600cbbb2",
+    "date": "2026-08-07",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 120.00 $ a 180.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "180e27ce6fe6ba58",
+    "date": "2026-08-07",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 115.00 $ a 165.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "379ff763183d34cf",
+    "date": "2026-08-07",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Macquarie sube su precio objetivo de 130.00 $ a 170.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "134ae52fefcf53ed",
+    "date": "2026-08-07",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 140.00 $ a 180.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "9fee80a3402a668e",
+    "date": "2026-08-07",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 115.00 $ a 185.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "30223c392fc497a4",
+    "date": "2026-08-07",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 110.00 $ a 200.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "1973f726b42c2996",
+    "date": "2026-08-07",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 100.00 $ a 160.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "30ce916a504c68cd",
+    "date": "2026-08-07",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 130.00 $ a 180.00 $ (mantiene Buy)."
+  },
+  {
     "id": "d726d884ec570407",
     "date": "2026-08-06",
     "ticker": "MPC",
@@ -1420,6 +1645,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 128.00 $ a 154.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "3f5d4866c7736c42",
+    "date": "2026-08-06",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-06: BPA real 1.87 $ vs estimado 1.50 $ (sorpresa +24.5%)."
   },
   {
     "id": "368f6340a80b1f3c",
@@ -1755,6 +1989,15 @@
     "description": "Resultados del 2026-08-04: BPA real 1.84 $ vs estimado 1.61 $ (sorpresa +14.2%)."
   },
   {
+    "id": "adbb03c4dcd2a27b",
+    "date": "2026-08-04",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 250.00 $ a 285.00 $ (mantiene Buy)."
+  },
+  {
     "id": "0e2fe53cb73807a6",
     "date": "2026-08-03",
     "ticker": "VLO",
@@ -1780,6 +2023,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Leerink Partners sube su precio objetivo de 131.00 $ a 155.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "3d651a8a39828f7c",
+    "date": "2026-08-03",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 291.00 $ a 299.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "867100da84d03568",
+    "date": "2026-08-03",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 299.00 $ a 296.00 $ (mantiene Overweight)."
   },
   {
     "id": "9d10ecd95c1e7404",
@@ -1915,6 +2176,51 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Bernstein sube su precio objetivo de 124.00 $ a 127.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "20ed6f00af8685a3",
+    "date": "2026-07-31",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 300.00 $ a 310.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "eab7f62be644bfc6",
+    "date": "2026-07-31",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 287.00 $ a 300.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "39980dc0d77838b4",
+    "date": "2026-07-31",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 276.00 $ a 287.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1035c832b262a670",
+    "date": "2026-07-31",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 225.00 $ a 265.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "8f9f88eee50f61ec",
+    "date": "2026-07-31",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keefe, Bruyette & Woods sube su precio objetivo de 261.00 $ a 271.00 $ (mantiene Market Perform)."
   },
   {
     "id": "fa8129794ba9ce62",
@@ -2331,6 +2637,15 @@
     "description": "BTIG baja la recomendacion de Buy a Neutral."
   },
   {
+    "id": "b8ccf4f944791ada",
+    "date": "2026-07-16",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B of A Securities baja su precio objetivo de 110.00 $ a 105.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "a2573b35972339d1",
     "date": "2026-07-15",
     "ticker": "DXCM",
@@ -2356,6 +2671,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "JP Morgan sube su precio objetivo de 78.00 $ a 85.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "86371d4978f79dca",
+    "date": "2026-07-15",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Piper Sandler sube la recomendacion de Neutral a Overweight. Precio objetivo: 276.00 $."
   },
   {
     "id": "7e637e9b511d5b08",
@@ -2583,6 +2907,15 @@
     "description": "Mizuho sube su precio objetivo de 215.00 $ a 230.00 $ (mantiene Outperform)."
   },
   {
+    "id": "9af172250323977d",
+    "date": "2026-07-13",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 260.00 $ a 300.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "e8d65be4a94e1ce7",
     "date": "2026-07-10",
     "ticker": "WDC",
@@ -2628,6 +2961,33 @@
     "description": "B of A Securities sube su precio objetivo de 180.00 $ a 185.00 $ (mantiene Buy)."
   },
   {
+    "id": "819004dec69f47a1",
+    "date": "2026-07-09",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 271.00 $ a 299.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "298abc26985d1530",
+    "date": "2026-07-09",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 285.00 $ a 300.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "74e4ade9dd552293",
+    "date": "2026-07-09",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 261.00 $ a 287.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "2cd9b6987d7808b5",
     "date": "2026-07-08",
     "ticker": "DELL",
@@ -2664,6 +3024,33 @@
     "description": "Goldman Sachs sube la recomendacion de Sell a Neutral. Precio objetivo: 125.00 $."
   },
   {
+    "id": "31072d629ea0bb4a",
+    "date": "2026-07-08",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 250.00 $ a 291.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "6c7f1946b1916103",
+    "date": "2026-07-08",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keefe, Bruyette & Woods sube su precio objetivo de 242.00 $ a 261.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "0fc93c6cda335a45",
+    "date": "2026-07-08",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Keybanc baja su precio objetivo de 130.00 $ a 115.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "0e03abb82810a4c0",
     "date": "2026-07-07",
     "ticker": "INCY",
@@ -2671,6 +3058,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "RBC Capital sube su precio objetivo de 95.00 $ a 99.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "692347d38713e864",
+    "date": "2026-07-07",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 275.00 $ a 292.00 $ (mantiene Overweight)."
   },
   {
     "id": "f29e0819b4f5f5aa",
@@ -2698,6 +3094,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "JP Morgan sube su precio objetivo de 160.00 $ a 170.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "6448171633f3b199",
+    "date": "2026-07-06",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 240.00 $ a 255.00 $ (mantiene Overweight)."
   },
   {
     "id": "6f0a5e9065d33fee",
@@ -2997,6 +3402,15 @@
     "description": "JP Morgan sube su precio objetivo de 100.00 $ a 105.00 $ (mantiene Underweight)."
   },
   {
+    "id": "a1f141f690e239e2",
+    "date": "2026-06-25",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "BMO Capital baja su precio objetivo de 105.00 $ a 95.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "d24b04f43b08430a",
     "date": "2026-06-24",
     "ticker": "MU",
@@ -3112,6 +3526,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 80.00 $ a 90.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "5c5a92c3baf4eaf6",
+    "date": "2026-06-18",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keefe, Bruyette & Woods sube su precio objetivo de 235.00 $ a 242.00 $ (mantiene Market Perform)."
   },
   {
     "id": "ee927d3e1947e0b1",
@@ -3249,6 +3672,15 @@
     "description": "Wolfe Research sube su precio objetivo de 550.00 $ a 1250.00 $ (mantiene Outperform)."
   },
   {
+    "id": "24229cacb5c226ae",
+    "date": "2026-06-11",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Jefferies sube la recomendacion de Hold a Buy. Precio objetivo: 265.00 $."
+  },
+  {
     "id": "1ab53cfe1e706d84",
     "date": "2026-06-10",
     "ticker": "MU",
@@ -3283,6 +3715,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "HC Wainwright & Co. sube su precio objetivo de 135.00 $ a 140.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "707c72cba1c284a0",
+    "date": "2026-06-09",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "UBS sube la recomendacion de Neutral a Buy. Precio objetivo: 250.00 $."
   },
   {
     "id": "b2e133ee3128262c",
