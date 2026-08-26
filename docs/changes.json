@@ -1,5 +1,23 @@
 [
   {
+    "id": "4216a50735f70d54",
+    "date": "2026-08-26",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Micron Technology, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "f754bc590c25bbe7",
+    "date": "2026-08-26",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Paychex, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 145.75 $ (+16.6% a 3 meses)."
+  },
+  {
     "id": "6cf742496a1fb44a",
     "date": "2026-08-25",
     "ticker": "TMO",
@@ -4606,104 +4624,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "B of A Securities sube su precio objetivo de 72.00 $ a 75.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "5e6fd25c7105c0c8",
-    "date": "2026-05-27",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 675.00 $ a 1175.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "d1c0a19fccbfb20c",
-    "date": "2026-05-27",
-    "ticker": "HPQ",
-    "name": "HP Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-05-27: BPA real 0.86 $ vs estimado 0.72 $ (sorpresa +20.3%)."
-  },
-  {
-    "id": "a6d228162b1e0538",
-    "date": "2026-05-27",
-    "ticker": "VLO",
-    "name": "Valero Energy Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 222.00 $ a 289.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "4556030bc8760ca5",
-    "date": "2026-05-27",
-    "ticker": "MPC",
-    "name": "Marathon Petroleum Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 224.00 $ a 284.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "6b85ec15bc96c11b",
-    "date": "2026-05-27",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Tigress Financial sube su precio objetivo de 360.00 $ a 425.00 $ (mantiene Strong Buy)."
-  },
-  {
-    "id": "b56e256a18a927b4",
-    "date": "2026-05-27",
-    "ticker": "CDW",
-    "name": "CDW Corporation",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 130.00 $."
-  },
-  {
-    "id": "e027fa42d19c6e36",
-    "date": "2026-05-27",
-    "ticker": "PSX",
-    "name": "Phillips 66",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "Mizuho sube la recomendacion de Neutral a Outperform. Precio objetivo: 212.00 $."
-  },
-  {
-    "id": "a839219003187c95",
-    "date": "2026-05-27",
-    "ticker": "A",
-    "name": "Agilent Technologies, Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-05-27: BPA real 1.49 $ vs estimado 1.41 $ (sorpresa +5.8%)."
-  },
-  {
-    "id": "1f6543244f2f733a",
-    "date": "2026-05-27",
-    "ticker": "WDC",
-    "name": "Western Digital Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 450.00 $ a 620.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "0ae685b9b39ab8b0",
-    "date": "2026-05-27",
-    "ticker": "DLTR",
-    "name": "Dollar Tree, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Truist Securities baja su precio objetivo de 142.00 $ a 107.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "7f1767eb1db0ac72",
-    "date": "2026-05-27",
-    "ticker": "DLTR",
-    "name": "Dollar Tree, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Barclays baja su precio objetivo de 149.00 $ a 131.00 $ (mantiene Overweight)."
   }
 ]
