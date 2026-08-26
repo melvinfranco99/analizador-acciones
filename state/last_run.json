@@ -48,25 +48,25 @@
     "upside_pct": 17.4,
     "total_score": 81.5
   },
-  "PAYX": {
+  "DELL": {
     "rank": 8,
+    "name": "Dell Technologies Inc.",
+    "target_price": 560.4,
+    "upside_pct": 24.1,
+    "total_score": 81.0
+  },
+  "PAYX": {
+    "rank": 9,
     "name": "Paychex, Inc.",
     "target_price": 145.75,
     "upside_pct": 16.6,
     "total_score": 80.0
   },
   "TEAM": {
-    "rank": 9,
+    "rank": 10,
     "name": "Atlassian Corporation",
     "target_price": 224.76,
     "upside_pct": 35.0,
     "total_score": 78.9
-  },
-  "DELL": {
-    "rank": 10,
-    "name": "Dell Technologies Inc.",
-    "target_price": 560.4,
-    "upside_pct": 24.1,
-    "total_score": 78.8
   }
 }
