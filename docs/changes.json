@@ -18,6 +18,60 @@
     "description": "Paychex, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 145.75 $ (+16.6% a 3 meses)."
   },
   {
+    "id": "b238a568fa5be97b",
+    "date": "2026-08-26",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "825255218606a485",
+    "date": "2026-08-26",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Arthur J. Gallagher & Co. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "21a8d31a037a0945",
+    "date": "2026-08-26",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paychex, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "c51a2fc66f940c84",
+    "date": "2026-08-26",
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Roper Technologies, Inc. entra en el Top 10 (puesto #3) con precio objetivo de 480.96 $ (+15.8% a 3 meses)."
+  },
+  {
+    "id": "19adb2b8323c2f53",
+    "date": "2026-08-26",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Best Buy Co., Inc. entra en el Top 10 (puesto #7) con precio objetivo de 104.60 $ (+19.0% a 3 meses)."
+  },
+  {
+    "id": "ac1dd35905e0a9f4",
+    "date": "2026-08-26",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "NetApp, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 229.80 $ (+18.3% a 3 meses)."
+  },
+  {
     "id": "6cf742496a1fb44a",
     "date": "2026-08-25",
     "ticker": "TMO",
@@ -223,6 +277,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 430.00 $ a 434.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "5f4af9a39a3eb2e3",
+    "date": "2026-08-24",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 170.00 $ a 210.00 $ (mantiene In-Line)."
   },
   {
     "id": "cef957e3c4f90e0f",
@@ -1674,6 +1737,15 @@
     "description": "Resultados del 2026-08-06: BPA real 1.87 $ vs estimado 1.50 $ (sorpresa +24.5%)."
   },
   {
+    "id": "26237cf79c2c5f79",
+    "date": "2026-08-06",
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Argus Research sube la recomendacion de Hold a Buy. Precio objetivo: 450.00 $."
+  },
+  {
     "id": "368f6340a80b1f3c",
     "date": "2026-08-05",
     "ticker": "PSX",
@@ -2430,6 +2502,15 @@
     "description": "Baird sube su precio objetivo de 252.00 $ a 287.00 $ (mantiene Outperform)."
   },
   {
+    "id": "0450d476dd9bbbde",
+    "date": "2026-07-29",
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 397.00 $ a 415.00 $ (mantiene Underweight)."
+  },
+  {
     "id": "83b7d6a918897987",
     "date": "2026-07-28",
     "ticker": "INCY",
@@ -2509,6 +2590,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 625.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "fb06578f42700df4",
+    "date": "2026-07-24",
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 407.00 $ a 417.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "8ea95f4e09e66231",
+    "date": "2026-07-24",
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 540.00 $ a 526.00 $ (mantiene Overweight)."
   },
   {
     "id": "aca4adc3ae7be16c",
