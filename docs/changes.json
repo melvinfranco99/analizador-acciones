@@ -18,6 +18,114 @@
     "description": "Oracle Corporation entra en el Top 10 (puesto #8) con precio objetivo de 196.49 $ (+32.0% a 3 meses)."
   },
   {
+    "id": "35cdcba840fd4f5b",
+    "date": "2026-08-27",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Incyte Corporation sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "5dabdd4bb43f40f3",
+    "date": "2026-08-27",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Best Buy Co., Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "07608a80cb8ea5e3",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Agilent Technologies, Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "c1c762a7267f530e",
+    "date": "2026-08-27",
+    "ticker": "DLTR",
+    "name": "Dollar Tree, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dollar Tree, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "d31b3e66808dc866",
+    "date": "2026-08-27",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "NetApp, Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "eae614065f97b32c",
+    "date": "2026-08-27",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Atlassian Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "89380ad5521d4130",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "NVIDIA Corporation entra en el Top 10 (puesto #2) con precio objetivo de 266.89 $ (+17.1% a 3 meses)."
+  },
+  {
+    "id": "526d2fce339a1c12",
+    "date": "2026-08-27",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Fortinet, Inc. entra en el Top 10 (puesto #3) con precio objetivo de 201.47 $ (+16.6% a 3 meses)."
+  },
+  {
+    "id": "10facec9df35c8d1",
+    "date": "2026-08-27",
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Roper Technologies, Inc. entra en el Top 10 (puesto #4) con precio objetivo de 491.43 $ (+16.3% a 3 meses)."
+  },
+  {
+    "id": "f5604bf7369a160a",
+    "date": "2026-08-27",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #7) con precio objetivo de 443.57 $ (+22.8% a 3 meses)."
+  },
+  {
+    "id": "87afe7da758d1554",
+    "date": "2026-08-27",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Hewlett Packard Enterprise Company entra en el Top 10 (puesto #8) con precio objetivo de 66.06 $ (+21.4% a 3 meses)."
+  },
+  {
+    "id": "8e504c97294d266e",
+    "date": "2026-08-27",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Western Digital Corporation entra en el Top 10 (puesto #10) con precio objetivo de 563.46 $ (+22.0% a 3 meses)."
+  },
+  {
     "id": "4216a50735f70d54",
     "date": "2026-08-26",
     "ticker": "MU",
@@ -97,6 +205,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-26: BPA real 1.62 $ vs estimado 1.49 $ (sorpresa +9.0%)."
+  },
+  {
+    "id": "df7ade346462e8a7",
+    "date": "2026-08-26",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-26: BPA real 2.22 $ vs estimado 2.09 $ (sorpresa +6.2%)."
   },
   {
     "id": "6cf742496a1fb44a",
@@ -232,6 +349,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Truist Securities sube su precio objetivo de 136.00 $ a 138.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "9eb47b5cea6db671",
+    "date": "2026-08-25",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 330.00 $ a 352.00 $ (mantiene Strong Buy)."
   },
   {
     "id": "af4ab1995538e12c",
@@ -2349,6 +2475,15 @@
     "description": "Keefe, Bruyette & Woods sube su precio objetivo de 261.00 $ a 271.00 $ (mantiene Market Perform)."
   },
   {
+    "id": "d325850f9a9328ba",
+    "date": "2026-07-31",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 115.00 $ a 160.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "fa8129794ba9ce62",
     "date": "2026-07-30",
     "ticker": "VLO",
@@ -2419,6 +2554,105 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 140.00 $ a 150.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3e8d0e8168d6cf4d",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 165.00 $ a 185.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "96c1b7ad8398d800",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 110.00 $ a 175.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "87dd68c7c77b5985",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 160.00 $ a 185.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "782c2a9fd5826a00",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 133.00 $ a 136.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "524d05703924defd",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 102.00 $ a 175.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "1cfacc64d7fff98d",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 120.00 $ a 135.00 $ (mantiene Underweight)."
+  },
+  {
+    "id": "665c6f2133446c58",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 150.00 $ a 165.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "30158641442ea2ba",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 165.00 $ a 185.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "012a498f3db0aa22",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 185.00 $ a 195.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "df54a99b7cf4f644",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 170.00 $ a 190.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "5747db54e028587c",
+    "date": "2026-07-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 186.00 $ a 203.00 $ (mantiene Buy)."
   },
   {
     "id": "6d2aeae14ab5ccb6",
@@ -2547,6 +2781,15 @@
     "description": "JP Morgan sube su precio objetivo de 397.00 $ a 415.00 $ (mantiene Underweight)."
   },
   {
+    "id": "3cd89af5e58c556d",
+    "date": "2026-07-29",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-29: BPA real 0.90 $ vs estimado 0.75 $ (sorpresa +20.5%)."
+  },
+  {
     "id": "83b7d6a918897987",
     "date": "2026-07-28",
     "ticker": "INCY",
@@ -2563,6 +2806,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-07-28: BPA real 3.15 $ vs estimado 3.03 $ (sorpresa +3.9%)."
+  },
+  {
+    "id": "fbc4b97c1db51cf7",
+    "date": "2026-07-28",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 100.00 $ a 150.00 $ (mantiene In-Line)."
   },
   {
     "id": "efdf755b2b90fa5c",
@@ -2673,6 +2925,15 @@
     "description": "Resultados del 2026-07-23: BPA real 6.03 $ vs estimado 5.71 $ (sorpresa +5.6%)."
   },
   {
+    "id": "37711a377772d008",
+    "date": "2026-07-23",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 110.00 $ a 165.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "88b0ba279f340b3b",
     "date": "2026-07-22",
     "ticker": "VLO",
@@ -2736,6 +2997,15 @@
     "description": "Truist Securities sube su precio objetivo de 85.00 $ a 90.00 $ (mantiene Buy)."
   },
   {
+    "id": "794ea175a55baac9",
+    "date": "2026-07-22",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 115.00 $ a 165.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "40cc7d14ecedd356",
     "date": "2026-07-21",
     "ticker": "VLO",
@@ -2770,6 +3040,33 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Raymond James sube su precio objetivo de 75.00 $ a 92.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "f89f5d9d00d0bd8c",
+    "date": "2026-07-21",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 120.00 $ a 183.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a6af8f9fd69e7db4",
+    "date": "2026-07-21",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Morgan Stanley sube la recomendacion de Underweight a Equal-Weight. Precio objetivo: 133.00 $."
+  },
+  {
+    "id": "a0b15227b5750253",
+    "date": "2026-07-20",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 70.00 $ a 120.00 $ (mantiene Underweight)."
   },
   {
     "id": "316cce20cf6147fa",
@@ -2833,6 +3130,15 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Piper Sandler sube la recomendacion de Neutral a Overweight. Precio objetivo: 276.00 $."
+  },
+  {
+    "id": "d225ba915d349310",
+    "date": "2026-07-15",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 86.00 $ a 125.00 $ (mantiene Underperform)."
   },
   {
     "id": "7e637e9b511d5b08",
@@ -3069,6 +3375,24 @@
     "description": "RBC Capital sube su precio objetivo de 260.00 $ a 300.00 $ (mantiene Outperform)."
   },
   {
+    "id": "f46cb960e341c358",
+    "date": "2026-07-13",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 160.00 $ a 215.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "5bffd6ba0fbd8c02",
+    "date": "2026-07-13",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 155.00 $ a 170.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "e8d65be4a94e1ce7",
     "date": "2026-07-10",
     "ticker": "WDC",
@@ -3076,6 +3400,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 575.00 $ a 730.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "633dd453f086e18f",
+    "date": "2026-07-10",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 150.00 $ a 186.00 $ (mantiene Buy)."
   },
   {
     "id": "a1199991510fb329",
@@ -3310,6 +3643,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 107.00 $ a 109.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "7f0b3301d2c191b0",
+    "date": "2026-06-30",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "HSBC baja la recomendacion de Hold a Reduce."
   },
   {
     "id": "7750edabd7715939",
@@ -3816,6 +4158,15 @@
     "description": "JP Morgan sube su precio objetivo de 75.00 $ a 78.00 $ (mantiene Neutral)."
   },
   {
+    "id": "527269ac9d87a733",
+    "date": "2026-06-12",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 115.00 $ a 155.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "77775cd0180ca0ce",
     "date": "2026-06-11",
     "ticker": "MU",
@@ -4021,6 +4372,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "TD Cowen sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "6f8d5255eb94599d",
+    "date": "2026-06-08",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 130.00 $ a 180.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3a011995c096d77b",
+    "date": "2026-06-08",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 125.00 $ a 160.00 $ (mantiene Buy)."
   },
   {
     "id": "0b3b33fed4d817d3",

@@ -1,72 +1,72 @@
 {
-  "INCY": {
-    "rank": 1,
-    "name": "Incyte Corporation",
-    "target_price": 148.38,
-    "upside_pct": 15.8,
-    "total_score": 87.4
-  },
   "MPC": {
-    "rank": 2,
+    "rank": 1,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 447.48,
-    "upside_pct": 23.5,
+    "target_price": 445.41,
+    "upside_pct": 22.5,
     "total_score": 84.5
   },
-  "BBY": {
+  "NVDA": {
+    "rank": 2,
+    "name": "NVIDIA Corporation",
+    "target_price": 266.89,
+    "upside_pct": 17.1,
+    "total_score": 84.5
+  },
+  "FTNT": {
     "rank": 3,
-    "name": "Best Buy Co., Inc.",
-    "target_price": 103.74,
-    "upside_pct": 18.6,
-    "total_score": 82.6
+    "name": "Fortinet, Inc.",
+    "target_price": 201.47,
+    "upside_pct": 16.6,
+    "total_score": 83.1
+  },
+  "ROP": {
+    "rank": 4,
+    "name": "Roper Technologies, Inc.",
+    "target_price": 491.43,
+    "upside_pct": 16.3,
+    "total_score": 82.7
   },
   "PSX": {
-    "rank": 4,
+    "rank": 5,
     "name": "Phillips 66",
-    "target_price": 290.01,
-    "upside_pct": 19.7,
+    "target_price": 283.49,
+    "upside_pct": 18.2,
     "total_score": 82.5
   },
-  "A": {
-    "rank": 5,
-    "name": "Agilent Technologies, Inc.",
-    "target_price": 181.55,
-    "upside_pct": 17.1,
-    "total_score": 81.4
-  },
-  "DLTR": {
+  "DELL": {
     "rank": 6,
-    "name": "Dollar Tree, Inc.",
-    "target_price": 157.21,
-    "upside_pct": 18.9,
-    "total_score": 80.7
+    "name": "Dell Technologies Inc.",
+    "target_price": 588.44,
+    "upside_pct": 24.6,
+    "total_score": 78.8
   },
-  "NTAP": {
+  "ZBRA": {
     "rank": 7,
-    "name": "NetApp, Inc.",
-    "target_price": 228.96,
-    "upside_pct": 18.1,
-    "total_score": 80.5
+    "name": "Zebra Technologies Corporation",
+    "target_price": 443.57,
+    "upside_pct": 22.8,
+    "total_score": 78.3
+  },
+  "HPE": {
+    "rank": 8,
+    "name": "Hewlett Packard Enterprise Company",
+    "target_price": 66.06,
+    "upside_pct": 21.4,
+    "total_score": 78.2
   },
   "ORCL": {
-    "rank": 8,
-    "name": "Oracle Corporation",
-    "target_price": 196.49,
-    "upside_pct": 32.0,
-    "total_score": 80.2
-  },
-  "DELL": {
     "rank": 9,
-    "name": "Dell Technologies Inc.",
-    "target_price": 584.79,
-    "upside_pct": 26.1,
-    "total_score": 78.8
+    "name": "Oracle Corporation",
+    "target_price": 198.03,
+    "upside_pct": 30.3,
+    "total_score": 77.4
   },
-  "TEAM": {
+  "WDC": {
     "rank": 10,
-    "name": "Atlassian Corporation",
-    "target_price": 227.43,
-    "upside_pct": 35.0,
-    "total_score": 78.8
+    "name": "Western Digital Corporation",
+    "target_price": 563.46,
+    "upside_pct": 22.0,
+    "total_score": 77.0
   }
 }
