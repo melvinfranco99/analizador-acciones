@@ -1,5 +1,77 @@
 [
   {
+    "id": "1be281e9fb34eb69",
+    "date": "2026-08-28",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Fortinet, Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "25ae37a84389a994",
+    "date": "2026-08-28",
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Roper Technologies, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "f40071f9fd0107fc",
+    "date": "2026-08-28",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "054cac06e723d3c2",
+    "date": "2026-08-28",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Hewlett Packard Enterprise Company sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "95286ac85143f2f2",
+    "date": "2026-08-28",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Arthur J. Gallagher & Co. entra en el Top 10 (puesto #2) con precio objetivo de 312.36 $ (+16.7% a 3 meses)."
+  },
+  {
+    "id": "e4d748e4b252a702",
+    "date": "2026-08-28",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Valero Energy Corporation entra en el Top 10 (puesto #3) con precio objetivo de 430.73 $ (+22.2% a 3 meses)."
+  },
+  {
+    "id": "34cbec5d0b9ab781",
+    "date": "2026-08-28",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Salesforce, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 299.91 $ (+17.2% a 3 meses)."
+  },
+  {
+    "id": "65804ca1ed343c9c",
+    "date": "2026-08-28",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #9) con precio objetivo de 187.47 $ (+18.7% a 3 meses)."
+  },
+  {
     "id": "e6e3783f7f24cc6c",
     "date": "2026-08-27",
     "ticker": "ROP",
@@ -214,6 +286,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-26: BPA real 2.22 $ vs estimado 2.09 $ (sorpresa +6.2%)."
+  },
+  {
+    "id": "ba3b0b357d5c1053",
+    "date": "2026-08-26",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-26: BPA real 5.90 $ vs estimado 3.27 $ (sorpresa +80.4%)."
   },
   {
     "id": "6cf742496a1fb44a",
@@ -720,6 +801,15 @@
     "description": "Truist Securities sube su precio objetivo de 160.00 $ a 185.00 $ (mantiene Buy)."
   },
   {
+    "id": "3ba01e4a85f8c47e",
+    "date": "2026-08-20",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 215.00 $ a 230.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "3b93195006e4315d",
     "date": "2026-08-19",
     "ticker": "ZBRA",
@@ -1096,6 +1186,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 150.00 $ a 209.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "aee7b81949496068",
+    "date": "2026-08-18",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 187.00 $ a 204.00 $ (mantiene Neutral)."
   },
   {
     "id": "c9c6e3f7bb563cfc",
@@ -1483,6 +1582,24 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-12: BPA real 1.23 $ vs estimado 1.18 $ (sorpresa +4.2%)."
+  },
+  {
+    "id": "22e41202aef09345",
+    "date": "2026-08-12",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 185.00 $ a 210.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "77d378ab6e972fc2",
+    "date": "2026-08-12",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 200.00 $ a 205.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "f499ddb7ceee3b44",
@@ -3060,6 +3177,15 @@
     "description": "Morgan Stanley sube la recomendacion de Underweight a Equal-Weight. Precio objetivo: 133.00 $."
   },
   {
+    "id": "c3d156d5877c3e87",
+    "date": "2026-07-21",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Morgan Stanley baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 185.00 $."
+  },
+  {
     "id": "a0b15227b5750253",
     "date": "2026-07-20",
     "ticker": "FTNT",
@@ -3220,6 +3346,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Jefferies sube su precio objetivo de 62.00 $ a 80.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "b9dbb74d5aea3a57",
+    "date": "2026-07-14",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Evercore ISI Group baja su precio objetivo de 260.00 $ a 250.00 $ (mantiene Outperform)."
   },
   {
     "id": "84914d3126867589",
@@ -3474,6 +3609,15 @@
     "description": "Mizuho sube su precio objetivo de 261.00 $ a 287.00 $ (mantiene Outperform)."
   },
   {
+    "id": "b48b0afa826f9c06",
+    "date": "2026-07-09",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Keybanc baja la recomendacion de Overweight a Sector Weight."
+  },
+  {
     "id": "2cd9b6987d7808b5",
     "date": "2026-07-08",
     "ticker": "DELL",
@@ -3625,6 +3769,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Baird sube su precio objetivo de 230.00 $ a 249.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "b43316bdee4b2eee",
+    "date": "2026-07-01",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Guggenheim sube la recomendacion de Neutral a Buy. Precio objetivo: 228.00 $."
   },
   {
     "id": "dc813f8f87c7ccd1",

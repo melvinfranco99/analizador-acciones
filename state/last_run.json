@@ -2,71 +2,71 @@
   "MPC": {
     "rank": 1,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 445.41,
-    "upside_pct": 22.5,
+    "target_price": 458.58,
+    "upside_pct": 24.3,
     "total_score": 84.5
   },
-  "NVDA": {
+  "AJG": {
     "rank": 2,
-    "name": "NVIDIA Corporation",
-    "target_price": 266.89,
-    "upside_pct": 17.1,
-    "total_score": 84.5
+    "name": "Arthur J. Gallagher & Co.",
+    "target_price": 312.36,
+    "upside_pct": 16.7,
+    "total_score": 82.3
   },
-  "FTNT": {
+  "VLO": {
     "rank": 3,
-    "name": "Fortinet, Inc.",
-    "target_price": 201.47,
-    "upside_pct": 16.6,
-    "total_score": 83.1
-  },
-  "ROP": {
-    "rank": 4,
-    "name": "Roper Technologies, Inc.",
-    "target_price": 491.43,
-    "upside_pct": 16.3,
-    "total_score": 82.7
-  },
-  "PSX": {
-    "rank": 5,
-    "name": "Phillips 66",
-    "target_price": 283.49,
-    "upside_pct": 18.2,
-    "total_score": 82.5
-  },
-  "DELL": {
-    "rank": 6,
-    "name": "Dell Technologies Inc.",
-    "target_price": 588.44,
-    "upside_pct": 24.6,
-    "total_score": 78.8
+    "name": "Valero Energy Corporation",
+    "target_price": 430.73,
+    "upside_pct": 22.2,
+    "total_score": 80.6
   },
   "ZBRA": {
-    "rank": 7,
+    "rank": 4,
     "name": "Zebra Technologies Corporation",
-    "target_price": 443.57,
-    "upside_pct": 22.8,
-    "total_score": 78.3
+    "target_price": 438.98,
+    "upside_pct": 23.2,
+    "total_score": 79.8
   },
-  "HPE": {
-    "rank": 8,
-    "name": "Hewlett Packard Enterprise Company",
-    "target_price": 66.06,
-    "upside_pct": 21.4,
-    "total_score": 78.2
+  "NVDA": {
+    "rank": 5,
+    "name": "NVIDIA Corporation",
+    "target_price": 261.67,
+    "upside_pct": 20.3,
+    "total_score": 79.6
   },
   "ORCL": {
-    "rank": 9,
+    "rank": 6,
     "name": "Oracle Corporation",
-    "target_price": 198.03,
-    "upside_pct": 30.3,
+    "target_price": 197.48,
+    "upside_pct": 30.9,
     "total_score": 77.4
   },
-  "WDC": {
-    "rank": 10,
-    "name": "Western Digital Corporation",
-    "target_price": 563.46,
-    "upside_pct": 22.0,
+  "CRM": {
+    "rank": 7,
+    "name": "Salesforce, Inc.",
+    "target_price": 299.91,
+    "upside_pct": 17.2,
     "total_score": 77.0
+  },
+  "WDC": {
+    "rank": 8,
+    "name": "Western Digital Corporation",
+    "target_price": 562.18,
+    "upside_pct": 22.4,
+    "total_score": 77.0
+  },
+  "PCTY": {
+    "rank": 9,
+    "name": "Paylocity Holding Corporation",
+    "target_price": 187.47,
+    "upside_pct": 18.7,
+    "total_score": 76.9
+  },
+  "PSX": {
+    "rank": 10,
+    "name": "Phillips 66",
+    "target_price": 292.17,
+    "upside_pct": 19.7,
+    "total_score": 76.3
   }
 }
