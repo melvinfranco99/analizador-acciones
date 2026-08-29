@@ -72,6 +72,78 @@
     "description": "Dell Technologies Inc. entra en el Top 10 (puesto #7) con precio objetivo de 588.44 $ (+24.6% a 3 meses)."
   },
   {
+    "id": "eef6a05df7c05403",
+    "date": "2026-08-29",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Fortinet, Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "2112a31b7a356c6c",
+    "date": "2026-08-29",
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Roper Technologies, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "b31987d963df4dfa",
+    "date": "2026-08-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "6f3e3e54c8d8d295",
+    "date": "2026-08-29",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Hewlett Packard Enterprise Company sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "6e898f7533dc2aef",
+    "date": "2026-08-29",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Arthur J. Gallagher & Co. entra en el Top 10 (puesto #2) con precio objetivo de 312.36 $ (+16.7% a 3 meses)."
+  },
+  {
+    "id": "688dbf7d5c980053",
+    "date": "2026-08-29",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Valero Energy Corporation entra en el Top 10 (puesto #3) con precio objetivo de 430.73 $ (+22.2% a 3 meses)."
+  },
+  {
+    "id": "70d52e22f943ebf3",
+    "date": "2026-08-29",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Western Digital Corporation entra en el Top 10 (puesto #8) con precio objetivo de 562.18 $ (+22.4% a 3 meses)."
+  },
+  {
+    "id": "9999a0dcdddd53d4",
+    "date": "2026-08-29",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #9) con precio objetivo de 187.47 $ (+18.7% a 3 meses)."
+  },
+  {
     "id": "1be281e9fb34eb69",
     "date": "2026-08-28",
     "ticker": "FTNT",
