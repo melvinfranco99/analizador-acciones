@@ -1,5 +1,77 @@
 [
   {
+    "id": "ff253778f2f3befa",
+    "date": "2026-08-29",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Arthur J. Gallagher & Co. sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "80fcce27a2160651",
+    "date": "2026-08-29",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "c8dc6b7d40322455",
+    "date": "2026-08-29",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Western Digital Corporation sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "5a40036a42c056e9",
+    "date": "2026-08-29",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paylocity Holding Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "8e4f124273770250",
+    "date": "2026-08-29",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Fortinet, Inc. entra en el Top 10 (puesto #3) con precio objetivo de 201.47 $ (+16.6% a 3 meses)."
+  },
+  {
+    "id": "6cc892b349241986",
+    "date": "2026-08-29",
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Roper Technologies, Inc. entra en el Top 10 (puesto #4) con precio objetivo de 491.43 $ (+16.3% a 3 meses)."
+  },
+  {
+    "id": "cdbcb4e4bc18a9af",
+    "date": "2026-08-29",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Hewlett Packard Enterprise Company entra en el Top 10 (puesto #6) con precio objetivo de 66.06 $ (+21.4% a 3 meses)."
+  },
+  {
+    "id": "0481d41ae931a706",
+    "date": "2026-08-29",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #7) con precio objetivo de 588.44 $ (+24.6% a 3 meses)."
+  },
+  {
     "id": "1be281e9fb34eb69",
     "date": "2026-08-28",
     "ticker": "FTNT",
