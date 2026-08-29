@@ -34,26 +34,26 @@
     "upside_pct": 18.2,
     "total_score": 82.5
   },
-  "HPE": {
-    "rank": 6,
-    "name": "Hewlett Packard Enterprise Company",
-    "target_price": 66.06,
-    "upside_pct": 21.4,
-    "total_score": 79.8
-  },
   "DELL": {
-    "rank": 7,
+    "rank": 6,
     "name": "Dell Technologies Inc.",
     "target_price": 588.44,
     "upside_pct": 24.6,
     "total_score": 78.8
   },
   "ZBRA": {
-    "rank": 8,
+    "rank": 7,
     "name": "Zebra Technologies Corporation",
     "target_price": 443.57,
     "upside_pct": 22.8,
     "total_score": 78.3
+  },
+  "HPE": {
+    "rank": 8,
+    "name": "Hewlett Packard Enterprise Company",
+    "target_price": 66.06,
+    "upside_pct": 21.4,
+    "total_score": 78.2
   },
   "ORCL": {
     "rank": 9,

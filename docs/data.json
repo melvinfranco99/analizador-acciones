@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T06:37:27",
-  "duration_seconds": 26.6,
+  "generated_at": "2026-08-29T16:32:19",
+  "duration_seconds": 28.4,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -42,10 +42,10 @@
         "Potencial estimado a 3 meses: +22.5% (~+7.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Crecimiento de ingresos solido (53.7% interanual).",
-        "Valoracion contenida (PER 12.8x).",
+        "Valoracion contenida (PER 12.6x).",
         "Consenso de 18 analistas con precio objetivo medio de 324.56."
       ],
-      "pe": 12.79327,
+      "pe": 12.609572,
       "num_analysts": 18,
       "rank": 1
     },
@@ -83,7 +83,7 @@
         "Crecimiento de ingresos solido (105.9% interanual).",
         "Consenso de 58 analistas con precio objetivo medio de 305.79."
       ],
-      "pe": 27.503162,
+      "pe": 28.81457,
       "num_analysts": 58,
       "rank": 2
     },
@@ -120,9 +120,9 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (25.6% interanual).",
-        "Valoracion exigente (PER 58.7x); ya descuenta buenas noticias."
+        "Valoracion exigente (PER 61.0x); ya descuenta buenas noticias."
       ],
-      "pe": 58.657246,
+      "pe": 61.02941,
       "num_analysts": 37,
       "rank": 3
     },
@@ -197,51 +197,12 @@
         "Potencial estimado a 3 meses: +18.2% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Crecimiento de ingresos solido (53.1% interanual).",
-        "Valoracion contenida (PER 13.9x).",
+        "Valoracion contenida (PER 13.7x).",
         "Consenso de 19 analistas con precio objetivo medio de 222.00."
       ],
-      "pe": 13.919565,
+      "pe": 13.6776905,
       "num_analysts": 19,
       "rank": 5
-    },
-    {
-      "ticker": "HPE",
-      "name": "Hewlett Packard Enterprise Company",
-      "sector": "Technology",
-      "industry": "Communication Equipment",
-      "price": 54.41,
-      "price_eur": 46.96,
-      "target_price": 66.06,
-      "target_price_eur": 57.01,
-      "upside_pct": 21.4,
-      "stop_loss": 48.89,
-      "stop_loss_eur": 42.19,
-      "stop_loss_pct": 10.1,
-      "technical_score": 88.8,
-      "fundamental_score": 68.9,
-      "total_score": 79.8,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 55,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 30,
-        "growth": 100,
-        "profitability": 50,
-        "analyst_consensus": 85.7
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +21.4% (~+6.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Crecimiento de ingresos solido (40.0% interanual).",
-        "Valoracion exigente (PER 48.9x); ya descuenta buenas noticias.",
-        "Consenso de 19 analistas con precio objetivo medio de 65.35."
-      ],
-      "pe": 48.887848,
-      "num_analysts": 19,
-      "rank": 6
     },
     {
       "ticker": "DELL",
@@ -279,7 +240,7 @@
       ],
       "pe": 36.32484,
       "num_analysts": 23,
-      "rank": 7
+      "rank": 6
     },
     {
       "ticker": "ZBRA",
@@ -315,8 +276,47 @@
         "Crecimiento de ingresos solido (20.4% interanual).",
         "Consenso de 15 analistas con precio objetivo medio de 412.87."
       ],
-      "pe": 32.671864,
+      "pe": 33.127323,
       "num_analysts": 15,
+      "rank": 7
+    },
+    {
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise Company",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "price": 54.41,
+      "price_eur": 46.96,
+      "target_price": 66.06,
+      "target_price_eur": 57.01,
+      "upside_pct": 21.4,
+      "stop_loss": 48.89,
+      "stop_loss_eur": 42.19,
+      "stop_loss_pct": 10.1,
+      "technical_score": 88.8,
+      "fundamental_score": 65.2,
+      "total_score": 78.2,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 55,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 15,
+        "growth": 100,
+        "profitability": 50,
+        "analyst_consensus": 85.7
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +21.4% (~+6.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Crecimiento de ingresos solido (40.0% interanual).",
+        "Valoracion exigente (PER 50.8x); ya descuenta buenas noticias.",
+        "Consenso de 19 analistas con precio objetivo medio de 65.35."
+      ],
+      "pe": 50.78641,
+      "num_analysts": 19,
       "rank": 8
     },
     {
@@ -391,7 +391,7 @@
         "MACD en cruce alcista con impulso creciente.",
         "Consenso de 52 analistas con precio objetivo medio de 244.02."
       ],
-      "pe": 23.464712,
+      "pe": 23.104692,
       "num_analysts": 52,
       "rank": 10
     }
