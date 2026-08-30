@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T20:45:51",
-  "duration_seconds": 38.3,
+  "generated_at": "2026-08-30T04:50:17",
+  "duration_seconds": 28.7,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -172,9 +172,9 @@
       "industry": "Semiconductors",
       "price": 217.55,
       "price_eur": 187.75,
-      "target_price": 261.67,
-      "target_price_eur": 225.82,
-      "upside_pct": 20.3,
+      "target_price": 270.48,
+      "target_price_eur": 233.42,
+      "upside_pct": 24.3,
       "stop_loss": 202.22,
       "stop_loss_eur": 174.52,
       "stop_loss_pct": 7.0,
@@ -194,10 +194,10 @@
         "analyst_consensus": 95.8
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +20.3% (~+6.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +24.3% (~+7.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Crecimiento de ingresos solido (105.9% interanual).",
-        "Consenso de 58 analistas con precio objetivo medio de 305.79."
+        "Consenso de 58 analistas con precio objetivo medio de 323.42."
       ],
       "pe": 28.81457,
       "num_analysts": 58,
@@ -237,47 +237,9 @@
         "Crecimiento de ingresos solido (20.6% interanual).",
         "Consenso de 42 analistas con precio objetivo medio de 244.12."
       ],
-      "pe": 25.874786,
+      "pe": 26.053541,
       "num_analysts": 42,
       "rank": 6
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce, Inc.",
-      "sector": "Technology",
-      "industry": "Software - Application",
-      "price": 256.0,
-      "price_eur": 220.93,
-      "target_price": 299.91,
-      "target_price_eur": 258.82,
-      "upside_pct": 17.2,
-      "stop_loss": 234.15,
-      "stop_loss_eur": 202.07,
-      "stop_loss_pct": 8.5,
-      "technical_score": 70.5,
-      "fundamental_score": 84.9,
-      "total_score": 77.0,
-      "technical_breakdown": {
-        "trend": 60,
-        "momentum": 30,
-        "macd": 100,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 75,
-        "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 64.5
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +17.2% (~+5.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "RSI en zona de sobrecompra (81); posible correccion a corto plazo.",
-        "MACD en cruce alcista con impulso creciente.",
-        "Consenso de 52 analistas con precio objetivo medio de 244.02."
-      ],
-      "pe": 23.104692,
-      "num_analysts": 52,
-      "rank": 7
     },
     {
       "ticker": "WDC",
@@ -316,7 +278,7 @@
       ],
       "pe": 17.150055,
       "num_analysts": 24,
-      "rank": 8
+      "rank": 7
     },
     {
       "ticker": "PCTY",
@@ -353,6 +315,44 @@
       ],
       "pe": 32.16497,
       "num_analysts": 19,
+      "rank": 8
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 256.0,
+      "price_eur": 220.93,
+      "target_price": 299.91,
+      "target_price_eur": 258.82,
+      "upside_pct": 17.2,
+      "stop_loss": 234.15,
+      "stop_loss_eur": 202.07,
+      "stop_loss_pct": 8.5,
+      "technical_score": 70.5,
+      "fundamental_score": 84.8,
+      "total_score": 76.9,
+      "technical_breakdown": {
+        "trend": 60,
+        "momentum": 30,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 64.2
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +17.2% (~+5.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "RSI en zona de sobrecompra (81); posible correccion a corto plazo.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Consenso de 52 analistas con precio objetivo medio de 262.54."
+      ],
+      "pe": 23.104692,
+      "num_analysts": 52,
       "rank": 9
     },
     {

@@ -30,8 +30,8 @@
   "NVDA": {
     "rank": 5,
     "name": "NVIDIA Corporation",
-    "target_price": 261.67,
-    "upside_pct": 20.3,
+    "target_price": 270.48,
+    "upside_pct": 24.3,
     "total_score": 79.6
   },
   "ORCL": {
@@ -41,25 +41,25 @@
     "upside_pct": 30.9,
     "total_score": 77.4
   },
-  "CRM": {
-    "rank": 7,
-    "name": "Salesforce, Inc.",
-    "target_price": 299.91,
-    "upside_pct": 17.2,
-    "total_score": 77.0
-  },
   "WDC": {
-    "rank": 8,
+    "rank": 7,
     "name": "Western Digital Corporation",
     "target_price": 562.18,
     "upside_pct": 22.4,
     "total_score": 77.0
   },
   "PCTY": {
-    "rank": 9,
+    "rank": 8,
     "name": "Paylocity Holding Corporation",
     "target_price": 187.47,
     "upside_pct": 18.7,
+    "total_score": 76.9
+  },
+  "CRM": {
+    "rank": 9,
+    "name": "Salesforce, Inc.",
+    "target_price": 299.91,
+    "upside_pct": 17.2,
     "total_score": 76.9
   },
   "PSX": {
