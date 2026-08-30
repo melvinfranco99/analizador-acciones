@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T11:40:12",
-  "duration_seconds": 54.2,
+  "generated_at": "2026-08-30T16:27:08",
+  "duration_seconds": 45.8,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -84,7 +84,7 @@
         "Crecimiento de ingresos solido (30.9% interanual).",
         "Consenso de 18 analistas con precio objetivo medio de 291.56."
       ],
-      "pe": 44.445183,
+      "pe": 43.085346,
       "num_analysts": 18,
       "rank": 2
     },
@@ -199,7 +199,7 @@
         "Crecimiento de ingresos solido (105.9% interanual).",
         "Consenso de 58 analistas con precio objetivo medio de 323.42."
       ],
-      "pe": 27.468435,
+      "pe": 28.81457,
       "num_analysts": 58,
       "rank": 5
     },
@@ -237,7 +237,7 @@
         "Crecimiento de ingresos solido (20.6% interanual).",
         "Consenso de 42 analistas con precio objetivo medio de 244.12."
       ],
-      "pe": 25.919245,
+      "pe": 26.053541,
       "num_analysts": 42,
       "rank": 6
     },
@@ -273,10 +273,10 @@
         "Potencial estimado a 3 meses: +22.4% (~+7.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (43.8% interanual).",
-        "Valoracion contenida (PER 17.1x).",
+        "Valoracion contenida (PER 17.2x).",
         "Consenso de 24 analistas con precio objetivo medio de 664.92."
       ],
-      "pe": 17.067236,
+      "pe": 17.150055,
       "num_analysts": 24,
       "rank": 7
     },
@@ -313,7 +313,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 19 analistas con precio objetivo medio de 172.00."
       ],
-      "pe": 32.03448,
+      "pe": 32.16497,
       "num_analysts": 19,
       "rank": 8
     },
@@ -351,7 +351,7 @@
         "MACD en cruce alcista con impulso creciente.",
         "Consenso de 52 analistas con precio objetivo medio de 262.54."
       ],
-      "pe": 23.421774,
+      "pe": 23.104692,
       "num_analysts": 52,
       "rank": 9
     },
