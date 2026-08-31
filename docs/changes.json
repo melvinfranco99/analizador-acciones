@@ -1,5 +1,95 @@
 [
   {
+    "id": "83a36ca7b68aab21",
+    "date": "2026-08-31",
+    "ticker": "AJG",
+    "name": "Arthur J. Gallagher & Co.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Arthur J. Gallagher & Co. sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "9b1aed6eff04b8c4",
+    "date": "2026-08-31",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Oracle Corporation sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "0ee2ed0f9315dbbd",
+    "date": "2026-08-31",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Western Digital Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "3d06bb45c8fa6fb9",
+    "date": "2026-08-31",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paylocity Holding Corporation sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "80059189de9378ef",
+    "date": "2026-08-31",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Salesforce, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "c1b5fb790afaa472",
+    "date": "2026-08-31",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Micron Technology, Inc. entra en el Top 10 (puesto #1) con precio objetivo de 1236.07 $ (+28.9% a 3 meses)."
+  },
+  {
+    "id": "07d9f5fd3ae02eae",
+    "date": "2026-08-31",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Airbnb, Inc. entra en el Top 10 (puesto #6) con precio objetivo de 213.35 $ (+16.4% a 3 meses)."
+  },
+  {
+    "id": "e14cf1bcef38989e",
+    "date": "2026-08-31",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "IQVIA Holdings Inc. entra en el Top 10 (puesto #8) con precio objetivo de 313.18 $ (+19.9% a 3 meses)."
+  },
+  {
+    "id": "52943939420efcc3",
+    "date": "2026-08-31",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Atlassian Corporation entra en el Top 10 (puesto #9) con precio objetivo de 259.66 $ (+33.7% a 3 meses)."
+  },
+  {
+    "id": "1cc13890d4da60df",
+    "date": "2026-08-31",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "T-Mobile US, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 211.91 $ (+17.4% a 3 meses)."
+  },
+  {
     "id": "ff253778f2f3befa",
     "date": "2026-08-29",
     "ticker": "AJG",
@@ -664,6 +754,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Evercore ISI Group sube su precio objetivo de 170.00 $ a 210.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "bc4f7da628acf361",
+    "date": "2026-08-24",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 168.00 $ a 217.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "49184bb23f62cbde",
+    "date": "2026-08-24",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 190.00 $ a 200.00 $ (mantiene Outperform)."
   },
   {
     "id": "cef957e3c4f90e0f",
@@ -1683,6 +1791,15 @@
     "description": "New Street Research sube la recomendacion de Neutral a Buy. Precio objetivo: 1250.00 $."
   },
   {
+    "id": "71615e79c1d06341",
+    "date": "2026-08-14",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Wolfe Research baja la recomendacion de Outperform a Peer Perform."
+  },
+  {
     "id": "4744327481c661d8",
     "date": "2026-08-13",
     "ticker": "BBY",
@@ -1845,6 +1962,15 @@
     "description": "Barclays sube su precio objetivo de 112.00 $ a 172.00 $ (mantiene Overweight)."
   },
   {
+    "id": "615e76ef42e595f7",
+    "date": "2026-08-10",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 146.00 $ a 165.00 $ (mantiene Market Perform)."
+  },
+  {
     "id": "5071cbf24baecbbc",
     "date": "2026-08-08",
     "ticker": "TEAM",
@@ -1852,6 +1978,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 95.00 $ a 160.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "d5fc688491b1f33b",
+    "date": "2026-08-08",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 162.00 $ a 175.00 $ (mantiene Buy)."
   },
   {
     "id": "c3e6e4b917b4a8e7",
@@ -2043,6 +2178,114 @@
     "description": "BTIG sube su precio objetivo de 130.00 $ a 180.00 $ (mantiene Buy)."
   },
   {
+    "id": "5a1381c16234e85b",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 163.00 $ a 172.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "d86ee15aee8c9215",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 175.00 $ a 193.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "17601a82783eb55f",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 173.00 $ a 195.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "438c81771d69fe86",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Benchmark sube su precio objetivo de 160.00 $ a 180.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "aff7f62b9508192b",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 145.00 $ a 170.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "0e52d436231a1623",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 140.00 $ a 170.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "51058e3fd5876298",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 181.00 $ a 186.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "bf868bdf5747a844",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citizens sube su precio objetivo de 170.00 $ a 190.00 $ (mantiene Market Outperform)."
+  },
+  {
+    "id": "01201de4cfd1ea8c",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Wedbush sube la recomendacion de Neutral a Outperform. Precio objetivo: 200.00 $."
+  },
+  {
+    "id": "9d4c6c0338032862",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 180.00 $ a 190.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "c5650b731fdd7a64",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 170.00 $ a 200.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "349fa75db5829329",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 140.00 $ a 160.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "d726d884ec570407",
     "date": "2026-08-06",
     "ticker": "MPC",
@@ -2167,6 +2410,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "UBS baja su precio objetivo de 285.00 $ a 245.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "cc25f22e8d2da689",
+    "date": "2026-08-06",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-06: BPA real 1.37 $ vs estimado 1.25 $ (sorpresa +9.5%)."
   },
   {
     "id": "368f6340a80b1f3c",
@@ -2916,6 +3168,24 @@
     "description": "BTIG sube su precio objetivo de 186.00 $ a 203.00 $ (mantiene Buy)."
   },
   {
+    "id": "792255bf15fa3862",
+    "date": "2026-07-30",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 157.00 $ a 163.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "85faa0e0d5bdf932",
+    "date": "2026-07-30",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 120.00 $ a 125.00 $ (mantiene Underweight)."
+  },
+  {
     "id": "6d2aeae14ab5ccb6",
     "date": "2026-07-29",
     "ticker": "SWK",
@@ -3105,6 +3375,15 @@
     "description": "Morgan Stanley sube su precio objetivo de 620.00 $ a 650.00 $ (mantiene Overweight)."
   },
   {
+    "id": "ec705817c8267957",
+    "date": "2026-07-25",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 255.00 $ a 235.00 $ (mantiene Buy)."
+  },
+  {
     "id": "6688b8d117bbea98",
     "date": "2026-07-24",
     "ticker": "DELL",
@@ -3159,6 +3438,51 @@
     "description": "Piper Sandler baja su precio objetivo de 540.00 $ a 526.00 $ (mantiene Overweight)."
   },
   {
+    "id": "49b59799087f3de5",
+    "date": "2026-07-24",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 261.00 $ a 260.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f311dcc7889fd236",
+    "date": "2026-07-24",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 170.00 $ a 169.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "e79f5e3ab28624b0",
+    "date": "2026-07-24",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 230.00 $ a 215.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "4fb42d7e8e242230",
+    "date": "2026-07-24",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Benchmark baja su precio objetivo de 295.00 $ a 280.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "719b3bbebffb26c4",
+    "date": "2026-07-24",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Keybanc baja su precio objetivo de 260.00 $ a 250.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "aca4adc3ae7be16c",
     "date": "2026-07-23",
     "ticker": "INCY",
@@ -3193,6 +3517,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Cantor Fitzgerald sube su precio objetivo de 110.00 $ a 165.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2c936928e5ff7e88",
+    "date": "2026-07-23",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-23: BPA real 2.99 $ vs estimado 2.60 $ (sorpresa +14.9%)."
   },
   {
     "id": "88b0ba279f340b3b",
@@ -3339,6 +3672,15 @@
     "description": "Wells Fargo sube su precio objetivo de 70.00 $ a 120.00 $ (mantiene Underweight)."
   },
   {
+    "id": "845dfc5b6b3f9549",
+    "date": "2026-07-20",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 240.00 $ a 230.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "316cce20cf6147fa",
     "date": "2026-07-16",
     "ticker": "DXCM",
@@ -3409,6 +3751,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Mizuho sube su precio objetivo de 86.00 $ a 125.00 $ (mantiene Underperform)."
+  },
+  {
+    "id": "45d4c720dfa80692",
+    "date": "2026-07-15",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Scotiabank baja su precio objetivo de 263.00 $ a 243.00 $ (mantiene Sector Outperform)."
   },
   {
     "id": "7e637e9b511d5b08",
@@ -3499,6 +3850,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Evercore ISI Group baja su precio objetivo de 260.00 $ a 250.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e90274d6b4ecb646",
+    "date": "2026-07-14",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Buy)."
   },
   {
     "id": "84914d3126867589",
@@ -3825,6 +4185,15 @@
     "description": "Keybanc baja su precio objetivo de 130.00 $ a 115.00 $ (mantiene Overweight)."
   },
   {
+    "id": "f01a62ad07356a73",
+    "date": "2026-07-08",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 245.00 $ a 230.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "0e03abb82810a4c0",
     "date": "2026-07-07",
     "ticker": "INCY",
@@ -3841,6 +4210,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 275.00 $ a 292.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "05bd27b111e8e2f9",
+    "date": "2026-07-07",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 260.00 $ a 230.00 $ (mantiene Overweight)."
   },
   {
     "id": "f29e0819b4f5f5aa",
@@ -3877,6 +4255,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 240.00 $ a 255.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "e612ec5e12b0a76c",
+    "date": "2026-07-06",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "B of A Securities sube la recomendacion de Neutral a Buy. Precio objetivo: 220.00 $."
   },
   {
     "id": "6f0a5e9065d33fee",
@@ -4003,6 +4390,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Truist Securities baja su precio objetivo de 180.00 $ a 165.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ae71e47870c8d49a",
+    "date": "2026-06-29",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 150.00 $ a 160.00 $ (mantiene Outperform)."
   },
   {
     "id": "fefb083b10eb93b4",
@@ -4284,6 +4680,15 @@
     "description": "BMO Capital sube la recomendacion de Underperform a Market Perform. Precio objetivo: 94.00 $."
   },
   {
+    "id": "e239f143364515da",
+    "date": "2026-06-22",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 300.00 $ a 255.00 $ (mantiene Buy)."
+  },
+  {
     "id": "e8eb49fbd1d0d38f",
     "date": "2026-06-18",
     "ticker": "MU",
@@ -4462,6 +4867,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 115.00 $ a 155.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "f5a1a452582b5740",
+    "date": "2026-06-12",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 129.00 $ a 134.00 $ (mantiene Hold)."
   },
   {
     "id": "77775cd0180ca0ce",

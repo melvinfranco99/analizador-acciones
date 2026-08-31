@@ -1,72 +1,72 @@
 {
-  "MPC": {
+  "MU": {
     "rank": 1,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 458.58,
-    "upside_pct": 24.3,
-    "total_score": 84.5
+    "name": "Micron Technology, Inc.",
+    "target_price": 1236.07,
+    "upside_pct": 28.9,
+    "total_score": 90.0
   },
-  "AJG": {
+  "MPC": {
     "rank": 2,
-    "name": "Arthur J. Gallagher & Co.",
-    "target_price": 312.36,
-    "upside_pct": 16.7,
-    "total_score": 82.3
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 456.8,
+    "upside_pct": 22.4,
+    "total_score": 89.3
+  },
+  "NVDA": {
+    "rank": 3,
+    "name": "NVIDIA Corporation",
+    "target_price": 272.1,
+    "upside_pct": 23.2,
+    "total_score": 81.2
   },
   "VLO": {
-    "rank": 3,
+    "rank": 4,
     "name": "Valero Energy Corporation",
-    "target_price": 430.73,
-    "upside_pct": 22.2,
+    "target_price": 435.52,
+    "upside_pct": 21.3,
     "total_score": 80.6
   },
   "ZBRA": {
-    "rank": 4,
+    "rank": 5,
     "name": "Zebra Technologies Corporation",
-    "target_price": 438.98,
-    "upside_pct": 23.2,
+    "target_price": 426.81,
+    "upside_pct": 20.7,
     "total_score": 79.8
   },
-  "NVDA": {
-    "rank": 5,
-    "name": "NVIDIA Corporation",
-    "target_price": 270.48,
-    "upside_pct": 24.3,
-    "total_score": 79.6
-  },
-  "ORCL": {
+  "ABNB": {
     "rank": 6,
-    "name": "Oracle Corporation",
-    "target_price": 197.48,
-    "upside_pct": 30.9,
-    "total_score": 77.4
-  },
-  "WDC": {
-    "rank": 7,
-    "name": "Western Digital Corporation",
-    "target_price": 562.18,
-    "upside_pct": 22.4,
-    "total_score": 77.0
-  },
-  "PCTY": {
-    "rank": 8,
-    "name": "Paylocity Holding Corporation",
-    "target_price": 187.47,
-    "upside_pct": 18.7,
-    "total_score": 76.9
-  },
-  "CRM": {
-    "rank": 9,
-    "name": "Salesforce, Inc.",
-    "target_price": 299.91,
-    "upside_pct": 17.2,
-    "total_score": 76.9
+    "name": "Airbnb, Inc.",
+    "target_price": 213.35,
+    "upside_pct": 16.4,
+    "total_score": 76.4
   },
   "PSX": {
-    "rank": 10,
+    "rank": 7,
     "name": "Phillips 66",
-    "target_price": 292.17,
-    "upside_pct": 19.7,
+    "target_price": 292.85,
+    "upside_pct": 18.8,
     "total_score": 76.3
+  },
+  "IQV": {
+    "rank": 8,
+    "name": "IQVIA Holdings Inc.",
+    "target_price": 313.18,
+    "upside_pct": 19.9,
+    "total_score": 75.0
+  },
+  "TEAM": {
+    "rank": 9,
+    "name": "Atlassian Corporation",
+    "target_price": 259.66,
+    "upside_pct": 33.7,
+    "total_score": 73.9
+  },
+  "TMUS": {
+    "rank": 10,
+    "name": "T-Mobile US, Inc.",
+    "target_price": 211.91,
+    "upside_pct": 17.4,
+    "total_score": 72.9
   }
 }
