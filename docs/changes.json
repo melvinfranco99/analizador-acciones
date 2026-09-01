@@ -54,6 +54,60 @@
     "description": "Paychex, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 148.14 $ (+16.3% a 3 meses)."
   },
   {
+    "id": "da094b6bf2f6b584",
+    "date": "2026-09-01",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paylocity Holding Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "c6e14b824c5a2642",
+    "date": "2026-09-01",
+    "ticker": "PANW",
+    "name": "Palo Alto Networks, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Palo Alto Networks, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "29a822a97c9c4114",
+    "date": "2026-09-01",
+    "ticker": "PAYX",
+    "name": "Paychex, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paychex, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "409615b02d09de50",
+    "date": "2026-09-01",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amgen Inc. entra en el Top 10 (puesto #8) con precio objetivo de 501.40 $ (+16.0% a 3 meses)."
+  },
+  {
+    "id": "dd72db201d5d6e8a",
+    "date": "2026-09-01",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Oracle Corporation entra en el Top 10 (puesto #9) con precio objetivo de 191.24 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "c316a26bafa373fa",
+    "date": "2026-09-01",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Atlassian Corporation entra en el Top 10 (puesto #10) con precio objetivo de 252.38 $ (+35.0% a 3 meses)."
+  },
+  {
     "id": "83a36ca7b68aab21",
     "date": "2026-08-31",
     "ticker": "AJG",
@@ -1143,6 +1197,15 @@
     "description": "BMO Capital sube su precio objetivo de 335.00 $ a 415.00 $ (mantiene Outperform)."
   },
   {
+    "id": "08adbccf3bad1676",
+    "date": "2026-08-20",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 427.00 $ a 457.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "3b93195006e4315d",
     "date": "2026-08-19",
     "ticker": "ZBRA",
@@ -1404,6 +1467,15 @@
     "description": "Cantor Fitzgerald sube su precio objetivo de 340.00 $ a 425.00 $ (mantiene Overweight)."
   },
   {
+    "id": "60212d4b4c7efd34",
+    "date": "2026-08-19",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 375.00 $ a 460.00 $ (mantiene Buy)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
@@ -1573,6 +1645,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 187.00 $ a 204.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "338963436ce78d34",
+    "date": "2026-08-18",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 303.00 $ a 352.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "728c56a36d26ddc8",
+    "date": "2026-08-18",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 350.00 $ a 400.00 $ (mantiene Neutral)."
   },
   {
     "id": "c9c6e3f7bb563cfc",
@@ -1953,6 +2043,15 @@
     "description": "RBC Capital sube su precio objetivo de 330.00 $ a 434.00 $ (mantiene Outperform)."
   },
   {
+    "id": "581feb99cb1efefb",
+    "date": "2026-08-14",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 360.00 $ a 380.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "4744327481c661d8",
     "date": "2026-08-13",
     "ticker": "BBY",
@@ -2131,6 +2230,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "BMO Capital sube su precio objetivo de 146.00 $ a 165.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "84ae26b4873d1e9b",
+    "date": "2026-08-10",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 343.00 $ a 388.00 $ (mantiene Neutral)."
   },
   {
     "id": "5071cbf24baecbbc",
@@ -2448,6 +2556,15 @@
     "description": "Cantor Fitzgerald sube su precio objetivo de 140.00 $ a 160.00 $ (mantiene Neutral)."
   },
   {
+    "id": "50f56dc3975ddea5",
+    "date": "2026-08-07",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 345.00 $ a 405.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "d726d884ec570407",
     "date": "2026-08-06",
     "ticker": "MPC",
@@ -2581,6 +2698,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-06: BPA real 1.37 $ vs estimado 1.25 $ (sorpresa +9.5%)."
+  },
+  {
+    "id": "b94b93dea3f4f376",
+    "date": "2026-08-06",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 335.00 $ a 345.00 $ (mantiene Market Perform)."
   },
   {
     "id": "368f6340a80b1f3c",
@@ -2862,6 +2988,78 @@
     "description": "Barclays sube su precio objetivo de 315.00 $ a 370.00 $ (mantiene Overweight)."
   },
   {
+    "id": "e4524c4b686eea9a",
+    "date": "2026-08-05",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 420.00 $ a 440.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f18ac9aae791f485",
+    "date": "2026-08-05",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 420.00 $ a 452.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "cee8ef5ce4e40df1",
+    "date": "2026-08-05",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 340.00 $ a 362.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "29ee5308ad65f7a0",
+    "date": "2026-08-05",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 400.00 $ a 450.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e9bc2565850df945",
+    "date": "2026-08-05",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Scotiabank sube su precio objetivo de 385.00 $ a 450.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "a8fb9e1877ea119c",
+    "date": "2026-08-05",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 370.00 $ a 400.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "f83766909f592500",
+    "date": "2026-08-05",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 390.00 $ a 400.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "c33b0deafee87afd",
+    "date": "2026-08-05",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 400.00 $ a 450.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "06e96903c0045c74",
     "date": "2026-08-04",
     "ticker": "MPC",
@@ -2941,6 +3139,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Oppenheimer sube su precio objetivo de 350.00 $ a 400.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "da86e79720c24e0d",
+    "date": "2026-08-04",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-04: BPA real 6.29 $ vs estimado 5.62 $ (sorpresa +12.0%)."
   },
   {
     "id": "0e2fe53cb73807a6",
@@ -3499,6 +3706,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-07-29: BPA real 0.90 $ vs estimado 0.75 $ (sorpresa +20.5%)."
+  },
+  {
+    "id": "d946caa14241eead",
+    "date": "2026-07-29",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 350.00 $ a 360.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "83b7d6a918897987",
@@ -4239,6 +4455,24 @@
     "description": "Citigroup sube su precio objetivo de 340.00 $ a 400.00 $ (mantiene Buy)."
   },
   {
+    "id": "5e9d6821d975cecc",
+    "date": "2026-07-13",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 400.00 $ a 420.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "c05f945927d0b668",
+    "date": "2026-07-13",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 340.00 $ a 343.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "e8d65be4a94e1ce7",
     "date": "2026-07-10",
     "ticker": "WDC",
@@ -4410,6 +4644,15 @@
     "description": "Evercore ISI Group baja su precio objetivo de 375.00 $ a 320.00 $ (mantiene Outperform)."
   },
   {
+    "id": "60ec38f000046ec3",
+    "date": "2026-07-08",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 340.00 $ a 333.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "0e03abb82810a4c0",
     "date": "2026-07-07",
     "ticker": "INCY",
@@ -4444,6 +4687,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Needham sube su precio objetivo de 350.00 $ a 425.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "70480866600cde91",
+    "date": "2026-07-07",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 327.00 $ a 340.00 $ (mantiene Hold)."
   },
   {
     "id": "f29e0819b4f5f5aa",
@@ -5013,6 +5265,15 @@
     "description": "Morgan Stanley baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 200.00 $."
   },
   {
+    "id": "190b52a615add786",
+    "date": "2026-06-16",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 295.00 $ a 303.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "5bdace139db360d8",
     "date": "2026-06-15",
     "ticker": "MU",
@@ -5227,6 +5488,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-06-10: BPA real 2.11 $ vs estimado 1.96 $ (sorpresa +7.5%)."
+  },
+  {
+    "id": "32c25c5e65b8c6ea",
+    "date": "2026-06-10",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 332.00 $ a 340.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "18831d0746929fd2",

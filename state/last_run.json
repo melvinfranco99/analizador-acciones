@@ -1,72 +1,72 @@
 {
-  "MU": {
-    "rank": 1,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1236.07,
-    "upside_pct": 28.9,
-    "total_score": 90.0
-  },
   "MPC": {
-    "rank": 2,
+    "rank": 1,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 467.54,
-    "upside_pct": 25.2,
+    "target_price": 462.98,
+    "upside_pct": 23.0,
     "total_score": 89.3
   },
   "PSX": {
-    "rank": 3,
+    "rank": 2,
     "name": "Phillips 66",
-    "target_price": 297.06,
-    "upside_pct": 20.5,
+    "target_price": 297.21,
+    "upside_pct": 19.4,
     "total_score": 87.3
   },
   "VLO": {
-    "rank": 4,
+    "rank": 3,
     "name": "Valero Energy Corporation",
-    "target_price": 443.58,
-    "upside_pct": 23.6,
+    "target_price": 436.06,
+    "upside_pct": 21.4,
     "total_score": 86.8
+  },
+  "MU": {
+    "rank": 4,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1232.3,
+    "upside_pct": 29.6,
+    "total_score": 82.4
   },
   "NVDA": {
     "rank": 5,
     "name": "NVIDIA Corporation",
-    "target_price": 272.1,
-    "upside_pct": 23.2,
+    "target_price": 271.35,
+    "upside_pct": 23.7,
     "total_score": 81.2
   },
   "ZBRA": {
     "rank": 6,
     "name": "Zebra Technologies Corporation",
-    "target_price": 433.31,
-    "upside_pct": 22.6,
+    "target_price": 413.46,
+    "upside_pct": 19.3,
     "total_score": 79.8
   },
-  "PCTY": {
-    "rank": 7,
-    "name": "Paylocity Holding Corporation",
-    "target_price": 191.79,
-    "upside_pct": 19.7,
-    "total_score": 76.9
-  },
   "ABNB": {
-    "rank": 8,
+    "rank": 7,
     "name": "Airbnb, Inc.",
-    "target_price": 217.52,
-    "upside_pct": 18.7,
+    "target_price": 211.18,
+    "upside_pct": 16.0,
     "total_score": 76.4
   },
-  "PANW": {
-    "rank": 9,
-    "name": "Palo Alto Networks, Inc.",
-    "target_price": 450.26,
-    "upside_pct": 17.8,
-    "total_score": 75.8
+  "AMGN": {
+    "rank": 8,
+    "name": "Amgen Inc.",
+    "target_price": 501.4,
+    "upside_pct": 16.0,
+    "total_score": 76.4
   },
-  "PAYX": {
+  "ORCL": {
+    "rank": 9,
+    "name": "Oracle Corporation",
+    "target_price": 191.24,
+    "upside_pct": 35.0,
+    "total_score": 75.4
+  },
+  "TEAM": {
     "rank": 10,
-    "name": "Paychex, Inc.",
-    "target_price": 148.14,
-    "upside_pct": 16.3,
-    "total_score": 75.8
+    "name": "Atlassian Corporation",
+    "target_price": 252.38,
+    "upside_pct": 35.0,
+    "total_score": 74.5
   }
 }
