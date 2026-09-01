@@ -1,72 +1,72 @@
 {
-  "MPC": {
-    "rank": 1,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 462.98,
-    "upside_pct": 23.0,
-    "total_score": 89.3
-  },
   "PSX": {
-    "rank": 2,
+    "rank": 1,
     "name": "Phillips 66",
-    "target_price": 297.21,
-    "upside_pct": 19.4,
+    "target_price": 303.14,
+    "upside_pct": 20.3,
     "total_score": 87.3
   },
   "VLO": {
-    "rank": 3,
+    "rank": 2,
     "name": "Valero Energy Corporation",
-    "target_price": 436.06,
-    "upside_pct": 21.4,
+    "target_price": 441.46,
+    "upside_pct": 22.0,
     "total_score": 86.8
   },
-  "MU": {
-    "rank": 4,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1232.3,
-    "upside_pct": 29.6,
-    "total_score": 82.4
-  },
-  "NVDA": {
-    "rank": 5,
-    "name": "NVIDIA Corporation",
-    "target_price": 271.35,
-    "upside_pct": 23.7,
-    "total_score": 81.2
+  "MPC": {
+    "rank": 3,
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 475.83,
+    "upside_pct": 24.2,
+    "total_score": 83.8
   },
   "ZBRA": {
-    "rank": 6,
+    "rank": 4,
     "name": "Zebra Technologies Corporation",
-    "target_price": 413.46,
-    "upside_pct": 19.3,
+    "target_price": 408.15,
+    "upside_pct": 18.8,
     "total_score": 79.8
   },
   "ABNB": {
-    "rank": 7,
+    "rank": 5,
     "name": "Airbnb, Inc.",
-    "target_price": 211.18,
-    "upside_pct": 16.0,
+    "target_price": 212.12,
+    "upside_pct": 16.2,
     "total_score": 76.4
   },
-  "AMGN": {
-    "rank": 8,
-    "name": "Amgen Inc.",
-    "target_price": 501.4,
-    "upside_pct": 16.0,
-    "total_score": 76.4
+  "NVDA": {
+    "rank": 6,
+    "name": "NVIDIA Corporation",
+    "target_price": 270.43,
+    "upside_pct": 24.4,
+    "total_score": 76.3
   },
   "ORCL": {
-    "rank": 9,
+    "rank": 7,
     "name": "Oracle Corporation",
-    "target_price": 191.24,
+    "target_price": 190.78,
     "upside_pct": 35.0,
     "total_score": 75.4
   },
   "TEAM": {
-    "rank": 10,
+    "rank": 8,
     "name": "Atlassian Corporation",
-    "target_price": 252.38,
+    "target_price": 252.49,
     "upside_pct": 35.0,
     "total_score": 74.5
+  },
+  "REGN": {
+    "rank": 9,
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "target_price": 977.51,
+    "upside_pct": 18.7,
+    "total_score": 74.1
+  },
+  "TMUS": {
+    "rank": 10,
+    "name": "T-Mobile US, Inc.",
+    "target_price": 212.77,
+    "upside_pct": 16.8,
+    "total_score": 72.9
   }
 }

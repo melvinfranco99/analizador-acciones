@@ -108,6 +108,42 @@
     "description": "Atlassian Corporation entra en el Top 10 (puesto #10) con precio objetivo de 252.38 $ (+35.0% a 3 meses)."
   },
   {
+    "id": "e114a030eb8dccb0",
+    "date": "2026-09-01",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Micron Technology, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "2a7e74cbee7b86e7",
+    "date": "2026-09-01",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amgen Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "cac144d66f9e6766",
+    "date": "2026-09-01",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Regeneron Pharmaceuticals, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 977.51 $ (+18.7% a 3 meses)."
+  },
+  {
+    "id": "8535cbe36fbc2b5a",
+    "date": "2026-09-01",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "T-Mobile US, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 212.77 $ (+16.8% a 3 meses)."
+  },
+  {
     "id": "83a36ca7b68aab21",
     "date": "2026-08-31",
     "ticker": "AJG",
@@ -1818,6 +1854,15 @@
     "description": "Wells Fargo sube su precio objetivo de 420.00 $ a 475.00 $ (mantiene Overweight)."
   },
   {
+    "id": "3e40d17c4437639d",
+    "date": "2026-08-17",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Leerink Partners sube su precio objetivo de 641.00 $ a 824.00 $ (mantiene Market Perform)."
+  },
+  {
     "id": "1a0219f05df38afb",
     "date": "2026-08-16",
     "ticker": "MU",
@@ -3195,6 +3240,24 @@
     "description": "Wells Fargo baja su precio objetivo de 299.00 $ a 296.00 $ (mantiene Overweight)."
   },
   {
+    "id": "b2f0390991a09830",
+    "date": "2026-08-03",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 700.00 $ a 740.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "549d8bedb963f611",
+    "date": "2026-08-03",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 1000.00 $ a 1030.00 $ (mantiene Buy)."
+  },
+  {
     "id": "9d10ecd95c1e7404",
     "date": "2026-07-31",
     "ticker": "VLO",
@@ -3384,6 +3447,51 @@
     "description": "Susquehanna sube su precio objetivo de 115.00 $ a 160.00 $ (mantiene Neutral)."
   },
   {
+    "id": "e4194df0472cdf9a",
+    "date": "2026-07-31",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 696.00 $ a 737.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "96698e739d4b3fd5",
+    "date": "2026-07-31",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 730.00 $ a 758.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "25583f055c15da7b",
+    "date": "2026-07-31",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 750.00 $ a 795.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "3ed092132859ae8a",
+    "date": "2026-07-31",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 700.00 $ a 750.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "64e96fe763a9ffe9",
+    "date": "2026-07-31",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 769.00 $ a 772.00 $ (mantiene Buy)."
+  },
+  {
     "id": "fa8129794ba9ce62",
     "date": "2026-07-30",
     "ticker": "VLO",
@@ -3571,6 +3679,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 120.00 $ a 125.00 $ (mantiene Underweight)."
+  },
+  {
+    "id": "d857fce938380209",
+    "date": "2026-07-30",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-30: BPA real 14.29 $ vs estimado 10.21 $ (sorpresa +40.0%)."
   },
   {
     "id": "6d2aeae14ab5ccb6",
@@ -4068,6 +4185,15 @@
     "description": "Morgan Stanley sube su precio objetivo de 320.00 $ a 387.00 $ (mantiene Overweight)."
   },
   {
+    "id": "a30b14439750aeb4",
+    "date": "2026-07-21",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 995.00 $ a 1000.00 $ (mantiene Buy)."
+  },
+  {
     "id": "a0b15227b5750253",
     "date": "2026-07-20",
     "ticker": "FTNT",
@@ -4563,6 +4689,15 @@
     "description": "Keybanc baja la recomendacion de Overweight a Sector Weight."
   },
   {
+    "id": "222bc0e0287db8f5",
+    "date": "2026-07-09",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 855.00 $ a 854.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "2cd9b6987d7808b5",
     "date": "2026-07-08",
     "ticker": "DELL",
@@ -4653,6 +4788,15 @@
     "description": "Morgan Stanley baja su precio objetivo de 340.00 $ a 333.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "e3d20430c2dfee40",
+    "date": "2026-07-08",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 788.00 $ a 730.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "0e03abb82810a4c0",
     "date": "2026-07-07",
     "ticker": "INCY",
@@ -4698,6 +4842,33 @@
     "description": "Truist Securities sube su precio objetivo de 327.00 $ a 340.00 $ (mantiene Hold)."
   },
   {
+    "id": "3659274413173fe5",
+    "date": "2026-07-07",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 707.00 $ a 696.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "16d4ae7b135fcdf2",
+    "date": "2026-07-07",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 778.00 $ a 769.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "32d2f3384f475cde",
+    "date": "2026-07-07",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Benchmark sube la recomendacion de Hold a Buy. Precio objetivo: 185.00 $."
+  },
+  {
     "id": "f29e0819b4f5f5aa",
     "date": "2026-07-06",
     "ticker": "A",
@@ -4741,6 +4912,24 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "B of A Securities sube la recomendacion de Neutral a Buy. Precio objetivo: 220.00 $."
+  },
+  {
+    "id": "ba8f89694e4e0337",
+    "date": "2026-07-06",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "HSBC baja su precio objetivo de 990.00 $ a 880.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e14b526a8c8e1ad5",
+    "date": "2026-07-06",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Cantor Fitzgerald baja su precio objetivo de 785.00 $ a 750.00 $ (mantiene Overweight)."
   },
   {
     "id": "6f0a5e9065d33fee",
