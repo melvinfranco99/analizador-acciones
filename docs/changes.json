@@ -144,6 +144,51 @@
     "description": "T-Mobile US, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 212.77 $ (+16.8% a 3 meses)."
   },
   {
+    "id": "d6f9747a4e1cb391",
+    "date": "2026-09-01",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 356.00 $ a 389.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "f76f459239ca9298",
+    "date": "2026-09-01",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 359.00 $ a 400.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1482573c1288fced",
+    "date": "2026-09-01",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 239.00 $ a 335.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "ca5fd517207a2df6",
+    "date": "2026-09-01",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 300.00 $ a 240.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e3df105221770070",
+    "date": "2026-09-01",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 170.00 $ a 225.00 $ (mantiene Buy)."
+  },
+  {
     "id": "83a36ca7b68aab21",
     "date": "2026-08-31",
     "ticker": "AJG",
@@ -232,6 +277,24 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "T-Mobile US, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 211.91 $ (+17.4% a 3 meses)."
+  },
+  {
+    "id": "ae8aaf82384da92b",
+    "date": "2026-08-31",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 175.00 $ a 220.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "805e284eb4d59e16",
+    "date": "2026-08-31",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 175.00 $ a 210.00 $ (mantiene Buy)."
   },
   {
     "id": "ff253778f2f3befa",
@@ -574,6 +637,132 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Western Digital Corporation entra en el Top 10 (puesto #10) con precio objetivo de 563.46 $ (+22.0% a 3 meses)."
+  },
+  {
+    "id": "695171ea8f944ffa",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 300.00 $ a 315.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "1265bf4310a1b8b8",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 300.00 $ a 315.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "dcf5630d9b87c941",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 280.00 $ a 320.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7e0fbc595b91f0f0",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 315.00 $ a 400.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "96757abcdedb6fdb",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 300.00 $ a 330.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "6fef7825afd15905",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 280.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "2c39bddb7eabd683",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 265.00 $ a 315.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "910864c0e185e9d0",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 325.00 $ a 390.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f2478fd4e02c241c",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 288.00 $ a 300.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "a36bd87eb6025297",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 330.00 $ a 345.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "1489857c88393def",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 307.00 $ a 346.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e00fb077f3defe71",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 413.00 $ a 465.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "73436baf7a8b5f16",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 270.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "1792940e0769a1a2",
+    "date": "2026-08-27",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 352.00 $ a 515.00 $ (mantiene Strong Buy)."
   },
   {
     "id": "4216a50735f70d54",
@@ -2610,6 +2799,51 @@
     "description": "Citigroup sube su precio objetivo de 345.00 $ a 405.00 $ (mantiene Neutral)."
   },
   {
+    "id": "e5709eaa31c32487",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "8021d7ddd99ccac8",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 125.00 $ a 150.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "5f56b3f7c27409a2",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2a5818eec37eeb78",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B. Riley Securities sube su precio objetivo de 180.00 $ a 210.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "5351c4cd37131f3f",
+    "date": "2026-08-07",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 180.00 $ a 200.00 $ (mantiene Buy)."
+  },
+  {
     "id": "d726d884ec570407",
     "date": "2026-08-06",
     "ticker": "MPC",
@@ -4210,6 +4444,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "RBC Capital baja su precio objetivo de 240.00 $ a 230.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e031bf5c1c9582c0",
+    "date": "2026-07-20",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Goldman Sachs baja su precio objetivo de 157.00 $ a 155.00 $ (mantiene Sell)."
   },
   {
     "id": "316cce20cf6147fa",
@@ -5839,302 +6082,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 320.00 $ a 330.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "3436be4b50c37f2c",
-    "date": "2026-06-03",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 520.00 $ a 1050.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "0233b14ca9248d25",
-    "date": "2026-06-03",
-    "ticker": "A",
-    "name": "Agilent Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "HSBC baja su precio objetivo de 180.00 $ a 165.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "d529c13faacf1c70",
-    "date": "2026-06-03",
-    "ticker": "HPE",
-    "name": "Hewlett Packard Enterprise Company",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Goldman Sachs sube su precio objetivo de 32.00 $ a 79.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "ad0fae698910f422",
-    "date": "2026-06-03",
-    "ticker": "HPE",
-    "name": "Hewlett Packard Enterprise Company",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Argus Research sube su precio objetivo de 30.00 $ a 70.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "b4eb227274abbdf6",
-    "date": "2026-06-03",
-    "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc",
-    "category": "analista",
-    "type": "downgrade_analista",
-    "description": "HSBC baja la recomendacion de Buy a Hold. Precio objetivo: 540.00 $."
-  },
-  {
-    "id": "e9662022d7d465b2",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 210.00 $ a 340.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "265aa6a612ce844d",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 183.00 $ a 300.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "6f0d611b158da8f3",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 265.00 $ a 305.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "b865db27fa7b235b",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 253.00 $ a 320.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "5791ac9b3311b70c",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "BNP Paribas sube su precio objetivo de 220.00 $ a 330.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "82ed37e960c89eda",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Susquehanna sube su precio objetivo de 200.00 $ a 350.00 $ (mantiene Positive)."
-  },
-  {
-    "id": "a0a157ab2e0613d3",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Piper Sandler sube su precio objetivo de 265.00 $ a 345.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "3d3eaa7d4693c3fe",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "JP Morgan sube su precio objetivo de 300.00 $ a 326.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "549196c6172fb581",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "RBC Capital sube su precio objetivo de 255.00 $ a 330.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "e459db08f2873152",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Jefferies sube su precio objetivo de 300.00 $ a 335.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "23c8ddd46fcff479",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Stifel sube su precio objetivo de 275.00 $ a 330.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "1900852c05c19a21",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Evercore ISI Group sube su precio objetivo de 320.00 $ a 375.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "9dd2a85148c7e84c",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Oppenheimer sube su precio objetivo de 275.00 $ a 350.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "c73b640082cd5f35",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Truist Securities sube su precio objetivo de 275.00 $ a 375.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "107d6649fd470f3b",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Rosenblatt sube su precio objetivo de 275.00 $ a 355.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "a2669d40945873a4",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "TD Cowen sube su precio objetivo de 255.00 $ a 330.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "232af9380f32a453",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "BMO Capital sube su precio objetivo de 270.00 $ a 335.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "4d5b6df1b25eb44b",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 285.00 $ a 325.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "89d098f35976bcb3",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Cantor Fitzgerald sube su precio objetivo de 285.00 $ a 340.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "68c7941cfdb498d9",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wedbush sube su precio objetivo de 300.00 $ a 340.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "a90c6cc29ea81b30",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 220.00 $ a 315.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "b47c56d78b06b9ad",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Scotiabank sube su precio objetivo de 180.00 $ a 320.00 $ (mantiene Sector Outperform)."
-  },
-  {
-    "id": "2d0ba6fa5948d92f",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Loop Capital sube su precio objetivo de 160.00 $ a 290.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "f7d7122708eccdda",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "DA Davidson sube su precio objetivo de 190.00 $ a 345.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "246bfd62af7ce7b0",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Stephens & Co. sube su precio objetivo de 180.00 $ a 300.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "b51c65e53018b30e",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Benchmark sube su precio objetivo de 270.00 $ a 340.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "b8bf99eef927f46b",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Needham sube su precio objetivo de 200.00 $ a 350.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "c8ceb815301607b7",
-    "date": "2026-06-03",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "BTIG sube su precio objetivo de 268.00 $ a 333.00 $ (mantiene Buy)."
   }
 ]
