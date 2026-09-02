@@ -1,72 +1,72 @@
 {
-  "NVDA": {
+  "MU": {
     "rank": 1,
-    "name": "NVIDIA Corporation",
-    "target_price": 276.64,
-    "upside_pct": 21.7,
-    "total_score": 90.6
+    "name": "Micron Technology, Inc.",
+    "target_price": 1234.6,
+    "upside_pct": 29.1,
+    "total_score": 87.2
   },
-  "INCY": {
+  "ZBRA": {
     "rank": 2,
-    "name": "Incyte Corporation",
-    "target_price": 150.75,
-    "upside_pct": 18.8,
-    "total_score": 86.1
+    "name": "Zebra Technologies Corporation",
+    "target_price": 422.8,
+    "upside_pct": 20.4,
+    "total_score": 84.6
+  },
+  "NVDA": {
+    "rank": 3,
+    "name": "NVIDIA Corporation",
+    "target_price": 275.2,
+    "upside_pct": 22.6,
+    "total_score": 84.4
   },
   "VLO": {
-    "rank": 3,
+    "rank": 4,
     "name": "Valero Energy Corporation",
-    "target_price": 442.4,
-    "upside_pct": 21.0,
+    "target_price": 440.34,
+    "upside_pct": 20.3,
     "total_score": 84.0
   },
   "MPC": {
-    "rank": 4,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 477.94,
-    "upside_pct": 23.7,
-    "total_score": 83.8
-  },
-  "MU": {
     "rank": 5,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1229.83,
-    "upside_pct": 29.9,
-    "total_score": 82.4
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 474.51,
+    "upside_pct": 22.6,
+    "total_score": 83.8
   },
   "PSX": {
     "rank": 6,
     "name": "Phillips 66",
-    "target_price": 306.49,
-    "upside_pct": 20.2,
+    "target_price": 306.54,
+    "upside_pct": 19.7,
     "total_score": 81.8
   },
-  "ZBRA": {
+  "WDAY": {
     "rank": 7,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 410.26,
-    "upside_pct": 18.2,
-    "total_score": 79.8
-  },
-  "ABNB": {
-    "rank": 8,
-    "name": "Airbnb, Inc.",
-    "target_price": 215.44,
-    "upside_pct": 18.0,
-    "total_score": 76.4
+    "name": "Workday, Inc.",
+    "target_price": 237.77,
+    "upside_pct": 18.4,
+    "total_score": 78.8
   },
   "AMGN": {
-    "rank": 9,
+    "rank": 8,
     "name": "Amgen Inc.",
-    "target_price": 509.46,
-    "upside_pct": 16.8,
+    "target_price": 513.03,
+    "upside_pct": 15.8,
+    "total_score": 77.1
+  },
+  "ABNB": {
+    "rank": 9,
+    "name": "Airbnb, Inc.",
+    "target_price": 217.33,
+    "upside_pct": 18.6,
     "total_score": 76.4
   },
-  "TEAM": {
+  "PCTY": {
     "rank": 10,
-    "name": "Atlassian Corporation",
-    "target_price": 249.93,
-    "upside_pct": 35.0,
-    "total_score": 74.5
+    "name": "Paylocity Holding Corporation",
+    "target_price": 183.23,
+    "upside_pct": 18.5,
+    "total_score": 76.3
   }
 }

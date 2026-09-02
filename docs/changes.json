@@ -54,6 +54,42 @@
     "description": "Amgen Inc. entra en el Top 10 (puesto #9) con precio objetivo de 509.46 $ (+16.8% a 3 meses)."
   },
   {
+    "id": "9c993af8374ed949",
+    "date": "2026-09-02",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Incyte Corporation sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "747da88e96f0bf2d",
+    "date": "2026-09-02",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Atlassian Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "c3bb26c142ca2cb6",
+    "date": "2026-09-02",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Workday, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 237.77 $ (+18.4% a 3 meses)."
+  },
+  {
+    "id": "4e795ca908f9f83a",
+    "date": "2026-09-02",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #10) con precio objetivo de 183.23 $ (+18.5% a 3 meses)."
+  },
+  {
     "id": "ad447f9dd335913c",
     "date": "2026-09-01",
     "ticker": "IQV",
@@ -351,6 +387,15 @@
     "description": "B of A Securities sube su precio objetivo de 175.00 $ a 210.00 $ (mantiene Buy)."
   },
   {
+    "id": "9772e5a6caf292fa",
+    "date": "2026-08-31",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 151.00 $ a 164.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "ff253778f2f3befa",
     "date": "2026-08-29",
     "ticker": "AJG",
@@ -565,6 +610,141 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #9) con precio objetivo de 187.47 $ (+18.7% a 3 meses)."
+  },
+  {
+    "id": "b9c4157cb6194540",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Freedom Broker baja la recomendacion de Buy a Hold. Precio objetivo: 200.00 $."
+  },
+  {
+    "id": "56c190bf94006c01",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 215.00 $ a 225.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "2290733eef4d2016",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 115.00 $ a 160.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "e1fe70fba4f2a657",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 139.00 $ a 201.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "f306788afb493201",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 200.00 $ a 224.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "4ac129898f941117",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 220.00 $ a 210.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "a5ae7ae506168b24",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 220.00 $ a 240.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "06b5d8c3e20f0524",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 135.00 $ a 190.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "89ed071393858fed",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 216.00 $ a 238.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "45f40d6cec27a078",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 158.00 $ a 215.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "2b70e399a67525c1",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 182.00 $ a 230.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "91ee61e58f8544ac",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Cantor Fitzgerald baja su precio objetivo de 220.00 $ a 205.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7df5a5a6adc547db",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 145.00 $ a 180.00 $ (mantiene Underweight)."
+  },
+  {
+    "id": "53ff73f7350354d5",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 180.00 $ a 230.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f1977f34aac69917",
+    "date": "2026-08-28",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 145.00 $ a 190.00 $ (mantiene Neutral)."
   },
   {
     "id": "e6e3783f7f24cc6c",
@@ -819,6 +999,15 @@
     "description": "Raymond James sube su precio objetivo de 352.00 $ a 515.00 $ (mantiene Strong Buy)."
   },
   {
+    "id": "97b8964681d98ad7",
+    "date": "2026-08-27",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-27: BPA real 2.75 $ vs estimado 2.61 $ (sorpresa +5.3%)."
+  },
+  {
     "id": "4216a50735f70d54",
     "date": "2026-08-26",
     "ticker": "MU",
@@ -1071,6 +1260,15 @@
     "description": "JP Morgan sube su precio objetivo de 326.00 $ a 384.00 $ (mantiene Overweight)."
   },
   {
+    "id": "e4c898034a081819",
+    "date": "2026-08-25",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 200.00 $ a 225.00 $ (mantiene Buy)."
+  },
+  {
     "id": "af4ab1995538e12c",
     "date": "2026-08-24",
     "ticker": "PAYX",
@@ -1177,6 +1375,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Benchmark sube su precio objetivo de 340.00 $ a 400.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "162499ba03acc0a6",
+    "date": "2026-08-24",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 205.00 $ a 225.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "017a984968e9ade2",
+    "date": "2026-08-24",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 165.00 $ a 220.00 $ (mantiene Outperform)."
   },
   {
     "id": "cef957e3c4f90e0f",
@@ -1764,6 +1980,15 @@
     "description": "Morgan Stanley sube su precio objetivo de 351.00 $ a 362.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "5250864730a0f019",
+    "date": "2026-08-19",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 140.00 $ a 205.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
@@ -2115,6 +2340,15 @@
     "description": "Leerink Partners sube su precio objetivo de 641.00 $ a 824.00 $ (mantiene Market Perform)."
   },
   {
+    "id": "46dfd19fe28adfec",
+    "date": "2026-08-17",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "BTIG baja la recomendacion de Buy a Neutral."
+  },
+  {
     "id": "1a0219f05df38afb",
     "date": "2026-08-16",
     "ticker": "MU",
@@ -2349,6 +2583,33 @@
     "description": "Barclays sube su precio objetivo de 360.00 $ a 380.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "320f09e01263f206",
+    "date": "2026-08-14",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 140.00 $ a 205.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "12af5a12673ad2a2",
+    "date": "2026-08-14",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 190.00 $ a 215.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "03003dbb3df6ec4c",
+    "date": "2026-08-14",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 140.00 $ a 220.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "4744327481c661d8",
     "date": "2026-08-13",
     "ticker": "BBY",
@@ -2365,6 +2626,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Jefferies sube su precio objetivo de 105.00 $ a 120.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "1875650155d1855d",
+    "date": "2026-08-13",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 180.00 $ a 220.00 $ (mantiene Outperform)."
   },
   {
     "id": "a5361ea9f5514aa1",
@@ -2419,6 +2689,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citizens sube su precio objetivo de 320.00 $ a 415.00 $ (mantiene Market Outperform)."
+  },
+  {
+    "id": "f0a4ad51949bed82",
+    "date": "2026-08-12",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 185.00 $ a 215.00 $ (mantiene Overweight)."
   },
   {
     "id": "f499ddb7ceee3b44",
@@ -4525,6 +4804,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Guggenheim sube su precio objetivo de 995.00 $ a 1000.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "559369f9cca059a3",
+    "date": "2026-07-21",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Morgan Stanley baja la recomendacion de Equal-Weight a Underweight. Precio objetivo: 145.00 $."
   },
   {
     "id": "a0b15227b5750253",
