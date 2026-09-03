@@ -90,6 +90,42 @@
     "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #10) con precio objetivo de 182.05 $ (+18.3% a 3 meses)."
   },
   {
+    "id": "7229e30826d65557",
+    "date": "2026-09-03",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "PayPal Holdings, Inc. entra en el Top 10 (puesto #6) con precio objetivo de 66.17 $ (+16.5% a 3 meses)."
+  },
+  {
+    "id": "6b7247f002edaa56",
+    "date": "2026-09-03",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 209.00 $ a 264.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "b33d121d8f960f0d",
+    "date": "2026-09-03",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 344.00 $ a 462.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "6ad658a9120da82b",
+    "date": "2026-09-03",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 329.00 $ a 435.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "7a0b1ec046d31bda",
     "date": "2026-09-02",
     "ticker": "ORCL",
@@ -504,6 +540,24 @@
     "description": "Goldman Sachs sube su precio objetivo de 151.00 $ a 164.00 $ (mantiene Neutral)."
   },
   {
+    "id": "3e813076e004781a",
+    "date": "2026-08-31",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 62.00 $ a 53.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "6291eee2cdc31244",
+    "date": "2026-08-31",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 65.00 $ a 70.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "ff253778f2f3befa",
     "date": "2026-08-29",
     "ticker": "AJG",
@@ -853,6 +907,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 145.00 $ a 190.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "cf65a559da5ebf3e",
+    "date": "2026-08-28",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Loop Capital baja su precio objetivo de 62.00 $ a 50.00 $ (mantiene Hold)."
   },
   {
     "id": "e6e3783f7f24cc6c",
@@ -2106,6 +2169,15 @@
     "description": "B of A Securities sube su precio objetivo de 140.00 $ a 205.00 $ (mantiene Neutral)."
   },
   {
+    "id": "f0e8a2d10e15ccdb",
+    "date": "2026-08-19",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 59.00 $ a 62.00 $ (mantiene Hold)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
@@ -2464,6 +2536,15 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "BTIG baja la recomendacion de Buy a Neutral."
+  },
+  {
+    "id": "63f49228a8e4fe6d",
+    "date": "2026-08-17",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 42.00 $ a 59.00 $ (mantiene Neutral)."
   },
   {
     "id": "1a0219f05df38afb",
@@ -3996,6 +4077,15 @@
     "description": "Guggenheim sube su precio objetivo de 1000.00 $ a 1030.00 $ (mantiene Buy)."
   },
   {
+    "id": "65484c27584994ea",
+    "date": "2026-08-03",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 54.00 $ a 60.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "9d10ecd95c1e7404",
     "date": "2026-07-31",
     "ticker": "VLO",
@@ -4635,6 +4725,114 @@
     "description": "Resultados del 2026-07-29: BPA real 0.33 $ vs estimado 0.32 $ (sorpresa +4.0%)."
   },
   {
+    "id": "525680d1f5d814f0",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 46.00 $ a 65.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2ff44f070652dec1",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 48.00 $ a 59.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "248a3c7eea66eb8f",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 59.00 $ a 65.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "f6578b5c2399558c",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 63.00 $ a 67.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "b5f6d4feb482b10d",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 48.00 $ a 56.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "40444cd0be0aa2ec",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 46.00 $ a 56.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "947ad9b189c5f437",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Macquarie sube su precio objetivo de 50.00 $ a 62.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "52f01dc95bc9d24f",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 48.00 $ a 61.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "de9607cc8ed92bf6",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 50.00 $ a 60.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "00ab3d18cffb87db",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keefe, Bruyette & Woods sube su precio objetivo de 55.00 $ a 70.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "61bea2fb2c640ea7",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 55.00 $ a 57.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "0bec90006bb95acf",
+    "date": "2026-07-29",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 50.00 $ a 57.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "83b7d6a918897987",
     "date": "2026-07-28",
     "ticker": "INCY",
@@ -4660,6 +4858,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Evercore ISI Group sube su precio objetivo de 100.00 $ a 150.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "5d380d94c6db7c14",
+    "date": "2026-07-28",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-28: BPA real 1.38 $ vs estimado 1.28 $ (sorpresa +8.0%)."
   },
   {
     "id": "efdf755b2b90fa5c",
@@ -4795,6 +5002,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Keybanc baja su precio objetivo de 260.00 $ a 250.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "6399c047e1863cf2",
+    "date": "2026-07-24",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Truist Securities sube la recomendacion de Sell a Hold. Precio objetivo: 57.00 $."
   },
   {
     "id": "aca4adc3ae7be16c",
@@ -5056,6 +5272,24 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "B of A Securities baja su precio objetivo de 110.00 $ a 105.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "82e62e2581486f2e",
+    "date": "2026-07-16",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Barclays sube la recomendacion de Underweight a Equal-Weight. Precio objetivo: 55.00 $."
+  },
+  {
+    "id": "cbb9320a7fb416d6",
+    "date": "2026-07-16",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 42.00 $ a 55.00 $ (mantiene Hold)."
   },
   {
     "id": "a2573b35972339d1",
@@ -5535,6 +5769,15 @@
     "description": "Piper Sandler baja su precio objetivo de 855.00 $ a 854.00 $ (mantiene Overweight)."
   },
   {
+    "id": "55f3380af3136bc8",
+    "date": "2026-07-09",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 41.00 $ a 48.00 $ (mantiene Sell)."
+  },
+  {
     "id": "2cd9b6987d7808b5",
     "date": "2026-07-08",
     "ticker": "DELL",
@@ -5857,6 +6100,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "BTIG sube su precio objetivo de 333.00 $ a 380.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "abba52ebfcd526f6",
+    "date": "2026-06-30",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 46.00 $ a 42.00 $ (mantiene Neutral)."
   },
   {
     "id": "7750edabd7715939",
