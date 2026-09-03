@@ -36,6 +36,60 @@
     "description": "Chipotle Mexican Grill, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 44.62 $ (+15.8% a 3 meses)."
   },
   {
+    "id": "9d1e70cef1a4e2c5",
+    "date": "2026-09-03",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Incyte Corporation sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "c0dbf1ef9b5e4a1e",
+    "date": "2026-09-03",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Chipotle Mexican Grill, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "d0f5e071ca251323",
+    "date": "2026-09-03",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Workday, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "a12d5b7657ec6b4e",
+    "date": "2026-09-03",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Oracle Corporation entra en el Top 10 (puesto #8) con precio objetivo de 197.70 $ (+28.9% a 3 meses)."
+  },
+  {
+    "id": "9a5bd8f8507e9dca",
+    "date": "2026-09-03",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Regeneron Pharmaceuticals, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 987.21 $ (+17.1% a 3 meses)."
+  },
+  {
+    "id": "fc9c0c955e7907e5",
+    "date": "2026-09-03",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #10) con precio objetivo de 182.05 $ (+18.3% a 3 meses)."
+  },
+  {
     "id": "7a0b1ec046d31bda",
     "date": "2026-09-02",
     "ticker": "ORCL",
@@ -124,6 +178,15 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #10) con precio objetivo de 183.23 $ (+18.5% a 3 meses)."
+  },
+  {
+    "id": "7c30a201fa550a80",
+    "date": "2026-09-02",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Jefferies baja su precio objetivo de 320.00 $ a 290.00 $ (mantiene Buy)."
   },
   {
     "id": "ad447f9dd335913c",
