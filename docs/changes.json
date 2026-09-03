@@ -6460,14 +6460,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "RBC Capital sube su precio objetivo de 160.00 $ a 190.00 $ (mantiene Sector Perform)."
-  },
-  {
-    "id": "a9eee5080cd82ca9",
-    "date": "2026-06-04",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 320.00 $ a 330.00 $ (mantiene Buy)."
   }
 ]
