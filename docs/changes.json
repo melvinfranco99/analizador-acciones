@@ -1,5 +1,41 @@
 [
   {
+    "id": "02f6f608bcba8250",
+    "date": "2026-09-03",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amgen Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "43b2e8fed9cdf2fe",
+    "date": "2026-09-03",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paylocity Holding Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "1a3b38bed8e4f563",
+    "date": "2026-09-03",
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Incyte Corporation entra en el Top 10 (puesto #2) con precio objetivo de 154.38 $ (+19.8% a 3 meses)."
+  },
+  {
+    "id": "ac67277663ab26c0",
+    "date": "2026-09-03",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Chipotle Mexican Grill, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 44.62 $ (+15.8% a 3 meses)."
+  },
+  {
     "id": "7a0b1ec046d31bda",
     "date": "2026-09-02",
     "ticker": "ORCL",
@@ -277,6 +313,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 170.00 $ a 225.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "215ab8fed3712ace",
+    "date": "2026-09-01",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 50.00 $ a 53.00 $ (mantiene Buy)."
   },
   {
     "id": "83a36ca7b68aab21",
@@ -1393,6 +1438,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Oppenheimer sube su precio objetivo de 165.00 $ a 220.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "57e889d2d2f2ab4e",
+    "date": "2026-08-24",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Baird baja la recomendacion de Outperform a Neutral. Precio objetivo: 40.00 $."
   },
   {
     "id": "cef957e3c4f90e0f",
@@ -3807,6 +3861,15 @@
     "description": "Resultados del 2026-08-04: BPA real 6.29 $ vs estimado 5.62 $ (sorpresa +12.0%)."
   },
   {
+    "id": "13415cafd9437b04",
+    "date": "2026-08-04",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 40.00 $ a 45.00 $ (mantiene Buy)."
+  },
+  {
     "id": "0e2fe53cb73807a6",
     "date": "2026-08-03",
     "ticker": "VLO",
@@ -4104,6 +4167,15 @@
     "description": "Truist Securities sube su precio objetivo de 769.00 $ a 772.00 $ (mantiene Buy)."
   },
   {
+    "id": "3cbdd14b1f155d59",
+    "date": "2026-07-31",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 35.00 $ a 36.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "fa8129794ba9ce62",
     "date": "2026-07-30",
     "ticker": "VLO",
@@ -4302,6 +4374,51 @@
     "description": "Resultados del 2026-07-30: BPA real 14.29 $ vs estimado 10.21 $ (sorpresa +40.0%)."
   },
   {
+    "id": "e28bc77b8537de8f",
+    "date": "2026-07-30",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 42.00 $ a 39.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "6de3cef4a02a114f",
+    "date": "2026-07-30",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 45.00 $ a 50.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "9dc09650f7ad8dd1",
+    "date": "2026-07-30",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 45.00 $ a 47.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "441734492b922c5e",
+    "date": "2026-07-30",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 37.00 $ a 39.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "558a18e71cb8ee48",
+    "date": "2026-07-30",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stephens & Co. sube su precio objetivo de 36.00 $ a 40.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "6d2aeae14ab5ccb6",
     "date": "2026-07-29",
     "ticker": "SWK",
@@ -4444,6 +4561,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 350.00 $ a 360.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "61047cde039ec894",
+    "date": "2026-07-29",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-29: BPA real 0.33 $ vs estimado 0.32 $ (sorpresa +4.0%)."
   },
   {
     "id": "83b7d6a918897987",
@@ -5227,6 +5353,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Guggenheim sube su precio objetivo de 340.00 $ a 343.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "cc7d460a0c3e9a74",
+    "date": "2026-07-13",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 46.00 $ a 45.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "7e390f0b2f1b8668",
+    "date": "2026-07-13",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 40.00 $ a 41.00 $ (mantiene Outperform)."
   },
   {
     "id": "e8d65be4a94e1ce7",
@@ -6460,5 +6604,14 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "RBC Capital sube su precio objetivo de 160.00 $ a 190.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "754e6dee0983cdd9",
+    "date": "2026-06-05",
+    "ticker": "CMG",
+    "name": "Chipotle Mexican Grill, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 35.00 $."
   }
 ]

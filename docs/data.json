@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-03T03:54:22",
-  "duration_seconds": 47.0,
+  "generated_at": "2026-09-03T10:58:55",
+  "duration_seconds": 42.6,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
-  "candidates_below_threshold": 315,
+  "candidates_below_threshold": 314,
   "min_monthly_return_pct": 5.0,
   "min_upside_pct_3m": 15.8,
   "benchmark_return_3m": 1.5,
-  "eur_usd_rate": 1.160092830657959,
+  "eur_usd_rate": 1.1607661247253418,
   "results": [
     {
       "ticker": "MU",
@@ -16,12 +16,12 @@
       "sector": "Technology",
       "industry": "Semiconductors",
       "price": 956.08,
-      "price_eur": 824.14,
+      "price_eur": 823.66,
       "target_price": 1234.6,
-      "target_price_eur": 1064.23,
+      "target_price_eur": 1063.61,
       "upside_pct": 29.1,
       "stop_loss": 845.04,
-      "stop_loss_eur": 728.42,
+      "stop_loss_eur": 728.0,
       "stop_loss_pct": 11.6,
       "technical_score": 83.0,
       "fundamental_score": 92.4,
@@ -50,17 +50,56 @@
       "rank": 1
     },
     {
+      "ticker": "INCY",
+      "name": "Incyte Corporation",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "price": 128.83,
+      "price_eur": 110.99,
+      "target_price": 154.38,
+      "target_price_eur": 133.0,
+      "upside_pct": 19.8,
+      "stop_loss": 121.62,
+      "stop_loss_eur": 104.78,
+      "stop_loss_pct": 5.6,
+      "technical_score": 88.8,
+      "fundamental_score": 82.7,
+      "total_score": 86.1,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 55,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 55.7
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +19.8% (~+6.2%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Crecimiento de ingresos solido (37.7% interanual).",
+        "Valoracion contenida (PER 15.9x).",
+        "Consenso de 24 analistas con precio objetivo medio de 127.12."
+      ],
+      "pe": 15.924598,
+      "num_analysts": 24,
+      "rank": 2
+    },
+    {
       "ticker": "ZBRA",
       "name": "Zebra Technologies Corporation",
       "sector": "Technology",
       "industry": "Communication Equipment",
       "price": 351.11,
-      "price_eur": 302.66,
+      "price_eur": 302.48,
       "target_price": 422.8,
-      "target_price_eur": 364.45,
+      "target_price_eur": 364.24,
       "upside_pct": 20.4,
       "stop_loss": 337.07,
-      "stop_loss_eur": 290.55,
+      "stop_loss_eur": 290.39,
       "stop_loss_pct": 4.0,
       "technical_score": 88.8,
       "fundamental_score": 79.5,
@@ -83,9 +122,9 @@
         "Crecimiento de ingresos solido (20.4% interanual).",
         "Consenso de 15 analistas con precio objetivo medio de 412.87."
       ],
-      "pe": 31.54627,
+      "pe": 32.152927,
       "num_analysts": 15,
-      "rank": 2
+      "rank": 3
     },
     {
       "ticker": "NVDA",
@@ -93,12 +132,12 @@
       "sector": "Technology",
       "industry": "Semiconductors",
       "price": 224.41,
-      "price_eur": 193.44,
+      "price_eur": 193.33,
       "target_price": 275.2,
-      "target_price_eur": 237.22,
+      "target_price_eur": 237.08,
       "upside_pct": 22.6,
       "stop_loss": 209.26,
-      "stop_loss_eur": 180.38,
+      "stop_loss_eur": 180.28,
       "stop_loss_pct": 6.8,
       "technical_score": 82.8,
       "fundamental_score": 86.4,
@@ -123,7 +162,7 @@
       ],
       "pe": 27.467564,
       "num_analysts": 57,
-      "rank": 3
+      "rank": 4
     },
     {
       "ticker": "VLO",
@@ -131,13 +170,13 @@
       "sector": "Energy",
       "industry": "Oil & Gas Refining & Marketing",
       "price": 366.09,
-      "price_eur": 315.57,
-      "target_price": 440.34,
-      "target_price_eur": 379.57,
-      "upside_pct": 20.3,
-      "stop_loss": 345.26,
-      "stop_loss_eur": 297.61,
-      "stop_loss_pct": 5.7,
+      "price_eur": 315.39,
+      "target_price": 443.52,
+      "target_price_eur": 382.09,
+      "upside_pct": 21.2,
+      "stop_loss": 344.36,
+      "stop_loss_eur": 296.67,
+      "stop_loss_pct": 5.9,
       "technical_score": 92.5,
       "fundamental_score": 73.7,
       "total_score": 84.0,
@@ -154,15 +193,15 @@
         "analyst_consensus": 39.8
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +20.3% (~+6.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Potencial estimado a 3 meses: +21.2% (~+6.6%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "RSI en zona de sobrecompra (74); posible correccion a corto plazo.",
+        "RSI en zona de sobrecompra (73); posible correccion a corto plazo.",
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (51.7% interanual)."
       ],
-      "pe": 15.279216,
+      "pe": 15.102723,
       "num_analysts": 19,
-      "rank": 4
+      "rank": 5
     },
     {
       "ticker": "MPC",
@@ -170,13 +209,13 @@
       "sector": "Energy",
       "industry": "Oil & Gas Refining & Marketing",
       "price": 387.0,
-      "price_eur": 333.59,
-      "target_price": 474.51,
-      "target_price_eur": 409.03,
-      "upside_pct": 22.6,
-      "stop_loss": 365.88,
-      "stop_loss_eur": 315.39,
-      "stop_loss_pct": 5.5,
+      "price_eur": 333.4,
+      "target_price": 478.95,
+      "target_price_eur": 412.62,
+      "upside_pct": 23.8,
+      "stop_loss": 364.93,
+      "stop_loss_eur": 314.39,
+      "stop_loss_pct": 5.7,
       "technical_score": 82.5,
       "fundamental_score": 85.3,
       "total_score": 83.8,
@@ -193,15 +232,15 @@
         "analyst_consensus": 41.1
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +22.6% (~+7.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Potencial estimado a 3 meses: +23.8% (~+7.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "RSI en zona de sobrecompra (78); posible correccion a corto plazo.",
+        "RSI en zona de sobrecompra (77); posible correccion a corto plazo.",
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (53.7% interanual)."
       ],
       "pe": 13.280714,
       "num_analysts": 18,
-      "rank": 5
+      "rank": 6
     },
     {
       "ticker": "PSX",
@@ -209,12 +248,12 @@
       "sector": "Energy",
       "industry": "Oil & Gas Refining & Marketing",
       "price": 256.09,
-      "price_eur": 220.75,
+      "price_eur": 220.62,
       "target_price": 308.62,
-      "target_price_eur": 266.03,
+      "target_price_eur": 265.88,
       "upside_pct": 20.5,
       "stop_loss": 241.57,
-      "stop_loss_eur": 208.23,
+      "stop_loss_eur": 208.11,
       "stop_loss_pct": 5.7,
       "technical_score": 82.5,
       "fundamental_score": 80.9,
@@ -238,9 +277,46 @@
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (53.1% interanual)."
       ],
-      "pe": 14.617008,
+      "pe": 14.387079,
       "num_analysts": 19,
-      "rank": 6
+      "rank": 7
+    },
+    {
+      "ticker": "CMG",
+      "name": "Chipotle Mexican Grill, Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Restaurants",
+      "price": 38.52,
+      "price_eur": 33.18,
+      "target_price": 44.62,
+      "target_price_eur": 38.44,
+      "upside_pct": 15.8,
+      "stop_loss": 35.99,
+      "stop_loss_eur": 31.01,
+      "stop_loss_pct": 6.6,
+      "technical_score": 88.0,
+      "fundamental_score": 68.2,
+      "total_score": 79.1,
+      "technical_breakdown": {
+        "trend": 60,
+        "momentum": 100,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 50,
+        "growth": 55,
+        "profitability": 100,
+        "analyst_consensus": 76.9
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +15.8% (~+5.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "MACD en cruce alcista con impulso creciente.",
+        "Consenso de 32 analistas con precio objetivo medio de 43.77."
+      ],
+      "pe": 34.7027,
+      "num_analysts": 32,
+      "rank": 8
     },
     {
       "ticker": "WDAY",
@@ -248,13 +324,13 @@
       "sector": "Technology",
       "industry": "Software - Application",
       "price": 200.87,
-      "price_eur": 173.15,
-      "target_price": 237.77,
-      "target_price_eur": 204.96,
-      "upside_pct": 18.4,
-      "stop_loss": 180.74,
-      "stop_loss_eur": 155.8,
-      "stop_loss_pct": 10.0,
+      "price_eur": 173.05,
+      "target_price": 235.94,
+      "target_price_eur": 203.26,
+      "upside_pct": 17.5,
+      "stop_loss": 181.5,
+      "stop_loss_eur": 156.36,
+      "stop_loss_pct": 9.6,
       "technical_score": 88.8,
       "fundamental_score": 66.5,
       "total_score": 78.8,
@@ -271,50 +347,13 @@
         "analyst_consensus": 56.1
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +18.4% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Potencial estimado a 3 meses: +17.5% (~+5.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 38 analistas con precio objetivo medio de 207.10."
       ],
       "pe": 40.33534,
       "num_analysts": 38,
-      "rank": 7
-    },
-    {
-      "ticker": "AMGN",
-      "name": "Amgen Inc.",
-      "sector": "Healthcare",
-      "industry": "Drug Manufacturers - General",
-      "price": 442.84,
-      "price_eur": 381.73,
-      "target_price": 513.03,
-      "target_price_eur": 442.23,
-      "upside_pct": 15.8,
-      "stop_loss": 423.43,
-      "stop_loss_eur": 365.0,
-      "stop_loss_pct": 4.4,
-      "technical_score": 81.2,
-      "fundamental_score": 72.0,
-      "total_score": 77.1,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 70,
-        "macd": 55,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 50,
-        "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 37.9
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +15.8% (~+5.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Consenso de 29 analistas con precio objetivo medio de 388.48."
-      ],
-      "pe": 27.251692,
-      "num_analysts": 29,
-      "rank": 8
+      "rank": 9
     },
     {
       "ticker": "ABNB",
@@ -322,13 +361,13 @@
       "sector": "Consumer Cyclical",
       "industry": "Travel Services",
       "price": 183.26,
-      "price_eur": 157.97,
-      "target_price": 217.33,
-      "target_price_eur": 187.34,
-      "upside_pct": 18.6,
-      "stop_loss": 172.53,
-      "stop_loss_eur": 148.72,
-      "stop_loss_pct": 5.9,
+      "price_eur": 157.88,
+      "target_price": 216.62,
+      "target_price_eur": 186.62,
+      "upside_pct": 18.2,
+      "stop_loss": 172.74,
+      "stop_loss_eur": 148.82,
+      "stop_loss_pct": 5.7,
       "technical_score": 80.0,
       "fundamental_score": 72.1,
       "total_score": 76.4,
@@ -345,50 +384,13 @@
         "analyst_consensus": 58.4
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +18.6% (~+5.9%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Potencial estimado a 3 meses: +18.2% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Crecimiento de ingresos solido (16.5% interanual).",
         "Consenso de 40 analistas con precio objetivo medio de 178.96."
       ],
       "pe": 41.84018,
       "num_analysts": 40,
-      "rank": 9
-    },
-    {
-      "ticker": "PCTY",
-      "name": "Paylocity Holding Corporation",
-      "sector": "Technology",
-      "industry": "Software - Application",
-      "price": 154.6,
-      "price_eur": 133.27,
-      "target_price": 183.23,
-      "target_price_eur": 157.94,
-      "upside_pct": 18.5,
-      "stop_loss": 144.22,
-      "stop_loss_eur": 124.32,
-      "stop_loss_pct": 6.7,
-      "technical_score": 80.0,
-      "fundamental_score": 71.7,
-      "total_score": 76.3,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 20,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 50,
-        "growth": 80,
-        "profitability": 75,
-        "analyst_consensus": 80.8
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +18.5% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Consenso de 19 analistas con precio objetivo medio de 172.00."
-      ],
-      "pe": 31.422766,
-      "num_analysts": 19,
       "rank": 10
     }
   ]
