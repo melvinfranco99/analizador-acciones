@@ -1,72 +1,72 @@
 {
-  "NVDA": {
+  "MU": {
     "rank": 1,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1256.13,
+    "upside_pct": 25.7,
+    "total_score": 96.6
+  },
+  "NVDA": {
+    "rank": 2,
     "name": "NVIDIA Corporation",
-    "target_price": 277.22,
-    "upside_pct": 21.3,
+    "target_price": 278.44,
+    "upside_pct": 20.6,
     "total_score": 90.6
   },
-  "MU": {
-    "rank": 2,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1235.64,
-    "upside_pct": 29.0,
-    "total_score": 90.0
+  "DELL": {
+    "rank": 3,
+    "name": "Dell Technologies Inc.",
+    "target_price": 603.59,
+    "upside_pct": 16.0,
+    "total_score": 87.1
   },
   "ZBRA": {
-    "rank": 3,
+    "rank": 4,
     "name": "Zebra Technologies Corporation",
-    "target_price": 439.07,
-    "upside_pct": 22.8,
-    "total_score": 84.6
+    "target_price": 468.29,
+    "upside_pct": 28.5,
+    "total_score": 83.2
   },
   "MPC": {
-    "rank": 4,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 476.07,
-    "upside_pct": 22.8,
-    "total_score": 83.8
-  },
-  "PSX": {
     "rank": 5,
-    "name": "Phillips 66",
-    "target_price": 304.36,
-    "upside_pct": 19.5,
-    "total_score": 82.5
-  },
-  "PYPL": {
-    "rank": 6,
-    "name": "PayPal Holdings, Inc.",
-    "target_price": 66.17,
-    "upside_pct": 16.5,
-    "total_score": 79.5
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 486.68,
+    "upside_pct": 24.7,
+    "total_score": 79.0
   },
   "VLO": {
-    "rank": 7,
+    "rank": 6,
     "name": "Valero Energy Corporation",
-    "target_price": 451.8,
-    "upside_pct": 21.9,
+    "target_price": 455.95,
+    "upside_pct": 22.8,
     "total_score": 78.5
   },
   "ORCL": {
-    "rank": 8,
+    "rank": 7,
     "name": "Oracle Corporation",
-    "target_price": 198.01,
-    "upside_pct": 28.5,
+    "target_price": 199.84,
+    "upside_pct": 26.7,
     "total_score": 77.4
   },
-  "REGN": {
+  "PSX": {
+    "rank": 8,
+    "name": "Phillips 66",
+    "target_price": 308.7,
+    "upside_pct": 20.4,
+    "total_score": 77.0
+  },
+  "WDC": {
     "rank": 9,
-    "name": "Regeneron Pharmaceuticals, Inc.",
-    "target_price": 988.17,
-    "upside_pct": 17.2,
-    "total_score": 76.5
+    "name": "Western Digital Corporation",
+    "target_price": 562.81,
+    "upside_pct": 22.2,
+    "total_score": 77.0
   },
   "ABNB": {
     "rank": 10,
     "name": "Airbnb, Inc.",
-    "target_price": 220.94,
-    "upside_pct": 19.3,
+    "target_price": 214.8,
+    "upside_pct": 18.1,
     "total_score": 76.4
   }
 }

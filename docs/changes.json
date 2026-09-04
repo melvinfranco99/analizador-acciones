@@ -108,6 +108,33 @@
     "description": "Regeneron Pharmaceuticals, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 988.17 $ (+17.2% a 3 meses)."
   },
   {
+    "id": "a9e85cf50f1dcdef",
+    "date": "2026-09-04",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #3) con precio objetivo de 603.59 $ (+16.0% a 3 meses)."
+  },
+  {
+    "id": "f3cc8239977077d4",
+    "date": "2026-09-04",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 439.07 $ a 468.29 $ (+6.7%)."
+  },
+  {
+    "id": "3886df7f8efc73a0",
+    "date": "2026-09-04",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Western Digital Corporation entra en el Top 10 (puesto #9) con precio objetivo de 562.81 $ (+22.2% a 3 meses)."
+  },
+  {
     "id": "02f6f608bcba8250",
     "date": "2026-09-03",
     "ticker": "AMGN",
@@ -331,6 +358,141 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Jefferies baja su precio objetivo de 320.00 $ a 290.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "8b101bc6a678c042",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 515.00 $ a 600.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f731e7d47d0d5206",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 565.00 $ a 635.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "c6ea5c68109b9b0d",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Melius Research sube su precio objetivo de 650.00 $ a 735.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e8fe43aa539cfac0",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 510.00 $ a 570.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "efaa0a727f1b818e",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 497.00 $ a 558.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "a6a9d347ef2b9da6",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 360.00 $ a 505.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "841cc88f409ec259",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 550.00 $ a 575.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "9725a13c47938e80",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 500.00 $ a 617.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "f33ee34e0bb7217b",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 455.00 $ a 500.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "4498b78bb47dccde",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 500.00 $ a 650.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "f0478f4b9f0b8a15",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 450.00 $ a 500.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "31db27f328f74150",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 500.00 $ a 600.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "cf36e956c85698c7",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 550.00 $ a 603.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7591216e81a65901",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 434.00 $ a 499.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "6adfbba5ea13c288",
+    "date": "2026-09-02",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 505.00 $ a 600.00 $ (mantiene Buy)."
   },
   {
     "id": "ad447f9dd335913c",
@@ -664,6 +826,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "RBC Capital sube su precio objetivo de 65.00 $ a 70.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "bbe00b316d2fec4e",
+    "date": "2026-08-31",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 500.00 $ a 505.00 $ (mantiene Buy)."
   },
   {
     "id": "ff253778f2f3befa",
@@ -1384,6 +1555,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-26: BPA real 5.90 $ vs estimado 3.27 $ (sorpresa +80.4%)."
+  },
+  {
+    "id": "05da8f9d6fd64ca6",
+    "date": "2026-08-26",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 440.00 $ a 455.00 $ (mantiene Neutral)."
   },
   {
     "id": "6cf742496a1fb44a",
