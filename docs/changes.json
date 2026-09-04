@@ -1,5 +1,59 @@
 [
   {
+    "id": "41c4a4a138291f0d",
+    "date": "2026-09-04",
+    "ticker": "PYPL",
+    "name": "PayPal Holdings, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "PayPal Holdings, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "22e3a4b00784e47b",
+    "date": "2026-09-04",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Oracle Corporation sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "e1c72a6588fb9d0a",
+    "date": "2026-09-04",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Regeneron Pharmaceuticals, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "279b564f82eaca82",
+    "date": "2026-09-04",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Workday, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 237.77 $ (+18.4% a 3 meses)."
+  },
+  {
+    "id": "b4b7766edfa390ae",
+    "date": "2026-09-04",
+    "ticker": "AMGN",
+    "name": "Amgen Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amgen Inc. entra en el Top 10 (puesto #8) con precio objetivo de 513.03 $ (+15.8% a 3 meses)."
+  },
+  {
+    "id": "6066806ec84a2dc3",
+    "date": "2026-09-04",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #10) con precio objetivo de 183.23 $ (+18.5% a 3 meses)."
+  },
+  {
     "id": "02f6f608bcba8250",
     "date": "2026-09-03",
     "ticker": "AMGN",
@@ -6892,41 +6946,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "TD Cowen sube su precio objetivo de 125.00 $ a 160.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "0b3b33fed4d817d3",
-    "date": "2026-06-05",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Stifel sube su precio objetivo de 85.00 $ a 90.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "5c599225caed5d4d",
-    "date": "2026-06-05",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Cantor Fitzgerald sube su precio objetivo de 229.00 $ a 284.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "c1eb3226e5bfb6a9",
-    "date": "2026-06-05",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "RBC Capital sube su precio objetivo de 160.00 $ a 190.00 $ (mantiene Sector Perform)."
-  },
-  {
-    "id": "754e6dee0983cdd9",
-    "date": "2026-06-05",
-    "ticker": "CMG",
-    "name": "Chipotle Mexican Grill, Inc.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 35.00 $."
   }
 ]
