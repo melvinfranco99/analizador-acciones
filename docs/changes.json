@@ -135,6 +135,15 @@
     "description": "Western Digital Corporation entra en el Top 10 (puesto #9) con precio objetivo de 562.81 $ (+22.2% a 3 meses)."
   },
   {
+    "id": "226c6b34d718ab5c",
+    "date": "2026-09-04",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 207.00 $ a 210.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "02f6f608bcba8250",
     "date": "2026-09-03",
     "ticker": "AMGN",
@@ -691,6 +700,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "B of A Securities sube su precio objetivo de 50.00 $ a 53.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e57faecffa057af3",
+    "date": "2026-09-01",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-09-01: BPA real 7.04 $ vs estimado 4.92 $ (sorpresa +43.1%)."
   },
   {
     "id": "83a36ca7b68aab21",
