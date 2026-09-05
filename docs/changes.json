@@ -1,5 +1,23 @@
 [
   {
+    "id": "e9f42fb96b746cf4",
+    "date": "2026-09-05",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Western Digital Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "eefb3cf0b2242ccb",
+    "date": "2026-09-05",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Workday, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 230.74 $ (+17.9% a 3 meses)."
+  },
+  {
     "id": "41c4a4a138291f0d",
     "date": "2026-09-04",
     "ticker": "PYPL",

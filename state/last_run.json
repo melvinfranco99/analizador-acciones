@@ -53,20 +53,20 @@
     "name": "Phillips 66",
     "target_price": 306.2,
     "upside_pct": 20.0,
-    "total_score": 77.0
-  },
-  "WDC": {
-    "rank": 9,
-    "name": "Western Digital Corporation",
-    "target_price": 566.19,
-    "upside_pct": 21.1,
-    "total_score": 77.0
+    "total_score": 76.9
   },
   "ABNB": {
-    "rank": 10,
+    "rank": 9,
     "name": "Airbnb, Inc.",
     "target_price": 214.91,
     "upside_pct": 18.1,
     "total_score": 76.4
+  },
+  "WDAY": {
+    "rank": 10,
+    "name": "Workday, Inc.",
+    "target_price": 230.74,
+    "upside_pct": 17.9,
+    "total_score": 75.3
   }
 }
