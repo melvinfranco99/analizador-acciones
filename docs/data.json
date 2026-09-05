@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T03:53:57",
-  "duration_seconds": 36.4,
+  "generated_at": "2026-09-05T10:20:48",
+  "duration_seconds": 45.7,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -84,7 +84,7 @@
         "Crecimiento de ingresos solido (105.9% interanual).",
         "Consenso de 57 analistas con precio objetivo medio de 327.13."
       ],
-      "pe": 29.159492,
+      "pe": 28.903389,
       "num_analysts": 57,
       "rank": 2
     },
@@ -198,9 +198,9 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "RSI en zona de sobrecompra (78); posible correccion a corto plazo.",
         "Crecimiento de ingresos solido (53.7% interanual).",
-        "Valoracion contenida (PER 13.4x)."
+        "Valoracion contenida (PER 13.5x)."
       ],
-      "pe": 13.442793,
+      "pe": 13.480069,
       "num_analysts": 18,
       "rank": 5
     },
@@ -314,9 +314,9 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "RSI en zona de sobrecompra (75); posible correccion a corto plazo.",
         "Crecimiento de ingresos solido (53.1% interanual).",
-        "Valoracion contenida (PER 14.6x)."
+        "Valoracion contenida (PER 14.5x)."
       ],
-      "pe": 14.559931,
+      "pe": 14.535043,
       "num_analysts": 19,
       "rank": 8
     },
@@ -354,7 +354,7 @@
         "Crecimiento de ingresos solido (16.5% interanual).",
         "Consenso de 40 analistas con precio objetivo medio de 179.46."
       ],
-      "pe": 42.41026,
+      "pe": 41.63387,
       "num_analysts": 40,
       "rank": 9
     },
@@ -391,7 +391,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 38 analistas con precio objetivo medio de 207.10."
       ],
-      "pe": 39.95714,
+      "pe": 42.19612,
       "num_analysts": 38,
       "rank": 10
     }
