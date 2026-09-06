@@ -62,11 +62,11 @@
     "upside_pct": 18.1,
     "total_score": 76.4
   },
-  "WDAY": {
+  "PCTY": {
     "rank": 10,
-    "name": "Workday, Inc.",
-    "target_price": 230.74,
-    "upside_pct": 17.9,
-    "total_score": 75.3
+    "name": "Paylocity Holding Corporation",
+    "target_price": 178.28,
+    "upside_pct": 17.1,
+    "total_score": 76.3
   }
 }

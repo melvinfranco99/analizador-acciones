@@ -1,5 +1,23 @@
 [
   {
+    "id": "f61804a152e7126b",
+    "date": "2026-09-06",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Workday, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "2dadd741ed707d36",
+    "date": "2026-09-06",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #10) con precio objetivo de 178.28 $ (+17.1% a 3 meses)."
+  },
+  {
     "id": "e9f42fb96b746cf4",
     "date": "2026-09-05",
     "ticker": "WDC",
