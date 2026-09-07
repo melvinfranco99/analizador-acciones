@@ -1,5 +1,23 @@
 [
   {
+    "id": "19f98374a33472c2",
+    "date": "2026-09-07",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paylocity Holding Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "c8be3f0bcc39057e",
+    "date": "2026-09-07",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Western Digital Corporation entra en el Top 10 (puesto #8) con precio objetivo de 566.19 $ (+21.1% a 3 meses)."
+  },
+  {
     "id": "f61804a152e7126b",
     "date": "2026-09-06",
     "ticker": "WDAY",
@@ -7153,86 +7171,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "B of A Securities sube su precio objetivo de 200.00 $ a 240.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "b2e133ee3128262c",
-    "date": "2026-06-08",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 550.00 $ a 1220.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "15a92bcfa310591d",
-    "date": "2026-06-08",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Cantor Fitzgerald sube su precio objetivo de 700.00 $ a 1500.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "01fb70c26447e026",
-    "date": "2026-06-08",
-    "ticker": "WDC",
-    "name": "Western Digital Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 550.00 $ a 685.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "a2e24d68ca2e15ae",
-    "date": "2026-06-08",
-    "ticker": "PAYX",
-    "name": "Paychex, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "TD Cowen sube su precio objetivo de 94.00 $ a 98.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "4867a9c81630536e",
-    "date": "2026-06-08",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Evercore ISI Group sube su precio objetivo de 220.00 $ a 245.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "4cb29e022c032282",
-    "date": "2026-06-08",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Oppenheimer sube su precio objetivo de 235.00 $ a 275.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "3ed677ee590b66d0",
-    "date": "2026-06-08",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "TD Cowen sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "6f8d5255eb94599d",
-    "date": "2026-06-08",
-    "ticker": "FTNT",
-    "name": "Fortinet, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "B of A Securities sube su precio objetivo de 130.00 $ a 180.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "3a011995c096d77b",
-    "date": "2026-06-08",
-    "ticker": "FTNT",
-    "name": "Fortinet, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "TD Cowen sube su precio objetivo de 125.00 $ a 160.00 $ (mantiene Buy)."
   }
 ]

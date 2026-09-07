@@ -48,25 +48,25 @@
     "upside_pct": 26.2,
     "total_score": 77.4
   },
-  "PSX": {
+  "WDC": {
     "rank": 8,
+    "name": "Western Digital Corporation",
+    "target_price": 566.19,
+    "upside_pct": 21.1,
+    "total_score": 77.0
+  },
+  "PSX": {
+    "rank": 9,
     "name": "Phillips 66",
     "target_price": 306.2,
     "upside_pct": 20.0,
     "total_score": 76.9
   },
   "ABNB": {
-    "rank": 9,
+    "rank": 10,
     "name": "Airbnb, Inc.",
     "target_price": 214.91,
     "upside_pct": 18.1,
     "total_score": 76.4
-  },
-  "PCTY": {
-    "rank": 10,
-    "name": "Paylocity Holding Corporation",
-    "target_price": 178.28,
-    "upside_pct": 17.1,
-    "total_score": 76.3
   }
 }
