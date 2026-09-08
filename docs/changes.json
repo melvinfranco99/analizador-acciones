@@ -1,5 +1,59 @@
 [
   {
+    "id": "63dac04124072b77",
+    "date": "2026-09-08",
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Airbnb, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "15f86d38e58e8a6f",
+    "date": "2026-09-08",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 464.81 $ a 439.35 $ (-5.5%)."
+  },
+  {
+    "id": "4e1e0590b9c42abd",
+    "date": "2026-09-08",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Salesforce, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 292.92 $ (+18.1% a 3 meses)."
+  },
+  {
+    "id": "30d873150c00559c",
+    "date": "2026-09-08",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 235.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "470574f8310f9456",
+    "date": "2026-09-08",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 321.00 $ a 450.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e02716d1a59755bc",
+    "date": "2026-09-08",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 355.00 $ a 450.00 $ (mantiene Buy)."
+  },
+  {
     "id": "19f98374a33472c2",
     "date": "2026-09-07",
     "ticker": "PCTY",
@@ -558,6 +612,15 @@
     "description": "B of A Securities sube su precio objetivo de 505.00 $ a 600.00 $ (mantiene Buy)."
   },
   {
+    "id": "3b20dae5f21e8058",
+    "date": "2026-09-02",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "ad447f9dd335913c",
     "date": "2026-09-01",
     "ticker": "IQV",
@@ -765,6 +828,15 @@
     "description": "Resultados del 2026-09-01: BPA real 7.04 $ vs estimado 4.92 $ (sorpresa +43.1%)."
   },
   {
+    "id": "9455999b751d5944",
+    "date": "2026-09-01",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 280.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
     "id": "83a36ca7b68aab21",
     "date": "2026-08-31",
     "ticker": "AJG",
@@ -907,6 +979,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "B of A Securities sube su precio objetivo de 500.00 $ a 505.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "bdc92be98d7b5ced",
+    "date": "2026-08-31",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 290.00 $ a 300.00 $ (mantiene Buy)."
   },
   {
     "id": "ff253778f2f3befa",
@@ -1528,6 +1609,186 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-27: BPA real 2.75 $ vs estimado 2.61 $ (sorpresa +5.3%)."
+  },
+  {
+    "id": "0d5b9bc25830a761",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 204.00 $ a 233.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "f0851a5e7f2bc9e9",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 250.00 $ a 265.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "46de65bb6d5633c6",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 250.00 $ a 265.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "1b953e126462fd6c",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 230.00 $ a 260.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "0d5308d1fd0bb6b8",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "4d496ad9b6afade9",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 225.00 $ a 270.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e5e9dbdacffaba2c",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Macquarie sube su precio objetivo de 190.00 $ a 225.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2bdc847463e7b777",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 236.00 $ a 276.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1ce4a7109062c86b",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 240.00 $ a 280.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "fc1c977f32412556",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 173.00 $ a 195.00 $ (mantiene Underperform)."
+  },
+  {
+    "id": "7fdda3cac306d727",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 250.00 $ a 275.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "345ea8e79e6b1a09",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 210.00 $ a 250.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "ed4afed592e6e034",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 210.00 $ a 240.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "76e798eeccdd486e",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 205.00 $ a 230.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "8a6808661621b0ff",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 228.00 $ a 270.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b1420fde2fd39d5c",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 185.00 $ a 235.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "ce353138d45b9ec1",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 175.00 $ a 200.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "a9bafebe5388bee0",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 280.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3959eef797cb7f94",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 250.00 $ a 290.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "aa6c68a95bfd6689",
+    "date": "2026-08-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 255.00 $ a 300.00 $ (mantiene Buy)."
   },
   {
     "id": "4216a50735f70d54",
