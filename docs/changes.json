@@ -7135,41 +7135,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 332.00 $ a 340.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "18831d0746929fd2",
-    "date": "2026-06-09",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 75.00 $ a 85.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "2fd8dc7b402c6af1",
-    "date": "2026-06-09",
-    "ticker": "INCY",
-    "name": "Incyte Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "HC Wainwright & Co. sube su precio objetivo de 135.00 $ a 140.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "707c72cba1c284a0",
-    "date": "2026-06-09",
-    "ticker": "AJG",
-    "name": "Arthur J. Gallagher & Co.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "UBS sube la recomendacion de Neutral a Buy. Precio objetivo: 250.00 $."
-  },
-  {
-    "id": "2b719495a8c2860b",
-    "date": "2026-06-09",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "B of A Securities sube su precio objetivo de 200.00 $ a 240.00 $ (mantiene Buy)."
   }
 ]
