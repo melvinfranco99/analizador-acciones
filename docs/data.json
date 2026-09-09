@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T04:07:15",
-  "duration_seconds": 48.5,
+  "generated_at": "2026-09-09T11:03:37",
+  "duration_seconds": 33.1,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -45,7 +45,7 @@
         "Crecimiento de ingresos solido (345.7% interanual).",
         "Consenso de 45 analistas con precio objetivo medio de 1513.11."
       ],
-      "pe": 22.62008,
+      "pe": 22.625198,
       "num_analysts": 45,
       "rank": 1
     },
@@ -121,7 +121,7 @@
         "Crecimiento de ingresos solido (20.4% interanual).",
         "Consenso de 16 analistas con precio objetivo medio de 410.30."
       ],
-      "pe": 32.283882,
+      "pe": 32.372818,
       "num_analysts": 16,
       "rank": 3
     },
@@ -313,7 +313,7 @@
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (51.7% interanual)."
       ],
-      "pe": 15.958734,
+      "pe": 15.972049,
       "num_analysts": 19,
       "rank": 8
     },
