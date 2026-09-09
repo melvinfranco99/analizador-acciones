@@ -1,5 +1,14 @@
 [
   {
+    "id": "88082c2a8366766e",
+    "date": "2026-09-09",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 623.13 $ a 660.52 $ (+6.0%)."
+  },
+  {
     "id": "63dac04124072b77",
     "date": "2026-09-08",
     "ticker": "ABNB",
