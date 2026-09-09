@@ -7360,41 +7360,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 210.00 $ a 225.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "1ab53cfe1e706d84",
-    "date": "2026-06-10",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Goldman Sachs sube su precio objetivo de 400.00 $ a 900.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "1b38f77164e0b336",
-    "date": "2026-06-10",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "TD Cowen sube su precio objetivo de 75.00 $ a 95.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "ab7afa73a47d1c08",
-    "date": "2026-06-10",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-06-10: BPA real 2.11 $ vs estimado 1.96 $ (sorpresa +7.5%)."
-  },
-  {
-    "id": "32c25c5e65b8c6ea",
-    "date": "2026-06-10",
-    "ticker": "AMGN",
-    "name": "Amgen Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 332.00 $ a 340.00 $ (mantiene Equal-Weight)."
   }
 ]

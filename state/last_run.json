@@ -9,8 +9,8 @@
   "NVDA": {
     "rank": 2,
     "name": "NVIDIA Corporation",
-    "target_price": 276.43,
-    "upside_pct": 22.5,
+    "target_price": 276.69,
+    "upside_pct": 22.6,
     "total_score": 85.7
   },
   "ZBRA": {
@@ -58,8 +58,8 @@
   "ORCL": {
     "rank": 9,
     "name": "Oracle Corporation",
-    "target_price": 202.28,
-    "upside_pct": 24.5,
+    "target_price": 201.97,
+    "upside_pct": 24.3,
     "total_score": 77.4
   },
   "WDC": {
