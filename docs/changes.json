@@ -9,6 +9,24 @@
     "description": "Precio objetivo de nuestro modelo revisado de 623.13 $ a 660.52 $ (+6.0%)."
   },
   {
+    "id": "4dccf7f8bffb5861",
+    "date": "2026-09-09",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 575.00 $ a 650.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "2bfeb7486e079735",
+    "date": "2026-09-09",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Scotiabank baja su precio objetivo de 241.00 $ a 215.00 $ (mantiene Sector Outperform)."
+  },
+  {
     "id": "63dac04124072b77",
     "date": "2026-09-08",
     "ticker": "ABNB",
