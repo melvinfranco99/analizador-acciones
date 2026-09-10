@@ -18,6 +18,69 @@
     "description": "HP Inc. entra en el Top 10 (puesto #7) con precio objetivo de 37.69 $ (+16.4% a 3 meses)."
   },
   {
+    "id": "d7123548623f9efb",
+    "date": "2026-09-10",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Salesforce, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "c78a9f520daab776",
+    "date": "2026-09-10",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Phillips 66 sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "a43a7ebebc9ad51c",
+    "date": "2026-09-10",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Oracle Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "53df0f5fd702aab0",
+    "date": "2026-09-10",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Newmont Corporation entra en el Top 10 (puesto #4) con precio objetivo de 149.38 $ (+18.2% a 3 meses)."
+  },
+  {
+    "id": "57b9f4c3a1f9d534",
+    "date": "2026-09-10",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Seagate Technology Holdings plc entra en el Top 10 (puesto #9) con precio objetivo de 987.69 $ (+16.1% a 3 meses)."
+  },
+  {
+    "id": "5f10074ef9aa8b5c",
+    "date": "2026-09-10",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Regeneron Pharmaceuticals, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 921.66 $ (+16.1% a 3 meses)."
+  },
+  {
+    "id": "28ea0a448b93b9e7",
+    "date": "2026-09-10",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "HSBC sube su precio objetivo de 800.00 $ a 920.00 $ (mantiene Buy)."
+  },
+  {
     "id": "88082c2a8366766e",
     "date": "2026-09-09",
     "ticker": "DELL",
@@ -43,6 +106,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Scotiabank baja su precio objetivo de 241.00 $ a 215.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "75f3c497e432975f",
+    "date": "2026-09-09",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Bernstein baja su precio objetivo de 147.00 $ a 144.00 $ (mantiene Outperform)."
   },
   {
     "id": "63dac04124072b77",
@@ -3627,6 +3699,15 @@
     "description": "Wells Fargo sube su precio objetivo de 185.00 $ a 215.00 $ (mantiene Overweight)."
   },
   {
+    "id": "d187d6e04470ae35",
+    "date": "2026-08-12",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Scotiabank sube su precio objetivo de 147.00 $ a 149.00 $ (mantiene Sector Outperform)."
+  },
+  {
     "id": "f499ddb7ceee3b44",
     "date": "2026-08-11",
     "ticker": "MPC",
@@ -5301,6 +5382,24 @@
     "description": "Stephens & Co. sube su precio objetivo de 36.00 $ a 40.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "d6c84040ed8e27ce",
+    "date": "2026-07-30",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 750.00 $ a 900.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "733d88122aa0ed97",
+    "date": "2026-07-30",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 1000.00 $ a 1250.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "6d2aeae14ab5ccb6",
     "date": "2026-07-29",
     "ticker": "SWK",
@@ -5562,6 +5661,78 @@
     "description": "Baird sube su precio objetivo de 50.00 $ a 57.00 $ (mantiene Neutral)."
   },
   {
+    "id": "558a840b7210db23",
+    "date": "2026-07-29",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 1035.00 $ a 1187.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "25ef2242f163fb16",
+    "date": "2026-07-29",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 1095.00 $ a 1240.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "92c9ee23fe792519",
+    "date": "2026-07-29",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 850.00 $ a 1000.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "20da7d2189a3f1dd",
+    "date": "2026-07-29",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 775.00 $ a 875.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "f584d2869bbc8dd7",
+    "date": "2026-07-29",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 825.00 $ a 1000.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "9eabe9dd4be48932",
+    "date": "2026-07-29",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 1100.00 $ a 1180.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "bd907b3594960dd6",
+    "date": "2026-07-29",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 1300.00 $ a 1400.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "89e08111030f4f09",
+    "date": "2026-07-29",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 1240.00 $ a 1300.00 $ (mantiene Buy)."
+  },
+  {
     "id": "83b7d6a918897987",
     "date": "2026-07-28",
     "ticker": "INCY",
@@ -5596,6 +5767,24 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-07-28: BPA real 1.38 $ vs estimado 1.28 $ (sorpresa +8.0%)."
+  },
+  {
+    "id": "3edd6193f3e2017e",
+    "date": "2026-07-28",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 125.00 $ a 124.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "4370f69d4bca6965",
+    "date": "2026-07-28",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-28: BPA real 5.71 $ vs estimado 5.09 $ (sorpresa +12.1%)."
   },
   {
     "id": "efdf755b2b90fa5c",
@@ -5785,6 +5974,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-07-23: BPA real 2.99 $ vs estimado 2.60 $ (sorpresa +14.9%)."
+  },
+  {
+    "id": "7a98f970ceb31fad",
+    "date": "2026-07-23",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-23: BPA real 2.10 $ vs estimado 1.99 $ (sorpresa +5.7%)."
   },
   {
     "id": "88b0ba279f340b3b",
@@ -6021,6 +6219,15 @@
     "description": "Canaccord Genuity sube su precio objetivo de 42.00 $ a 55.00 $ (mantiene Hold)."
   },
   {
+    "id": "6c9a3d642a71cc54",
+    "date": "2026-07-16",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 133.00 $ a 125.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "a2573b35972339d1",
     "date": "2026-07-15",
     "ticker": "DXCM",
@@ -6181,6 +6388,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Jefferies sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d4e0938d7d4b098b",
+    "date": "2026-07-14",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Scotiabank baja su precio objetivo de 151.00 $ a 147.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "81ab4813454c74cf",
+    "date": "2026-07-14",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "TD Cowen sube la recomendacion de Hold a Buy. Precio objetivo: 127.00 $."
   },
   {
     "id": "84914d3126867589",
@@ -6399,6 +6624,15 @@
     "description": "Mizuho sube su precio objetivo de 40.00 $ a 41.00 $ (mantiene Outperform)."
   },
   {
+    "id": "c3dbbae1a50c048f",
+    "date": "2026-07-13",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 1150.00 $ a 1240.00 $ (mantiene Buy)."
+  },
+  {
     "id": "e8d65be4a94e1ce7",
     "date": "2026-07-10",
     "ticker": "WDC",
@@ -6415,6 +6649,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "BTIG sube su precio objetivo de 150.00 $ a 186.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b6662170063e870a",
+    "date": "2026-07-10",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Wells Fargo sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 1100.00 $."
   },
   {
     "id": "a1199991510fb329",
@@ -6505,6 +6748,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Goldman Sachs sube su precio objetivo de 41.00 $ a 48.00 $ (mantiene Sell)."
+  },
+  {
+    "id": "407e6fe6fb23e27c",
+    "date": "2026-07-09",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 140.00 $ a 135.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "5d3722ec0c84824c",
+    "date": "2026-07-09",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B of A Securities baja su precio objetivo de 157.00 $ a 132.00 $ (mantiene Buy)."
   },
   {
     "id": "2cd9b6987d7808b5",
@@ -6604,6 +6865,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Morgan Stanley baja su precio objetivo de 788.00 $ a 730.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "282fce7e2b3d7976",
+    "date": "2026-07-08",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 615.00 $ a 775.00 $ (mantiene Neutral)."
   },
   {
     "id": "0e03abb82810a4c0",
@@ -6741,6 +7011,15 @@
     "description": "Cantor Fitzgerald baja su precio objetivo de 785.00 $ a 750.00 $ (mantiene Overweight)."
   },
   {
+    "id": "84b0660991b43a41",
+    "date": "2026-07-06",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Jefferies baja su precio objetivo de 158.00 $ a 146.00 $ (mantiene Buy)."
+  },
+  {
     "id": "6f0a5e9065d33fee",
     "date": "2026-07-02",
     "ticker": "ZBRA",
@@ -6795,6 +7074,15 @@
     "description": "Wells Fargo sube su precio objetivo de 325.00 $ a 420.00 $ (mantiene Overweight)."
   },
   {
+    "id": "bee666893d05949e",
+    "date": "2026-07-01",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 1000.00 $ a 1150.00 $ (mantiene Buy)."
+  },
+  {
     "id": "dc813f8f87c7ccd1",
     "date": "2026-06-30",
     "ticker": "BKNG",
@@ -6838,6 +7126,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Piper Sandler baja su precio objetivo de 46.00 $ a 42.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "d93ed56b41004339",
+    "date": "2026-06-30",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 140.00 $ a 120.00 $ (mantiene Buy)."
   },
   {
     "id": "7750edabd7715939",
@@ -6901,6 +7198,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Baird sube su precio objetivo de 150.00 $ a 160.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "f3978a4c0c55be09",
+    "date": "2026-06-29",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 1000.00 $ a 1300.00 $ (mantiene Overweight)."
   },
   {
     "id": "fefb083b10eb93b4",
@@ -7326,6 +7632,15 @@
     "description": "Citigroup sube la recomendacion de Neutral a Buy. Precio objetivo: 140.00 $."
   },
   {
+    "id": "6c777d5890faee62",
+    "date": "2026-06-15",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 767.00 $ a 1035.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "aaec5a63873f45d7",
     "date": "2026-06-12",
     "ticker": "VLO",
@@ -7387,5 +7702,14 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Truist Securities sube su precio objetivo de 129.00 $ a 134.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "f914edd352a58976",
+    "date": "2026-06-12",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 775.00 $ a 920.00 $ (mantiene Overweight)."
   }
 ]
