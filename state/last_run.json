@@ -41,32 +41,32 @@
     "upside_pct": 23.2,
     "total_score": 81.7
   },
-  "ZBRA": {
+  "HPQ": {
     "rank": 7,
+    "name": "HP Inc.",
+    "target_price": 37.69,
+    "upside_pct": 16.4,
+    "total_score": 81.1
+  },
+  "ZBRA": {
+    "rank": 8,
     "name": "Zebra Technologies Corporation",
     "target_price": 426.27,
     "upside_pct": 23.6,
     "total_score": 79.6
   },
   "VLO": {
-    "rank": 8,
+    "rank": 9,
     "name": "Valero Energy Corporation",
     "target_price": 493.68,
     "upside_pct": 26.9,
     "total_score": 78.5
   },
   "ORCL": {
-    "rank": 9,
+    "rank": 10,
     "name": "Oracle Corporation",
     "target_price": 201.53,
     "upside_pct": 24.7,
     "total_score": 77.4
-  },
-  "WDC": {
-    "rank": 10,
-    "name": "Western Digital Corporation",
-    "target_price": 573.6,
-    "upside_pct": 18.9,
-    "total_score": 77.0
   }
 }

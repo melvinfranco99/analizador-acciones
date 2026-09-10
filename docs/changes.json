@@ -1,5 +1,23 @@
 [
   {
+    "id": "b6291541dbc994b1",
+    "date": "2026-09-10",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Western Digital Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "110e145cdf8ab4e3",
+    "date": "2026-09-10",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "HP Inc. entra en el Top 10 (puesto #7) con precio objetivo de 37.69 $ (+16.4% a 3 meses)."
+  },
+  {
     "id": "88082c2a8366766e",
     "date": "2026-09-09",
     "ticker": "DELL",
@@ -1377,6 +1395,15 @@
     "description": "Loop Capital baja su precio objetivo de 62.00 $ a 50.00 $ (mantiene Hold)."
   },
   {
+    "id": "6568d7a18846e86e",
+    "date": "2026-08-28",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 19.00 $ a 23.00 $ (mantiene Underweight)."
+  },
+  {
     "id": "e6e3783f7f24cc6c",
     "date": "2026-08-27",
     "ticker": "ROP",
@@ -1818,6 +1845,33 @@
     "description": "BTIG sube su precio objetivo de 255.00 $ a 300.00 $ (mantiene Buy)."
   },
   {
+    "id": "f96d7305725889fb",
+    "date": "2026-08-27",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 26.00 $ a 30.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "7b40936120a69e80",
+    "date": "2026-08-27",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 26.00 $ a 28.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "28a48ba1570cb7a9",
+    "date": "2026-08-27",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 17.00 $ a 19.00 $ (mantiene Underweight)."
+  },
+  {
     "id": "4216a50735f70d54",
     "date": "2026-08-26",
     "ticker": "MU",
@@ -1924,6 +1978,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 440.00 $ a 455.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "a00bf4947c15beb6",
+    "date": "2026-08-26",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-26: BPA real 0.83 $ vs estimado 0.69 $ (sorpresa +20.0%)."
   },
   {
     "id": "6cf742496a1fb44a",
@@ -2221,6 +2284,24 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Baird baja la recomendacion de Outperform a Neutral. Precio objetivo: 40.00 $."
+  },
+  {
+    "id": "4fbb7eb2c49654b7",
+    "date": "2026-08-24",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 19.00 $ a 17.00 $ (mantiene Underweight)."
+  },
+  {
+    "id": "3d11f8b8cc63997e",
+    "date": "2026-08-24",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 25.00 $ a 32.00 $ (mantiene In-Line)."
   },
   {
     "id": "cef957e3c4f90e0f",
@@ -7306,86 +7387,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Truist Securities sube su precio objetivo de 129.00 $ a 134.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "77775cd0180ca0ce",
-    "date": "2026-06-11",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wolfe Research sube su precio objetivo de 550.00 $ a 1250.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "24229cacb5c226ae",
-    "date": "2026-06-11",
-    "ticker": "AJG",
-    "name": "Arthur J. Gallagher & Co.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "Jefferies sube la recomendacion de Hold a Buy. Precio objetivo: 265.00 $."
-  },
-  {
-    "id": "3b7bb91f7fbc3cce",
-    "date": "2026-06-11",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Bernstein sube su precio objetivo de 319.00 $ a 325.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "00486f8a850621ea",
-    "date": "2026-06-11",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 240.00 $ a 250.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "669d9505e533db6d",
-    "date": "2026-06-11",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Wedbush baja su precio objetivo de 275.00 $ a 240.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "f80bfd258fc1b648",
-    "date": "2026-06-11",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "DA Davidson sube su precio objetivo de 200.00 $ a 225.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "42bbea7a3308d6eb",
-    "date": "2026-06-11",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Scotiabank baja su precio objetivo de 290.00 $ a 241.00 $ (mantiene Sector Outperform)."
-  },
-  {
-    "id": "1a7bfe15ed9db9f4",
-    "date": "2026-06-11",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "BMO Capital sube su precio objetivo de 200.00 $ a 220.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "22878f057d81ee32",
-    "date": "2026-06-11",
-    "ticker": "ORCL",
-    "name": "Oracle Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Piper Sandler sube su precio objetivo de 210.00 $ a 225.00 $ (mantiene Overweight)."
   }
 ]
