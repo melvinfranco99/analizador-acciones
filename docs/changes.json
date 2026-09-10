@@ -81,6 +81,42 @@
     "description": "HSBC sube su precio objetivo de 800.00 $ a 920.00 $ (mantiene Buy)."
   },
   {
+    "id": "33806b0ec8ae0a4a",
+    "date": "2026-09-10",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "9c3d6574cb0e8623",
+    "date": "2026-09-10",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Seagate Technology Holdings plc sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "3028f2729e7e35f7",
+    "date": "2026-09-10",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Phillips 66 entra en el Top 10 (puesto #3) con precio objetivo de 314.11 $ (+21.5% a 3 meses)."
+  },
+  {
+    "id": "667ce147aa9480b4",
+    "date": "2026-09-10",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Salesforce, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 294.68 $ (+21.3% a 3 meses)."
+  },
+  {
     "id": "88082c2a8366766e",
     "date": "2026-09-09",
     "ticker": "DELL",
