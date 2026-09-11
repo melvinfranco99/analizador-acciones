@@ -117,6 +117,60 @@
     "description": "BMO Capital baja su precio objetivo de 220.00 $ a 195.00 $ (mantiene Outperform)."
   },
   {
+    "id": "fb7803158037c247",
+    "date": "2026-09-11",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "8b5b2deb4ce8d639",
+    "date": "2026-09-11",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Oracle Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "79686280ab4f76e8",
+    "date": "2026-09-11",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Workday, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "4333e7cb4ecdfb19",
+    "date": "2026-09-11",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Hewlett Packard Enterprise Company entra en el Top 10 (puesto #1) con precio objetivo de 72.35 $ (+16.5% a 3 meses)."
+  },
+  {
+    "id": "4790e68b63d36306",
+    "date": "2026-09-11",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "IQVIA Holdings Inc. entra en el Top 10 (puesto #7) con precio objetivo de 320.11 $ (+22.3% a 3 meses)."
+  },
+  {
+    "id": "ee980e27949c134f",
+    "date": "2026-09-11",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Salesforce, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 308.20 $ (+24.4% a 3 meses)."
+  },
+  {
     "id": "b6291541dbc994b1",
     "date": "2026-09-10",
     "ticker": "WDC",
@@ -655,6 +709,87 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 329.00 $ a 435.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7e6358bc200cb86a",
+    "date": "2026-09-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 74.00 $ a 86.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "61fa5f47794d6e25",
+    "date": "2026-09-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 63.00 $ a 57.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "8637f33fb41e2c5c",
+    "date": "2026-09-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Evercore ISI Group baja su precio objetivo de 70.00 $ a 65.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e29337b08e0c3729",
+    "date": "2026-09-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 74.00 $ a 76.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b66089a21f002cd9",
+    "date": "2026-09-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 65.00 $ a 59.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "e06a743b2a58cc2e",
+    "date": "2026-09-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 69.00 $ a 70.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "4ef76b564dfb349e",
+    "date": "2026-09-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 67.00 $ a 54.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "1c1c0f27d4469dcb",
+    "date": "2026-09-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 69.00 $ a 67.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "9177d0c782d1b27d",
+    "date": "2026-09-03",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 67.00 $ a 79.00 $ (mantiene Overweight)."
   },
   {
     "id": "7a0b1ec046d31bda",
@@ -1267,6 +1402,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Argus Research sube su precio objetivo de 290.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d97ac4a3212b19e4",
+    "date": "2026-08-31",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 80.00 $ a 82.00 $ (mantiene Buy)."
   },
   {
     "id": "ff253778f2f3befa",
