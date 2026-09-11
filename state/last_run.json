@@ -2,71 +2,71 @@
   "MU": {
     "rank": 1,
     "name": "Micron Technology, Inc.",
-    "target_price": 1245.26,
-    "upside_pct": 27.4,
-    "total_score": 88.4
+    "target_price": 1243.57,
+    "upside_pct": 27.7,
+    "total_score": 85.1
   },
-  "MPC": {
+  "ZBRA": {
     "rank": 2,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 489.46,
-    "upside_pct": 24.7,
+    "name": "Zebra Technologies Corporation",
+    "target_price": 454.95,
+    "upside_pct": 29.2,
     "total_score": 84.5
   },
-  "PSX": {
+  "MPC": {
     "rank": 3,
-    "name": "Phillips 66",
-    "target_price": 314.11,
-    "upside_pct": 21.5,
-    "total_score": 82.4
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 517.19,
+    "upside_pct": 27.8,
+    "total_score": 83.8
   },
   "DELL": {
     "rank": 4,
     "name": "Dell Technologies Inc.",
-    "target_price": 600.89,
-    "upside_pct": 18.6,
-    "total_score": 82.2
-  },
-  "HPQ": {
-    "rank": 5,
-    "name": "HP Inc.",
-    "target_price": 38.27,
-    "upside_pct": 16.9,
-    "total_score": 81.1
-  },
-  "NEM": {
-    "rank": 6,
-    "name": "Newmont Corporation",
-    "target_price": 149.01,
-    "upside_pct": 18.1,
-    "total_score": 81.1
-  },
-  "ZBRA": {
-    "rank": 7,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 444.95,
-    "upside_pct": 29.3,
-    "total_score": 79.6
+    "target_price": 683.64,
+    "upside_pct": 21.8,
+    "total_score": 81.5
   },
   "NVDA": {
-    "rank": 8,
+    "rank": 5,
     "name": "NVIDIA Corporation",
-    "target_price": 272.77,
-    "upside_pct": 24.9,
+    "target_price": 273.65,
+    "upside_pct": 24.6,
     "total_score": 79.6
   },
-  "REGN": {
-    "rank": 9,
-    "name": "Regeneron Pharmaceuticals, Inc.",
-    "target_price": 920.19,
-    "upside_pct": 16.0,
-    "total_score": 77.2
+  "VLO": {
+    "rank": 6,
+    "name": "Valero Energy Corporation",
+    "target_price": 507.3,
+    "upside_pct": 27.9,
+    "total_score": 78.5
   },
-  "CRM": {
-    "rank": 10,
-    "name": "Salesforce, Inc.",
-    "target_price": 294.68,
-    "upside_pct": 21.3,
+  "HPQ": {
+    "rank": 7,
+    "name": "HP Inc.",
+    "target_price": 42.4,
+    "upside_pct": 21.4,
+    "total_score": 77.0
+  },
+  "PSX": {
+    "rank": 8,
+    "name": "Phillips 66",
+    "target_price": 325.6,
+    "upside_pct": 24.1,
     "total_score": 76.9
+  },
+  "ORCL": {
+    "rank": 9,
+    "name": "Oracle Corporation",
+    "target_price": 196.76,
+    "upside_pct": 29.4,
+    "total_score": 75.4
+  },
+  "WDAY": {
+    "rank": 10,
+    "name": "Workday, Inc.",
+    "target_price": 224.16,
+    "upside_pct": 21.0,
+    "total_score": 75.3
   }
 }

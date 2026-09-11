@@ -1,5 +1,122 @@
 [
   {
+    "id": "14b2d913a1596ab2",
+    "date": "2026-09-11",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Newmont Corporation sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "f42d7099623bf2d9",
+    "date": "2026-09-11",
+    "ticker": "REGN",
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Regeneron Pharmaceuticals, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "743ae0cda82b5103",
+    "date": "2026-09-11",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Salesforce, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "71510cd2bbaefb38",
+    "date": "2026-09-11",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 489.46 $ a 517.19 $ (+5.7%)."
+  },
+  {
+    "id": "7c1a2c65287636ff",
+    "date": "2026-09-11",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 600.89 $ a 683.64 $ (+13.8%)."
+  },
+  {
+    "id": "cb23b606e72d65c7",
+    "date": "2026-09-11",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Valero Energy Corporation entra en el Top 10 (puesto #6) con precio objetivo de 507.30 $ (+27.9% a 3 meses)."
+  },
+  {
+    "id": "80d0f374c174ee7e",
+    "date": "2026-09-11",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 38.27 $ a 42.40 $ (+10.8%)."
+  },
+  {
+    "id": "084d97e7953a8edc",
+    "date": "2026-09-11",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Oracle Corporation entra en el Top 10 (puesto #9) con precio objetivo de 196.76 $ (+29.4% a 3 meses)."
+  },
+  {
+    "id": "0fa69038bf7a764d",
+    "date": "2026-09-11",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Workday, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 224.16 $ (+21.0% a 3 meses)."
+  },
+  {
+    "id": "37ad8c6a45411aea",
+    "date": "2026-09-11",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 245.00 $ a 250.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "49a6484b05139652",
+    "date": "2026-09-11",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 190.00 $ a 165.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "c5a70a7fd6905cec",
+    "date": "2026-09-11",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 250.00 $ a 252.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "84f3e1bfa6c81e4f",
+    "date": "2026-09-11",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "BMO Capital baja su precio objetivo de 220.00 $ a 195.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "b6291541dbc994b1",
     "date": "2026-09-10",
     "ticker": "WDC",
@@ -115,6 +232,15 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Salesforce, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 294.68 $ (+21.3% a 3 meses)."
+  },
+  {
+    "id": "afb94cfc4d67c2a3",
+    "date": "2026-09-10",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-09-10: BPA real 1.92 $ vs estimado 1.74 $ (sorpresa +10.4%)."
   },
   {
     "id": "88082c2a8366766e",
