@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T15:21:00",
-  "duration_seconds": 28.8,
+  "generated_at": "2026-09-12T20:24:11",
+  "duration_seconds": 47.4,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -210,9 +210,9 @@
       "industry": "Semiconductors",
       "price": 218.29,
       "price_eur": 188.17,
-      "target_price": 272.97,
-      "target_price_eur": 235.3,
-      "upside_pct": 25.1,
+      "target_price": 272.73,
+      "target_price_eur": 235.09,
+      "upside_pct": 24.9,
       "stop_loss": 204.95,
       "stop_loss_eur": 176.67,
       "stop_loss_pct": 6.1,
@@ -229,16 +229,16 @@
         "valuation": 50,
         "growth": 100,
         "profitability": 100,
-        "analyst_consensus": 95.8
+        "analyst_consensus": 95.6
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +25.1% (~+7.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +24.9% (~+7.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Crecimiento de ingresos solido (105.9% interanual).",
-        "Consenso de 57 analistas con precio objetivo medio de 327.65."
+        "Consenso de 58 analistas con precio objetivo medio de 327.18."
       ],
       "pe": 27.631645,
-      "num_analysts": 57,
+      "num_analysts": 58,
       "rank": 6
     },
     {
@@ -388,7 +388,7 @@
         "Crecimiento de ingresos solido (53.1% interanual).",
         "Valoracion contenida (PER 14.8x)."
       ],
-      "pe": 14.750995,
+      "pe": 14.818389,
       "num_analysts": 19,
       "rank": 10
     }

@@ -1035,6 +1035,15 @@
     "description": "Cantor Fitzgerald sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene Overweight)."
   },
   {
+    "id": "85c5fb889a9e7374",
+    "date": "2026-09-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-09-02: BPA real 1.11 $ vs estimado 0.94 $ (sorpresa +18.4%)."
+  },
+  {
     "id": "ad447f9dd335913c",
     "date": "2026-09-01",
     "ticker": "IQV",
