@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T04:03:59",
-  "duration_seconds": 28.7,
+  "generated_at": "2026-09-12T10:26:17",
+  "duration_seconds": 35.4,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -45,7 +45,7 @@
         "Crecimiento de ingresos solido (33.7% interanual).",
         "Consenso de 20 analistas con precio objetivo medio de 67.43."
       ],
-      "pe": 28.481651,
+      "pe": 32.005154,
       "num_analysts": 20,
       "rank": 1
     },
@@ -158,9 +158,9 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "RSI en zona de sobrecompra (75); posible correccion a corto plazo.",
         "Crecimiento de ingresos solido (53.7% interanual).",
-        "Valoracion contenida (PER 13.7x)."
+        "Valoracion contenida (PER 13.6x)."
       ],
-      "pe": 13.728501,
+      "pe": 13.605842,
       "num_analysts": 18,
       "rank": 4
     },
@@ -199,7 +199,7 @@
         "Crecimiento de ingresos solido (57.7% interanual).",
         "Consenso de 25 analistas con precio objetivo medio de 570.48."
       ],
-      "pe": 29.50026,
+      "pe": 33.00116,
       "num_analysts": 25,
       "rank": 5
     },
@@ -274,7 +274,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 18 analistas con precio objetivo medio de 276.28."
       ],
-      "pe": 32.599003,
+      "pe": 32.04039,
       "num_analysts": 18,
       "rank": 7
     },
@@ -349,7 +349,7 @@
         "Potencial estimado a 3 meses: +24.4% (~+7.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Consenso de 54 analistas con precio objetivo medio de 273.37."
       ],
-      "pe": 22.27698,
+      "pe": 22.684982,
       "num_analysts": 54,
       "rank": 9
     },
@@ -388,7 +388,7 @@
         "Crecimiento de ingresos solido (53.1% interanual).",
         "Valoracion contenida (PER 14.8x)."
       ],
-      "pe": 14.801482,
+      "pe": 14.750995,
       "num_analysts": 19,
       "rank": 10
     }
