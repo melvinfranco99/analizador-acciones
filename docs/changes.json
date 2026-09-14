@@ -1,5 +1,14 @@
 [
   {
+    "id": "e893d3fc62601c5f",
+    "date": "2026-09-14",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Evercore ISI Group baja la recomendacion de Outperform a In-Line. Precio objetivo: 65.00 $."
+  },
+  {
     "id": "14b2d913a1596ab2",
     "date": "2026-09-11",
     "ticker": "NEM",
