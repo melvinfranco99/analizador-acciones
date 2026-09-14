@@ -1,72 +1,72 @@
 {
-  "HPE": {
-    "rank": 1,
-    "name": "Hewlett Packard Enterprise Company",
-    "target_price": 72.35,
-    "upside_pct": 16.5,
-    "total_score": 86.9
-  },
-  "MU": {
-    "rank": 2,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1244.19,
-    "upside_pct": 27.6,
-    "total_score": 85.1
-  },
   "ZBRA": {
-    "rank": 3,
+    "rank": 1,
     "name": "Zebra Technologies Corporation",
-    "target_price": 451.12,
-    "upside_pct": 28.8,
+    "target_price": 446.83,
+    "upside_pct": 27.0,
     "total_score": 84.5
   },
-  "MPC": {
-    "rank": 4,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 499.31,
-    "upside_pct": 26.1,
-    "total_score": 84.5
+  "PCTY": {
+    "rank": 2,
+    "name": "Paylocity Holding Corporation",
+    "target_price": 174.57,
+    "upside_pct": 18.0,
+    "total_score": 82.5
   },
   "DELL": {
-    "rank": 5,
+    "rank": 3,
     "name": "Dell Technologies Inc.",
-    "target_price": 695.38,
-    "upside_pct": 22.6,
-    "total_score": 81.5
+    "target_price": 628.55,
+    "upside_pct": 17.6,
+    "total_score": 82.2
   },
-  "NVDA": {
+  "CRWD": {
+    "rank": 4,
+    "name": "CrowdStrike Holdings, Inc.",
+    "target_price": 279.97,
+    "upside_pct": 18.9,
+    "total_score": 82.0
+  },
+  "WDAY": {
+    "rank": 5,
+    "name": "Workday, Inc.",
+    "target_price": 241.29,
+    "upside_pct": 24.2,
+    "total_score": 80.2
+  },
+  "VLO": {
     "rank": 6,
-    "name": "NVIDIA Corporation",
-    "target_price": 272.73,
-    "upside_pct": 24.9,
-    "total_score": 79.6
+    "name": "Valero Energy Corporation",
+    "target_price": 476.04,
+    "upside_pct": 24.3,
+    "total_score": 79.3
   },
-  "IQV": {
+  "MPC": {
     "rank": 7,
-    "name": "IQVIA Holdings Inc.",
-    "target_price": 320.11,
-    "upside_pct": 22.3,
-    "total_score": 77.8
-  },
-  "HPQ": {
-    "rank": 8,
-    "name": "HP Inc.",
-    "target_price": 43.49,
-    "upside_pct": 22.6,
-    "total_score": 77.0
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 497.19,
+    "upside_pct": 25.4,
+    "total_score": 78.3
   },
   "CRM": {
-    "rank": 9,
+    "rank": 8,
     "name": "Salesforce, Inc.",
-    "target_price": 308.2,
-    "upside_pct": 24.4,
-    "total_score": 76.9
+    "target_price": 332.57,
+    "upside_pct": 28.2,
+    "total_score": 77.6
   },
-  "PSX": {
+  "PANW": {
+    "rank": 9,
+    "name": "Palo Alto Networks, Inc.",
+    "target_price": 437.01,
+    "upside_pct": 16.9,
+    "total_score": 77.3
+  },
+  "HPQ": {
     "rank": 10,
-    "name": "Phillips 66",
-    "target_price": 319.75,
-    "upside_pct": 23.2,
-    "total_score": 76.2
+    "name": "HP Inc.",
+    "target_price": 40.16,
+    "upside_pct": 18.0,
+    "total_score": 76.3
   }
 }
