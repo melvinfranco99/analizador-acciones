@@ -7900,59 +7900,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Mizuho sube su precio objetivo de 295.00 $ a 303.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "5bdace139db360d8",
-    "date": "2026-06-15",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "TD Cowen sube su precio objetivo de 660.00 $ a 1500.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "81b98e55b1be8b1f",
-    "date": "2026-06-15",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "RBC Capital sube su precio objetivo de 525.00 $ a 1200.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "69783370b2684204",
-    "date": "2026-06-15",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Piper Sandler sube su precio objetivo de 75.00 $ a 88.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "8f9569a92e05510d",
-    "date": "2026-06-15",
-    "ticker": "WDC",
-    "name": "Western Digital Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 488.00 $ a 650.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "72e73bba533c9a77",
-    "date": "2026-06-15",
-    "ticker": "PAYX",
-    "name": "Paychex, Inc.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "Citigroup sube la recomendacion de Neutral a Buy. Precio objetivo: 140.00 $."
-  },
-  {
-    "id": "6c777d5890faee62",
-    "date": "2026-06-15",
-    "ticker": "STX",
-    "name": "Seagate Technology Holdings plc",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 767.00 $ a 1035.00 $ (mantiene Overweight)."
   }
 ]
