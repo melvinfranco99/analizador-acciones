@@ -1,5 +1,14 @@
 [
   {
+    "id": "e3b09d794f1ca067",
+    "date": "2026-09-15",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 410.00 $ a 435.00 $ (mantiene Buy)."
+  },
+  {
     "id": "e893d3fc62601c5f",
     "date": "2026-09-14",
     "ticker": "HPE",
