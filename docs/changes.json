@@ -126,6 +126,42 @@
     "description": "Precio objetivo de nuestro modelo revisado de 43.49 $ a 40.16 $ (-7.7%)."
   },
   {
+    "id": "83abd30c8a2993c6",
+    "date": "2026-09-14",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 350.00 $ a 450.00 $ (mantiene Strong Buy)."
+  },
+  {
+    "id": "d423629fa3cc95da",
+    "date": "2026-09-14",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 255.00 $ a 411.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "e8bba1fec30b9d94",
+    "date": "2026-09-14",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 350.00 $ a 445.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "dc86589e797b2c05",
+    "date": "2026-09-14",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 265.00 $ a 453.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "14b2d913a1596ab2",
     "date": "2026-09-11",
     "ticker": "NEM",
@@ -8602,14 +8638,5 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Morgan Stanley baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 200.00 $."
-  },
-  {
-    "id": "190b52a615add786",
-    "date": "2026-06-16",
-    "ticker": "AMGN",
-    "name": "Amgen Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 295.00 $ a 303.00 $ (mantiene Neutral)."
   }
 ]
