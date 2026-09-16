@@ -27,6 +27,33 @@
     "description": "NVIDIA Corporation entra en el Top 10 (puesto #3) con precio objetivo de 272.23 $ (+26.1% a 3 meses)."
   },
   {
+    "id": "da192e70fbd0778b",
+    "date": "2026-09-16",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "67701fd847007eb6",
+    "date": "2026-09-16",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Phillips 66 entra en el Top 10 (puesto #7) con precio objetivo de 336.97 $ (+27.3% a 3 meses)."
+  },
+  {
+    "id": "630d274fde0cae77",
+    "date": "2026-09-16",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 265.00 $ a 280.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "e3b09d794f1ca067",
     "date": "2026-09-15",
     "ticker": "ZBRA",
@@ -241,6 +268,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 265.00 $ a 453.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1429d8e21deca494",
+    "date": "2026-09-14",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 240.00 $ a 300.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "0d3a12fe339962b8",
+    "date": "2026-09-14",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 196.00 $ a 284.00 $ (mantiene Overweight)."
   },
   {
     "id": "14b2d913a1596ab2",

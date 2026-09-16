@@ -2,71 +2,71 @@
   "DELL": {
     "rank": 1,
     "name": "Dell Technologies Inc.",
-    "target_price": 684.73,
-    "upside_pct": 20.5,
+    "target_price": 674.91,
+    "upside_pct": 19.8,
     "total_score": 85.6
   },
-  "ZBRA": {
-    "rank": 2,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 426.07,
-    "upside_pct": 23.0,
-    "total_score": 84.5
-  },
-  "NVDA": {
-    "rank": 3,
-    "name": "NVIDIA Corporation",
-    "target_price": 272.23,
-    "upside_pct": 26.1,
-    "total_score": 84.4
-  },
   "MPC": {
-    "rank": 4,
+    "rank": 2,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 554.31,
-    "upside_pct": 33.3,
+    "target_price": 549.91,
+    "upside_pct": 32.9,
     "total_score": 83.8
   },
   "CRM": {
-    "rank": 5,
+    "rank": 3,
     "name": "Salesforce, Inc.",
-    "target_price": 320.01,
-    "upside_pct": 27.6,
+    "target_price": 319.35,
+    "upside_pct": 27.5,
     "total_score": 83.5
   },
   "PCTY": {
-    "rank": 6,
+    "rank": 4,
     "name": "Paylocity Holding Corporation",
-    "target_price": 177.08,
-    "upside_pct": 20.5,
+    "target_price": 177.69,
+    "upside_pct": 20.6,
     "total_score": 82.5
   },
   "PANW": {
-    "rank": 7,
+    "rank": 5,
     "name": "Palo Alto Networks, Inc.",
-    "target_price": 449.79,
-    "upside_pct": 18.1,
+    "target_price": 439.9,
+    "upside_pct": 17.1,
     "total_score": 82.0
   },
   "CRWD": {
-    "rank": 8,
+    "rank": 6,
     "name": "CrowdStrike Holdings, Inc.",
-    "target_price": 295.56,
-    "upside_pct": 21.6,
+    "target_price": 292.15,
+    "upside_pct": 21.0,
     "total_score": 82.0
   },
+  "PSX": {
+    "rank": 7,
+    "name": "Phillips 66",
+    "target_price": 336.97,
+    "upside_pct": 27.3,
+    "total_score": 81.0
+  },
   "WDAY": {
-    "rank": 9,
+    "rank": 8,
     "name": "Workday, Inc.",
-    "target_price": 236.04,
-    "upside_pct": 24.7,
+    "target_price": 232.93,
+    "upside_pct": 24.1,
     "total_score": 80.2
   },
-  "VLO": {
+  "ZBRA": {
+    "rank": 9,
+    "name": "Zebra Technologies Corporation",
+    "target_price": 415.76,
+    "upside_pct": 21.9,
+    "total_score": 79.6
+  },
+  "NVDA": {
     "rank": 10,
-    "name": "Valero Energy Corporation",
-    "target_price": 535.72,
-    "upside_pct": 32.9,
-    "total_score": 78.5
+    "name": "NVIDIA Corporation",
+    "target_price": 271.28,
+    "upside_pct": 26.8,
+    "total_score": 79.6
   }
 }
