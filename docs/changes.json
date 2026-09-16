@@ -8746,41 +8746,5 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "JP Morgan baja su precio objetivo de 154.00 $ a 124.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "ee927d3e1947e0b1",
-    "date": "2026-06-17",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 840.00 $ a 1200.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "3fabed8327670469",
-    "date": "2026-06-17",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Deutsche Bank sube su precio objetivo de 1000.00 $ a 1500.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "6a6ee74c5c261426",
-    "date": "2026-06-17",
-    "ticker": "PAYX",
-    "name": "Paychex, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Stifel sube su precio objetivo de 105.00 $ a 110.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "da1a77ec8525457a",
-    "date": "2026-06-17",
-    "ticker": "IQV",
-    "name": "IQVIA Holdings Inc.",
-    "category": "analista",
-    "type": "downgrade_analista",
-    "description": "Morgan Stanley baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 200.00 $."
   }
 ]
