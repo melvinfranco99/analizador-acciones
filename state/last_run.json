@@ -1,72 +1,72 @@
 {
-  "MPC": {
+  "DELL": {
     "rank": 1,
+    "name": "Dell Technologies Inc.",
+    "target_price": 684.73,
+    "upside_pct": 20.5,
+    "total_score": 85.6
+  },
+  "ZBRA": {
+    "rank": 2,
+    "name": "Zebra Technologies Corporation",
+    "target_price": 426.07,
+    "upside_pct": 23.0,
+    "total_score": 84.5
+  },
+  "NVDA": {
+    "rank": 3,
+    "name": "NVIDIA Corporation",
+    "target_price": 272.23,
+    "upside_pct": 26.1,
+    "total_score": 84.4
+  },
+  "MPC": {
+    "rank": 4,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 542.76,
-    "upside_pct": 32.1,
+    "target_price": 554.31,
+    "upside_pct": 33.3,
     "total_score": 83.8
   },
+  "CRM": {
+    "rank": 5,
+    "name": "Salesforce, Inc.",
+    "target_price": 320.01,
+    "upside_pct": 27.6,
+    "total_score": 83.5
+  },
   "PCTY": {
-    "rank": 2,
+    "rank": 6,
     "name": "Paylocity Holding Corporation",
-    "target_price": 174.96,
-    "upside_pct": 18.8,
+    "target_price": 177.08,
+    "upside_pct": 20.5,
     "total_score": 82.5
   },
-  "GDDY": {
-    "rank": 3,
-    "name": "GoDaddy Inc.",
-    "target_price": 118.82,
-    "upside_pct": 16.1,
-    "total_score": 82.2
-  },
   "PANW": {
-    "rank": 4,
+    "rank": 7,
     "name": "Palo Alto Networks, Inc.",
-    "target_price": 434.77,
-    "upside_pct": 15.9,
+    "target_price": 449.79,
+    "upside_pct": 18.1,
     "total_score": 82.0
   },
   "CRWD": {
-    "rank": 5,
+    "rank": 8,
     "name": "CrowdStrike Holdings, Inc.",
-    "target_price": 290.97,
-    "upside_pct": 20.0,
+    "target_price": 295.56,
+    "upside_pct": 21.6,
     "total_score": 82.0
   },
-  "DELL": {
-    "rank": 6,
-    "name": "Dell Technologies Inc.",
-    "target_price": 633.42,
-    "upside_pct": 16.5,
-    "total_score": 80.8
-  },
   "WDAY": {
-    "rank": 7,
-    "name": "Workday, Inc.",
-    "target_price": 235.59,
-    "upside_pct": 23.6,
-    "total_score": 80.2
-  },
-  "ZBRA": {
-    "rank": 8,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 416.03,
-    "upside_pct": 21.4,
-    "total_score": 79.6
-  },
-  "CRM": {
     "rank": 9,
-    "name": "Salesforce, Inc.",
-    "target_price": 326.42,
-    "upside_pct": 27.7,
-    "total_score": 79.4
+    "name": "Workday, Inc.",
+    "target_price": 236.04,
+    "upside_pct": 24.7,
+    "total_score": 80.2
   },
   "VLO": {
     "rank": 10,
     "name": "Valero Energy Corporation",
-    "target_price": 518.66,
-    "upside_pct": 30.6,
+    "target_price": 535.72,
+    "upside_pct": 32.9,
     "total_score": 78.5
   }
 }

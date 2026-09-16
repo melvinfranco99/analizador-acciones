@@ -1,5 +1,32 @@
 [
   {
+    "id": "281e465efda2bae2",
+    "date": "2026-09-16",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "GoDaddy Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "ed5b9c36daacba72",
+    "date": "2026-09-16",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 633.42 $ a 684.73 $ (+8.1%)."
+  },
+  {
+    "id": "eacc333f8cc8c665",
+    "date": "2026-09-16",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "NVIDIA Corporation entra en el Top 10 (puesto #3) con precio objetivo de 272.23 $ (+26.1% a 3 meses)."
+  },
+  {
     "id": "e3b09d794f1ca067",
     "date": "2026-09-15",
     "ticker": "ZBRA",
