@@ -41,32 +41,32 @@
     "upside_pct": 21.0,
     "total_score": 82.0
   },
-  "PSX": {
-    "rank": 7,
-    "name": "Phillips 66",
-    "target_price": 336.97,
-    "upside_pct": 27.3,
-    "total_score": 81.0
-  },
   "WDAY": {
-    "rank": 8,
+    "rank": 7,
     "name": "Workday, Inc.",
     "target_price": 232.93,
     "upside_pct": 24.1,
     "total_score": 80.2
   },
   "ZBRA": {
-    "rank": 9,
+    "rank": 8,
     "name": "Zebra Technologies Corporation",
     "target_price": 415.76,
     "upside_pct": 21.9,
     "total_score": 79.6
   },
   "NVDA": {
-    "rank": 10,
+    "rank": 9,
     "name": "NVIDIA Corporation",
     "target_price": 271.28,
     "upside_pct": 26.8,
     "total_score": 79.6
+  },
+  "MU": {
+    "rank": 10,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1219.83,
+    "upside_pct": 31.7,
+    "total_score": 79.0
   }
 }

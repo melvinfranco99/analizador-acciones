@@ -1,5 +1,23 @@
 [
   {
+    "id": "959dfd4736c0d3c3",
+    "date": "2026-09-17",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Phillips 66 sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "3a426e8c6d2413c3",
+    "date": "2026-09-17",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Micron Technology, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 1219.83 $ (+31.7% a 3 meses)."
+  },
+  {
     "id": "281e465efda2bae2",
     "date": "2026-09-16",
     "ticker": "GDDY",
@@ -8764,59 +8782,5 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "UBS baja su precio objetivo de 300.00 $ a 255.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "e8eb49fbd1d0d38f",
-    "date": "2026-06-18",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Rosenblatt sube su precio objetivo de 600.00 $ a 1200.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "b2c3bb28635e9722",
-    "date": "2026-06-18",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Stifel sube su precio objetivo de 550.00 $ a 1500.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "774d4a508183a48d",
-    "date": "2026-06-18",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wedbush sube su precio objetivo de 550.00 $ a 1300.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "68331de51236ccf5",
-    "date": "2026-06-18",
-    "ticker": "SWK",
-    "name": "Stanley Black & Decker, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 80.00 $ a 90.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "5c5a92c3baf4eaf6",
-    "date": "2026-06-18",
-    "ticker": "AJG",
-    "name": "Arthur J. Gallagher & Co.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Keefe, Bruyette & Woods sube su precio objetivo de 235.00 $ a 242.00 $ (mantiene Market Perform)."
-  },
-  {
-    "id": "fdb7ac17f8d99394",
-    "date": "2026-06-18",
-    "ticker": "GDDY",
-    "name": "GoDaddy Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "JP Morgan baja su precio objetivo de 154.00 $ a 124.00 $ (mantiene Overweight)."
   }
 ]
