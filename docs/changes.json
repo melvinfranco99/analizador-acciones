@@ -108,6 +108,33 @@
     "description": "Canaccord Genuity sube su precio objetivo de 270.00 $ a 300.00 $ (mantiene Buy)."
   },
   {
+    "id": "1ee8b0c1dfb9768c",
+    "date": "2026-09-17",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Best Buy Co., Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "1b6a7f294208625c",
+    "date": "2026-09-17",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Microsoft Corporation entra en el Top 10 (puesto #1) con precio objetivo de 576.42 $ (+15.8% a 3 meses)."
+  },
+  {
+    "id": "e31984163f9eb426",
+    "date": "2026-09-17",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Freedom Broker sube su precio objetivo de 230.00 $ a 295.00 $ (mantiene Buy)."
+  },
+  {
     "id": "281e465efda2bae2",
     "date": "2026-09-16",
     "ticker": "GDDY",
@@ -1008,6 +1035,15 @@
     "description": "Scotiabank sube su precio objetivo de 250.00 $ a 265.00 $ (mantiene Sector Outperform)."
   },
   {
+    "id": "d2361f6397c87420",
+    "date": "2026-09-04",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 450.00 $ a 530.00 $ (mantiene Hold)."
+  },
+  {
     "id": "02f6f608bcba8250",
     "date": "2026-09-03",
     "ticker": "AMGN",
@@ -1816,6 +1852,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-09-01: BPA real 1.02 $ vs estimado 0.98 $ (sorpresa +4.3%)."
+  },
+  {
+    "id": "a3b8041e08c7a022",
+    "date": "2026-09-01",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 500.00 $ a 600.00 $ (mantiene Buy)."
   },
   {
     "id": "83a36ca7b68aab21",
@@ -5004,6 +5049,15 @@
     "description": "Citizens sube su precio objetivo de 195.00 $ a 230.00 $ (mantiene Market Outperform)."
   },
   {
+    "id": "9a81773d9ad9a0e4",
+    "date": "2026-08-12",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 650.00 $ a 700.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "f499ddb7ceee3b44",
     "date": "2026-08-11",
     "ticker": "MPC",
@@ -6030,6 +6084,15 @@
     "description": "Goldman Sachs sube su precio objetivo de 427.00 $ a 450.00 $ (mantiene Buy)."
   },
   {
+    "id": "1148bc5500028f88",
+    "date": "2026-08-05",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Tigress Financial sube su precio objetivo de 680.00 $ a 690.00 $ (mantiene Buy)."
+  },
+  {
     "id": "06e96903c0045c74",
     "date": "2026-08-04",
     "ticker": "MPC",
@@ -6777,6 +6840,78 @@
     "description": "Resultados del 2026-07-30: BPA real 1.83 $ vs estimado 1.69 $ (sorpresa +8.0%)."
   },
   {
+    "id": "da3d43a3081d08e3",
+    "date": "2026-07-30",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 646.00 $ a 647.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "62e96208f4fde758",
+    "date": "2026-07-30",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 570.00 $ a 600.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "36ef37d15329f7e6",
+    "date": "2026-07-30",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 400.00 $ a 450.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "999ac80612611bc9",
+    "date": "2026-07-30",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 625.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "d32588d079027cd1",
+    "date": "2026-07-30",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 525.00 $ a 528.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "68a349dc62e9cc49",
+    "date": "2026-07-30",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 502.00 $ a 522.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "f217c1e91b09b37f",
+    "date": "2026-07-30",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 545.00 $ a 512.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "f00b8c55f04b9fb5",
+    "date": "2026-07-30",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 540.00 $ a 550.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "6d2aeae14ab5ccb6",
     "date": "2026-07-29",
     "ticker": "SWK",
@@ -7110,6 +7245,15 @@
     "description": "Citigroup sube su precio objetivo de 1240.00 $ a 1300.00 $ (mantiene Buy)."
   },
   {
+    "id": "5cfdab831a195dba",
+    "date": "2026-07-29",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-29: BPA real 4.74 $ vs estimado 4.24 $ (sorpresa +11.8%)."
+  },
+  {
     "id": "83b7d6a918897987",
     "date": "2026-07-28",
     "ticker": "INCY",
@@ -7189,6 +7333,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 620.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "d8d8fc25e9b15a4e",
+    "date": "2026-07-27",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 510.00 $ a 480.00 $ (mantiene Buy)."
   },
   {
     "id": "ec705817c8267957",
@@ -7713,6 +7866,42 @@
     "description": "BTIG sube su precio objetivo de 191.00 $ a 237.00 $ (mantiene Buy)."
   },
   {
+    "id": "e5fda6681f8477e1",
+    "date": "2026-07-15",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 510.00 $ a 525.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e823a8f307ff984c",
+    "date": "2026-07-15",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Mizuho baja su precio objetivo de 515.00 $ a 490.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "515c9799edf6c7da",
+    "date": "2026-07-15",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 620.00 $ a 570.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "9c02957d44ac9ced",
+    "date": "2026-07-15",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 650.00 $ a 625.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "7e637e9b511d5b08",
     "date": "2026-07-14",
     "ticker": "MU",
@@ -8082,6 +8271,15 @@
     "description": "Wells Fargo sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 1100.00 $."
   },
   {
+    "id": "66d3ed51bcb6449d",
+    "date": "2026-07-10",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Argus Research baja su precio objetivo de 620.00 $ a 510.00 $ (mantiene Buy)."
+  },
+  {
     "id": "a1199991510fb329",
     "date": "2026-07-09",
     "ticker": "PSX",
@@ -8406,6 +8604,15 @@
     "description": "UBS sube su precio objetivo de 198.00 $ a 235.00 $ (mantiene Buy)."
   },
   {
+    "id": "49b3a325807dd754",
+    "date": "2026-07-07",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 500.00 $ a 515.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "f29e0819b4f5f5aa",
     "date": "2026-07-06",
     "ticker": "A",
@@ -8476,6 +8683,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Jefferies baja su precio objetivo de 158.00 $ a 146.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3a2f5d99b06d3c7a",
+    "date": "2026-07-06",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wolfe Research baja su precio objetivo de 570.00 $ a 525.00 $ (mantiene Outperform)."
   },
   {
     "id": "6f0a5e9065d33fee",
@@ -8863,6 +9079,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "BMO Capital baja su precio objetivo de 105.00 $ a 95.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "1e50c0f4e5de5cf5",
+    "date": "2026-06-25",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Stifel baja su precio objetivo de 415.00 $ a 400.00 $ (mantiene Hold)."
   },
   {
     "id": "d24b04f43b08430a",
