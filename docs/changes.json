@@ -18,6 +18,96 @@
     "description": "Micron Technology, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 1219.83 $ (+31.7% a 3 meses)."
   },
   {
+    "id": "eeb220965a63ea03",
+    "date": "2026-09-17",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "CrowdStrike Holdings, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "0e1b4803b7b146c5",
+    "date": "2026-09-17",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Workday, Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "0cf4a588c99a57ff",
+    "date": "2026-09-17",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Best Buy Co., Inc. entra en el Top 10 (puesto #1) con precio objetivo de 110.24 $ (+15.9% a 3 meses)."
+  },
+  {
+    "id": "e8f5e0f27ce971fb",
+    "date": "2026-09-17",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Super Micro Computer, Inc. entra en el Top 10 (puesto #2) con precio objetivo de 49.92 $ (+23.0% a 3 meses)."
+  },
+  {
+    "id": "5ee70c51315c48e7",
+    "date": "2026-09-17",
+    "ticker": "PANW",
+    "name": "Palo Alto Networks, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Bernstein baja la recomendacion de Outperform a Market Perform. Precio objetivo: 351.00 $."
+  },
+  {
+    "id": "3113708294a550d4",
+    "date": "2026-09-17",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 275.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "9f1cca5b19526718",
+    "date": "2026-09-17",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 233.00 $ a 263.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2bc25f95b017f6ba",
+    "date": "2026-09-17",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 260.00 $ a 285.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "0f4c829d009c6ec6",
+    "date": "2026-09-17",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 270.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b794095a3a4e1906",
+    "date": "2026-09-17",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 270.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
     "id": "281e465efda2bae2",
     "date": "2026-09-16",
     "ticker": "GDDY",
@@ -691,6 +781,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 355.00 $ a 450.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "822496cc3d8c71a9",
+    "date": "2026-09-08",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "DA Davidson baja la recomendacion de Buy a Neutral. Precio objetivo: 95.00 $."
   },
   {
     "id": "19f98374a33472c2",
@@ -2286,6 +2385,60 @@
     "description": "Jefferies sube su precio objetivo de 335.00 $ a 450.00 $ (mantiene Buy)."
   },
   {
+    "id": "e4f284fcb943baf9",
+    "date": "2026-08-28",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 86.00 $ a 90.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "7b8a468015a80323",
+    "date": "2026-08-28",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 77.00 $ a 85.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "e8799d648ff94fe0",
+    "date": "2026-08-28",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 80.00 $ a 90.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "9cab77932d1b4095",
+    "date": "2026-08-28",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 90.00 $ a 95.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ac47747a14775ed5",
+    "date": "2026-08-28",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 90.00 $ a 95.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "8ea6752ec2694290",
+    "date": "2026-08-28",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 62.00 $ a 71.00 $ (mantiene Sell)."
+  },
+  {
     "id": "e6e3783f7f24cc6c",
     "date": "2026-08-27",
     "ticker": "ROP",
@@ -2932,6 +3085,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "BTIG sube su precio objetivo de 237.00 $ a 245.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d85886a58bb7f0f3",
+    "date": "2026-08-27",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-27: BPA real 1.47 $ vs estimado 1.38 $ (sorpresa +6.5%)."
   },
   {
     "id": "4216a50735f70d54",
@@ -4876,6 +5038,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "BMO Capital sube su precio objetivo de 90.00 $ a 98.00 $ (mantiene Underperform)."
+  },
+  {
+    "id": "1f9ef22af733d912",
+    "date": "2026-08-11",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-11: BPA real 1.70 $ vs estimado 0.96 $ (sorpresa +77.5%)."
   },
   {
     "id": "2f725a6288c1eea1",

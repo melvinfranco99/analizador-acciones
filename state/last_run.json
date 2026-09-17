@@ -1,72 +1,72 @@
 {
-  "DELL": {
+  "BBY": {
     "rank": 1,
-    "name": "Dell Technologies Inc.",
-    "target_price": 674.91,
-    "upside_pct": 19.8,
-    "total_score": 85.6
+    "name": "Best Buy Co., Inc.",
+    "target_price": 110.24,
+    "upside_pct": 15.9,
+    "total_score": 89.7
   },
-  "MPC": {
+  "SMCI": {
     "rank": 2,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 549.91,
-    "upside_pct": 32.9,
-    "total_score": 83.8
+    "name": "Super Micro Computer, Inc.",
+    "target_price": 49.92,
+    "upside_pct": 23.0,
+    "total_score": 85.7
   },
   "CRM": {
     "rank": 3,
     "name": "Salesforce, Inc.",
-    "target_price": 319.35,
-    "upside_pct": 27.5,
-    "total_score": 83.5
-  },
-  "PCTY": {
-    "rank": 4,
-    "name": "Paylocity Holding Corporation",
-    "target_price": 177.69,
-    "upside_pct": 20.6,
-    "total_score": 82.5
-  },
-  "PANW": {
-    "rank": 5,
-    "name": "Palo Alto Networks, Inc.",
-    "target_price": 439.9,
-    "upside_pct": 17.1,
-    "total_score": 82.0
-  },
-  "CRWD": {
-    "rank": 6,
-    "name": "CrowdStrike Holdings, Inc.",
-    "target_price": 292.15,
-    "upside_pct": 21.0,
-    "total_score": 82.0
-  },
-  "WDAY": {
-    "rank": 7,
-    "name": "Workday, Inc.",
-    "target_price": 232.93,
-    "upside_pct": 24.1,
-    "total_score": 80.2
+    "target_price": 310.38,
+    "upside_pct": 28.1,
+    "total_score": 84.9
   },
   "ZBRA": {
-    "rank": 8,
+    "rank": 4,
     "name": "Zebra Technologies Corporation",
-    "target_price": 415.76,
-    "upside_pct": 21.9,
-    "total_score": 79.6
+    "target_price": 428.21,
+    "upside_pct": 24.1,
+    "total_score": 84.4
   },
   "NVDA": {
-    "rank": 9,
+    "rank": 5,
     "name": "NVIDIA Corporation",
-    "target_price": 271.28,
-    "upside_pct": 26.8,
-    "total_score": 79.6
+    "target_price": 273.66,
+    "upside_pct": 25.1,
+    "total_score": 84.4
+  },
+  "MPC": {
+    "rank": 6,
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 567.89,
+    "upside_pct": 35.0,
+    "total_score": 83.9
   },
   "MU": {
-    "rank": 10,
+    "rank": 7,
     "name": "Micron Technology, Inc.",
-    "target_price": 1219.83,
-    "upside_pct": 31.7,
-    "total_score": 79.0
+    "target_price": 1243.71,
+    "upside_pct": 27.7,
+    "total_score": 83.8
+  },
+  "PANW": {
+    "rank": 8,
+    "name": "Palo Alto Networks, Inc.",
+    "target_price": 436.93,
+    "upside_pct": 16.5,
+    "total_score": 83.4
+  },
+  "PCTY": {
+    "rank": 9,
+    "name": "Paylocity Holding Corporation",
+    "target_price": 178.57,
+    "upside_pct": 22.5,
+    "total_score": 82.5
+  },
+  "DELL": {
+    "rank": 10,
+    "name": "Dell Technologies Inc.",
+    "target_price": 706.23,
+    "upside_pct": 20.2,
+    "total_score": 81.5
   }
 }
