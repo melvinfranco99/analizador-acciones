@@ -18,6 +18,96 @@
     "description": "Best Buy Co., Inc. entra en el Top 10 (puesto #1) con precio objetivo de 109.90 $ (+16.2% a 3 meses)."
   },
   {
+    "id": "22c5e9544ff79934",
+    "date": "2026-09-18",
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Best Buy Co., Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "dd7512cf854ac241",
+    "date": "2026-09-18",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Microsoft Corporation sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "dd26d704c4f65a95",
+    "date": "2026-09-18",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Super Micro Computer, Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "c328447df6e19a5a",
+    "date": "2026-09-18",
+    "ticker": "PANW",
+    "name": "Palo Alto Networks, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Palo Alto Networks, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "b79bee754f23bf23",
+    "date": "2026-09-18",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Workday, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 259.84 $ (+33.3% a 3 meses)."
+  },
+  {
+    "id": "516203d49ec344e8",
+    "date": "2026-09-18",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Phillips 66 entra en el Top 10 (puesto #8) con precio objetivo de 367.06 $ (+33.3% a 3 meses)."
+  },
+  {
+    "id": "2938de611daa0f34",
+    "date": "2026-09-18",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Valero Energy Corporation entra en el Top 10 (puesto #9) con precio objetivo de 559.80 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "145f11e7952ff3cf",
+    "date": "2026-09-18",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "CrowdStrike Holdings, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 285.02 $ (+19.6% a 3 meses)."
+  },
+  {
+    "id": "ce6530cd592ef0f5",
+    "date": "2026-09-18",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 230.00 $ a 250.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "596c92f4e112d6ed",
+    "date": "2026-09-18",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stephens & Co. sube su precio objetivo de 260.00 $ a 280.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "959dfd4736c0d3c3",
     "date": "2026-09-17",
     "ticker": "PSX",
@@ -151,6 +241,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Freedom Broker sube su precio objetivo de 230.00 $ a 295.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "6d9772bd4fb787dd",
+    "date": "2026-09-17",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 260.00 $ a 310.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "4105120b4be0599a",
+    "date": "2026-09-17",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 119.00 $ a 132.00 $ (mantiene Market Perform)."
   },
   {
     "id": "281e465efda2bae2",

@@ -1,72 +1,72 @@
 {
-  "BBY": {
+  "CRM": {
     "rank": 1,
-    "name": "Best Buy Co., Inc.",
-    "target_price": 109.9,
-    "upside_pct": 16.2,
-    "total_score": 89.7
-  },
-  "MSFT": {
-    "rank": 2,
-    "name": "Microsoft Corporation",
-    "target_price": 576.42,
-    "upside_pct": 15.8,
-    "total_score": 87.6
-  },
-  "SMCI": {
-    "rank": 3,
-    "name": "Super Micro Computer, Inc.",
-    "target_price": 49.48,
-    "upside_pct": 22.6,
-    "total_score": 87.1
+    "name": "Salesforce, Inc.",
+    "target_price": 310.69,
+    "upside_pct": 29.3,
+    "total_score": 84.9
   },
   "ZBRA": {
-    "rank": 4,
+    "rank": 2,
     "name": "Zebra Technologies Corporation",
-    "target_price": 433.52,
-    "upside_pct": 24.6,
+    "target_price": 423.95,
+    "upside_pct": 23.0,
     "total_score": 84.4
   },
   "NVDA": {
-    "rank": 5,
+    "rank": 3,
     "name": "NVIDIA Corporation",
-    "target_price": 273.91,
-    "upside_pct": 24.9,
+    "target_price": 273.97,
+    "upside_pct": 24.8,
     "total_score": 84.4
   },
   "MPC": {
-    "rank": 6,
+    "rank": 4,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 569.65,
+    "target_price": 576.22,
     "upside_pct": 35.0,
     "total_score": 83.9
   },
-  "MU": {
-    "rank": 7,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1245.31,
-    "upside_pct": 27.4,
-    "total_score": 83.8
-  },
-  "CRM": {
-    "rank": 8,
-    "name": "Salesforce, Inc.",
-    "target_price": 311.98,
-    "upside_pct": 28.5,
-    "total_score": 83.5
-  },
-  "PANW": {
-    "rank": 9,
-    "name": "Palo Alto Networks, Inc.",
-    "target_price": 436.83,
-    "upside_pct": 16.5,
-    "total_score": 83.4
-  },
   "PCTY": {
-    "rank": 10,
+    "rank": 5,
     "name": "Paylocity Holding Corporation",
-    "target_price": 179.49,
-    "upside_pct": 22.7,
+    "target_price": 176.73,
+    "upside_pct": 21.8,
     "total_score": 82.5
+  },
+  "MU": {
+    "rank": 6,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1252.07,
+    "upside_pct": 26.3,
+    "total_score": 81.1
+  },
+  "WDAY": {
+    "rank": 7,
+    "name": "Workday, Inc.",
+    "target_price": 259.84,
+    "upside_pct": 33.3,
+    "total_score": 80.2
+  },
+  "PSX": {
+    "rank": 8,
+    "name": "Phillips 66",
+    "target_price": 367.06,
+    "upside_pct": 33.3,
+    "total_score": 78.9
+  },
+  "VLO": {
+    "rank": 9,
+    "name": "Valero Energy Corporation",
+    "target_price": 559.8,
+    "upside_pct": 35.0,
+    "total_score": 78.6
+  },
+  "CRWD": {
+    "rank": 10,
+    "name": "CrowdStrike Holdings, Inc.",
+    "target_price": 285.02,
+    "upside_pct": 19.6,
+    "total_score": 77.1
   }
 }
