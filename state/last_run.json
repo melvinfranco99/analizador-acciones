@@ -1,72 +1,72 @@
 {
-  "CRM": {
+  "MU": {
     "rank": 1,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1264.46,
+    "upside_pct": 24.5,
+    "total_score": 87.2
+  },
+  "CRM": {
+    "rank": 2,
     "name": "Salesforce, Inc.",
-    "target_price": 310.69,
-    "upside_pct": 29.3,
+    "target_price": 305.76,
+    "upside_pct": 28.5,
     "total_score": 84.9
   },
   "ZBRA": {
-    "rank": 2,
+    "rank": 3,
     "name": "Zebra Technologies Corporation",
-    "target_price": 423.95,
-    "upside_pct": 23.0,
+    "target_price": 427.9,
+    "upside_pct": 23.4,
     "total_score": 84.4
   },
   "NVDA": {
-    "rank": 3,
+    "rank": 4,
     "name": "NVIDIA Corporation",
-    "target_price": 273.97,
-    "upside_pct": 24.8,
+    "target_price": 275.38,
+    "upside_pct": 23.9,
     "total_score": 84.4
   },
   "MPC": {
-    "rank": 4,
+    "rank": 5,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 576.22,
+    "target_price": 573.6,
     "upside_pct": 35.0,
     "total_score": 83.9
   },
-  "PCTY": {
-    "rank": 5,
-    "name": "Paylocity Holding Corporation",
-    "target_price": 176.73,
-    "upside_pct": 21.8,
-    "total_score": 82.5
-  },
-  "MU": {
+  "DELL": {
     "rank": 6,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1252.07,
-    "upside_pct": 26.3,
-    "total_score": 81.1
+    "name": "Dell Technologies Inc.",
+    "target_price": 678.69,
+    "upside_pct": 19.5,
+    "total_score": 80.8
   },
   "WDAY": {
     "rank": 7,
     "name": "Workday, Inc.",
-    "target_price": 259.84,
-    "upside_pct": 33.3,
+    "target_price": 257.65,
+    "upside_pct": 32.9,
     "total_score": 80.2
   },
   "PSX": {
     "rank": 8,
     "name": "Phillips 66",
-    "target_price": 367.06,
-    "upside_pct": 33.3,
+    "target_price": 362.27,
+    "upside_pct": 32.6,
     "total_score": 78.9
   },
   "VLO": {
     "rank": 9,
     "name": "Valero Energy Corporation",
-    "target_price": 559.8,
+    "target_price": 557.93,
     "upside_pct": 35.0,
     "total_score": 78.6
   },
-  "CRWD": {
+  "PCTY": {
     "rank": 10,
-    "name": "CrowdStrike Holdings, Inc.",
-    "target_price": 285.02,
-    "upside_pct": 19.6,
-    "total_score": 77.1
+    "name": "Paylocity Holding Corporation",
+    "target_price": 174.07,
+    "upside_pct": 21.1,
+    "total_score": 77.7
   }
 }

@@ -108,6 +108,24 @@
     "description": "Stephens & Co. sube su precio objetivo de 260.00 $ a 280.00 $ (mantiene Overweight)."
   },
   {
+    "id": "2ab1d0939b603ddb",
+    "date": "2026-09-18",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "CrowdStrike Holdings, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "d0bb5617a613be95",
+    "date": "2026-09-18",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #6) con precio objetivo de 678.69 $ (+19.5% a 3 meses)."
+  },
+  {
     "id": "959dfd4736c0d3c3",
     "date": "2026-09-17",
     "ticker": "PSX",
