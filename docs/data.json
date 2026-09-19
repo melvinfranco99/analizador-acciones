@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T15:42:45",
-  "duration_seconds": 26.7,
+  "generated_at": "2026-09-19T20:22:18",
+  "duration_seconds": 31.4,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -63,8 +63,8 @@
       "stop_loss_eur": 190.29,
       "stop_loss_pct": 8.1,
       "technical_score": 80.0,
-      "fundamental_score": 90.9,
-      "total_score": 84.9,
+      "fundamental_score": 91.0,
+      "total_score": 85.0,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 100,
@@ -75,15 +75,15 @@
         "valuation": 75,
         "growth": 100,
         "profitability": 100,
-        "analyst_consensus": 88.8
+        "analyst_consensus": 89.1
       },
       "rationale": [
         "Potencial estimado a 3 meses: +28.5% (~+8.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Consenso de 54 analistas con precio objetivo medio de 278.93."
+        "Consenso de 53 analistas con precio objetivo medio de 282.49."
       ],
       "pe": 21.787546,
-      "num_analysts": 54,
+      "num_analysts": 53,
       "rank": 2
     },
     {
@@ -233,7 +233,7 @@
         "Potencial estimado a 3 meses: +19.5% (~+6.1%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Crecimiento de ingresos solido (57.7% interanual).",
-        "Consenso de 25 analistas con precio objetivo medio de 570.48."
+        "Consenso de 25 analistas con precio objetivo medio de 576.88."
       ],
       "pe": 33.007557,
       "num_analysts": 25,
@@ -272,7 +272,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 38 analistas con precio objetivo medio de 208.68."
       ],
-      "pe": 40.643604,
+      "pe": 39.565304,
       "num_analysts": 38,
       "rank": 7
     },
