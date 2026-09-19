@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T04:05:09",
-  "duration_seconds": 41.5,
+  "generated_at": "2026-09-19T10:39:55",
+  "duration_seconds": 25.9,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -45,7 +45,7 @@
         "Crecimiento de ingresos solido (345.7% interanual).",
         "Consenso de 45 analistas con precio objetivo medio de 1513.11."
       ],
-      "pe": 22.94038,
+      "pe": 22.9352,
       "num_analysts": 45,
       "rank": 1
     },
@@ -120,7 +120,7 @@
         "Crecimiento de ingresos solido (20.4% interanual).",
         "Consenso de 15 analistas con precio objetivo medio de 411.45."
       ],
-      "pe": 31.947464,
+      "pe": 31.742674,
       "num_analysts": 15,
       "rank": 3
     },
@@ -158,7 +158,7 @@
         "Crecimiento de ingresos solido (105.9% interanual).",
         "Consenso de 58 analistas con precio objetivo medio de 328.49."
       ],
-      "pe": 28.064394,
+      "pe": 28.099874,
       "num_analysts": 58,
       "rank": 4
     },
@@ -197,7 +197,7 @@
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (53.7% interanual)."
       ],
-      "pe": 14.641282,
+      "pe": 14.727556,
       "num_analysts": 18,
       "rank": 5
     },
@@ -235,7 +235,7 @@
         "Crecimiento de ingresos solido (57.7% interanual).",
         "Consenso de 25 analistas con precio objetivo medio de 570.48."
       ],
-      "pe": 34.241108,
+      "pe": 33.007557,
       "num_analysts": 25,
       "rank": 6
     },
@@ -311,7 +311,7 @@
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (53.1% interanual)."
       ],
-      "pe": 15.652148,
+      "pe": 15.5985155,
       "num_analysts": 19,
       "rank": 8
     },
@@ -350,7 +350,7 @@
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (51.7% interanual)."
       ],
-      "pe": 17.212828,
+      "pe": 17.241552,
       "num_analysts": 19,
       "rank": 9
     },
@@ -387,7 +387,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 19 analistas con precio objetivo medio de 172.00."
       ],
-      "pe": 29.757763,
+      "pe": 29.213413,
       "num_analysts": 19,
       "rank": 10
     }
