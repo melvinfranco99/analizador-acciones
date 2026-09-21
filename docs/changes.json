@@ -1,5 +1,14 @@
 [
   {
+    "id": "ba6d037cbceab4e1",
+    "date": "2026-09-21",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 376.00 $ a 472.00 $ (mantiene Buy)."
+  },
+  {
     "id": "aa7132a16fde1670",
     "date": "2026-09-18",
     "ticker": "DELL",
