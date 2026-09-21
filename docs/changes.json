@@ -9,6 +9,78 @@
     "description": "Goldman Sachs sube su precio objetivo de 376.00 $ a 472.00 $ (mantiene Buy)."
   },
   {
+    "id": "c35cb43496078a67",
+    "date": "2026-09-21",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "b40f7fba7331c614",
+    "date": "2026-09-21",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Workday, Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "036d58631e6765e3",
+    "date": "2026-09-21",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "GoDaddy Inc. entra en el Top 10 (puesto #1) con precio objetivo de 125.57 $ (+19.9% a 3 meses)."
+  },
+  {
+    "id": "e5315a1290d04053",
+    "date": "2026-09-21",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Microsoft Corporation entra en el Top 10 (puesto #3) con precio objetivo de 593.93 $ (+18.4% a 3 meses)."
+  },
+  {
+    "id": "cb0d1f2702db3b9c",
+    "date": "2026-09-21",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 557.93 $ a 515.08 $ (-7.7%)."
+  },
+  {
+    "id": "deb35495344c3d1e",
+    "date": "2026-09-21",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 573.60 $ a 529.45 $ (-7.7%)."
+  },
+  {
+    "id": "3845d60282897af1",
+    "date": "2026-09-21",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 362.27 $ a 335.37 $ (-7.4%)."
+  },
+  {
+    "id": "f524a5c9ab541c84",
+    "date": "2026-09-21",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 522.00 $ a 608.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "aa7132a16fde1670",
     "date": "2026-09-18",
     "ticker": "DELL",
