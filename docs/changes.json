@@ -9286,41 +9286,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 345.00 $ a 346.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "0914d2147061ba7f",
-    "date": "2026-06-22",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Needham sube su precio objetivo de 500.00 $ a 1550.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "62c26e1ac6e68845",
-    "date": "2026-06-22",
-    "ticker": "INCY",
-    "name": "Incyte Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Truist Securities sube su precio objetivo de 103.00 $ a 105.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "86161e9504378886",
-    "date": "2026-06-22",
-    "ticker": "INCY",
-    "name": "Incyte Corporation",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "BMO Capital sube la recomendacion de Underperform a Market Perform. Precio objetivo: 94.00 $."
-  },
-  {
-    "id": "e239f143364515da",
-    "date": "2026-06-22",
-    "ticker": "TMUS",
-    "name": "T-Mobile US, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "UBS baja su precio objetivo de 300.00 $ a 255.00 $ (mantiene Buy)."
   }
 ]
