@@ -1,5 +1,41 @@
 [
   {
+    "id": "e6d88f9bdb0a7044",
+    "date": "2026-09-22",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "a412684fb6a3720d",
+    "date": "2026-09-22",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 125.57 $ a 116.54 $ (-7.2%)."
+  },
+  {
+    "id": "49be1d9a61c940a3",
+    "date": "2026-09-22",
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Fox Corporation entra en el Top 10 (puesto #9) con precio objetivo de 74.76 $ (+16.2% a 3 meses)."
+  },
+  {
+    "id": "8d3ebb70d39b4934",
+    "date": "2026-09-22",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Jefferies baja la recomendacion de Buy a Hold. Precio objetivo: 413.00 $."
+  },
+  {
     "id": "ba6d037cbceab4e1",
     "date": "2026-09-21",
     "ticker": "MPC",
@@ -5166,6 +5202,24 @@
     "description": "RBC Capital sube su precio objetivo de 188.75 $ a 256.00 $ (mantiene Outperform)."
   },
   {
+    "id": "9d5d386f6a1b869e",
+    "date": "2026-08-14",
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Wells Fargo sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 80.00 $."
+  },
+  {
+    "id": "687b4428596fa2e2",
+    "date": "2026-08-14",
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 82.00 $."
+  },
+  {
     "id": "4744327481c661d8",
     "date": "2026-08-13",
     "ticker": "BBY",
@@ -5778,6 +5832,15 @@
     "description": "Canaccord Genuity sube su precio objetivo de 180.00 $ a 200.00 $ (mantiene Buy)."
   },
   {
+    "id": "fe365844de9d6232",
+    "date": "2026-08-07",
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Seaport Global baja la recomendacion de Buy a Neutral."
+  },
+  {
     "id": "d726d884ec570407",
     "date": "2026-08-06",
     "ticker": "MPC",
@@ -5920,6 +5983,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Bernstein sube su precio objetivo de 335.00 $ a 345.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "0d29c849e4efd53a",
+    "date": "2026-08-06",
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-06: BPA real 1.79 $ vs estimado 1.38 $ (sorpresa +29.3%)."
   },
   {
     "id": "368f6340a80b1f3c",
@@ -8919,6 +8991,15 @@
     "description": "Wolfe Research baja su precio objetivo de 570.00 $ a 525.00 $ (mantiene Outperform)."
   },
   {
+    "id": "799d93de89bc761d",
+    "date": "2026-07-06",
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 71.00 $ a 65.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "6f0a5e9065d33fee",
     "date": "2026-07-02",
     "ticker": "ZBRA",
@@ -8980,6 +9061,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "B of A Securities sube su precio objetivo de 1000.00 $ a 1150.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b63f211c3edeeb09",
+    "date": "2026-07-01",
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Wolfe Research sube la recomendacion de Peer Perform a Outperform. Precio objetivo: 71.00 $."
   },
   {
     "id": "dc813f8f87c7ccd1",

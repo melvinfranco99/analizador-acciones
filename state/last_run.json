@@ -1,72 +1,72 @@
 {
-  "GDDY": {
+  "NVDA": {
     "rank": 1,
-    "name": "GoDaddy Inc.",
-    "target_price": 125.57,
-    "upside_pct": 19.9,
-    "total_score": 89.3
+    "name": "NVIDIA Corporation",
+    "target_price": 278.25,
+    "upside_pct": 21.6,
+    "total_score": 90.6
   },
   "MU": {
     "rank": 2,
     "name": "Micron Technology, Inc.",
-    "target_price": 1279.48,
-    "upside_pct": 22.6,
-    "total_score": 87.2
+    "target_price": 1296.29,
+    "upside_pct": 20.3,
+    "total_score": 90.0
   },
   "MSFT": {
     "rank": 3,
     "name": "Microsoft Corporation",
-    "target_price": 593.93,
-    "upside_pct": 18.4,
-    "total_score": 86.2
+    "target_price": 576.89,
+    "upside_pct": 16.4,
+    "total_score": 87.6
+  },
+  "GDDY": {
+    "rank": 4,
+    "name": "GoDaddy Inc.",
+    "target_price": 116.54,
+    "upside_pct": 16.0,
+    "total_score": 87.3
   },
   "CRM": {
-    "rank": 4,
+    "rank": 5,
     "name": "Salesforce, Inc.",
-    "target_price": 304.7,
-    "upside_pct": 28.9,
+    "target_price": 292.06,
+    "upside_pct": 25.8,
     "total_score": 85.0
   },
   "ZBRA": {
-    "rank": 5,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 425.92,
-    "upside_pct": 21.4,
-    "total_score": 84.4
-  },
-  "NVDA": {
     "rank": 6,
-    "name": "NVIDIA Corporation",
-    "target_price": 277.54,
-    "upside_pct": 22.1,
+    "name": "Zebra Technologies Corporation",
+    "target_price": 444.85,
+    "upside_pct": 24.9,
     "total_score": 84.4
-  },
-  "VLO": {
-    "rank": 7,
-    "name": "Valero Energy Corporation",
-    "target_price": 515.08,
-    "upside_pct": 31.0,
-    "total_score": 83.3
   },
   "PCTY": {
-    "rank": 8,
+    "rank": 7,
     "name": "Paylocity Holding Corporation",
-    "target_price": 177.01,
-    "upside_pct": 22.6,
+    "target_price": 175.94,
+    "upside_pct": 21.7,
     "total_score": 82.5
   },
   "MPC": {
-    "rank": 9,
+    "rank": 8,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 529.45,
-    "upside_pct": 31.6,
+    "target_price": 529.42,
+    "upside_pct": 31.3,
     "total_score": 82.4
+  },
+  "FOXA": {
+    "rank": 9,
+    "name": "Fox Corporation",
+    "target_price": 74.76,
+    "upside_pct": 16.2,
+    "total_score": 79.6
   },
   "PSX": {
     "rank": 10,
     "name": "Phillips 66",
-    "target_price": 335.37,
-    "upside_pct": 28.1,
-    "total_score": 82.1
+    "target_price": 338.08,
+    "upside_pct": 28.0,
+    "total_score": 79.3
   }
 }
