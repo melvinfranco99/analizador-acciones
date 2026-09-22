@@ -36,6 +36,60 @@
     "description": "Jefferies baja la recomendacion de Buy a Hold. Precio objetivo: 413.00 $."
   },
   {
+    "id": "28285c06a36c14fc",
+    "date": "2026-09-22",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "GoDaddy Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "196f2365dd8fa4aa",
+    "date": "2026-09-22",
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Fox Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "53d2441d600bfcf9",
+    "date": "2026-09-22",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 529.42 $ a 501.19 $ (-5.3%)."
+  },
+  {
+    "id": "064332d1102d2a6a",
+    "date": "2026-09-22",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "MongoDB, Inc. entra en el Top 10 (puesto #6) con precio objetivo de 498.79 $ (+16.6% a 3 meses)."
+  },
+  {
+    "id": "db003a949ba4dad1",
+    "date": "2026-09-22",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Agilent Technologies, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 194.27 $ (+16.1% a 3 meses)."
+  },
+  {
+    "id": "edd86b49b478171e",
+    "date": "2026-09-22",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 515.00 $ a 570.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "ba6d037cbceab4e1",
     "date": "2026-09-21",
     "ticker": "MPC",
@@ -1881,6 +1935,132 @@
     "description": "BTIG sube su precio objetivo de 380.00 $ a 404.00 $ (mantiene Buy)."
   },
   {
+    "id": "939d91daabd399ab",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Scotiabank sube su precio objetivo de 395.00 $ a 440.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "2971d99c17734357",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 545.00 $ a 565.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d8a131275355590f",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 453.00 $ a 520.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "edf367c200a4f986",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 400.00 $ a 470.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "79f02d42fe0354b7",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 400.00 $ a 480.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "23cae10e7b46e4e8",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 460.00 $ a 410.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "197fc0a445b7483d",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "BMO Capital baja su precio objetivo de 500.00 $ a 450.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "39b52c14b35b964f",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 449.00 $ a 484.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "57b787104abcb402",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 400.00 $ a 460.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "c5fd93e5d62bb67f",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 460.00 $ a 480.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "67feb04ea75b0876",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 515.00 $ a 465.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "28ef7962eabb0486",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 380.00 $ a 430.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "fbd9d52e5b0eb014",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 395.00 $ a 445.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "0eed45b4a5829d1b",
+    "date": "2026-09-02",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Stifel baja su precio objetivo de 475.00 $ a 465.00 $ (mantiene Buy)."
+  },
+  {
     "id": "ad447f9dd335913c",
     "date": "2026-09-01",
     "ticker": "IQV",
@@ -2124,6 +2304,15 @@
     "description": "B of A Securities sube su precio objetivo de 500.00 $ a 600.00 $ (mantiene Buy)."
   },
   {
+    "id": "6f6e6f43d7c10913",
+    "date": "2026-09-01",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-09-01: BPA real 1.90 $ vs estimado 1.61 $ (sorpresa +18.1%)."
+  },
+  {
     "id": "83a36ca7b68aab21",
     "date": "2026-08-31",
     "ticker": "AJG",
@@ -2293,6 +2482,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Scotiabank sube su precio objetivo de 320.00 $ a 430.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "7c7fae08fb338814",
+    "date": "2026-08-31",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 416.00 $ a 540.00 $ (mantiene Overweight)."
   },
   {
     "id": "ff253778f2f3befa",
@@ -2743,6 +2941,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Goldman Sachs sube su precio objetivo de 62.00 $ a 71.00 $ (mantiene Sell)."
+  },
+  {
+    "id": "cdc93a4759a477c0",
+    "date": "2026-08-28",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 160.00 $ a 180.00 $ (mantiene Overweight)."
   },
   {
     "id": "e6e3783f7f24cc6c",
@@ -3402,6 +3609,96 @@
     "description": "Resultados del 2026-08-27: BPA real 1.47 $ vs estimado 1.38 $ (sorpresa +6.5%)."
   },
   {
+    "id": "2137377d2548d443",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 170.00 $ a 180.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "da6decf9adf1dda9",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 155.00 $ a 180.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "7bf04cb17e4e698b",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 185.00 $ a 190.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3bbe62dc25c218d5",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 155.00 $ a 175.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "84c4d46f4132a04a",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 180.00 $ a 190.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "d48cc0feb0b9d7b0",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 155.00 $ a 180.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "70581dd7bf4e4d8f",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 155.00 $ a 180.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "f3ad08dd42c4e3b4",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 155.00 $ a 185.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "a302cb477039f750",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 148.00 $ a 172.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e77d7ab02ac8869c",
+    "date": "2026-08-27",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 150.00 $ a 175.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "4216a50735f70d54",
     "date": "2026-08-26",
     "ticker": "MU",
@@ -3535,6 +3832,24 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Wells Fargo baja la recomendacion de Equal-Weight a Underweight. Precio objetivo: 76.00 $."
+  },
+  {
+    "id": "5bc6374bb173ac62",
+    "date": "2026-08-26",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 375.00 $ a 465.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "07d5014e80c186bf",
+    "date": "2026-08-26",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 387.00 $ a 460.00 $ (mantiene Overweight)."
   },
   {
     "id": "6cf742496a1fb44a",
@@ -3699,6 +4014,24 @@
     "description": "Canaccord Genuity sube su precio objetivo de 200.00 $ a 225.00 $ (mantiene Buy)."
   },
   {
+    "id": "677b6f5753574622",
+    "date": "2026-08-25",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 375.00 $ a 475.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "5970cf067a8605d7",
+    "date": "2026-08-25",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 335.00 $ a 400.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "af4ab1995538e12c",
     "date": "2026-08-24",
     "ticker": "PAYX",
@@ -3859,6 +4192,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Jefferies sube su precio objetivo de 190.00 $ a 230.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ab822dfa4d0a623d",
+    "date": "2026-08-24",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 350.00 $ a 460.00 $ (mantiene Neutral)."
   },
   {
     "id": "cef957e3c4f90e0f",
@@ -4203,6 +4545,24 @@
     "description": "Evercore ISI Group sube su precio objetivo de 177.50 $ a 205.00 $ (mantiene In-Line)."
   },
   {
+    "id": "0834812fd0ea7e25",
+    "date": "2026-08-20",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 375.00 $ a 500.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "267de57a6f38b751",
+    "date": "2026-08-20",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 400.00 $ a 475.00 $ (mantiene Buy)."
+  },
+  {
     "id": "3b93195006e4315d",
     "date": "2026-08-19",
     "ticker": "ZBRA",
@@ -4527,6 +4887,15 @@
     "description": "Cantor Fitzgerald baja su precio objetivo de 725.00 $ a 250.00 $ (mantiene Overweight)."
   },
   {
+    "id": "f2d90ebd710481a9",
+    "date": "2026-08-19",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citizens sube su precio objetivo de 366.00 $ a 519.00 $ (mantiene Market Outperform)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
@@ -4732,6 +5101,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Benchmark sube su precio objetivo de 230.00 $ a 250.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "45e7040e83f77f9c",
+    "date": "2026-08-18",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 475.00 $ a 560.00 $ (mantiene Buy)."
   },
   {
     "id": "c9c6e3f7bb563cfc",
@@ -5247,6 +5625,15 @@
     "description": "RBC Capital sube su precio objetivo de 180.00 $ a 220.00 $ (mantiene Outperform)."
   },
   {
+    "id": "4476c94addc23ccb",
+    "date": "2026-08-13",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 395.00 $ a 515.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "a5361ea9f5514aa1",
     "date": "2026-08-12",
     "ticker": "A",
@@ -5337,6 +5724,15 @@
     "description": "Wells Fargo sube su precio objetivo de 650.00 $ a 700.00 $ (mantiene Overweight)."
   },
   {
+    "id": "c96f24b056314e69",
+    "date": "2026-08-12",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 410.00 $ a 475.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "f499ddb7ceee3b44",
     "date": "2026-08-11",
     "ticker": "MPC",
@@ -5380,6 +5776,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-11: BPA real 1.70 $ vs estimado 0.96 $ (sorpresa +77.5%)."
+  },
+  {
+    "id": "ad4aad00bc921793",
+    "date": "2026-08-11",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 455.00 $ a 545.00 $ (mantiene Buy)."
   },
   {
     "id": "2f725a6288c1eea1",
@@ -8577,6 +8982,15 @@
     "description": "Argus Research baja su precio objetivo de 620.00 $ a 510.00 $ (mantiene Buy)."
   },
   {
+    "id": "f06854eb2037c75d",
+    "date": "2026-07-10",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 400.00 $ a 430.00 $ (mantiene Buy)."
+  },
+  {
     "id": "a1199991510fb329",
     "date": "2026-07-09",
     "ticker": "PSX",
@@ -8692,6 +9106,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Needham baja su precio objetivo de 780.00 $ a 235.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ff58891f76c31714",
+    "date": "2026-07-09",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 375.00 $ a 400.00 $ (mantiene Buy)."
   },
   {
     "id": "2cd9b6987d7808b5",
