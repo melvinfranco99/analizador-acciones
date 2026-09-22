@@ -9331,41 +9331,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Barclays sube su precio objetivo de 145.00 $ a 150.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "fae59ecf8f615abe",
-    "date": "2026-06-23",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "B of A Securities sube su precio objetivo de 950.00 $ a 1500.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "b40a82189f514529",
-    "date": "2026-06-23",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 448.00 $ a 477.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "0f35243808158363",
-    "date": "2026-06-23",
-    "ticker": "CDW",
-    "name": "CDW Corporation",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "Morgan Stanley sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 170.00 $."
-  },
-  {
-    "id": "e4d9006fad981ece",
-    "date": "2026-06-23",
-    "ticker": "ZBRA",
-    "name": "Zebra Technologies Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 345.00 $ a 346.00 $ (mantiene Overweight)."
   }
 ]
