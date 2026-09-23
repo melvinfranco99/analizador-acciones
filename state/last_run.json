@@ -1,72 +1,72 @@
 {
-  "GDDY": {
+  "NVDA": {
     "rank": 1,
-    "name": "GoDaddy Inc.",
-    "target_price": 125.57,
-    "upside_pct": 19.9,
-    "total_score": 89.3
+    "name": "NVIDIA Corporation",
+    "target_price": 276.12,
+    "upside_pct": 23.0,
+    "total_score": 90.6
   },
   "MU": {
     "rank": 2,
     "name": "Micron Technology, Inc.",
-    "target_price": 1279.48,
-    "upside_pct": 22.6,
-    "total_score": 87.2
+    "target_price": 1294.21,
+    "upside_pct": 20.6,
+    "total_score": 90.0
   },
   "MSFT": {
     "rank": 3,
     "name": "Microsoft Corporation",
-    "target_price": 593.93,
-    "upside_pct": 18.4,
-    "total_score": 86.2
+    "target_price": 582.22,
+    "upside_pct": 16.8,
+    "total_score": 87.7
   },
   "CRM": {
     "rank": 4,
     "name": "Salesforce, Inc.",
-    "target_price": 304.7,
-    "upside_pct": 28.9,
+    "target_price": 306.5,
+    "upside_pct": 28.1,
     "total_score": 85.0
   },
-  "ZBRA": {
+  "MPC": {
     "rank": 5,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 425.92,
-    "upside_pct": 21.4,
-    "total_score": 84.4
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 505.94,
+    "upside_pct": 29.1,
+    "total_score": 84.0
   },
-  "NVDA": {
+  "MDB": {
     "rank": 6,
-    "name": "NVIDIA Corporation",
-    "target_price": 277.54,
-    "upside_pct": 22.1,
-    "total_score": 84.4
+    "name": "MongoDB, Inc.",
+    "target_price": 510.01,
+    "upside_pct": 17.6,
+    "total_score": 83.4
   },
-  "VLO": {
+  "ZBRA": {
     "rank": 7,
-    "name": "Valero Energy Corporation",
-    "target_price": 515.08,
-    "upside_pct": 31.0,
-    "total_score": 83.2
+    "name": "Zebra Technologies Corporation",
+    "target_price": 479.13,
+    "upside_pct": 28.5,
+    "total_score": 83.0
   },
   "PCTY": {
     "rank": 8,
     "name": "Paylocity Holding Corporation",
-    "target_price": 177.01,
-    "upside_pct": 22.6,
+    "target_price": 174.9,
+    "upside_pct": 21.4,
     "total_score": 82.5
   },
-  "MPC": {
-    "rank": 9,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 529.45,
-    "upside_pct": 31.6,
-    "total_score": 82.3
-  },
   "PSX": {
-    "rank": 10,
+    "rank": 9,
     "name": "Phillips 66",
-    "target_price": 335.37,
-    "upside_pct": 28.1,
+    "target_price": 326.05,
+    "upside_pct": 26.2,
     "total_score": 82.1
+  },
+  "PANW": {
+    "rank": 10,
+    "name": "Palo Alto Networks, Inc.",
+    "target_price": 448.84,
+    "upside_pct": 16.3,
+    "total_score": 82.0
   }
 }

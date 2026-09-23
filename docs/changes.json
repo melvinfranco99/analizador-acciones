@@ -54,6 +54,78 @@
     "description": "Precio objetivo de nuestro modelo revisado de 501.19 $ a 529.45 $ (+5.6%)."
   },
   {
+    "id": "7c060b6329974ee5",
+    "date": "2026-09-23",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "GoDaddy Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "5d13a2a5a90013ec",
+    "date": "2026-09-23",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "fa2f084c54940792",
+    "date": "2026-09-23",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "MongoDB, Inc. entra en el Top 10 (puesto #6) con precio objetivo de 510.01 $ (+17.6% a 3 meses)."
+  },
+  {
+    "id": "7d4eea03aeff6299",
+    "date": "2026-09-23",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 425.92 $ a 479.13 $ (+12.5%)."
+  },
+  {
+    "id": "dff939595601aa64",
+    "date": "2026-09-23",
+    "ticker": "PANW",
+    "name": "Palo Alto Networks, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Palo Alto Networks, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 448.84 $ (+16.3% a 3 meses)."
+  },
+  {
+    "id": "d967a3cc491156ad",
+    "date": "2026-09-23",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 1525.00 $ a 1400.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "53a308e32f726555",
+    "date": "2026-09-23",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 1150.00 $ a 1300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d130969665bbd39f",
+    "date": "2026-09-23",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Stifel sube la recomendacion de Hold a Buy. Precio objetivo: 575.00 $."
+  },
+  {
     "id": "e6d88f9bdb0a7044",
     "date": "2026-09-22",
     "ticker": "VLO",
@@ -232,6 +304,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Cantor Fitzgerald sube su precio objetivo de 522.00 $ a 608.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "63b7bb9b2ecc9c32",
+    "date": "2026-09-21",
+    "ticker": "PANW",
+    "name": "Palo Alto Networks, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 394.00 $ a 410.00 $ (mantiene Overweight)."
   },
   {
     "id": "aa7132a16fde1670",
