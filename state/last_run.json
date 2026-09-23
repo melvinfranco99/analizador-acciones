@@ -1,72 +1,72 @@
 {
-  "NVDA": {
+  "GDDY": {
     "rank": 1,
-    "name": "NVIDIA Corporation",
-    "target_price": 278.28,
-    "upside_pct": 21.6,
-    "total_score": 90.6
-  },
-  "MSFT": {
-    "rank": 2,
-    "name": "Microsoft Corporation",
-    "target_price": 581.23,
-    "upside_pct": 16.7,
-    "total_score": 87.6
+    "name": "GoDaddy Inc.",
+    "target_price": 125.57,
+    "upside_pct": 19.9,
+    "total_score": 92.1
   },
   "MU": {
-    "rank": 3,
+    "rank": 2,
     "name": "Micron Technology, Inc.",
-    "target_price": 1305.58,
-    "upside_pct": 19.1,
-    "total_score": 85.9
+    "target_price": 1279.48,
+    "upside_pct": 22.6,
+    "total_score": 87.2
+  },
+  "MSFT": {
+    "rank": 3,
+    "name": "Microsoft Corporation",
+    "target_price": 593.93,
+    "upside_pct": 18.4,
+    "total_score": 86.2
   },
   "CRM": {
     "rank": 4,
     "name": "Salesforce, Inc.",
-    "target_price": 294.31,
-    "upside_pct": 26.2,
+    "target_price": 304.7,
+    "upside_pct": 28.9,
     "total_score": 85.0
   },
-  "MPC": {
-    "rank": 5,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 501.19,
-    "upside_pct": 28.6,
-    "total_score": 84.0
-  },
-  "MDB": {
-    "rank": 6,
-    "name": "MongoDB, Inc.",
-    "target_price": 498.79,
-    "upside_pct": 16.6,
-    "total_score": 83.4
-  },
   "ZBRA": {
-    "rank": 7,
+    "rank": 5,
     "name": "Zebra Technologies Corporation",
-    "target_price": 455.84,
-    "upside_pct": 26.1,
-    "total_score": 83.0
+    "target_price": 425.92,
+    "upside_pct": 21.4,
+    "total_score": 84.4
+  },
+  "NVDA": {
+    "rank": 6,
+    "name": "NVIDIA Corporation",
+    "target_price": 277.54,
+    "upside_pct": 22.1,
+    "total_score": 84.4
+  },
+  "VLO": {
+    "rank": 7,
+    "name": "Valero Energy Corporation",
+    "target_price": 515.08,
+    "upside_pct": 31.0,
+    "total_score": 83.2
   },
   "PCTY": {
     "rank": 8,
     "name": "Paylocity Holding Corporation",
-    "target_price": 178.08,
-    "upside_pct": 22.2,
+    "target_price": 177.01,
+    "upside_pct": 22.6,
     "total_score": 82.5
   },
-  "PSX": {
+  "MPC": {
     "rank": 9,
-    "name": "Phillips 66",
-    "target_price": 322.96,
-    "upside_pct": 25.8,
-    "total_score": 82.1
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 529.45,
+    "upside_pct": 31.6,
+    "total_score": 82.3
   },
-  "A": {
+  "PSX": {
     "rank": 10,
-    "name": "Agilent Technologies, Inc.",
-    "target_price": 194.27,
-    "upside_pct": 16.1,
-    "total_score": 80.0
+    "name": "Phillips 66",
+    "target_price": 335.37,
+    "upside_pct": 28.1,
+    "total_score": 82.1
   }
 }

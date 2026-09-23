@@ -1,5 +1,59 @@
 [
   {
+    "id": "c5a3d5376b95a5a5",
+    "date": "2026-09-23",
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "MongoDB, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "3d970ccfe5e3c9a0",
+    "date": "2026-09-23",
+    "ticker": "A",
+    "name": "Agilent Technologies, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Agilent Technologies, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "e254098fda754a60",
+    "date": "2026-09-23",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "GoDaddy Inc. entra en el Top 10 (puesto #1) con precio objetivo de 125.57 $ (+19.9% a 3 meses)."
+  },
+  {
+    "id": "c342ee29d58d0377",
+    "date": "2026-09-23",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 455.84 $ a 425.92 $ (-6.6%)."
+  },
+  {
+    "id": "1492f06bb6a8a071",
+    "date": "2026-09-23",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Valero Energy Corporation entra en el Top 10 (puesto #7) con precio objetivo de 515.08 $ (+31.0% a 3 meses)."
+  },
+  {
+    "id": "cd1fc3026fa4c9e8",
+    "date": "2026-09-23",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 501.19 $ a 529.45 $ (+5.6%)."
+  },
+  {
     "id": "e6d88f9bdb0a7044",
     "date": "2026-09-22",
     "ticker": "VLO",
@@ -88,6 +142,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Oppenheimer sube su precio objetivo de 515.00 $ a 570.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "52dd80cdebd1baea",
+    "date": "2026-09-22",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Jefferies baja la recomendacion de Buy a Hold. Precio objetivo: 401.00 $."
   },
   {
     "id": "ba6d037cbceab4e1",
@@ -9826,23 +9889,5 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Stifel baja su precio objetivo de 415.00 $ a 400.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "d24b04f43b08430a",
-    "date": "2026-06-24",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-06-24: BPA real 25.11 $ vs estimado 20.69 $ (sorpresa +21.4%)."
-  },
-  {
-    "id": "92cff7befb6506f3",
-    "date": "2026-06-24",
-    "ticker": "A",
-    "name": "Agilent Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 145.00 $ a 150.00 $ (mantiene Overweight)."
   }
 ]
