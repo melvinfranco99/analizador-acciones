@@ -1,72 +1,72 @@
 {
-  "CRM": {
-    "rank": 1,
-    "name": "Salesforce, Inc.",
-    "target_price": 309.42,
-    "upside_pct": 28.8,
-    "total_score": 89.8
-  },
-  "ZBRA": {
-    "rank": 2,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 459.97,
-    "upside_pct": 24.5,
-    "total_score": 89.2
-  },
-  "HPE": {
-    "rank": 3,
-    "name": "Hewlett Packard Enterprise Company",
-    "target_price": 74.71,
-    "upside_pct": 18.0,
-    "total_score": 86.7
-  },
   "NVDA": {
-    "rank": 4,
+    "rank": 1,
     "name": "NVIDIA Corporation",
-    "target_price": 275.89,
-    "upside_pct": 23.1,
-    "total_score": 85.7
-  },
-  "MDB": {
-    "rank": 5,
-    "name": "MongoDB, Inc.",
-    "target_price": 501.19,
-    "upside_pct": 19.4,
-    "total_score": 83.4
+    "target_price": 276.14,
+    "upside_pct": 23.0,
+    "total_score": 89.0
   },
   "MSFT": {
-    "rank": 6,
+    "rank": 2,
     "name": "Microsoft Corporation",
-    "target_price": 598.67,
-    "upside_pct": 20.5,
-    "total_score": 82.8
+    "target_price": 600.98,
+    "upside_pct": 20.7,
+    "total_score": 87.7
   },
   "MU": {
-    "rank": 7,
+    "rank": 3,
     "name": "Micron Technology, Inc.",
-    "target_price": 1292.33,
-    "upside_pct": 20.9,
-    "total_score": 82.4
+    "target_price": 1298.04,
+    "upside_pct": 20.1,
+    "total_score": 87.2
+  },
+  "HPE": {
+    "rank": 4,
+    "name": "Hewlett Packard Enterprise Company",
+    "target_price": 75.05,
+    "upside_pct": 18.2,
+    "total_score": 86.7
+  },
+  "CRM": {
+    "rank": 5,
+    "name": "Salesforce, Inc.",
+    "target_price": 305.18,
+    "upside_pct": 28.1,
+    "total_score": 85.0
   },
   "MPC": {
-    "rank": 8,
+    "rank": 6,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 516.62,
-    "upside_pct": 30.5,
-    "total_score": 82.3
+    "target_price": 506.34,
+    "upside_pct": 29.5,
+    "total_score": 84.0
+  },
+  "MDB": {
+    "rank": 7,
+    "name": "MongoDB, Inc.",
+    "target_price": 504.28,
+    "upside_pct": 19.7,
+    "total_score": 83.4
+  },
+  "ZBRA": {
+    "rank": 8,
+    "name": "Zebra Technologies Corporation",
+    "target_price": 451.53,
+    "upside_pct": 23.7,
+    "total_score": 83.0
   },
   "PSX": {
     "rank": 9,
     "name": "Phillips 66",
-    "target_price": 333.79,
-    "upside_pct": 27.8,
+    "target_price": 323.08,
+    "upside_pct": 26.3,
     "total_score": 82.1
   },
   "PANW": {
     "rank": 10,
     "name": "Palo Alto Networks, Inc.",
-    "target_price": 468.35,
-    "upside_pct": 19.0,
+    "target_price": 461.45,
+    "upside_pct": 18.3,
     "total_score": 81.9
   }
 }
