@@ -1,5 +1,23 @@
 [
   {
+    "id": "2ae3ea90531530a8",
+    "date": "2026-09-24",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paylocity Holding Corporation sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "eb1fb50eb9fbc92c",
+    "date": "2026-09-24",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Hewlett Packard Enterprise Company entra en el Top 10 (puesto #3) con precio objetivo de 74.71 $ (+18.0% a 3 meses)."
+  },
+  {
     "id": "c5a3d5376b95a5a5",
     "date": "2026-09-23",
     "ticker": "MDB",
