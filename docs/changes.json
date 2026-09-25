@@ -9781,23 +9781,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Cantor Fitzgerald sube su precio objetivo de 1000.00 $ a 1300.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "fefb083b10eb93b4",
-    "date": "2026-06-26",
-    "ticker": "INCY",
-    "name": "Incyte Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 103.00 $ a 113.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "86a6b69a10f27c0d",
-    "date": "2026-06-26",
-    "ticker": "PCTY",
-    "name": "Paylocity Holding Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "TD Cowen baja su precio objetivo de 155.00 $ a 137.00 $ (mantiene Buy)."
   }
 ]
