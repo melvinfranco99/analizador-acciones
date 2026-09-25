@@ -63,6 +63,42 @@
     "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #10) con precio objetivo de 171.59 $ (+18.2% a 3 meses)."
   },
   {
+    "id": "241bb0a6b88a8dce",
+    "date": "2026-09-25",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Hewlett Packard Enterprise Company sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "88d37d344ecb95fa",
+    "date": "2026-09-25",
+    "ticker": "PCTY",
+    "name": "Paylocity Holding Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Paylocity Holding Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "4e70e444c55a5c2f",
+    "date": "2026-09-25",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "NetApp, Inc. entra en el Top 10 (puesto #2) con precio objetivo de 233.67 $ (+16.2% a 3 meses)."
+  },
+  {
+    "id": "24d7a66a55fbd2ad",
+    "date": "2026-09-25",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Phillips 66 entra en el Top 10 (puesto #10) con precio objetivo de 319.41 $ (+24.9% a 3 meses)."
+  },
+  {
     "id": "2ae3ea90531530a8",
     "date": "2026-09-24",
     "ticker": "PCTY",
@@ -1809,6 +1845,78 @@
     "description": "Baird sube su precio objetivo de 230.00 $ a 235.00 $ (mantiene Neutral)."
   },
   {
+    "id": "b2765f963e53f79a",
+    "date": "2026-09-03",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Northland Capital Markets sube su precio objetivo de 171.00 $ a 187.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "904047a087d6a61b",
+    "date": "2026-09-03",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 209.00 $ a 190.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "d3826f907400b440",
+    "date": "2026-09-03",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 160.00 $ a 171.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "a6072ee04660bf9e",
+    "date": "2026-09-03",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 180.00 $ a 190.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "82598141cd5873e2",
+    "date": "2026-09-03",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 173.00 $ a 191.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "a668905d4b728c67",
+    "date": "2026-09-03",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 199.00 $ a 219.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1ee81c55ea37c566",
+    "date": "2026-09-03",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 150.00 $ a 170.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "7a6968167c20aece",
+    "date": "2026-09-03",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 185.00 $ a 195.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "7a0b1ec046d31bda",
     "date": "2026-09-02",
     "ticker": "ORCL",
@@ -2716,6 +2824,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Cantor Fitzgerald sube su precio objetivo de 416.00 $ a 540.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7e07e1bed0598f15",
+    "date": "2026-08-31",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 180.00 $ a 206.00 $ (mantiene Neutral)."
   },
   {
     "id": "ff253778f2f3befa",
