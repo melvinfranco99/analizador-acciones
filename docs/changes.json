@@ -2394,6 +2394,15 @@
     "description": "Stifel baja su precio objetivo de 475.00 $ a 465.00 $ (mantiene Buy)."
   },
   {
+    "id": "cc4bb992e4067504",
+    "date": "2026-09-02",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-09-02: BPA real 2.58 $ vs estimado 2.12 $ (sorpresa +21.5%)."
+  },
+  {
     "id": "ad447f9dd335913c",
     "date": "2026-09-01",
     "ticker": "IQV",
