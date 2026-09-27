@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T20:54:07",
-  "duration_seconds": 38.1,
+  "generated_at": "2026-09-27T04:46:01",
+  "duration_seconds": 22.7,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -199,7 +199,7 @@
         "Crecimiento de ingresos solido (17.7% interanual).",
         "Consenso de 52 analistas con precio objetivo medio de 577.26."
       ],
-      "pe": 28.723984,
+      "pe": 28.739979,
       "num_analysts": 52,
       "rank": 5
     },
