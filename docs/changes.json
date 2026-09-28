@@ -1,5 +1,14 @@
 [
   {
+    "id": "4774e295bf9ba3c6",
+    "date": "2026-09-28",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 1280.00 $ a 1520.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "a2e2312aca4bf11c",
     "date": "2026-09-25",
     "ticker": "MDB",

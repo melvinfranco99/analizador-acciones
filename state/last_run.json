@@ -4,7 +4,7 @@
     "name": "Super Micro Computer, Inc.",
     "target_price": 52.18,
     "upside_pct": 20.6,
-    "total_score": 91.8
+    "total_score": 92.1
   },
   "NTAP": {
     "rank": 2,
@@ -37,8 +37,8 @@
   "MU": {
     "rank": 6,
     "name": "Micron Technology, Inc.",
-    "target_price": 1298.91,
-    "upside_pct": 20.0,
+    "target_price": 1301.52,
+    "upside_pct": 20.3,
     "total_score": 85.1
   },
   "CRM": {
