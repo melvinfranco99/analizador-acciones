@@ -1,72 +1,72 @@
 {
-  "SMCI": {
+  "NVDA": {
     "rank": 1,
-    "name": "Super Micro Computer, Inc.",
-    "target_price": 52.18,
-    "upside_pct": 20.6,
-    "total_score": 92.1
+    "name": "NVIDIA Corporation",
+    "target_price": 278.28,
+    "upside_pct": 21.6,
+    "total_score": 93.9
   },
   "NTAP": {
     "rank": 2,
     "name": "NetApp, Inc.",
-    "target_price": 233.68,
-    "upside_pct": 16.2,
+    "target_price": 237.35,
+    "upside_pct": 16.1,
     "total_score": 89.4
   },
   "ZBRA": {
     "rank": 3,
     "name": "Zebra Technologies Corporation",
-    "target_price": 457.21,
-    "upside_pct": 23.6,
+    "target_price": 456.23,
+    "upside_pct": 22.7,
     "total_score": 89.2
   },
-  "NVDA": {
+  "SMCI": {
     "rank": 4,
-    "name": "NVIDIA Corporation",
-    "target_price": 276.39,
-    "upside_pct": 22.8,
-    "total_score": 89.0
+    "name": "Super Micro Computer, Inc.",
+    "target_price": 51.89,
+    "upside_pct": 24.2,
+    "total_score": 87.3
   },
   "MSFT": {
     "rank": 5,
     "name": "Microsoft Corporation",
-    "target_price": 615.93,
-    "upside_pct": 19.3,
+    "target_price": 607.04,
+    "upside_pct": 19.2,
     "total_score": 86.2
   },
-  "MU": {
-    "rank": 6,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1301.52,
-    "upside_pct": 20.3,
-    "total_score": 85.1
-  },
   "CRM": {
-    "rank": 7,
+    "rank": 6,
     "name": "Salesforce, Inc.",
-    "target_price": 290.22,
-    "upside_pct": 24.0,
+    "target_price": 277.45,
+    "upside_pct": 22.1,
     "total_score": 85.0
   },
   "MPC": {
-    "rank": 8,
+    "rank": 7,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 502.36,
-    "upside_pct": 27.7,
+    "target_price": 488.06,
+    "upside_pct": 25.3,
     "total_score": 84.0
   },
   "IT": {
-    "rank": 9,
+    "rank": 8,
     "name": "Gartner, Inc.",
-    "target_price": 224.75,
-    "upside_pct": 19.6,
+    "target_price": 222.75,
+    "upside_pct": 19.9,
     "total_score": 82.5
+  },
+  "MU": {
+    "rank": 9,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1287.37,
+    "upside_pct": 22.1,
+    "total_score": 82.4
   },
   "PSX": {
     "rank": 10,
     "name": "Phillips 66",
-    "target_price": 319.41,
-    "upside_pct": 24.9,
+    "target_price": 312.44,
+    "upside_pct": 23.2,
     "total_score": 82.1
   }
 }
