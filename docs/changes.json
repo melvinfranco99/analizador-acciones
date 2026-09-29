@@ -9916,59 +9916,5 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Wolfe Research sube la recomendacion de Peer Perform a Outperform. Precio objetivo: 71.00 $."
-  },
-  {
-    "id": "dc813f8f87c7ccd1",
-    "date": "2026-06-30",
-    "ticker": "BKNG",
-    "name": "Booking Holdings Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Wells Fargo baja su precio objetivo de 215.00 $ a 214.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "bc2a9406e7eed2c9",
-    "date": "2026-06-30",
-    "ticker": "PAYX",
-    "name": "Paychex, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 107.00 $ a 109.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "7f0b3301d2c191b0",
-    "date": "2026-06-30",
-    "ticker": "FTNT",
-    "name": "Fortinet, Inc.",
-    "category": "analista",
-    "type": "downgrade_analista",
-    "description": "HSBC baja la recomendacion de Hold a Reduce."
-  },
-  {
-    "id": "b8eb79b98b9fe2f0",
-    "date": "2026-06-30",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "BTIG sube su precio objetivo de 333.00 $ a 380.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "abba52ebfcd526f6",
-    "date": "2026-06-30",
-    "ticker": "PYPL",
-    "name": "PayPal Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Piper Sandler baja su precio objetivo de 46.00 $ a 42.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "d93ed56b41004339",
-    "date": "2026-06-30",
-    "ticker": "NEM",
-    "name": "Newmont Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "UBS baja su precio objetivo de 140.00 $ a 120.00 $ (mantiene Buy)."
   }
 ]
