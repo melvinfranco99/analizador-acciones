@@ -1,72 +1,72 @@
 {
-  "ZBRA": {
-    "rank": 1,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 456.45,
-    "upside_pct": 21.4,
-    "total_score": 89.2
-  },
   "NVDA": {
-    "rank": 2,
+    "rank": 1,
     "name": "NVIDIA Corporation",
-    "target_price": 277.46,
-    "upside_pct": 22.1,
-    "total_score": 89.0
+    "target_price": 278.04,
+    "upside_pct": 21.7,
+    "total_score": 93.9
   },
-  "MPC": {
+  "CRM": {
+    "rank": 2,
+    "name": "Salesforce, Inc.",
+    "target_price": 276.5,
+    "upside_pct": 20.4,
+    "total_score": 89.7
+  },
+  "MU": {
     "rank": 3,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 497.4,
-    "upside_pct": 26.9,
-    "total_score": 88.8
+    "name": "Micron Technology, Inc.",
+    "target_price": 1292.94,
+    "upside_pct": 21.4,
+    "total_score": 88.4
   },
   "SMCI": {
     "rank": 4,
     "name": "Super Micro Computer, Inc.",
-    "target_price": 49.19,
-    "upside_pct": 19.9,
+    "target_price": 51.04,
+    "upside_pct": 24.3,
     "total_score": 87.3
   },
-  "MSFT": {
+  "MPC": {
     "rank": 5,
-    "name": "Microsoft Corporation",
-    "target_price": 602.35,
-    "upside_pct": 18.3,
-    "total_score": 86.2
-  },
-  "NTAP": {
-    "rank": 6,
-    "name": "NetApp, Inc.",
-    "target_price": 246.39,
-    "upside_pct": 17.8,
-    "total_score": 83.5
-  },
-  "IT": {
-    "rank": 7,
-    "name": "Gartner, Inc.",
-    "target_price": 226.16,
-    "upside_pct": 21.7,
-    "total_score": 82.5
-  },
-  "MU": {
-    "rank": 8,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1292.92,
-    "upside_pct": 21.4,
-    "total_score": 82.4
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 493.68,
+    "upside_pct": 24.8,
+    "total_score": 87.1
   },
   "PSX": {
-    "rank": 9,
+    "rank": 6,
     "name": "Phillips 66",
-    "target_price": 315.32,
-    "upside_pct": 25.0,
-    "total_score": 82.1
+    "target_price": 315.42,
+    "upside_pct": 23.5,
+    "total_score": 86.9
   },
   "HPE": {
-    "rank": 10,
+    "rank": 7,
     "name": "Hewlett Packard Enterprise Company",
-    "target_price": 72.76,
-    "upside_pct": 18.3,
-    "total_score": 81.9
+    "target_price": 78.5,
+    "upside_pct": 22.9,
+    "total_score": 86.7
+  },
+  "MSFT": {
+    "rank": 8,
+    "name": "Microsoft Corporation",
+    "target_price": 599.38,
+    "upside_pct": 16.9,
+    "total_score": 86.2
+  },
+  "ZBRA": {
+    "rank": 9,
+    "name": "Zebra Technologies Corporation",
+    "target_price": 446.8,
+    "upside_pct": 19.7,
+    "total_score": 84.3
+  },
+  "NTAP": {
+    "rank": 10,
+    "name": "NetApp, Inc.",
+    "target_price": 246.58,
+    "upside_pct": 17.4,
+    "total_score": 83.5
   }
 }

@@ -1,5 +1,59 @@
 [
   {
+    "id": "bb6be41fb62f9065",
+    "date": "2026-09-30",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Gartner, Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "a3e5c59e0838338a",
+    "date": "2026-09-30",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Salesforce, Inc. entra en el Top 10 (puesto #2) con precio objetivo de 276.50 $ (+20.4% a 3 meses)."
+  },
+  {
+    "id": "3eb5576f8b96de00",
+    "date": "2026-09-30",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 72.76 $ a 78.50 $ (+7.9%)."
+  },
+  {
+    "id": "202bf23dfb6d32be",
+    "date": "2026-09-30",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 255.00 $ a 295.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "45f66dd9acd324b8",
+    "date": "2026-09-30",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 550.00 $ a 610.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "b545ce7b287aa7ca",
+    "date": "2026-09-30",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 200.00 $ a 220.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "009dda56fd136c9d",
     "date": "2026-09-29",
     "ticker": "CRM",
