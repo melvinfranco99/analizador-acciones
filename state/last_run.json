@@ -6,19 +6,19 @@
     "upside_pct": 21.7,
     "total_score": 93.9
   },
-  "CRM": {
+  "MU": {
     "rank": 2,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1299.46,
+    "upside_pct": 22.0,
+    "total_score": 91.2
+  },
+  "CRM": {
+    "rank": 3,
     "name": "Salesforce, Inc.",
     "target_price": 276.5,
     "upside_pct": 20.4,
     "total_score": 89.7
-  },
-  "MU": {
-    "rank": 3,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1299.46,
-    "upside_pct": 22.0,
-    "total_score": 88.4
   },
   "SMCI": {
     "rank": 4,
