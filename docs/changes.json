@@ -54,6 +54,15 @@
     "description": "B of A Securities sube su precio objetivo de 200.00 $ a 220.00 $ (mantiene Neutral)."
   },
   {
+    "id": "d83184e0d6aea86c",
+    "date": "2026-09-30",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-09-30: BPA real 33.42 $ vs estimado 31.82 $ (sorpresa +5.0%)."
+  },
+  {
     "id": "009dda56fd136c9d",
     "date": "2026-09-29",
     "ticker": "CRM",
@@ -9925,14 +9934,5 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Wells Fargo baja su precio objetivo de 71.00 $ a 65.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "6f0a5e9065d33fee",
-    "date": "2026-07-02",
-    "ticker": "ZBRA",
-    "name": "Zebra Technologies Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Truist Securities sube su precio objetivo de 267.00 $ a 296.00 $ (mantiene Hold)."
   }
 ]
