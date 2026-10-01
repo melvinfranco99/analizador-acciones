@@ -9,6 +9,141 @@
     "description": "Rosenblatt sube su precio objetivo de 1500.00 $ a 1900.00 $ (mantiene Buy)."
   },
   {
+    "id": "5f8f1760c4d149ee",
+    "date": "2026-10-01",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Super Micro Computer, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "650e35863f718412",
+    "date": "2026-10-01",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Gartner, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 232.74 $ (+20.7% a 3 meses)."
+  },
+  {
+    "id": "1058468ecf690790",
+    "date": "2026-10-01",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 78.50 $ a 82.99 $ (+5.7%)."
+  },
+  {
+    "id": "a5723f6b60ab6afe",
+    "date": "2026-10-01",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 493.68 $ a 542.36 $ (+9.9%)."
+  },
+  {
+    "id": "e9c856d3ae31e530",
+    "date": "2026-10-01",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 700.00 $ a 725.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "d431db4aa83107d9",
+    "date": "2026-10-01",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 1300.00 $ a 1400.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "920f13764f05f45e",
+    "date": "2026-10-01",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 2000.00 $ a 2100.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "84aec42bb6581656",
+    "date": "2026-10-01",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 76.00 $ a 92.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "5dc0563c7341b75b",
+    "date": "2026-10-01",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 67.00 $ a 72.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "e25ccc8bc1af0bba",
+    "date": "2026-10-01",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 65.00 $ a 67.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "3eb186f4dfab96a6",
+    "date": "2026-10-01",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 59.00 $ a 66.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "d3e384ab52669e90",
+    "date": "2026-10-01",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 70.00 $ a 75.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "574192adfe458f4b",
+    "date": "2026-10-01",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 79.00 $ a 83.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "caabcf5b3cd3a3e6",
+    "date": "2026-10-01",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 54.00 $ a 63.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "45e989e4d8cef5ae",
+    "date": "2026-10-01",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 245.00 $ a 274.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "bb6be41fb62f9065",
     "date": "2026-09-30",
     "ticker": "IT",
