@@ -1,72 +1,72 @@
 {
-  "MU": {
-    "rank": 1,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1308.71,
-    "upside_pct": 19.3,
-    "total_score": 99.4
-  },
-  "NVDA": {
-    "rank": 2,
-    "name": "NVIDIA Corporation",
-    "target_price": 279.28,
-    "upside_pct": 21.0,
-    "total_score": 93.9
-  },
   "MSFT": {
-    "rank": 3,
-    "name": "Microsoft Corporation",
-    "target_price": 593.74,
-    "upside_pct": 15.8,
-    "total_score": 92.4
+    "rank": 1,
+    "name": "MSFT",
+    "target_price": 605.69,
+    "upside_pct": 17.0,
+    "total_score": 76.4
   },
-  "CRM": {
-    "rank": 4,
-    "name": "Salesforce, Inc.",
-    "target_price": 287.27,
-    "upside_pct": 21.4,
-    "total_score": 89.7
-  },
-  "IT": {
-    "rank": 5,
-    "name": "Gartner, Inc.",
-    "target_price": 232.74,
-    "upside_pct": 20.7,
-    "total_score": 88.7
+  "SMCI": {
+    "rank": 2,
+    "name": "SMCI",
+    "target_price": 56.95,
+    "upside_pct": 30.3,
+    "total_score": 76.4
   },
   "HPE": {
-    "rank": 6,
-    "name": "Hewlett Packard Enterprise Company",
-    "target_price": 82.99,
-    "upside_pct": 28.5,
-    "total_score": 86.7
+    "rank": 3,
+    "name": "HPE",
+    "target_price": 90.5,
+    "upside_pct": 30.5,
+    "total_score": 72.2
   },
   "ZBRA": {
+    "rank": 4,
+    "name": "ZBRA",
+    "target_price": 449.26,
+    "upside_pct": 19.5,
+    "total_score": 71.5
+  },
+  "CRM": {
+    "rank": 5,
+    "name": "CRM",
+    "target_price": 283.89,
+    "upside_pct": 21.0,
+    "total_score": 70.2
+  },
+  "HPQ": {
+    "rank": 6,
+    "name": "HPQ",
+    "target_price": 39.11,
+    "upside_pct": 21.8,
+    "total_score": 70.2
+  },
+  "DELL": {
     "rank": 7,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 451.52,
-    "upside_pct": 20.3,
-    "total_score": 84.3
+    "name": "DELL",
+    "target_price": 666.1,
+    "upside_pct": 18.4,
+    "total_score": 70.2
   },
   "PSX": {
     "rank": 8,
-    "name": "Phillips 66",
-    "target_price": 331.04,
-    "upside_pct": 25.3,
-    "total_score": 84.1
+    "name": "PSX",
+    "target_price": 330.72,
+    "upside_pct": 25.0,
+    "total_score": 70.2
   },
-  "NTAP": {
+  "TEAM": {
     "rank": 9,
-    "name": "NetApp, Inc.",
-    "target_price": 257.97,
-    "upside_pct": 20.0,
-    "total_score": 83.5
+    "name": "TEAM",
+    "target_price": 253.65,
+    "upside_pct": 35.0,
+    "total_score": 70.2
   },
-  "MPC": {
+  "ACN": {
     "rank": 10,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 542.36,
-    "upside_pct": 29.1,
-    "total_score": 83.0
+    "name": "ACN",
+    "target_price": 245.61,
+    "upside_pct": 23.5,
+    "total_score": 69.8
   }
 }

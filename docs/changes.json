@@ -18,6 +18,105 @@
     "description": "B of A Securities sube su precio objetivo de 410.00 $ a 426.00 $ (mantiene Neutral)."
   },
   {
+    "id": "5d7f71d1ebff3c7e",
+    "date": "2026-10-02",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Micron Technology, Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "1029b95166643e16",
+    "date": "2026-10-02",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "NVIDIA Corporation sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "5e521530242e7347",
+    "date": "2026-10-02",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Gartner, Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "4f8f7e1f3f6583d3",
+    "date": "2026-10-02",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "NetApp, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "61696067eb4f8fc8",
+    "date": "2026-10-02",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Marathon Petroleum Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "c5f7d190f802e12a",
+    "date": "2026-10-02",
+    "ticker": "SMCI",
+    "name": "SMCI",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "SMCI entra en el Top 10 (puesto #2) con precio objetivo de 56.95 $ (+30.3% a 3 meses)."
+  },
+  {
+    "id": "58bb87ccf5af2835",
+    "date": "2026-10-02",
+    "ticker": "HPE",
+    "name": "HPE",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 82.99 $ a 90.50 $ (+9.0%)."
+  },
+  {
+    "id": "d0fb2a0c982da42e",
+    "date": "2026-10-02",
+    "ticker": "HPQ",
+    "name": "HPQ",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "HPQ entra en el Top 10 (puesto #6) con precio objetivo de 39.11 $ (+21.8% a 3 meses)."
+  },
+  {
+    "id": "3ba3156c7bf0a0ab",
+    "date": "2026-10-02",
+    "ticker": "DELL",
+    "name": "DELL",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "DELL entra en el Top 10 (puesto #7) con precio objetivo de 666.10 $ (+18.4% a 3 meses)."
+  },
+  {
+    "id": "cceb6b4c5eaddc1d",
+    "date": "2026-10-02",
+    "ticker": "TEAM",
+    "name": "TEAM",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "TEAM entra en el Top 10 (puesto #9) con precio objetivo de 253.65 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "38fa0d379ca284d1",
+    "date": "2026-10-02",
+    "ticker": "ACN",
+    "name": "ACN",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "ACN entra en el Top 10 (puesto #10) con precio objetivo de 245.61 $ (+23.5% a 3 meses)."
+  },
+  {
     "id": "8b722bf324443710",
     "date": "2026-10-01",
     "ticker": "MU",
@@ -160,6 +259,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Goldman Sachs sube su precio objetivo de 245.00 $ a 274.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "817a7c4bb09007fe",
+    "date": "2026-10-01",
+    "ticker": "ACN",
+    "name": "ACN",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-01: BPA real 3.29 $ vs estimado 3.18 $ (sorpresa +3.4%)."
   },
   {
     "id": "bb6be41fb62f9065",
@@ -2865,7 +2973,7 @@
     "id": "e57faecffa057af3",
     "date": "2026-09-01",
     "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
+    "name": "DELL",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-09-01: BPA real 7.04 $ vs estimado 4.92 $ (sorpresa +43.1%)."
@@ -4404,7 +4512,7 @@
     "id": "ba3b0b357d5c1053",
     "date": "2026-08-26",
     "ticker": "CRM",
-    "name": "Salesforce, Inc.",
+    "name": "CRM",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-26: BPA real 5.90 $ vs estimado 3.27 $ (sorpresa +80.4%)."
@@ -4422,7 +4530,7 @@
     "id": "a00bf4947c15beb6",
     "date": "2026-08-26",
     "ticker": "HPQ",
-    "name": "HP Inc.",
+    "name": "HPQ",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-26: BPA real 0.83 $ vs estimado 0.69 $ (sorpresa +20.0%)."
@@ -6393,7 +6501,7 @@
     "id": "1f9ef22af733d912",
     "date": "2026-08-11",
     "ticker": "SMCI",
-    "name": "Super Micro Computer, Inc.",
+    "name": "SMCI",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-11: BPA real 1.70 $ vs estimado 0.96 $ (sorpresa +77.5%)."
@@ -6969,7 +7077,7 @@
     "id": "3f5d4866c7736c42",
     "date": "2026-08-06",
     "ticker": "TEAM",
-    "name": "Atlassian Corporation",
+    "name": "TEAM",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-06: BPA real 1.87 $ vs estimado 1.50 $ (sorpresa +24.5%)."
@@ -7023,7 +7131,7 @@
     "id": "368f6340a80b1f3c",
     "date": "2026-08-05",
     "ticker": "PSX",
-    "name": "Phillips 66",
+    "name": "PSX",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-05: BPA real 9.41 $ vs estimado 7.50 $ (sorpresa +25.4%)."
@@ -7491,7 +7599,7 @@
     "id": "820c714ad94776df",
     "date": "2026-08-04",
     "ticker": "ZBRA",
-    "name": "Zebra Technologies Corporation",
+    "name": "ZBRA",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-04: BPA real 6.35 $ vs estimado 4.38 $ (sorpresa +45.1%)."
@@ -8616,7 +8724,7 @@
     "id": "5cfdab831a195dba",
     "date": "2026-07-29",
     "ticker": "MSFT",
-    "name": "Microsoft Corporation",
+    "name": "MSFT",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-07-29: BPA real 4.74 $ vs estimado 4.24 $ (sorpresa +11.8%)."
