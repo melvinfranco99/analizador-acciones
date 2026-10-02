@@ -1,5 +1,23 @@
 [
   {
+    "id": "397933dcaa076491",
+    "date": "2026-10-02",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Daiwa Capital sube la recomendacion de Neutral a Outperform. Precio objetivo: 75.00 $."
+  },
+  {
+    "id": "b83fd899e19b9599",
+    "date": "2026-10-02",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 410.00 $ a 426.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "8b722bf324443710",
     "date": "2026-10-01",
     "ticker": "MU",

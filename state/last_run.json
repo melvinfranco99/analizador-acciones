@@ -34,26 +34,26 @@
     "upside_pct": 20.7,
     "total_score": 88.7
   },
-  "PSX": {
-    "rank": 6,
-    "name": "Phillips 66",
-    "target_price": 331.04,
-    "upside_pct": 25.3,
-    "total_score": 86.9
-  },
   "HPE": {
-    "rank": 7,
+    "rank": 6,
     "name": "Hewlett Packard Enterprise Company",
     "target_price": 82.99,
     "upside_pct": 28.5,
     "total_score": 86.7
   },
   "ZBRA": {
-    "rank": 8,
+    "rank": 7,
     "name": "Zebra Technologies Corporation",
     "target_price": 451.52,
     "upside_pct": 20.3,
     "total_score": 84.3
+  },
+  "PSX": {
+    "rank": 8,
+    "name": "Phillips 66",
+    "target_price": 331.04,
+    "upside_pct": 25.3,
+    "total_score": 84.1
   },
   "NTAP": {
     "rank": 9,
