@@ -62,11 +62,11 @@
     "upside_pct": 28.7,
     "total_score": 83.0
   },
-  "HPE": {
+  "DELL": {
     "rank": 10,
-    "name": "Hewlett Packard Enterprise Company",
-    "target_price": 90.5,
-    "upside_pct": 30.5,
-    "total_score": 81.3
+    "name": "Dell Technologies Inc.",
+    "target_price": 666.1,
+    "upside_pct": 18.4,
+    "total_score": 79.5
   }
 }

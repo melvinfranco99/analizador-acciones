@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T11:25:04",
-  "duration_seconds": 33.8,
+  "generated_at": "2026-10-03T16:01:53",
+  "duration_seconds": 25.4,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -45,7 +45,7 @@
         "Crecimiento de ingresos solido (105.9% interanual).",
         "Consenso de 59 analistas con precio objetivo medio de 327.70."
       ],
-      "pe": 29.17082,
+      "pe": 29.576487,
       "num_analysts": 59,
       "rank": 1
     },
@@ -84,7 +84,7 @@
         "Crecimiento de ingresos solido (17.7% interanual).",
         "Consenso de 53 analistas con precio objetivo medio de 578.82."
       ],
-      "pe": 28.57703,
+      "pe": 28.815704,
       "num_analysts": 53,
       "rank": 2
     },
@@ -121,9 +121,9 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (93.2% interanual).",
-        "Valoracion contenida (PER 12.8x)."
+        "Valoracion contenida (PER 13.4x)."
       ],
-      "pe": 12.849999,
+      "pe": 13.40184,
       "num_analysts": 16,
       "rank": 3
     },
@@ -199,7 +199,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 54 analistas con precio objetivo medio de 283.36."
       ],
-      "pe": 21.472095,
+      "pe": 21.69039,
       "num_analysts": 54,
       "rank": 5
     },
@@ -234,10 +234,10 @@
       "rationale": [
         "Potencial estimado a 3 meses: +23.5% (~+7.3%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "MACD en cruce alcista con impulso creciente.",
-        "Valoracion contenida (PER 16.9x).",
+        "Valoracion contenida (PER 15.9x).",
         "Consenso de 24 analistas con precio objetivo medio de 221.36."
       ],
-      "pe": 16.942078,
+      "pe": 15.89928,
       "num_analysts": 24,
       "rank": 6
     },
@@ -358,42 +358,41 @@
       "rank": 9
     },
     {
-      "ticker": "HPE",
-      "name": "Hewlett Packard Enterprise Company",
+      "ticker": "DELL",
+      "name": "Dell Technologies Inc.",
       "sector": "Technology",
-      "industry": "Communication Equipment",
-      "price": 69.33,
-      "price_eur": 61.59,
-      "target_price": 90.5,
-      "target_price_eur": 80.39,
-      "upside_pct": 30.5,
-      "stop_loss": 61.8,
-      "stop_loss_eur": 54.9,
-      "stop_loss_pct": 10.9,
-      "technical_score": 92.5,
-      "fundamental_score": 67.7,
-      "total_score": 81.3,
+      "industry": "Computer Hardware",
+      "price": 562.52,
+      "price_eur": 499.69,
+      "target_price": 666.1,
+      "target_price_eur": 591.7,
+      "upside_pct": 18.4,
+      "stop_loss": 504.6,
+      "stop_loss_eur": 448.24,
+      "stop_loss_pct": 10.3,
+      "technical_score": 88.8,
+      "fundamental_score": 68.1,
+      "total_score": 79.5,
       "technical_breakdown": {
         "trend": 100,
-        "momentum": 70,
-        "macd": 100,
+        "momentum": 100,
+        "macd": 55,
         "relative_strength": 100
       },
       "fundamental_breakdown": {
         "valuation": 50,
         "growth": 100,
         "profitability": 50,
-        "analyst_consensus": 60.6
+        "analyst_consensus": 62.6
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +30.5% (~+9.3%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Potencial estimado a 3 meses: +18.4% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "MACD en cruce alcista con impulso creciente.",
-        "Crecimiento de ingresos solido (33.7% interanual).",
-        "Consenso de 21 analistas con precio objetivo medio de 71.79."
+        "Crecimiento de ingresos solido (57.7% interanual).",
+        "Consenso de 25 analistas con precio objetivo medio de 583.96."
       ],
-      "pe": 33.331734,
-      "num_analysts": 21,
+      "pe": 32.68565,
+      "num_analysts": 25,
       "rank": 10
     }
   ]
