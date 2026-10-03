@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T16:01:53",
-  "duration_seconds": 25.4,
+  "generated_at": "2026-10-03T20:52:00",
+  "duration_seconds": 25.0,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -199,7 +199,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 54 analistas con precio objetivo medio de 283.36."
       ],
-      "pe": 21.69039,
+      "pe": 21.511457,
       "num_analysts": 54,
       "rank": 5
     },
