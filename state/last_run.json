@@ -1,72 +1,72 @@
 {
-  "MSFT": {
+  "NVDA": {
     "rank": 1,
-    "name": "MSFT",
+    "name": "NVIDIA Corporation",
+    "target_price": 280.82,
+    "upside_pct": 20.0,
+    "total_score": 93.9
+  },
+  "MSFT": {
+    "rank": 2,
+    "name": "Microsoft Corporation",
     "target_price": 605.69,
     "upside_pct": 17.0,
-    "total_score": 76.4
+    "total_score": 92.4
   },
   "SMCI": {
-    "rank": 2,
-    "name": "SMCI",
+    "rank": 3,
+    "name": "Super Micro Computer, Inc.",
     "target_price": 56.95,
     "upside_pct": 30.3,
-    "total_score": 76.4
+    "total_score": 92.1
   },
-  "HPE": {
-    "rank": 3,
-    "name": "HPE",
-    "target_price": 90.5,
-    "upside_pct": 30.5,
-    "total_score": 72.2
-  },
-  "ZBRA": {
+  "MU": {
     "rank": 4,
-    "name": "ZBRA",
-    "target_price": 449.26,
-    "upside_pct": 19.5,
-    "total_score": 71.5
+    "name": "Micron Technology, Inc.",
+    "target_price": 1297.46,
+    "upside_pct": 20.7,
+    "total_score": 91.2
   },
   "CRM": {
     "rank": 5,
-    "name": "CRM",
+    "name": "Salesforce, Inc.",
     "target_price": 283.89,
     "upside_pct": 21.0,
-    "total_score": 70.2
+    "total_score": 89.7
   },
-  "HPQ": {
+  "ACN": {
     "rank": 6,
-    "name": "HPQ",
-    "target_price": 39.11,
-    "upside_pct": 21.8,
-    "total_score": 70.2
+    "name": "Accenture plc",
+    "target_price": 245.61,
+    "upside_pct": 23.5,
+    "total_score": 84.8
   },
-  "DELL": {
+  "ZBRA": {
     "rank": 7,
-    "name": "DELL",
-    "target_price": 666.1,
-    "upside_pct": 18.4,
-    "total_score": 70.2
+    "name": "Zebra Technologies Corporation",
+    "target_price": 449.26,
+    "upside_pct": 19.5,
+    "total_score": 84.3
   },
   "PSX": {
     "rank": 8,
-    "name": "PSX",
+    "name": "Phillips 66",
     "target_price": 330.72,
     "upside_pct": 25.0,
-    "total_score": 70.2
+    "total_score": 84.1
   },
-  "TEAM": {
+  "MPC": {
     "rank": 9,
-    "name": "TEAM",
-    "target_price": 253.65,
-    "upside_pct": 35.0,
-    "total_score": 70.2
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 543.61,
+    "upside_pct": 28.7,
+    "total_score": 83.0
   },
-  "ACN": {
+  "HPE": {
     "rank": 10,
-    "name": "ACN",
-    "target_price": 245.61,
-    "upside_pct": 23.5,
-    "total_score": 69.8
+    "name": "Hewlett Packard Enterprise Company",
+    "target_price": 90.5,
+    "upside_pct": 30.5,
+    "total_score": 81.3
   }
 }

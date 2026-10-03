@@ -1,20 +1,59 @@
 {
-  "generated_at": "2026-10-02T22:01:33",
-  "duration_seconds": 50.6,
+  "generated_at": "2026-10-03T04:46:34",
+  "duration_seconds": 31.1,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
-  "candidates_below_threshold": 329,
+  "candidates_below_threshold": 284,
   "min_monthly_return_pct": 5.0,
   "min_upside_pct_3m": 15.8,
   "benchmark_return_3m": 2.5,
   "eur_usd_rate": 1.1257457733154297,
   "results": [
     {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "price": 233.95,
+      "price_eur": 207.82,
+      "target_price": 280.82,
+      "target_price_eur": 249.45,
+      "upside_pct": 20.0,
+      "stop_loss": 222.15,
+      "stop_loss_eur": 197.34,
+      "stop_loss_pct": 5.0,
+      "technical_score": 100.0,
+      "fundamental_score": 86.4,
+      "total_score": 93.9,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 50,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 95.6
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +20.0% (~+6.3%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (105.9% interanual).",
+        "Consenso de 59 analistas con precio objetivo medio de 327.70."
+      ],
+      "pe": 29.17082,
+      "num_analysts": 59,
+      "rank": 1
+    },
+    {
       "ticker": "MSFT",
-      "name": "MSFT",
-      "sector": "N/D",
-      "industry": "N/D",
+      "name": "Microsoft Corporation",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
       "price": 517.53,
       "price_eur": 459.72,
       "target_price": 605.69,
@@ -24,8 +63,8 @@
       "stop_loss_eur": 439.15,
       "stop_loss_pct": 4.5,
       "technical_score": 100.0,
-      "fundamental_score": 47.5,
-      "total_score": 76.4,
+      "fundamental_score": 83.1,
+      "total_score": 92.4,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 100,
@@ -33,25 +72,27 @@
         "relative_strength": 100
       },
       "fundamental_breakdown": {
-        "valuation": 40,
-        "growth": 50,
-        "profitability": 50,
-        "analyst_consensus": 50.0
+        "valuation": 50,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 82.6
       },
       "rationale": [
         "Potencial estimado a 3 meses: +17.0% (~+5.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "MACD en cruce alcista con impulso creciente."
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (17.7% interanual).",
+        "Consenso de 53 analistas con precio objetivo medio de 578.82."
       ],
-      "pe": null,
-      "num_analysts": null,
-      "rank": 1
+      "pe": 28.57703,
+      "num_analysts": 53,
+      "rank": 2
     },
     {
       "ticker": "SMCI",
-      "name": "SMCI",
-      "sector": "N/D",
-      "industry": "N/D",
+      "name": "Super Micro Computer, Inc.",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
       "price": 43.69,
       "price_eur": 38.81,
       "target_price": 56.95,
@@ -61,8 +102,8 @@
       "stop_loss_eur": 34.74,
       "stop_loss_pct": 10.5,
       "technical_score": 100.0,
-      "fundamental_score": 47.5,
-      "total_score": 76.4,
+      "fundamental_score": 82.5,
+      "total_score": 92.1,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 100,
@@ -70,98 +111,66 @@
         "relative_strength": 100
       },
       "fundamental_breakdown": {
-        "valuation": 40,
-        "growth": 50,
-        "profitability": 50,
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 75,
         "analyst_consensus": 50.0
       },
       "rationale": [
         "Potencial estimado a 3 meses: +30.3% (~+9.2%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "MACD en cruce alcista con impulso creciente."
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (93.2% interanual).",
+        "Valoracion contenida (PER 12.8x)."
       ],
-      "pe": null,
-      "num_analysts": null,
-      "rank": 2
-    },
-    {
-      "ticker": "HPE",
-      "name": "HPE",
-      "sector": "N/D",
-      "industry": "N/D",
-      "price": 69.33,
-      "price_eur": 61.59,
-      "target_price": 90.5,
-      "target_price_eur": 80.39,
-      "upside_pct": 30.5,
-      "stop_loss": 61.8,
-      "stop_loss_eur": 54.9,
-      "stop_loss_pct": 10.9,
-      "technical_score": 92.5,
-      "fundamental_score": 47.5,
-      "total_score": 72.2,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 70,
-        "macd": 100,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 40,
-        "growth": 50,
-        "profitability": 50,
-        "analyst_consensus": 50.0
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +30.5% (~+9.3%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "MACD en cruce alcista con impulso creciente."
-      ],
-      "pe": null,
-      "num_analysts": null,
+      "pe": 12.849999,
+      "num_analysts": 16,
       "rank": 3
     },
     {
-      "ticker": "ZBRA",
-      "name": "ZBRA",
-      "sector": "N/D",
-      "industry": "N/D",
-      "price": 375.86,
-      "price_eur": 333.88,
-      "target_price": 449.26,
-      "target_price_eur": 399.08,
-      "upside_pct": 19.5,
-      "stop_loss": 354.73,
-      "stop_loss_eur": 315.11,
-      "stop_loss_pct": 5.6,
-      "technical_score": 91.2,
-      "fundamental_score": 47.5,
-      "total_score": 71.5,
+      "ticker": "MU",
+      "name": "Micron Technology, Inc.",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "price": 1074.89,
+      "price_eur": 954.82,
+      "target_price": 1297.46,
+      "target_price_eur": 1152.53,
+      "upside_pct": 20.7,
+      "stop_loss": 981.92,
+      "stop_loss_eur": 872.24,
+      "stop_loss_pct": 8.6,
+      "technical_score": 85.2,
+      "fundamental_score": 98.6,
+      "total_score": 91.2,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 100,
         "macd": 65,
-        "relative_strength": 100
+        "relative_strength": 70
       },
       "fundamental_breakdown": {
-        "valuation": 40,
-        "growth": 50,
-        "profitability": 50,
-        "analyst_consensus": 50.0
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 94.5
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +19.5% (~+6.1%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones."
+        "Potencial estimado a 3 meses: +20.7% (~+6.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Crecimiento de ingresos solido (379.3% interanual).",
+        "Valoracion contenida (PER 14.5x).",
+        "Consenso de 46 analistas con precio objetivo medio de 1520.02."
       ],
-      "pe": null,
-      "num_analysts": null,
+      "pe": 14.468839,
+      "num_analysts": 46,
       "rank": 4
     },
     {
       "ticker": "CRM",
-      "name": "CRM",
-      "sector": "N/D",
-      "industry": "N/D",
+      "name": "Salesforce, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application",
       "price": 234.69,
       "price_eur": 208.48,
       "target_price": 283.89,
@@ -171,8 +180,8 @@
       "stop_loss_eur": 194.51,
       "stop_loss_pct": 6.7,
       "technical_score": 88.8,
-      "fundamental_score": 47.5,
-      "total_score": 70.2,
+      "fundamental_score": 90.9,
+      "total_score": 89.7,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 100,
@@ -180,96 +189,101 @@
         "relative_strength": 100
       },
       "fundamental_breakdown": {
-        "valuation": 40,
-        "growth": 50,
-        "profitability": 50,
-        "analyst_consensus": 50.0
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 88.5
       },
       "rationale": [
         "Potencial estimado a 3 meses: +21.0% (~+6.6%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones."
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Consenso de 54 analistas con precio objetivo medio de 283.36."
       ],
-      "pe": null,
-      "num_analysts": null,
+      "pe": 21.086254,
+      "num_analysts": 54,
       "rank": 5
     },
     {
-      "ticker": "HPQ",
-      "name": "HPQ",
-      "sector": "N/D",
-      "industry": "N/D",
-      "price": 32.12,
-      "price_eur": 28.53,
-      "target_price": 39.11,
-      "target_price_eur": 34.74,
-      "upside_pct": 21.8,
-      "stop_loss": 30.29,
-      "stop_loss_eur": 26.91,
-      "stop_loss_pct": 5.7,
-      "technical_score": 88.8,
-      "fundamental_score": 47.5,
-      "total_score": 70.2,
+      "ticker": "ACN",
+      "name": "Accenture plc",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "price": 198.9,
+      "price_eur": 176.68,
+      "target_price": 245.61,
+      "target_price_eur": 218.18,
+      "upside_pct": 23.5,
+      "stop_loss": 178.97,
+      "stop_loss_eur": 158.98,
+      "stop_loss_pct": 10.0,
+      "technical_score": 88.0,
+      "fundamental_score": 80.9,
+      "total_score": 84.8,
       "technical_breakdown": {
-        "trend": 100,
+        "trend": 60,
         "momentum": 100,
-        "macd": 55,
+        "macd": 100,
         "relative_strength": 100
       },
       "fundamental_breakdown": {
-        "valuation": 40,
-        "growth": 50,
-        "profitability": 50,
-        "analyst_consensus": 50.0
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 75,
+        "analyst_consensus": 68.6
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +21.8% (~+6.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones."
+        "Potencial estimado a 3 meses: +23.5% (~+7.3%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "MACD en cruce alcista con impulso creciente.",
+        "Valoracion contenida (PER 15.9x).",
+        "Consenso de 24 analistas con precio objetivo medio de 221.36."
       ],
-      "pe": null,
-      "num_analysts": null,
+      "pe": 15.873902,
+      "num_analysts": 24,
       "rank": 6
     },
     {
-      "ticker": "DELL",
-      "name": "DELL",
-      "sector": "N/D",
-      "industry": "N/D",
-      "price": 562.52,
-      "price_eur": 499.69,
-      "target_price": 666.1,
-      "target_price_eur": 591.7,
-      "upside_pct": 18.4,
-      "stop_loss": 504.6,
-      "stop_loss_eur": 448.24,
-      "stop_loss_pct": 10.3,
-      "technical_score": 88.8,
-      "fundamental_score": 47.5,
-      "total_score": 70.2,
+      "ticker": "ZBRA",
+      "name": "Zebra Technologies Corporation",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "price": 375.86,
+      "price_eur": 333.88,
+      "target_price": 449.26,
+      "target_price_eur": 399.08,
+      "upside_pct": 19.5,
+      "stop_loss": 354.73,
+      "stop_loss_eur": 315.11,
+      "stop_loss_pct": 5.6,
+      "technical_score": 91.2,
+      "fundamental_score": 75.9,
+      "total_score": 84.3,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 100,
-        "macd": 55,
+        "macd": 65,
         "relative_strength": 100
       },
       "fundamental_breakdown": {
-        "valuation": 40,
-        "growth": 50,
-        "profitability": 50,
-        "analyst_consensus": 50.0
+        "valuation": 50,
+        "growth": 100,
+        "profitability": 75,
+        "analyst_consensus": 73.4
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +18.4% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones."
+        "Potencial estimado a 3 meses: +19.5% (~+6.1%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Crecimiento de ingresos solido (20.4% interanual).",
+        "Consenso de 15 analistas con precio objetivo medio de 411.45."
       ],
-      "pe": null,
-      "num_analysts": null,
+      "pe": 34.35649,
+      "num_analysts": 15,
       "rank": 7
     },
     {
       "ticker": "PSX",
-      "name": "PSX",
-      "sector": "N/D",
-      "industry": "N/D",
+      "name": "Phillips 66",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
       "price": 264.58,
       "price_eur": 235.03,
       "target_price": 330.72,
@@ -279,8 +293,8 @@
       "stop_loss_eur": 219.5,
       "stop_loss_pct": 6.6,
       "technical_score": 88.8,
-      "fundamental_score": 47.5,
-      "total_score": 70.2,
+      "fundamental_score": 78.4,
+      "total_score": 84.1,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 100,
@@ -288,89 +302,98 @@
         "relative_strength": 100
       },
       "fundamental_breakdown": {
-        "valuation": 40,
-        "growth": 50,
-        "profitability": 50,
-        "analyst_consensus": 50.0
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 75,
+        "analyst_consensus": 58.5
       },
       "rationale": [
         "Potencial estimado a 3 meses: +25.0% (~+7.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones."
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Crecimiento de ingresos solido (53.1% interanual).",
+        "Valoracion contenida (PER 15.1x).",
+        "Consenso de 19 analistas con precio objetivo medio de 257.16."
       ],
-      "pe": null,
-      "num_analysts": null,
+      "pe": 15.084377,
+      "num_analysts": 19,
       "rank": 8
     },
     {
-      "ticker": "TEAM",
-      "name": "TEAM",
-      "sector": "N/D",
-      "industry": "N/D",
-      "price": 187.89,
-      "price_eur": 166.9,
-      "target_price": 253.65,
-      "target_price_eur": 225.32,
-      "upside_pct": 35.0,
-      "stop_loss": 169.65,
-      "stop_loss_eur": 150.7,
-      "stop_loss_pct": 9.7,
-      "technical_score": 88.8,
-      "fundamental_score": 47.5,
-      "total_score": 70.2,
+      "ticker": "MPC",
+      "name": "Marathon Petroleum Corporation",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "price": 422.33,
+      "price_eur": 375.16,
+      "target_price": 543.61,
+      "target_price_eur": 482.89,
+      "upside_pct": 28.7,
+      "stop_loss": 391.29,
+      "stop_loss_eur": 347.58,
+      "stop_loss_pct": 7.4,
+      "technical_score": 81.2,
+      "fundamental_score": 85.1,
+      "total_score": 83.0,
       "technical_breakdown": {
         "trend": 100,
-        "momentum": 100,
+        "momentum": 70,
         "macd": 55,
         "relative_strength": 100
       },
       "fundamental_breakdown": {
-        "valuation": 40,
-        "growth": 50,
-        "profitability": 50,
-        "analyst_consensus": 50.0
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 40.3
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +35.0% (~+10.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones."
+        "Potencial estimado a 3 meses: +28.7% (~+8.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Crecimiento de ingresos solido (53.7% interanual).",
+        "Valoracion contenida (PER 14.6x).",
+        "Consenso de 18 analistas con precio objetivo medio de 385.56."
       ],
-      "pe": null,
-      "num_analysts": null,
+      "pe": 14.578184,
+      "num_analysts": 18,
       "rank": 9
     },
     {
-      "ticker": "ACN",
-      "name": "ACN",
-      "sector": "N/D",
-      "industry": "N/D",
-      "price": 198.9,
-      "price_eur": 176.68,
-      "target_price": 245.61,
-      "target_price_eur": 218.18,
-      "upside_pct": 23.5,
-      "stop_loss": 178.98,
-      "stop_loss_eur": 158.99,
-      "stop_loss_pct": 10.0,
-      "technical_score": 88.0,
-      "fundamental_score": 47.5,
-      "total_score": 69.8,
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise Company",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "price": 69.33,
+      "price_eur": 61.59,
+      "target_price": 90.5,
+      "target_price_eur": 80.39,
+      "upside_pct": 30.5,
+      "stop_loss": 61.8,
+      "stop_loss_eur": 54.9,
+      "stop_loss_pct": 10.9,
+      "technical_score": 92.5,
+      "fundamental_score": 67.7,
+      "total_score": 81.3,
       "technical_breakdown": {
-        "trend": 60,
-        "momentum": 100,
+        "trend": 100,
+        "momentum": 70,
         "macd": 100,
         "relative_strength": 100
       },
       "fundamental_breakdown": {
-        "valuation": 40,
-        "growth": 50,
+        "valuation": 50,
+        "growth": 100,
         "profitability": 50,
-        "analyst_consensus": 50.0
+        "analyst_consensus": 60.6
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +23.5% (~+7.3%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "MACD en cruce alcista con impulso creciente."
+        "Potencial estimado a 3 meses: +30.5% (~+9.3%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (33.7% interanual).",
+        "Consenso de 21 analistas con precio objetivo medio de 71.79."
       ],
-      "pe": null,
-      "num_analysts": null,
+      "pe": 33.331734,
+      "num_analysts": 21,
       "rank": 10
     }
   ]
