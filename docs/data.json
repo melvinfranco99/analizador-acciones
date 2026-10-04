@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T20:52:00",
-  "duration_seconds": 25.0,
+  "generated_at": "2026-10-04T05:19:07",
+  "duration_seconds": 24.6,
   "universe_size": 436,
   "tickers_with_data": 424,
   "candidates_analyzed": 350,
@@ -332,8 +332,8 @@
       "stop_loss_eur": 347.58,
       "stop_loss_pct": 7.4,
       "technical_score": 81.2,
-      "fundamental_score": 85.1,
-      "total_score": 83.0,
+      "fundamental_score": 84.9,
+      "total_score": 82.9,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 70,
@@ -344,7 +344,7 @@
         "valuation": 100,
         "growth": 100,
         "profitability": 100,
-        "analyst_consensus": 40.3
+        "analyst_consensus": 39.5
       },
       "rationale": [
         "Potencial estimado a 3 meses: +28.7% (~+8.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
