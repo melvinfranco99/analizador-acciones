@@ -18,6 +18,69 @@
     "description": "NetApp, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 260.89 $ (+17.3% a 3 meses)."
   },
   {
+    "id": "250174b7454d9ce7",
+    "date": "2026-10-05",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Accenture plc sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "726caaac68616c77",
+    "date": "2026-10-05",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Phillips 66 sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "a66c13958340add2",
+    "date": "2026-10-05",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Valero Energy Corporation entra en el Top 10 (puesto #8) con precio objetivo de 541.19 $ (+29.1% a 3 meses)."
+  },
+  {
+    "id": "a55eae8cc4a4ae69",
+    "date": "2026-10-05",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Gartner, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 219.07 $ (+16.7% a 3 meses)."
+  },
+  {
+    "id": "173e2a6216de564a",
+    "date": "2026-10-05",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Scotiabank sube su precio objetivo de 510.00 $ a 615.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "ebfba42495f5b552",
+    "date": "2026-10-05",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 355.00 $ a 378.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "128a1080054a04ca",
+    "date": "2026-10-05",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 196.00 $ a 208.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "4bec64be7b5d9018",
     "date": "2026-10-03",
     "ticker": "HPQ",
@@ -295,6 +358,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Loop Capital sube su precio objetivo de 215.00 $ a 260.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "cc9c922008eca0f9",
+    "date": "2026-10-02",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 395.00 $ a 414.00 $ (mantiene Neutral)."
   },
   {
     "id": "8b722bf324443710",
@@ -826,6 +898,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "BMO Capital sube su precio objetivo de 150.00 $ a 200.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "5ec4db017a99cb2d",
+    "date": "2026-09-23",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 365.00 $ a 457.00 $ (mantiene Buy)."
   },
   {
     "id": "e6d88f9bdb0a7044",
