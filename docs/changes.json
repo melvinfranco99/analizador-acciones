@@ -1,5 +1,23 @@
 [
   {
+    "id": "3078b12474b12218",
+    "date": "2026-10-05",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "1b98210d5fa953ee",
+    "date": "2026-10-05",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "NetApp, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 260.89 $ (+17.3% a 3 meses)."
+  },
+  {
     "id": "4bec64be7b5d9018",
     "date": "2026-10-03",
     "ticker": "HPQ",
@@ -268,6 +286,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 175.00 $ a 195.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "8f2166a50e18633e",
+    "date": "2026-10-02",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Loop Capital sube su precio objetivo de 215.00 $ a 260.00 $ (mantiene Buy)."
   },
   {
     "id": "8b722bf324443710",
