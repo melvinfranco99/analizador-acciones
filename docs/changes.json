@@ -1,5 +1,23 @@
 [
   {
+    "id": "bc9922fa4dfdbf6d",
+    "date": "2026-10-06",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Gartner, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "93981ee4e0a3e237",
+    "date": "2026-10-06",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Accenture plc entra en el Top 10 (puesto #10) con precio objetivo de 232.96 $ (+19.4% a 3 meses)."
+  },
+  {
     "id": "3078b12474b12218",
     "date": "2026-10-05",
     "ticker": "DELL",
@@ -10393,104 +10411,5 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Benchmark baja su precio objetivo de 780.00 $ a 230.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "0e03abb82810a4c0",
-    "date": "2026-07-07",
-    "ticker": "INCY",
-    "name": "Incyte Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "RBC Capital sube su precio objetivo de 95.00 $ a 99.00 $ (mantiene Sector Perform)."
-  },
-  {
-    "id": "692347d38713e864",
-    "date": "2026-07-07",
-    "ticker": "AJG",
-    "name": "Arthur J. Gallagher & Co.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 275.00 $ a 292.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "05bd27b111e8e2f9",
-    "date": "2026-07-07",
-    "ticker": "TMUS",
-    "name": "T-Mobile US, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Morgan Stanley baja su precio objetivo de 260.00 $ a 230.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "ec0164ffa6c1be49",
-    "date": "2026-07-07",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Needham sube su precio objetivo de 350.00 $ a 425.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "70480866600cde91",
-    "date": "2026-07-07",
-    "ticker": "AMGN",
-    "name": "Amgen Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Truist Securities sube su precio objetivo de 327.00 $ a 340.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "3659274413173fe5",
-    "date": "2026-07-07",
-    "ticker": "REGN",
-    "name": "Regeneron Pharmaceuticals, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "RBC Capital baja su precio objetivo de 707.00 $ a 696.00 $ (mantiene Sector Perform)."
-  },
-  {
-    "id": "16d4ae7b135fcdf2",
-    "date": "2026-07-07",
-    "ticker": "REGN",
-    "name": "Regeneron Pharmaceuticals, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Truist Securities baja su precio objetivo de 778.00 $ a 769.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "32d2f3384f475cde",
-    "date": "2026-07-07",
-    "ticker": "REGN",
-    "name": "Regeneron Pharmaceuticals, Inc.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "Benchmark sube la recomendacion de Hold a Buy. Precio objetivo: 185.00 $."
-  },
-  {
-    "id": "e402ac68e2844c89",
-    "date": "2026-07-07",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Morgan Stanley baja su precio objetivo de 172.50 $ a 172.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "c38d2aeaadf5c527",
-    "date": "2026-07-07",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 198.00 $ a 235.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "49b3a325807dd754",
-    "date": "2026-07-07",
-    "ticker": "MSFT",
-    "name": "Microsoft Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "BMO Capital sube su precio objetivo de 500.00 $ a 515.00 $ (mantiene Outperform)."
   }
 ]

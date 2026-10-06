@@ -9,8 +9,8 @@
   "MU": {
     "rank": 2,
     "name": "Micron Technology, Inc.",
-    "target_price": 1292.86,
-    "upside_pct": 21.5,
+    "target_price": 1299.76,
+    "upside_pct": 22.2,
     "total_score": 91.2
   },
   "NVDA": {
@@ -32,7 +32,7 @@
     "name": "Microsoft Corporation",
     "target_price": 617.92,
     "upside_pct": 17.7,
-    "total_score": 88.3
+    "total_score": 88.4
   },
   "MPC": {
     "rank": 6,
@@ -62,11 +62,11 @@
     "upside_pct": 17.7,
     "total_score": 83.5
   },
-  "IT": {
+  "ACN": {
     "rank": 10,
-    "name": "Gartner, Inc.",
-    "target_price": 219.07,
-    "upside_pct": 16.7,
-    "total_score": 82.5
+    "name": "Accenture plc",
+    "target_price": 232.96,
+    "upside_pct": 19.4,
+    "total_score": 82.8
   }
 }
