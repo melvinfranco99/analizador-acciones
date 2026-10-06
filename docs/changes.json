@@ -27,6 +27,42 @@
     "description": "Mizuho sube su precio objetivo de 226.00 $ a 241.00 $ (mantiene Outperform)."
   },
   {
+    "id": "30a8f0e675760ca3",
+    "date": "2026-10-06",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Salesforce, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "61b0db6295345c84",
+    "date": "2026-10-06",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Broadcom Inc. entra en el Top 10 (puesto #5) con precio objetivo de 453.56 $ (+20.7% a 3 meses)."
+  },
+  {
+    "id": "4b5ef8db5e9da40a",
+    "date": "2026-10-06",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 323.00 $ a 441.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "9ca021027aafbca8",
+    "date": "2026-10-06",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 200.00 $ a 250.00 $ (mantiene Buy)."
+  },
+  {
     "id": "3078b12474b12218",
     "date": "2026-10-05",
     "ticker": "DELL",
@@ -2358,6 +2394,24 @@
     "description": "Stifel sube su precio objetivo de 450.00 $ a 530.00 $ (mantiene Hold)."
   },
   {
+    "id": "84c2fa9190f30bba",
+    "date": "2026-09-04",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 500.00 $ a 515.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "73b708fe1cf07036",
+    "date": "2026-09-04",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "DA Davidson baja su precio objetivo de 400.00 $ a 350.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "02f6f608bcba8250",
     "date": "2026-09-03",
     "ticker": "AMGN",
@@ -2653,6 +2707,87 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Susquehanna sube su precio objetivo de 185.00 $ a 195.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "fe8cb66991385baa",
+    "date": "2026-09-03",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Macquarie sube la recomendacion de Neutral a Outperform. Precio objetivo: 490.00 $."
+  },
+  {
+    "id": "b2ef5eca81b05414",
+    "date": "2026-09-03",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Raymond James sube su precio objetivo de 450.00 $ a 475.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "26a4a9ed0fc6ef6d",
+    "date": "2026-09-03",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Evercore ISI Group baja su precio objetivo de 582.00 $ a 578.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "a38b984d2780e70c",
+    "date": "2026-09-03",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 500.00 $ a 475.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d2bcaa1f88dbbe06",
+    "date": "2026-09-03",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 550.00 $ a 520.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "16bbc9876b357f82",
+    "date": "2026-09-03",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 502.00 $ a 505.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "97ded1d4a0468915",
+    "date": "2026-09-03",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 500.00 $ a 600.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "32739fc5c267c91f",
+    "date": "2026-09-03",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 455.00 $ a 575.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "5f542e89d4bfcd19",
+    "date": "2026-09-03",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 525.00 $ a 600.00 $ (mantiene Overweight)."
   },
   {
     "id": "7a0b1ec046d31bda",
