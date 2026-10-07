@@ -18,6 +18,42 @@
     "description": "Evercore ISI Group sube la recomendacion de In-Line a Outperform. Precio objetivo: 300.00 $."
   },
   {
+    "id": "2b7c984c77bddefa",
+    "date": "2026-10-07",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "NetApp, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "ce6b175c17671b4d",
+    "date": "2026-10-07",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 55.25 $ a 58.23 $ (+5.4%)."
+  },
+  {
+    "id": "c4446260f803139c",
+    "date": "2026-10-07",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Salesforce, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 267.71 $ (+19.2% a 3 meses)."
+  },
+  {
+    "id": "54cfaa9534a33f95",
+    "date": "2026-10-07",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 528.00 $ a 635.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "bc9922fa4dfdbf6d",
     "date": "2026-10-06",
     "ticker": "IT",
