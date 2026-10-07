@@ -1,5 +1,23 @@
 [
   {
+    "id": "daddb5665b8967d7",
+    "date": "2026-10-07",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 2100.00 $ a 3000.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d5783698ea671202",
+    "date": "2026-10-07",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Evercore ISI Group sube la recomendacion de In-Line a Outperform. Precio objetivo: 300.00 $."
+  },
+  {
     "id": "bc9922fa4dfdbf6d",
     "date": "2026-10-06",
     "ticker": "IT",
