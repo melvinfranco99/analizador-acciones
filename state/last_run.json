@@ -13,19 +13,19 @@
     "upside_pct": 18.7,
     "total_score": 89.8
   },
-  "MPC": {
-    "rank": 3,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 550.1,
-    "upside_pct": 27.2,
-    "total_score": 89.1
-  },
   "MSFT": {
-    "rank": 4,
+    "rank": 3,
     "name": "Microsoft Corporation",
     "target_price": 630.76,
     "upside_pct": 19.2,
     "total_score": 88.4
+  },
+  "MPC": {
+    "rank": 4,
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 550.1,
+    "upside_pct": 27.2,
+    "total_score": 86.2
   },
   "AVGO": {
     "rank": 5,
