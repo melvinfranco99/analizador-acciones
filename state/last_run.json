@@ -1,72 +1,72 @@
 {
-  "MU": {
+  "CRM": {
     "rank": 1,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1321.57,
-    "upside_pct": 21.5,
-    "total_score": 89.9
+    "name": "Salesforce, Inc.",
+    "target_price": 273.05,
+    "upside_pct": 19.9,
+    "total_score": 89.7
   },
-  "NVDA": {
+  "IT": {
     "rank": 2,
-    "name": "NVIDIA Corporation",
-    "target_price": 283.09,
-    "upside_pct": 19.2,
-    "total_score": 89.0
+    "name": "Gartner, Inc.",
+    "target_price": 241.0,
+    "upside_pct": 23.3,
+    "total_score": 88.7
   },
   "MSFT": {
     "rank": 3,
     "name": "Microsoft Corporation",
-    "target_price": 630.65,
-    "upside_pct": 19.0,
-    "total_score": 88.4
-  },
-  "ACN": {
-    "rank": 4,
-    "name": "Accenture plc",
-    "target_price": 237.35,
-    "upside_pct": 20.7,
+    "target_price": 616.58,
+    "upside_pct": 18.0,
     "total_score": 87.6
   },
-  "MPC": {
-    "rank": 5,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 567.28,
-    "upside_pct": 28.3,
-    "total_score": 86.2
-  },
   "SMCI": {
-    "rank": 6,
+    "rank": 4,
     "name": "Super Micro Computer, Inc.",
-    "target_price": 58.23,
-    "upside_pct": 29.6,
-    "total_score": 85.8
+    "target_price": 53.69,
+    "upside_pct": 25.5,
+    "total_score": 86.8
   },
-  "AVGO": {
-    "rank": 7,
-    "name": "Broadcom Inc.",
-    "target_price": 453.91,
-    "upside_pct": 20.6,
+  "NVDA": {
+    "rank": 5,
+    "name": "NVIDIA Corporation",
+    "target_price": 279.6,
+    "upside_pct": 21.3,
+    "total_score": 85.7
+  },
+  "MU": {
+    "rank": 6,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1295.49,
+    "upside_pct": 25.1,
     "total_score": 85.1
   },
-  "CRM": {
-    "rank": 8,
-    "name": "Salesforce, Inc.",
-    "target_price": 267.71,
-    "upside_pct": 19.2,
-    "total_score": 84.2
+  "ACN": {
+    "rank": 7,
+    "name": "Accenture plc",
+    "target_price": 264.7,
+    "upside_pct": 27.0,
+    "total_score": 84.8
   },
-  "VLO": {
+  "PSX": {
+    "rank": 8,
+    "name": "Phillips 66",
+    "target_price": 352.41,
+    "upside_pct": 25.1,
+    "total_score": 84.4
+  },
+  "ADSK": {
     "rank": 9,
-    "name": "Valero Energy Corporation",
-    "target_price": 533.04,
-    "upside_pct": 25.7,
-    "total_score": 84.0
+    "name": "Autodesk, Inc.",
+    "target_price": 270.57,
+    "upside_pct": 15.8,
+    "total_score": 83.6
   },
   "ZBRA": {
     "rank": 10,
     "name": "Zebra Technologies Corporation",
-    "target_price": 466.33,
-    "upside_pct": 20.8,
-    "total_score": 82.8
+    "target_price": 459.0,
+    "upside_pct": 20.1,
+    "total_score": 82.1
   }
 }

@@ -18,6 +18,96 @@
     "description": "Mizuho sube su precio objetivo de 300.00 $ a 434.00 $ (mantiene Neutral)."
   },
   {
+    "id": "3534d4420f383a78",
+    "date": "2026-10-08",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Marathon Petroleum Corporation sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "82c048b5cb4ebf33",
+    "date": "2026-10-08",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Broadcom Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "9bd538cfbf672804",
+    "date": "2026-10-08",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "7c7ab275b0f7ec69",
+    "date": "2026-10-08",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Gartner, Inc. entra en el Top 10 (puesto #2) con precio objetivo de 241.00 $ (+23.3% a 3 meses)."
+  },
+  {
+    "id": "b59a182d81a7f002",
+    "date": "2026-10-08",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 58.23 $ a 53.69 $ (-7.8%)."
+  },
+  {
+    "id": "6a0debf5c6139126",
+    "date": "2026-10-08",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 237.35 $ a 264.70 $ (+11.5%)."
+  },
+  {
+    "id": "7e934649e499db15",
+    "date": "2026-10-08",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Phillips 66 entra en el Top 10 (puesto #8) con precio objetivo de 352.41 $ (+25.1% a 3 meses)."
+  },
+  {
+    "id": "7303456d7047a19d",
+    "date": "2026-10-08",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Autodesk, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 270.57 $ (+15.8% a 3 meses)."
+  },
+  {
+    "id": "6b4b9cce7795acc3",
+    "date": "2026-10-08",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 177.00 $ a 182.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "ccd2796d345a87ce",
+    "date": "2026-10-08",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Mizuho baja la recomendacion de Outperform a Neutral. Precio objetivo: 300.00 $."
+  },
+  {
     "id": "daddb5665b8967d7",
     "date": "2026-10-07",
     "ticker": "MU",
@@ -772,6 +862,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Susquehanna sube su precio objetivo de 140.00 $ a 153.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "f978137efe728009",
+    "date": "2026-09-28",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 338.00 $ a 300.00 $ (mantiene Overweight)."
   },
   {
     "id": "a2e2312aca4bf11c",
@@ -3789,6 +3888,15 @@
     "description": "B of A Securities sube su precio objetivo de 180.00 $ a 206.00 $ (mantiene Neutral)."
   },
   {
+    "id": "a653d103e28f9ad7",
+    "date": "2026-08-31",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 269.00 $ a 276.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "ff253778f2f3befa",
     "date": "2026-08-29",
     "ticker": "AJG",
@@ -4246,6 +4354,51 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 160.00 $ a 180.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "36f50fc8f989b52b",
+    "date": "2026-08-28",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BNP Paribas sube su precio objetivo de 295.00 $ a 300.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "737ff650e19d3707",
+    "date": "2026-08-28",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 290.00 $ a 325.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "5854556cdf85f7f9",
+    "date": "2026-08-28",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 277.00 $ a 283.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f4f0498e3242183a",
+    "date": "2026-08-28",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 262.00 $ a 283.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "6d34a31ddef8510b",
+    "date": "2026-08-28",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 369.00 $ a 338.00 $ (mantiene Overweight)."
   },
   {
     "id": "e6e3783f7f24cc6c",
@@ -4995,6 +5148,15 @@
     "description": "Barclays sube su precio objetivo de 150.00 $ a 175.00 $ (mantiene Overweight)."
   },
   {
+    "id": "3d4c2ae28550bae8",
+    "date": "2026-08-27",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-27: BPA real 3.30 $ vs estimado 3.12 $ (sorpresa +5.6%)."
+  },
+  {
     "id": "4216a50735f70d54",
     "date": "2026-08-26",
     "ticker": "MU",
@@ -5715,6 +5877,15 @@
     "description": "Keybanc sube su precio objetivo de 234.00 $ a 240.00 $ (mantiene Overweight)."
   },
   {
+    "id": "962f8cc707c10055",
+    "date": "2026-08-21",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 312.00 $ a 325.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "74cf6cc05fc3bdf4",
     "date": "2026-08-20",
     "ticker": "BKNG",
@@ -5884,6 +6055,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Truist Securities sube su precio objetivo de 400.00 $ a 475.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "07332f6bbfd95e9c",
+    "date": "2026-08-20",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 252.00 $ a 269.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "752ac21864f1116f",
+    "date": "2026-08-20",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 245.00 $ a 277.00 $ (mantiene Buy)."
   },
   {
     "id": "3b93195006e4315d",
@@ -9421,6 +9610,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "UBS baja su precio objetivo de 510.00 $ a 480.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d04008bd1f1162a7",
+    "date": "2026-07-27",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Oppenheimer baja su precio objetivo de 325.00 $ a 300.00 $ (mantiene Outperform)."
   },
   {
     "id": "ec705817c8267957",
