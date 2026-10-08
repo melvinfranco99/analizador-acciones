@@ -2,44 +2,44 @@
   "MU": {
     "rank": 1,
     "name": "Micron Technology, Inc.",
-    "target_price": 1311.78,
-    "upside_pct": 20.6,
+    "target_price": 1321.57,
+    "upside_pct": 21.5,
     "total_score": 89.9
   },
-  "MPC": {
-    "rank": 2,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 567.28,
-    "upside_pct": 28.3,
-    "total_score": 89.1
-  },
   "NVDA": {
-    "rank": 3,
+    "rank": 2,
     "name": "NVIDIA Corporation",
     "target_price": 283.09,
     "upside_pct": 19.2,
     "total_score": 89.0
   },
   "MSFT": {
-    "rank": 4,
+    "rank": 3,
     "name": "Microsoft Corporation",
     "target_price": 630.65,
     "upside_pct": 19.0,
     "total_score": 88.4
   },
   "ACN": {
-    "rank": 5,
+    "rank": 4,
     "name": "Accenture plc",
     "target_price": 237.35,
     "upside_pct": 20.7,
     "total_score": 87.6
+  },
+  "MPC": {
+    "rank": 5,
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 567.28,
+    "upside_pct": 28.3,
+    "total_score": 86.2
   },
   "SMCI": {
     "rank": 6,
     "name": "Super Micro Computer, Inc.",
     "target_price": 58.23,
     "upside_pct": 29.6,
-    "total_score": 86.3
+    "total_score": 85.8
   },
   "AVGO": {
     "rank": 7,

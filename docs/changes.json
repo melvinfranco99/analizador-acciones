@@ -1,5 +1,23 @@
 [
   {
+    "id": "5d479a547381d39e",
+    "date": "2026-10-08",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 304.00 $ a 457.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "dc4950ada2c17f06",
+    "date": "2026-10-08",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 300.00 $ a 434.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "daddb5665b8967d7",
     "date": "2026-10-07",
     "ticker": "MU",
