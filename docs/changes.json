@@ -10528,59 +10528,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 1150.00 $ a 1240.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "e8d65be4a94e1ce7",
-    "date": "2026-07-10",
-    "ticker": "WDC",
-    "name": "Western Digital Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 575.00 $ a 730.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "633dd453f086e18f",
-    "date": "2026-07-10",
-    "ticker": "FTNT",
-    "name": "Fortinet, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "BTIG sube su precio objetivo de 150.00 $ a 186.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "b6662170063e870a",
-    "date": "2026-07-10",
-    "ticker": "STX",
-    "name": "Seagate Technology Holdings plc",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "Wells Fargo sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 1100.00 $."
-  },
-  {
-    "id": "66d3ed51bcb6449d",
-    "date": "2026-07-10",
-    "ticker": "MSFT",
-    "name": "Microsoft Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Argus Research baja su precio objetivo de 620.00 $ a 510.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "f06854eb2037c75d",
-    "date": "2026-07-10",
-    "ticker": "MDB",
-    "name": "MongoDB, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Needham sube su precio objetivo de 400.00 $ a 430.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "4d44b73632d61d91",
-    "date": "2026-07-10",
-    "ticker": "IT",
-    "name": "Gartner, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Morgan Stanley baja su precio objetivo de 183.00 $ a 173.00 $ (mantiene Equal-Weight)."
   }
 ]
