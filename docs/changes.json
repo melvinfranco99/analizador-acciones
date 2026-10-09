@@ -1,5 +1,50 @@
 [
   {
+    "id": "c08fd052669f175e",
+    "date": "2026-10-09",
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Autodesk, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "87ab869f604450e4",
+    "date": "2026-10-09",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Zebra Technologies Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "f95e8f32fca569cc",
+    "date": "2026-10-09",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 241.00 $ a 224.86 $ (-6.7%)."
+  },
+  {
+    "id": "781f1be431717183",
+    "date": "2026-10-09",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Marathon Petroleum Corporation entra en el Top 10 (puesto #4) con precio objetivo de 577.18 $ (+26.8% a 3 meses)."
+  },
+  {
+    "id": "e66b288d589f81ee",
+    "date": "2026-10-09",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #10) con precio objetivo de 695.78 $ (+18.7% a 3 meses)."
+  },
+  {
     "id": "5d479a547381d39e",
     "date": "2026-10-08",
     "ticker": "MPC",
@@ -223,6 +268,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "TD Cowen sube su precio objetivo de 200.00 $ a 250.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "c9efb4d0197f0c06",
+    "date": "2026-10-06",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 600.00 $ a 650.00 $ (mantiene Outperform)."
   },
   {
     "id": "3078b12474b12218",
