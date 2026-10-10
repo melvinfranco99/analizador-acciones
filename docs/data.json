@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T22:29:06",
-  "duration_seconds": 37.6,
+  "generated_at": "2026-10-10T05:18:38",
+  "duration_seconds": 27.5,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
@@ -57,8 +57,8 @@
       "target_price": 224.86,
       "target_price_eur": 200.67,
       "upside_pct": 17.6,
-      "stop_loss": 175.5,
-      "stop_loss_eur": 156.62,
+      "stop_loss": 175.43,
+      "stop_loss_eur": 156.55,
       "stop_loss_pct": 8.2,
       "technical_score": 100.0,
       "fundamental_score": 74.8,
@@ -79,10 +79,10 @@
         "Potencial estimado a 3 meses: +17.6% (~+5.6%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "MACD en cruce alcista con impulso creciente.",
-        "Valoracion contenida (PER 17.3x).",
+        "Valoracion contenida (PER 17.7x).",
         "Consenso de 13 analistas con precio objetivo medio de 186.46."
       ],
-      "pe": 17.283,
+      "pe": 17.666359,
       "num_analysts": 13,
       "rank": 2
     },
@@ -121,7 +121,7 @@
         "Crecimiento de ingresos solido (17.7% interanual).",
         "Consenso de 53 analistas con precio objetivo medio de 587.63."
       ],
-      "pe": 29.808912,
+      "pe": 29.111536,
       "num_analysts": 53,
       "rank": 3
     },
@@ -212,8 +212,8 @@
       "target_price": 1292.07,
       "target_price_eur": 1153.04,
       "upside_pct": 25.6,
-      "stop_loss": 937.15,
-      "stop_loss_eur": 836.31,
+      "stop_loss": 937.07,
+      "stop_loss_eur": 836.24,
       "stop_loss_pct": 8.9,
       "technical_score": 74.0,
       "fundamental_score": 98.6,
@@ -234,10 +234,10 @@
         "Potencial estimado a 3 meses: +25.6% (~+7.9%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Crecimiento de ingresos solido (379.3% interanual).",
-        "Valoracion contenida (PER 13.8x).",
+        "Valoracion contenida (PER 13.9x).",
         "Consenso de 46 analistas con precio objetivo medio de 1555.13."
       ],
-      "pe": 13.84367,
+      "pe": 13.935537,
       "num_analysts": 46,
       "rank": 6
     },
@@ -312,9 +312,9 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (53.1% interanual).",
-        "Valoracion contenida (PER 15.9x)."
+        "Valoracion contenida (PER 16.1x)."
       ],
-      "pe": 15.896,
+      "pe": 16.089067,
       "num_analysts": 19,
       "rank": 8
     },
@@ -323,10 +323,10 @@
       "name": "Super Micro Computer, Inc.",
       "sector": "Technology",
       "industry": "Computer Hardware",
-      "price": 41.85,
-      "price_eur": 37.35,
-      "target_price": 52.59,
-      "target_price_eur": 46.93,
+      "price": 41.86,
+      "price_eur": 37.36,
+      "target_price": 52.6,
+      "target_price_eur": 46.94,
       "upside_pct": 25.7,
       "stop_loss": 37.15,
       "stop_loss_eur": 33.15,
