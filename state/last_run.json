@@ -27,33 +27,33 @@
     "upside_pct": 26.8,
     "total_score": 86.2
   },
-  "NVDA": {
+  "PSX": {
     "rank": 5,
+    "name": "Phillips 66",
+    "target_price": 335.25,
+    "upside_pct": 20.5,
+    "total_score": 86.0
+  },
+  "NVDA": {
+    "rank": 6,
     "name": "NVIDIA Corporation",
     "target_price": 279.0,
     "upside_pct": 21.7,
     "total_score": 85.7
   },
   "MU": {
-    "rank": 6,
+    "rank": 7,
     "name": "Micron Technology, Inc.",
     "target_price": 1292.07,
     "upside_pct": 25.6,
     "total_score": 85.1
   },
   "ACN": {
-    "rank": 7,
+    "rank": 8,
     "name": "Accenture plc",
     "target_price": 262.29,
     "upside_pct": 25.5,
     "total_score": 84.8
-  },
-  "PSX": {
-    "rank": 8,
-    "name": "Phillips 66",
-    "target_price": 335.25,
-    "upside_pct": 20.5,
-    "total_score": 84.3
   },
   "SMCI": {
     "rank": 9,
