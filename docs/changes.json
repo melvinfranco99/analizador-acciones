@@ -1,5 +1,95 @@
 [
   {
+    "id": "324391fd3df87488",
+    "date": "2026-10-12",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Micron Technology, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "f382188b3cffd301",
+    "date": "2026-10-12",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Accenture plc sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "6f5b817d3bc761bd",
+    "date": "2026-10-12",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "b6e4f6c94e0fa97c",
+    "date": "2026-10-12",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 268.15 $ a 282.87 $ (+5.5%)."
+  },
+  {
+    "id": "96ca06bdc1d8a199",
+    "date": "2026-10-12",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 224.86 $ a 238.64 $ (+6.1%)."
+  },
+  {
+    "id": "4970d236abe319b6",
+    "date": "2026-10-12",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Cognizant Technology Solutions Corporation entra en el Top 10 (puesto #4) con precio objetivo de 71.51 $ (+19.8% a 3 meses)."
+  },
+  {
+    "id": "f1f82d05cad1b510",
+    "date": "2026-10-12",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 52.60 $ a 48.37 $ (-8.0%)."
+  },
+  {
+    "id": "70a45ff633cecdee",
+    "date": "2026-10-12",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Workday, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 227.48 $ (+18.6% a 3 meses)."
+  },
+  {
+    "id": "ce523d23497426d5",
+    "date": "2026-10-12",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "EPAM Systems, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 132.58 $ (+17.0% a 3 meses)."
+  },
+  {
+    "id": "82a148dea0dccd48",
+    "date": "2026-10-12",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "B of A Securities sube la recomendacion de Underperform a Buy. Precio objetivo: 285.00 $."
+  },
+  {
     "id": "c08fd052669f175e",
     "date": "2026-10-09",
     "ticker": "ADSK",
@@ -151,6 +241,15 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Mizuho baja la recomendacion de Outperform a Neutral. Precio objetivo: 300.00 $."
+  },
+  {
+    "id": "18736466ce2315e0",
+    "date": "2026-10-08",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Jefferies baja su precio objetivo de 220.00 $ a 210.00 $ (mantiene Hold)."
   },
   {
     "id": "daddb5665b8967d7",
@@ -1537,6 +1636,15 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Guggenheim baja la recomendacion de Buy a Neutral."
+  },
+  {
+    "id": "d1bea7e6b66e8cdc",
+    "date": "2026-09-18",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Deutsche Bank sube su precio objetivo de 65.00 $ a 70.00 $ (mantiene Buy)."
   },
   {
     "id": "959dfd4736c0d3c3",
@@ -5373,6 +5481,15 @@
     "description": "TD Cowen sube su precio objetivo de 151.00 $ a 173.00 $ (mantiene Hold)."
   },
   {
+    "id": "26779981f0a6b935",
+    "date": "2026-08-26",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "JP Morgan baja la recomendacion de Overweight a Neutral. Precio objetivo: 120.00 $."
+  },
+  {
     "id": "6cf742496a1fb44a",
     "date": "2026-08-25",
     "ticker": "TMO",
@@ -7443,6 +7560,15 @@
     "description": "Guggenheim sube su precio objetivo de 343.00 $ a 388.00 $ (mantiene Neutral)."
   },
   {
+    "id": "160eba018b426030",
+    "date": "2026-08-10",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Guggenheim baja su precio objetivo de 165.00 $ a 140.00 $ (mantiene Buy)."
+  },
+  {
     "id": "5071cbf24baecbbc",
     "date": "2026-08-08",
     "ticker": "TEAM",
@@ -7821,6 +7947,42 @@
     "description": "Seaport Global baja la recomendacion de Buy a Neutral."
   },
   {
+    "id": "7935e42940b46738",
+    "date": "2026-08-07",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 131.00 $ a 120.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "cf8d1b9f7bf70dc2",
+    "date": "2026-08-07",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 142.00 $ a 120.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "b4ea11cdb1ee88db",
+    "date": "2026-08-07",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 112.00 $ a 110.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "00ab9a5e6936c408",
+    "date": "2026-08-07",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Susquehanna baja su precio objetivo de 167.00 $ a 146.00 $ (mantiene Positive)."
+  },
+  {
     "id": "d726d884ec570407",
     "date": "2026-08-06",
     "ticker": "MPC",
@@ -7972,6 +8134,33 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-06: BPA real 1.79 $ vs estimado 1.38 $ (sorpresa +29.3%)."
+  },
+  {
+    "id": "bea02b2ee8ada2b6",
+    "date": "2026-08-06",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Needham baja su precio objetivo de 135.00 $ a 120.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f626ba197db6af05",
+    "date": "2026-08-06",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "William Blair baja la recomendacion de Outperform a Market Perform."
+  },
+  {
+    "id": "34f68b44ee0a95ae",
+    "date": "2026-08-06",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-06: BPA real 3.38 $ vs estimado 3.14 $ (sorpresa +7.6%)."
   },
   {
     "id": "368f6340a80b1f3c",
@@ -8512,6 +8701,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-04: BPA real 4.37 $ vs estimado 3.73 $ (sorpresa +17.1%)."
+  },
+  {
+    "id": "0bf7207ee401fc5d",
+    "date": "2026-08-04",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 112.00 $ a 100.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "0e2fe53cb73807a6",
@@ -9234,6 +9432,51 @@
     "description": "Piper Sandler sube su precio objetivo de 540.00 $ a 550.00 $ (mantiene Overweight)."
   },
   {
+    "id": "c691b1d94dce450b",
+    "date": "2026-07-30",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 45.00 $ a 60.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "717faa675201f9ae",
+    "date": "2026-07-30",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Susquehanna baja su precio objetivo de 88.00 $ a 82.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "ec45a9f6ed969b50",
+    "date": "2026-07-30",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 44.00 $ a 51.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "743f14e57513aacd",
+    "date": "2026-07-30",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 47.00 $ a 54.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "e6ee4f8016b8e5c2",
+    "date": "2026-07-30",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 61.00 $ a 67.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "6d2aeae14ab5ccb6",
     "date": "2026-07-29",
     "ticker": "SWK",
@@ -9675,6 +9918,24 @@
     "description": "Oppenheimer baja su precio objetivo de 325.00 $ a 300.00 $ (mantiene Outperform)."
   },
   {
+    "id": "ecb2af44e3074376",
+    "date": "2026-07-27",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Guggenheim baja su precio objetivo de 80.00 $ a 65.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "587adad5d06788f6",
+    "date": "2026-07-27",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 112.00 $ a 100.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "ec705817c8267957",
     "date": "2026-07-25",
     "ticker": "TMUS",
@@ -9790,6 +10051,24 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Truist Securities sube la recomendacion de Sell a Hold. Precio objetivo: 57.00 $."
+  },
+  {
+    "id": "b20de2ec47ef5d67",
+    "date": "2026-07-24",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 74.00 $ a 55.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "020d5f604ff03c50",
+    "date": "2026-07-24",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 88.00 $ a 47.00 $ (mantiene Sector Perform)."
   },
   {
     "id": "aca4adc3ae7be16c",
