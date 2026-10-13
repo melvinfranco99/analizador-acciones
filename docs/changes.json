@@ -81,6 +81,105 @@
     "description": "Dell Technologies Inc. entra en el Top 10 (puesto #10) con precio objetivo de 695.78 $ (+18.7% a 3 meses)."
   },
   {
+    "id": "c7e708bb7e96bc8e",
+    "date": "2026-10-13",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Phillips 66 sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "12ee6868a1adf9ac",
+    "date": "2026-10-13",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Micron Technology, Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "614fa34bada8f9fd",
+    "date": "2026-10-13",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "b4173d739cbfc5db",
+    "date": "2026-10-13",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 268.15 $ a 299.66 $ (+11.8%)."
+  },
+  {
+    "id": "ae78dd7f007e9441",
+    "date": "2026-10-13",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Cognizant Technology Solutions Corporation entra en el Top 10 (puesto #3) con precio objetivo de 76.77 $ (+22.8% a 3 meses)."
+  },
+  {
+    "id": "2900d17faa730b12",
+    "date": "2026-10-13",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 224.86 $ a 247.62 $ (+10.1%)."
+  },
+  {
+    "id": "2a8f080da780b776",
+    "date": "2026-10-13",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Valero Energy Corporation entra en el Top 10 (puesto #5) con precio objetivo de 572.30 $ (+27.2% a 3 meses)."
+  },
+  {
+    "id": "5d20f8de44a30d36",
+    "date": "2026-10-13",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 52.60 $ a 48.23 $ (-8.3%)."
+  },
+  {
+    "id": "0162375d0057c633",
+    "date": "2026-10-13",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 577.18 $ a 608.95 $ (+5.5%)."
+  },
+  {
+    "id": "ce5f140d4ee24cff",
+    "date": "2026-10-13",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Atlassian Corporation entra en el Top 10 (puesto #9) con precio objetivo de 286.96 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "41dd15cb8e55829b",
+    "date": "2026-10-13",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 262.29 $ a 282.55 $ (+7.7%)."
+  },
+  {
     "id": "324391fd3df87488",
     "date": "2026-10-12",
     "ticker": "MU",
@@ -205,6 +304,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Evercore ISI Group sube su precio objetivo de 220.00 $ a 250.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "3e1058a191cc8543",
+    "date": "2026-10-12",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 325.00 $ a 385.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "6fafb156c99e2478",
+    "date": "2026-10-12",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 215.00 $ a 235.00 $ (mantiene Outperform)."
   },
   {
     "id": "c08fd052669f175e",
@@ -367,6 +484,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Jefferies baja su precio objetivo de 220.00 $ a 210.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "b77eb78d66fa4294",
+    "date": "2026-10-08",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Jefferies baja su precio objetivo de 401.00 $ a 394.00 $ (mantiene Hold)."
   },
   {
     "id": "daddb5665b8967d7",
@@ -1143,6 +1269,15 @@
     "description": "Piper Sandler baja su precio objetivo de 338.00 $ a 300.00 $ (mantiene Overweight)."
   },
   {
+    "id": "c755decbdfd48f14",
+    "date": "2026-09-28",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 200.00 $ a 245.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "a2e2312aca4bf11c",
     "date": "2026-09-25",
     "ticker": "MDB",
@@ -1609,6 +1744,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 499.00 $ a 511.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "45d3b0401946e56c",
+    "date": "2026-09-21",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 175.00 $ a 220.00 $ (mantiene Overweight)."
   },
   {
     "id": "aa7132a16fde1670",
@@ -3238,6 +3382,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Cantor Fitzgerald sube su precio objetivo de 525.00 $ a 600.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7aa802b4dd211e69",
+    "date": "2026-09-03",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 180.00 $ a 230.00 $ (mantiene Buy)."
   },
   {
     "id": "7a0b1ec046d31bda",
@@ -8202,7 +8355,7 @@
     "id": "3f5d4866c7736c42",
     "date": "2026-08-06",
     "ticker": "TEAM",
-    "name": "TEAM",
+    "name": "Atlassian Corporation",
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-06: BPA real 1.87 $ vs estimado 1.50 $ (sorpresa +24.5%)."
