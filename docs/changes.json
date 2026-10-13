@@ -1,5 +1,86 @@
 [
   {
+    "id": "f1d08bff8de59838",
+    "date": "2026-10-13",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Cognizant Technology Solutions Corporation sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "867d21e4bfff3c43",
+    "date": "2026-10-13",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Workday, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "54978e491f9e67c6",
+    "date": "2026-10-13",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "EPAM Systems, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "6625c76d1133f7ad",
+    "date": "2026-10-13",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 282.87 $ a 268.15 $ (-5.2%)."
+  },
+  {
+    "id": "ec3ba1640b15e1f8",
+    "date": "2026-10-13",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 238.64 $ a 224.86 $ (-5.8%)."
+  },
+  {
+    "id": "93947967493235f2",
+    "date": "2026-10-13",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Micron Technology, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 1292.07 $ (+25.6% a 3 meses)."
+  },
+  {
+    "id": "9308b6ccd41be926",
+    "date": "2026-10-13",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Accenture plc entra en el Top 10 (puesto #8) con precio objetivo de 262.29 $ (+25.5% a 3 meses)."
+  },
+  {
+    "id": "9bcf37a3d33dd84a",
+    "date": "2026-10-13",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 48.37 $ a 52.60 $ (+8.7%)."
+  },
+  {
+    "id": "5f72b94fed3d9487",
+    "date": "2026-10-13",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #10) con precio objetivo de 695.78 $ (+18.7% a 3 meses)."
+  },
+  {
     "id": "324391fd3df87488",
     "date": "2026-10-12",
     "ticker": "MU",
@@ -88,6 +169,42 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "B of A Securities sube la recomendacion de Underperform a Buy. Precio objetivo: 285.00 $."
+  },
+  {
+    "id": "d35882fef75344c7",
+    "date": "2026-10-12",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 321.00 $ a 488.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "95c4dcf4b080c8e6",
+    "date": "2026-10-12",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 330.00 $ a 420.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "67d955ad0ff22ac3",
+    "date": "2026-10-12",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 216.00 $ a 282.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "5f2cc950310f466a",
+    "date": "2026-10-12",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 220.00 $ a 250.00 $ (mantiene Outperform)."
   },
   {
     "id": "c08fd052669f175e",
@@ -10519,122 +10636,5 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Wells Fargo baja su precio objetivo de 650.00 $ a 625.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "7e637e9b511d5b08",
-    "date": "2026-07-14",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Keybanc sube su precio objetivo de 1600.00 $ a 1750.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "e86cab7a9c2ad4ac",
-    "date": "2026-07-14",
-    "ticker": "VLO",
-    "name": "Valero Energy Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 259.00 $ a 302.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "99b8946fc83c7a59",
-    "date": "2026-07-14",
-    "ticker": "MPC",
-    "name": "Marathon Petroleum Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 257.00 $ a 303.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "8763003373ad3530",
-    "date": "2026-07-14",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Keybanc sube su precio objetivo de 310.00 $ a 330.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "74953521fe8fd556",
-    "date": "2026-07-14",
-    "ticker": "PSX",
-    "name": "Phillips 66",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 183.00 $ a 204.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "d814971e786d2482",
-    "date": "2026-07-14",
-    "ticker": "BKNG",
-    "name": "Booking Holdings Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Jefferies sube su precio objetivo de 180.00 $ a 190.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "0b5c12c43cbf6e50",
-    "date": "2026-07-14",
-    "ticker": "INCY",
-    "name": "Incyte Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 117.00 $ a 134.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "6ab8dfc628787f09",
-    "date": "2026-07-14",
-    "ticker": "AMCR",
-    "name": "Amcor plc",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "B of A Securities sube su precio objetivo de 48.00 $ a 51.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "204c2c4685cd894f",
-    "date": "2026-07-14",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Jefferies sube su precio objetivo de 62.00 $ a 80.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "b9dbb74d5aea3a57",
-    "date": "2026-07-14",
-    "ticker": "CRM",
-    "name": "Salesforce, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Evercore ISI Group baja su precio objetivo de 260.00 $ a 250.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "e90274d6b4ecb646",
-    "date": "2026-07-14",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Jefferies sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "d4e0938d7d4b098b",
-    "date": "2026-07-14",
-    "ticker": "NEM",
-    "name": "Newmont Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Scotiabank baja su precio objetivo de 151.00 $ a 147.00 $ (mantiene Sector Outperform)."
-  },
-  {
-    "id": "81ab4813454c74cf",
-    "date": "2026-07-14",
-    "ticker": "NEM",
-    "name": "Newmont Corporation",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "TD Cowen sube la recomendacion de Hold a Buy. Precio objetivo: 127.00 $."
   }
 ]
