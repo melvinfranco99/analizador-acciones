@@ -2,71 +2,71 @@
   "CRM": {
     "rank": 1,
     "name": "Salesforce, Inc.",
-    "target_price": 299.66,
-    "upside_pct": 23.0,
+    "target_price": 288.91,
+    "upside_pct": 21.4,
     "total_score": 89.8
   },
-  "MSFT": {
+  "IT": {
     "rank": 2,
+    "name": "Gartner, Inc.",
+    "target_price": 243.49,
+    "upside_pct": 23.6,
+    "total_score": 88.7
+  },
+  "MSFT": {
+    "rank": 3,
     "name": "Microsoft Corporation",
-    "target_price": 657.87,
-    "upside_pct": 19.6,
+    "target_price": 645.68,
+    "upside_pct": 18.8,
     "total_score": 88.3
   },
   "CTSH": {
-    "rank": 3,
+    "rank": 4,
     "name": "Cognizant Technology Solutions Corporation",
-    "target_price": 76.77,
-    "upside_pct": 22.8,
+    "target_price": 74.47,
+    "upside_pct": 21.4,
     "total_score": 88.2
   },
-  "IT": {
-    "rank": 4,
-    "name": "Gartner, Inc.",
-    "target_price": 247.62,
-    "upside_pct": 24.4,
-    "total_score": 87.0
-  },
-  "VLO": {
+  "JBL": {
     "rank": 5,
-    "name": "Valero Energy Corporation",
-    "target_price": 572.3,
-    "upside_pct": 27.2,
-    "total_score": 83.9
+    "name": "Jabil Inc.",
+    "target_price": 371.43,
+    "upside_pct": 16.9,
+    "total_score": 87.1
   },
   "SMCI": {
     "rank": 6,
     "name": "Super Micro Computer, Inc.",
-    "target_price": 48.23,
-    "upside_pct": 22.9,
+    "target_price": 47.92,
+    "upside_pct": 22.6,
     "total_score": 82.1
   },
   "MPC": {
     "rank": 7,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 608.95,
-    "upside_pct": 29.1,
+    "target_price": 619.75,
+    "upside_pct": 29.9,
     "total_score": 80.7
   },
-  "NVDA": {
+  "HPE": {
     "rank": 8,
-    "name": "NVIDIA Corporation",
-    "target_price": 276.71,
-    "upside_pct": 23.1,
-    "total_score": 79.6
+    "name": "Hewlett Packard Enterprise Company",
+    "target_price": 84.49,
+    "upside_pct": 22.8,
+    "total_score": 80.6
   },
-  "TEAM": {
+  "EPAM": {
     "rank": 9,
-    "name": "Atlassian Corporation",
-    "target_price": 286.96,
-    "upside_pct": 35.0,
-    "total_score": 79.3
+    "name": "EPAM Systems, Inc.",
+    "target_price": 135.37,
+    "upside_pct": 17.2,
+    "total_score": 80.0
   },
-  "ACN": {
+  "NVDA": {
     "rank": 10,
-    "name": "Accenture plc",
-    "target_price": 282.55,
-    "upside_pct": 29.6,
-    "total_score": 79.3
+    "name": "NVIDIA Corporation",
+    "target_price": 278.62,
+    "upside_pct": 21.9,
+    "total_score": 79.6
   }
 }

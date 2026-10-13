@@ -180,6 +180,96 @@
     "description": "Precio objetivo de nuestro modelo revisado de 262.29 $ a 282.55 $ (+7.7%)."
   },
   {
+    "id": "733b7f1ed5c43382",
+    "date": "2026-10-13",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "898e5f0b3a8e461b",
+    "date": "2026-10-13",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Atlassian Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "2e1f9fcbceabe04e",
+    "date": "2026-10-13",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Accenture plc sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "98124172c61334d0",
+    "date": "2026-10-13",
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Jabil Inc. entra en el Top 10 (puesto #5) con precio objetivo de 371.43 $ (+16.9% a 3 meses)."
+  },
+  {
+    "id": "9b093f5d07ddffe4",
+    "date": "2026-10-13",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Hewlett Packard Enterprise Company entra en el Top 10 (puesto #8) con precio objetivo de 84.49 $ (+22.8% a 3 meses)."
+  },
+  {
+    "id": "642ccd92f154ac50",
+    "date": "2026-10-13",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "EPAM Systems, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 135.37 $ (+17.2% a 3 meses)."
+  },
+  {
+    "id": "9724c358f2138c21",
+    "date": "2026-10-13",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 206.00 $ a 212.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "0b71c2e2a7706bda",
+    "date": "2026-10-13",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 54.00 $ a 60.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "6b06d6fc588c01bd",
+    "date": "2026-10-13",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 512.00 $ a 600.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "5c178663f40679ed",
+    "date": "2026-10-13",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 318.00 $ a 518.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "324391fd3df87488",
     "date": "2026-10-12",
     "ticker": "MU",
@@ -1143,6 +1233,24 @@
     "description": "Resultados del 2026-10-01: BPA real 3.29 $ vs estimado 3.18 $ (sorpresa +3.4%)."
   },
   {
+    "id": "af585a2eea3c9ffb",
+    "date": "2026-10-01",
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 425.00 $ a 430.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "35a67517d7fdf964",
+    "date": "2026-10-01",
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 426.00 $ a 378.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "bb6be41fb62f9065",
     "date": "2026-09-30",
     "ticker": "IT",
@@ -1204,6 +1312,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-09-30: BPA real 33.42 $ vs estimado 31.82 $ (sorpresa +5.0%)."
+  },
+  {
+    "id": "88a525a08202e50f",
+    "date": "2026-09-30",
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-09-30: BPA real 4.40 $ vs estimado 4.08 $ (sorpresa +8.0%)."
   },
   {
     "id": "009dda56fd136c9d",
@@ -2761,6 +2878,15 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "DA Davidson baja la recomendacion de Buy a Neutral. Precio objetivo: 95.00 $."
+  },
+  {
+    "id": "ade3e85734ccc125",
+    "date": "2026-09-08",
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Goldman Sachs baja su precio objetivo de 482.00 $ a 375.00 $ (mantiene Buy)."
   },
   {
     "id": "19f98374a33472c2",
@@ -7747,6 +7873,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 455.00 $ a 545.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "43a2acd8c7411d7f",
+    "date": "2026-08-11",
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "UBS sube la recomendacion de Neutral a Buy. Precio objetivo: 430.00 $."
   },
   {
     "id": "2f725a6288c1eea1",
