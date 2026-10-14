@@ -1,5 +1,95 @@
 [
   {
+    "id": "571db89acfc9be10",
+    "date": "2026-10-14",
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Jabil Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "412625ab9aca5b8d",
+    "date": "2026-10-14",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Super Micro Computer, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "7da0b9e072ecf303",
+    "date": "2026-10-14",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Hewlett Packard Enterprise Company sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "ffb789bbe91b2713",
+    "date": "2026-10-14",
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "NVIDIA Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "4198335fa7be158f",
+    "date": "2026-10-14",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #5) con precio objetivo de 462.45 $ (+21.7% a 3 meses)."
+  },
+  {
+    "id": "7232b08d9bb90cb2",
+    "date": "2026-10-14",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "NetApp, Inc. entra en el Top 10 (puesto #6) con precio objetivo de 269.79 $ (+20.3% a 3 meses)."
+  },
+  {
+    "id": "3cb930b11ddf1f4e",
+    "date": "2026-10-14",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "ServiceNow, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 164.50 $ (+17.4% a 3 meses)."
+  },
+  {
+    "id": "9e86dac943674fb2",
+    "date": "2026-10-14",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Accenture plc entra en el Top 10 (puesto #10) con precio objetivo de 270.36 $ (+25.2% a 3 meses)."
+  },
+  {
+    "id": "b561dab5d695fe5a",
+    "date": "2026-10-14",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Barclays baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 219.00 $."
+  },
+  {
+    "id": "ae0aa9ee1c5d08e6",
+    "date": "2026-10-14",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 400.00 $ a 560.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "f1d08bff8de59838",
     "date": "2026-10-13",
     "ticker": "CTSH",
@@ -270,6 +360,42 @@
     "description": "Citigroup sube su precio objetivo de 318.00 $ a 518.00 $ (mantiene Neutral)."
   },
   {
+    "id": "e2e732defd02f215",
+    "date": "2026-10-13",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "de2ca8b6c9f68717",
+    "date": "2026-10-13",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 134.00 $ a 160.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "2e0dca3b452f2727",
+    "date": "2026-10-13",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 175.00 $ a 190.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "a05ce27bd25b2ee0",
+    "date": "2026-10-13",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 140.00 $ a 165.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "324391fd3df87488",
     "date": "2026-10-12",
     "ticker": "MU",
@@ -412,6 +538,33 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "RBC Capital sube su precio objetivo de 215.00 $ a 235.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "5827217057e1fdce",
+    "date": "2026-10-12",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 396.00 $ a 400.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "4cc6230d143d267d",
+    "date": "2026-10-12",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 410.00 $ a 416.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "52bc5821c0b065aa",
+    "date": "2026-10-12",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 130.00 $ a 176.00 $ (mantiene Outperform)."
   },
   {
     "id": "c08fd052669f175e",
@@ -639,6 +792,15 @@
     "description": "Evercore ISI Group sube su precio objetivo de 528.00 $ a 635.00 $ (mantiene Outperform)."
   },
   {
+    "id": "42cacf02bf8660b0",
+    "date": "2026-10-07",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 134.00 $ a 170.00 $ (mantiene Buy)."
+  },
+  {
     "id": "bc9922fa4dfdbf6d",
     "date": "2026-10-06",
     "ticker": "IT",
@@ -709,6 +871,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Mizuho sube su precio objetivo de 600.00 $ a 650.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "cffd8466886d296d",
+    "date": "2026-10-06",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 120.00 $ a 160.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "df7b7a0d64791eae",
+    "date": "2026-10-06",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 110.00 $ a 150.00 $ (mantiene Neutral)."
   },
   {
     "id": "3078b12474b12218",
@@ -1872,6 +2052,15 @@
     "description": "Cantor Fitzgerald sube su precio objetivo de 175.00 $ a 220.00 $ (mantiene Overweight)."
   },
   {
+    "id": "9b15233ef5abadaa",
+    "date": "2026-09-21",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 141.00 $ a 174.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "aa7132a16fde1670",
     "date": "2026-09-18",
     "ticker": "DELL",
@@ -2655,6 +2844,15 @@
     "description": "Salesforce, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 308.20 $ (+24.4% a 3 meses)."
   },
   {
+    "id": "7f5ece48c9208215",
+    "date": "2026-09-11",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 115.00 $ a 155.00 $ (mantiene Buy)."
+  },
+  {
     "id": "b6291541dbc994b1",
     "date": "2026-09-10",
     "ticker": "WDC",
@@ -2887,6 +3085,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Goldman Sachs baja su precio objetivo de 482.00 $ a 375.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "cc6dc046bbea6b5e",
+    "date": "2026-09-08",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 150.00 $ a 170.00 $ (mantiene Buy)."
   },
   {
     "id": "19f98374a33472c2",
@@ -6975,6 +7182,15 @@
     "description": "Citizens sube su precio objetivo de 366.00 $ a 519.00 $ (mantiene Market Outperform)."
   },
   {
+    "id": "0a133e585c505a27",
+    "date": "2026-08-19",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 130.00 $ a 150.00 $ (mantiene Buy)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
@@ -7819,6 +8035,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Oppenheimer sube su precio objetivo de 410.00 $ a 475.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e003b5adf3d145fa",
+    "date": "2026-08-12",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Overweight)."
   },
   {
     "id": "f499ddb7ceee3b44",
@@ -10530,6 +10755,69 @@
     "description": "Resultados del 2026-07-23: BPA real 2.10 $ vs estimado 1.99 $ (sorpresa +5.7%)."
   },
   {
+    "id": "3278b5c73df9ff20",
+    "date": "2026-07-23",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Macquarie sube su precio objetivo de 109.00 $ a 110.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "621071571f51bace",
+    "date": "2026-07-23",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 236.00 $ a 248.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "6d38fbcf266ad5e4",
+    "date": "2026-07-23",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 145.00 $ a 150.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "66a462ec3664c9d9",
+    "date": "2026-07-23",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 115.00 $ a 118.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "2cc45f4c20e72339",
+    "date": "2026-07-23",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 118.00 $ a 125.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "71b0348d362dbcca",
+    "date": "2026-07-23",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 150.00 $ a 160.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "92c0a6d635554dc9",
+    "date": "2026-07-23",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 135.00 $ a 140.00 $ (mantiene Buy)."
+  },
+  {
     "id": "88b0ba279f340b3b",
     "date": "2026-07-22",
     "ticker": "VLO",
@@ -10609,6 +10897,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Argus Research sube su precio objetivo de 200.00 $ a 230.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d68d52a4717a2f01",
+    "date": "2026-07-22",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-07-22: BPA real 0.90 $ vs estimado 0.86 $ (sorpresa +5.0%)."
   },
   {
     "id": "40cc7d14ecedd356",
@@ -10744,6 +11041,24 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Wells Fargo baja su precio objetivo de 200.00 $ a 194.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "dfdd76c54f181526",
+    "date": "2026-07-20",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "DA Davidson baja su precio objetivo de 190.00 $ a 170.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f2bceb3e8484fc22",
+    "date": "2026-07-20",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 122.00 $ a 141.00 $ (mantiene Overweight)."
   },
   {
     "id": "e2ff5ed5d007eaa6",
