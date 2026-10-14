@@ -90,6 +90,96 @@
     "description": "Wells Fargo sube su precio objetivo de 400.00 $ a 560.00 $ (mantiene Overweight)."
   },
   {
+    "id": "666be7709c79e09e",
+    "date": "2026-10-14",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Zebra Technologies Corporation sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "8b2fe0ea8c2f89c6",
+    "date": "2026-10-14",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "EPAM Systems, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "161d9c15edf7833d",
+    "date": "2026-10-14",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Accenture plc sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "4c1c0e5da4dcac6c",
+    "date": "2026-10-14",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Phillips 66 entra en el Top 10 (puesto #8) con precio objetivo de 369.31 $ (+24.2% a 3 meses)."
+  },
+  {
+    "id": "f37e074795e8f30b",
+    "date": "2026-10-14",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Atlassian Corporation entra en el Top 10 (puesto #9) con precio objetivo de 276.29 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "dee88c935bbd0653",
+    "date": "2026-10-14",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Valero Energy Corporation entra en el Top 10 (puesto #10) con precio objetivo de 583.27 $ (+26.9% a 3 meses)."
+  },
+  {
+    "id": "390ed9d9dc71f4ac",
+    "date": "2026-10-14",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 154.00 $ a 170.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "cff08e36e8a1c898",
+    "date": "2026-10-14",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 335.00 $ a 345.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "62afabc2bd1d69c4",
+    "date": "2026-10-14",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 180.00 $ a 230.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "f72f8d601742559a",
+    "date": "2026-10-14",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 389.00 $ a 485.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "f1d08bff8de59838",
     "date": "2026-10-13",
     "ticker": "CTSH",
@@ -394,6 +484,33 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Oppenheimer sube su precio objetivo de 140.00 $ a 165.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e9602e598f121bcc",
+    "date": "2026-10-13",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 217.00 $ a 297.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2f6cf6b04f83a7c6",
+    "date": "2026-10-13",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 172.00 $ a 222.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "2b792947b1f35fb7",
+    "date": "2026-10-13",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 302.00 $ a 485.00 $ (mantiene Neutral)."
   },
   {
     "id": "324391fd3df87488",
