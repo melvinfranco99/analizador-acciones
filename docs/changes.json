@@ -1,5 +1,113 @@
 [
   {
+    "id": "9940f122643503f3",
+    "date": "2026-10-15",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "NetApp, Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "ea0feb91424e1db4",
+    "date": "2026-10-15",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "ServiceNow, Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "fa6712c889a88d2a",
+    "date": "2026-10-15",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 279.46 $ a 299.39 $ (+7.1%)."
+  },
+  {
+    "id": "4d377abd56a6bf7f",
+    "date": "2026-10-15",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Workday, Inc. entra en el Top 10 (puesto #2) con precio objetivo de 233.42 $ (+18.2% a 3 meses)."
+  },
+  {
+    "id": "3b289e7f444d367c",
+    "date": "2026-10-15",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 231.99 $ a 257.16 $ (+10.8%)."
+  },
+  {
+    "id": "ec14781a736f2133",
+    "date": "2026-10-15",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 75.28 $ a 80.78 $ (+7.3%)."
+  },
+  {
+    "id": "d2113918b7522d44",
+    "date": "2026-10-15",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Accenture plc entra en el Top 10 (puesto #9) con precio objetivo de 291.75 $ (+29.2% a 3 meses)."
+  },
+  {
+    "id": "00763dfa3b2ac9c1",
+    "date": "2026-10-15",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 583.27 $ a 545.95 $ (-6.4%)."
+  },
+  {
+    "id": "cf1788108c729d88",
+    "date": "2026-10-15",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "5378a79aba6946d9",
+    "date": "2026-10-15",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 540.00 $ a 625.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "11b0fdb9424cfcb4",
+    "date": "2026-10-15",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 193.00 $ a 201.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "127c0b5f380f9a9c",
+    "date": "2026-10-15",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 210.00 $ a 230.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "571db89acfc9be10",
     "date": "2026-10-14",
     "ticker": "JBL",
@@ -178,6 +286,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 389.00 $ a 485.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "0638934636cea27e",
+    "date": "2026-10-14",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 220.00 $ a 210.00 $ (mantiene Neutral)."
   },
   {
     "id": "f1d08bff8de59838",
