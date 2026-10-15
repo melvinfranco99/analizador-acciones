@@ -108,6 +108,42 @@
     "description": "Susquehanna sube su precio objetivo de 210.00 $ a 230.00 $ (mantiene Neutral)."
   },
   {
+    "id": "3008090de5a51159",
+    "date": "2026-10-15",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 600.00 $ a 636.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3bf376e6ea563ac9",
+    "date": "2026-10-15",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 510.00 $ a 600.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "16dacc0f61a1a9e6",
+    "date": "2026-10-15",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 575.00 $ a 650.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "efec453c116465af",
+    "date": "2026-10-15",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 215.00 $ a 235.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "571db89acfc9be10",
     "date": "2026-10-14",
     "ticker": "JBL",
