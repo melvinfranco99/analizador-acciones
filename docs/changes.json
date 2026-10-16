@@ -144,6 +144,15 @@
     "description": "Mizuho sube su precio objetivo de 215.00 $ a 235.00 $ (mantiene Outperform)."
   },
   {
+    "id": "a60eb593ad036a4d",
+    "date": "2026-10-15",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 525.00 $ a 675.00 $ (mantiene Buy)."
+  },
+  {
     "id": "571db89acfc9be10",
     "date": "2026-10-14",
     "ticker": "JBL",
@@ -11329,14 +11338,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Cantor Fitzgerald sube su precio objetivo de 122.00 $ a 141.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "e2ff5ed5d007eaa6",
-    "date": "2026-07-17",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Stifel sube su precio objetivo de 220.00 $ a 230.00 $ (mantiene Buy)."
   }
 ]
