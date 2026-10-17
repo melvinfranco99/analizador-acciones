@@ -34,19 +34,19 @@
     "upside_pct": 26.0,
     "total_score": 81.5
   },
-  "NEM": {
+  "PSX": {
     "rank": 6,
+    "name": "Phillips 66",
+    "target_price": 353.49,
+    "upside_pct": 20.6,
+    "total_score": 81.1
+  },
+  "NEM": {
+    "rank": 7,
     "name": "Newmont Corporation",
     "target_price": 138.31,
     "upside_pct": 16.6,
     "total_score": 80.3
-  },
-  "PSX": {
-    "rank": 7,
-    "name": "Phillips 66",
-    "target_price": 353.49,
-    "upside_pct": 20.6,
-    "total_score": 79.4
   },
   "ACN": {
     "rank": 8,
