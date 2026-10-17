@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T03:52:11",
-  "duration_seconds": 27.2,
+  "generated_at": "2026-10-17T10:25:32",
+  "duration_seconds": 33.1,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
@@ -44,7 +44,7 @@
         "MACD en cruce alcista con impulso creciente.",
         "Consenso de 54 analistas con precio objetivo medio de 285.68."
       ],
-      "pe": 22.021957,
+      "pe": 22.204796,
       "num_analysts": 54,
       "rank": 1
     },
@@ -82,7 +82,7 @@
         "Crecimiento de ingresos solido (17.7% interanual).",
         "Consenso de 53 analistas con precio objetivo medio de 599.24."
       ],
-      "pe": 29.805634,
+      "pe": 29.473536,
       "num_analysts": 53,
       "rank": 2
     },
