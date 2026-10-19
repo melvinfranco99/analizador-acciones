@@ -1,5 +1,14 @@
 [
   {
+    "id": "c3804cca21517150",
+    "date": "2026-10-19",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 660.00 $ a 662.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "45d9cf86794a23c7",
     "date": "2026-10-16",
     "ticker": "WDAY",
