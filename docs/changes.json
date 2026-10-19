@@ -11392,59 +11392,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 172.00 $ a 227.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "a0b15227b5750253",
-    "date": "2026-07-20",
-    "ticker": "FTNT",
-    "name": "Fortinet, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 70.00 $ a 120.00 $ (mantiene Underweight)."
-  },
-  {
-    "id": "845dfc5b6b3f9549",
-    "date": "2026-07-20",
-    "ticker": "TMUS",
-    "name": "T-Mobile US, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "RBC Capital baja su precio objetivo de 240.00 $ a 230.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "e031bf5c1c9582c0",
-    "date": "2026-07-20",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Goldman Sachs baja su precio objetivo de 157.00 $ a 155.00 $ (mantiene Sell)."
-  },
-  {
-    "id": "932e2e541ea01bb4",
-    "date": "2026-07-20",
-    "ticker": "ACN",
-    "name": "Accenture plc",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Wells Fargo baja su precio objetivo de 200.00 $ a 194.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "dfdd76c54f181526",
-    "date": "2026-07-20",
-    "ticker": "NOW",
-    "name": "ServiceNow, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "DA Davidson baja su precio objetivo de 190.00 $ a 170.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "f2bceb3e8484fc22",
-    "date": "2026-07-20",
-    "ticker": "NOW",
-    "name": "ServiceNow, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Cantor Fitzgerald sube su precio objetivo de 122.00 $ a 141.00 $ (mantiene Overweight)."
   }
 ]
