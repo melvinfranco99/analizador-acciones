@@ -9,6 +9,87 @@
     "description": "Bernstein sube su precio objetivo de 660.00 $ a 662.00 $ (mantiene Outperform)."
   },
   {
+    "id": "bdad4065be6e305f",
+    "date": "2026-10-19",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Newmont Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "99abf497bb93000d",
+    "date": "2026-10-19",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Accenture plc sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "d7c19138965b4ad5",
+    "date": "2026-10-19",
+    "ticker": "GEN",
+    "name": "Gen Digital Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Gen Digital Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "a6209ef3030af480",
+    "date": "2026-10-19",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Workday, Inc. entra en el Top 10 (puesto #3) con precio objetivo de 232.55 $ (+19.1% a 3 meses)."
+  },
+  {
+    "id": "c47e8373c71bd929",
+    "date": "2026-10-19",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Atlassian Corporation entra en el Top 10 (puesto #4) con precio objetivo de 289.91 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "c759cfcf883c7eb0",
+    "date": "2026-10-19",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "ServiceNow, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 176.20 $ (+21.2% a 3 meses)."
+  },
+  {
+    "id": "729136236deee529",
+    "date": "2026-10-19",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 165.00 $ a 280.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "dffcd246fefdb645",
+    "date": "2026-10-19",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 185.00 $ a 235.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "5d77d9091dfc3ba1",
+    "date": "2026-10-19",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "StoneX sube su precio objetivo de 130.00 $ a 165.00 $ (mantiene Buy)."
+  },
+  {
     "id": "45d9cf86794a23c7",
     "date": "2026-10-16",
     "ticker": "WDAY",
@@ -61,6 +142,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "StoneX sube su precio objetivo de 525.00 $ a 600.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "594e64128c26b43e",
+    "date": "2026-10-16",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Keybanc baja la recomendacion de Overweight a Sector Perform."
+  },
+  {
+    "id": "44f79f0ac7723a03",
+    "date": "2026-10-16",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 140.00 $ a 175.00 $ (mantiene Overweight)."
   },
   {
     "id": "9940f122643503f3",
@@ -214,6 +313,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 525.00 $ a 675.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "80f627eb88a06d70",
+    "date": "2026-10-15",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 140.00 $ a 170.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "6b24b69064d8b1cc",
+    "date": "2026-10-15",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 140.00 $ a 165.00 $ (mantiene Buy)."
   },
   {
     "id": "571db89acfc9be10",
