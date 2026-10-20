@@ -99,6 +99,60 @@
     "description": "Wells Fargo sube su precio objetivo de 150.00 $ a 175.00 $ (mantiene Underweight)."
   },
   {
+    "id": "39e52a1ee40bdf76",
+    "date": "2026-10-20",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "IQVIA Holdings Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "fcb5a4a4d3d94397",
+    "date": "2026-10-20",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Marvell Technology, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "be5a7e18d126a417",
+    "date": "2026-10-20",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #9) con precio objetivo de 472.76 $ (+23.1% a 3 meses)."
+  },
+  {
+    "id": "54785c476b1115fe",
+    "date": "2026-10-20",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Atlassian Corporation entra en el Top 10 (puesto #10) con precio objetivo de 298.50 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "aab1b3c5f4382ff0",
+    "date": "2026-10-20",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 515.00 $ a 600.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "521bbdb512d40a19",
+    "date": "2026-10-20",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 225.00 $ a 245.00 $ (mantiene Buy)."
+  },
+  {
     "id": "c3804cca21517150",
     "date": "2026-10-19",
     "ticker": "MSFT",
