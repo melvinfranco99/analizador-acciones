@@ -9,6 +9,96 @@
     "description": "BTIG sube su precio objetivo de 230.00 $ a 260.00 $ (mantiene Buy)."
   },
   {
+    "id": "29988a19a5a5df77",
+    "date": "2026-10-20",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Atlassian Corporation sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "24a40b467eef7755",
+    "date": "2026-10-20",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "ca1bc851a1d042f8",
+    "date": "2026-10-20",
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "ServiceNow, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "8942ed0d25809986",
+    "date": "2026-10-20",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 232.55 $ a 255.52 $ (+9.9%)."
+  },
+  {
+    "id": "180fc4e73c7faa62",
+    "date": "2026-10-20",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "IQVIA Holdings Inc. entra en el Top 10 (puesto #3) con precio objetivo de 317.13 $ (+17.8% a 3 meses)."
+  },
+  {
+    "id": "43c181a9b49935cb",
+    "date": "2026-10-20",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Marvell Technology, Inc. entra en el Top 10 (puesto #4) con precio objetivo de 292.04 $ (+20.5% a 3 meses)."
+  },
+  {
+    "id": "a8e54732330c9e75",
+    "date": "2026-10-20",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 263.94 $ a 286.08 $ (+8.4%)."
+  },
+  {
+    "id": "b584277b04618ddf",
+    "date": "2026-10-20",
+    "ticker": "GEN",
+    "name": "Gen Digital Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Gen Digital Inc. entra en el Top 10 (puesto #8) con precio objetivo de 28.22 $ (+17.1% a 3 meses)."
+  },
+  {
+    "id": "e587f1ff3abb037d",
+    "date": "2026-10-20",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 205.00 $ a 235.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "41aeb490f07af8bb",
+    "date": "2026-10-20",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 150.00 $ a 175.00 $ (mantiene Underweight)."
+  },
+  {
     "id": "c3804cca21517150",
     "date": "2026-10-19",
     "ticker": "MSFT",
@@ -529,6 +619,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "UBS baja su precio objetivo de 220.00 $ a 210.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "84c68e35fe2da35d",
+    "date": "2026-10-14",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 276.00 $ a 303.00 $ (mantiene Buy)."
   },
   {
     "id": "f1d08bff8de59838",
@@ -1278,6 +1377,159 @@
     "description": "Argus Research sube su precio objetivo de 134.00 $ a 170.00 $ (mantiene Buy)."
   },
   {
+    "id": "a82563d9d126764a",
+    "date": "2026-10-07",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 275.00 $ a 300.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "0f32f2a1e905f839",
+    "date": "2026-10-07",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 275.00 $ a 300.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "6f69e92f07d9d4b4",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 335.00 $ a 350.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "036f938cfc534b82",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 325.00 $ a 450.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e4bdb21c24749658",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 305.00 $ a 360.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "5c4027987c2e21a7",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 310.00 $ a 365.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1696467d26923109",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wolfe Research sube su precio objetivo de 280.00 $ a 375.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "d9f8f5a54c94feb2",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 268.00 $ a 300.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "61db50301289596a",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 360.00 $ a 425.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "85bef6cf356ecc3e",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 270.00 $ a 400.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "91233a0fb75d4ba0",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "TD Cowen sube la recomendacion de Hold a Buy. Precio objetivo: 350.00 $."
+  },
+  {
+    "id": "97ca4d000603088a",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "StoneX sube su precio objetivo de 275.00 $ a 375.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "96d0c6c056b93836",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 350.00 $ a 370.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "2b7dc0835e0ebd5e",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 275.00 $ a 433.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "1f758d489a175ff5",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 265.00 $ a 340.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "a1d18eddb01265a4",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 330.00 $ a 350.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "c151abd63504ca05",
+    "date": "2026-10-07",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 300.00 $ a 400.00 $ (mantiene Buy)."
+  },
+  {
     "id": "bc9922fa4dfdbf6d",
     "date": "2026-10-06",
     "ticker": "IT",
@@ -2016,6 +2268,15 @@
     "description": "TD Cowen sube su precio objetivo de 500.00 $ a 550.00 $ (mantiene Hold)."
   },
   {
+    "id": "5d6b00035f3091e5",
+    "date": "2026-09-29",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 247.00 $ a 319.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "4774e295bf9ba3c6",
     "date": "2026-09-28",
     "ticker": "MU",
@@ -2050,6 +2311,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Baird sube su precio objetivo de 200.00 $ a 245.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "92e175534fa9680c",
+    "date": "2026-09-28",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 300.00 $ a 329.00 $ (mantiene Buy)."
   },
   {
     "id": "a2e2312aca4bf11c",
@@ -2547,6 +2817,15 @@
     "description": "Cantor Fitzgerald sube su precio objetivo de 141.00 $ a 174.00 $ (mantiene Overweight)."
   },
   {
+    "id": "38c8f0128af3a141",
+    "date": "2026-09-21",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 246.00 $ a 268.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "aa7132a16fde1670",
     "date": "2026-09-18",
     "ticker": "DELL",
@@ -2851,6 +3130,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Bernstein sube su precio objetivo de 119.00 $ a 132.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "24b10f96a2219287",
+    "date": "2026-09-17",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 240.00 $ a 270.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "281e465efda2bae2",
@@ -5661,6 +5949,60 @@
     "description": "Piper Sandler baja su precio objetivo de 369.00 $ a 338.00 $ (mantiene Overweight)."
   },
   {
+    "id": "e023a17428b4768e",
+    "date": "2026-08-28",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Craig-Hallum sube su precio objetivo de 217.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "80f95a1f633f702c",
+    "date": "2026-08-28",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B. Riley Securities baja su precio objetivo de 345.00 $ a 315.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b2484a3daf09fd3f",
+    "date": "2026-08-28",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 225.00 $ a 245.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "eb4ca562b14ddf9b",
+    "date": "2026-08-28",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 300.00 $ a 325.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "43a14b7b9f8d34c2",
+    "date": "2026-08-28",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 224.00 $ a 246.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "bb0850484c07abd5",
+    "date": "2026-08-28",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 270.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
     "id": "e6e3783f7f24cc6c",
     "date": "2026-08-27",
     "ticker": "ROP",
@@ -6777,6 +7119,24 @@
     "description": "Wolfe Research sube su precio objetivo de 165.00 $ a 215.00 $ (mantiene Outperform)."
   },
   {
+    "id": "6def102a789966e9",
+    "date": "2026-08-25",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 230.00 $ a 265.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "8be49dc3a24f1850",
+    "date": "2026-08-25",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 240.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
     "id": "af4ab1995538e12c",
     "date": "2026-08-24",
     "ticker": "PAYX",
@@ -6955,6 +7315,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 135.00 $ a 190.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "5eb0af339af56edc",
+    "date": "2026-08-24",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 195.00 $ a 224.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "794dfbf1ce9f1935",
+    "date": "2026-08-24",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 240.00 $ a 310.00 $ (mantiene Overweight)."
   },
   {
     "id": "cef957e3c4f90e0f",
@@ -7155,6 +7533,24 @@
     "description": "Baird sube su precio objetivo de 312.00 $ a 325.00 $ (mantiene Outperform)."
   },
   {
+    "id": "f2a1075941080413",
+    "date": "2026-08-21",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 225.00 $ a 275.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b1e97e3cfee35b21",
+    "date": "2026-08-21",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "74cf6cc05fc3bdf4",
     "date": "2026-08-20",
     "ticker": "BKNG",
@@ -7342,6 +7738,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Guggenheim sube su precio objetivo de 245.00 $ a 277.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "18131dbc1f05c56d",
+    "date": "2026-08-20",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 300.00 $ a 310.00 $ (mantiene Buy)."
   },
   {
     "id": "3b93195006e4315d",
@@ -7911,6 +8316,15 @@
     "description": "BMO Capital baja su precio objetivo de 214.00 $ a 206.00 $ (mantiene Market Perform)."
   },
   {
+    "id": "5e56e7e80f77e5d3",
+    "date": "2026-08-18",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 200.00 $ a 225.00 $ (mantiene Hold)."
+  },
+  {
     "id": "c9c6e3f7bb563cfc",
     "date": "2026-08-17",
     "ticker": "SWK",
@@ -8107,6 +8521,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 181.25 $ a 230.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "0745600c74dac4c3",
+    "date": "2026-08-17",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 340.00 $ a 300.00 $ (mantiene Buy)."
   },
   {
     "id": "1a0219f05df38afb",
