@@ -1,5 +1,14 @@
 [
   {
+    "id": "becd22de87f9aba3",
+    "date": "2026-10-20",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 230.00 $ a 260.00 $ (mantiene Buy)."
+  },
+  {
     "id": "c3804cca21517150",
     "date": "2026-10-19",
     "ticker": "MSFT",
