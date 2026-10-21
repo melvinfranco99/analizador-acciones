@@ -20,47 +20,47 @@
     "upside_pct": 25.4,
     "total_score": 83.2
   },
-  "ZBRA": {
-    "rank": 4,
-    "name": "Zebra Technologies Corporation",
-    "target_price": 472.76,
-    "upside_pct": 23.1,
-    "total_score": 83.0
-  },
   "IT": {
-    "rank": 5,
+    "rank": 4,
     "name": "Gartner, Inc.",
     "target_price": 292.42,
     "upside_pct": 33.1,
     "total_score": 82.8
   },
   "CTSH": {
-    "rank": 6,
+    "rank": 5,
     "name": "Cognizant Technology Solutions Corporation",
     "target_price": 88.23,
     "upside_pct": 29.4,
     "total_score": 82.7
   },
   "GEN": {
-    "rank": 7,
+    "rank": 6,
     "name": "Gen Digital Inc.",
     "target_price": 28.21,
     "upside_pct": 17.1,
     "total_score": 81.5
   },
   "MSFT": {
-    "rank": 8,
+    "rank": 7,
     "name": "Microsoft Corporation",
     "target_price": 628.98,
     "upside_pct": 18.3,
     "total_score": 81.4
   },
   "PSX": {
-    "rank": 9,
+    "rank": 8,
     "name": "Phillips 66",
     "target_price": 346.9,
     "upside_pct": 19.2,
     "total_score": 81.1
+  },
+  "ZBRA": {
+    "rank": 9,
+    "name": "Zebra Technologies Corporation",
+    "target_price": 472.76,
+    "upside_pct": 23.1,
+    "total_score": 80.7
   },
   "TEAM": {
     "rank": 10,
