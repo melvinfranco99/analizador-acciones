@@ -2,71 +2,71 @@
   "CRM": {
     "rank": 1,
     "name": "Salesforce, Inc.",
-    "target_price": 308.26,
-    "upside_pct": 27.3,
+    "target_price": 307.47,
+    "upside_pct": 27.2,
     "total_score": 91.2
   },
-  "MPC": {
-    "rank": 2,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 578.75,
-    "upside_pct": 24.6,
-    "total_score": 87.2
-  },
-  "PSX": {
-    "rank": 3,
-    "name": "Phillips 66",
-    "target_price": 345.03,
-    "upside_pct": 19.9,
-    "total_score": 85.2
-  },
   "WDAY": {
-    "rank": 4,
+    "rank": 2,
     "name": "Workday, Inc.",
-    "target_price": 263.05,
-    "upside_pct": 29.5,
+    "target_price": 262.55,
+    "upside_pct": 29.4,
     "total_score": 84.8
   },
   "IQV": {
-    "rank": 5,
+    "rank": 3,
     "name": "IQVIA Holdings Inc.",
-    "target_price": 318.38,
-    "upside_pct": 16.1,
+    "target_price": 322.87,
+    "upside_pct": 16.7,
     "total_score": 83.9
   },
   "MRVL": {
-    "rank": 6,
+    "rank": 4,
     "name": "Marvell Technology, Inc.",
-    "target_price": 293.23,
+    "target_price": 293.2,
     "upside_pct": 19.8,
     "total_score": 83.7
   },
   "NTAP": {
-    "rank": 7,
+    "rank": 5,
     "name": "NetApp, Inc.",
-    "target_price": 250.45,
-    "upside_pct": 15.8,
+    "target_price": 252.21,
+    "upside_pct": 16.1,
     "total_score": 83.3
+  },
+  "MPC": {
+    "rank": 6,
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 585.62,
+    "upside_pct": 25.1,
+    "total_score": 83.2
+  },
+  "CTSH": {
+    "rank": 7,
+    "name": "Cognizant Technology Solutions Corporation",
+    "target_price": 91.34,
+    "upside_pct": 31.3,
+    "total_score": 82.7
   },
   "IT": {
     "rank": 8,
     "name": "Gartner, Inc.",
-    "target_price": 288.3,
-    "upside_pct": 31.8,
-    "total_score": 82.8
-  },
-  "CTSH": {
-    "rank": 9,
-    "name": "Cognizant Technology Solutions Corporation",
-    "target_price": 90.47,
-    "upside_pct": 30.8,
+    "target_price": 290.09,
+    "upside_pct": 32.1,
     "total_score": 82.7
   },
-  "GEN": {
+  "MSFT": {
+    "rank": 9,
+    "name": "Microsoft Corporation",
+    "target_price": 639.36,
+    "upside_pct": 20.0,
+    "total_score": 81.4
+  },
+  "PSX": {
     "rank": 10,
-    "name": "Gen Digital Inc.",
-    "target_price": 28.3,
-    "upside_pct": 16.6,
-    "total_score": 81.5
+    "name": "Phillips 66",
+    "target_price": 349.37,
+    "upside_pct": 20.4,
+    "total_score": 81.1
   }
 }
