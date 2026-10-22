@@ -1,5 +1,104 @@
 [
   {
+    "id": "566f550aca56ff64",
+    "date": "2026-10-22",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Marvell Technology, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "234df76f3c9fa86d",
+    "date": "2026-10-22",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "NetApp, Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "d4d51da4500a3d28",
+    "date": "2026-10-22",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Cognizant Technology Solutions Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "7fbc5bff7503fa89",
+    "date": "2026-10-22",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Ulta Beauty, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 736.22 $ (+16.5% a 3 meses)."
+  },
+  {
+    "id": "bb5840f8bc6fa68a",
+    "date": "2026-10-22",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 349.37 $ a 331.01 $ (-5.3%)."
+  },
+  {
+    "id": "27b53b9d783fa647",
+    "date": "2026-10-22",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Valero Energy Corporation entra en el Top 10 (puesto #9) con precio objetivo de 503.34 $ (+19.7% a 3 meses)."
+  },
+  {
+    "id": "7663fc26f6c2d78f",
+    "date": "2026-10-22",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Accenture plc entra en el Top 10 (puesto #10) con precio objetivo de 339.08 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "59ba9c717d685adb",
+    "date": "2026-10-22",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 450.00 $ a 478.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "52ca4cc4d3ed8e62",
+    "date": "2026-10-22",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 295.00 $ a 308.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "7ef8c6adcde15129",
+    "date": "2026-10-22",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 375.00 $ a 400.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "a207839dca8294b4",
+    "date": "2026-10-22",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-22: BPA real 23.90 $ vs estimado 21.23 $ (sorpresa +12.6%)."
+  },
+  {
     "id": "7af8908e19e59d9d",
     "date": "2026-10-21",
     "ticker": "MSFT",
@@ -79,6 +178,15 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Microsoft Corporation entra en el Top 10 (puesto #9) con precio objetivo de 639.36 $ (+20.0% a 3 meses)."
+  },
+  {
+    "id": "9f2dc7090bf5a103",
+    "date": "2026-10-21",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Baird baja la recomendacion de Outperform a Neutral. Precio objetivo: 252.00 $."
   },
   {
     "id": "becd22de87f9aba3",
@@ -3393,6 +3501,15 @@
     "description": "Precio objetivo de nuestro modelo revisado de 476.04 $ a 514.79 $ (+8.1%)."
   },
   {
+    "id": "1c94c4d23266d2e9",
+    "date": "2026-09-15",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Wells Fargo sube la recomendacion de Underweight a Equal-Weight. Precio objetivo: 525.00 $."
+  },
+  {
     "id": "e893d3fc62601c5f",
     "date": "2026-09-14",
     "ticker": "HPE",
@@ -6138,6 +6255,60 @@
     "description": "Needham sube su precio objetivo de 270.00 $ a 300.00 $ (mantiene Buy)."
   },
   {
+    "id": "83ec30932deeec55",
+    "date": "2026-08-28",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 735.00 $ a 710.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "fe6ad5780826b9bc",
+    "date": "2026-08-28",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 560.00 $ a 580.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "54edf50215c33f0d",
+    "date": "2026-08-28",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 647.00 $ a 645.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "338a6fbcd63d4063",
+    "date": "2026-08-28",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 585.00 $ a 625.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "24923a6c6340efb5",
+    "date": "2026-08-28",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 648.00 $ a 667.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "9d6a2aefb0fff050",
+    "date": "2026-08-28",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B of A Securities baja su precio objetivo de 685.00 $ a 650.00 $ (mantiene Buy)."
+  },
+  {
     "id": "e6e3783f7f24cc6c",
     "date": "2026-08-27",
     "ticker": "ROP",
@@ -6894,6 +7065,15 @@
     "description": "Resultados del 2026-08-27: BPA real 3.30 $ vs estimado 3.12 $ (sorpresa +5.6%)."
   },
   {
+    "id": "6acac167a21e87f9",
+    "date": "2026-08-27",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-27: BPA real 6.55 $ vs estimado 6.20 $ (sorpresa +5.6%)."
+  },
+  {
     "id": "4216a50735f70d54",
     "date": "2026-08-26",
     "ticker": "MU",
@@ -7270,6 +7450,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Rosenblatt sube su precio objetivo de 240.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3191f98f55c60255",
+    "date": "2026-08-25",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Deutsche Bank sube su precio objetivo de 692.00 $ a 695.00 $ (mantiene Buy)."
   },
   {
     "id": "af4ab1995538e12c",

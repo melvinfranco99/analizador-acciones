@@ -2,71 +2,71 @@
   "CRM": {
     "rank": 1,
     "name": "Salesforce, Inc.",
-    "target_price": 307.47,
-    "upside_pct": 27.2,
-    "total_score": 91.2
-  },
-  "WDAY": {
-    "rank": 2,
-    "name": "Workday, Inc.",
-    "target_price": 262.55,
-    "upside_pct": 29.4,
-    "total_score": 84.8
+    "target_price": 315.27,
+    "upside_pct": 26.4,
+    "total_score": 94.6
   },
   "IQV": {
-    "rank": 3,
+    "rank": 2,
     "name": "IQVIA Holdings Inc.",
-    "target_price": 322.87,
-    "upside_pct": 16.7,
-    "total_score": 83.9
-  },
-  "MRVL": {
-    "rank": 4,
-    "name": "Marvell Technology, Inc.",
-    "target_price": 293.2,
-    "upside_pct": 19.8,
-    "total_score": 83.7
-  },
-  "NTAP": {
-    "rank": 5,
-    "name": "NetApp, Inc.",
-    "target_price": 252.21,
-    "upside_pct": 16.1,
-    "total_score": 83.3
-  },
-  "MPC": {
-    "rank": 6,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 585.62,
-    "upside_pct": 25.1,
-    "total_score": 83.2
-  },
-  "CTSH": {
-    "rank": 7,
-    "name": "Cognizant Technology Solutions Corporation",
-    "target_price": 91.34,
-    "upside_pct": 31.3,
-    "total_score": 82.7
+    "target_price": 321.27,
+    "upside_pct": 16.4,
+    "total_score": 84.1
   },
   "IT": {
-    "rank": 8,
+    "rank": 3,
     "name": "Gartner, Inc.",
-    "target_price": 290.09,
-    "upside_pct": 32.1,
+    "target_price": 300.88,
+    "upside_pct": 31.5,
     "total_score": 82.7
   },
   "MSFT": {
-    "rank": 9,
+    "rank": 4,
     "name": "Microsoft Corporation",
-    "target_price": 639.36,
-    "upside_pct": 20.0,
+    "target_price": 623.74,
+    "upside_pct": 18.9,
     "total_score": 81.4
   },
-  "PSX": {
-    "rank": 10,
-    "name": "Phillips 66",
-    "target_price": 349.37,
-    "upside_pct": 20.4,
+  "MPC": {
+    "rank": 5,
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 562.96,
+    "upside_pct": 23.8,
     "total_score": 81.1
+  },
+  "WDAY": {
+    "rank": 6,
+    "name": "Workday, Inc.",
+    "target_price": 263.94,
+    "upside_pct": 26.9,
+    "total_score": 80.7
+  },
+  "ULTA": {
+    "rank": 7,
+    "name": "Ulta Beauty, Inc.",
+    "target_price": 736.22,
+    "upside_pct": 16.5,
+    "total_score": 79.6
+  },
+  "PSX": {
+    "rank": 8,
+    "name": "Phillips 66",
+    "target_price": 331.01,
+    "upside_pct": 18.1,
+    "total_score": 79.0
+  },
+  "VLO": {
+    "rank": 9,
+    "name": "Valero Energy Corporation",
+    "target_price": 503.34,
+    "upside_pct": 19.7,
+    "total_score": 78.7
+  },
+  "ACN": {
+    "rank": 10,
+    "name": "Accenture plc",
+    "target_price": 339.08,
+    "upside_pct": 35.0,
+    "total_score": 78.6
   }
 }
