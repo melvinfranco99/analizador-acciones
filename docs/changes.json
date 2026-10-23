@@ -99,6 +99,42 @@
     "description": "Barclays sube su precio objetivo de 441.00 $ a 443.00 $ (mantiene Overweight)."
   },
   {
+    "id": "8228aa285e5157cf",
+    "date": "2026-10-23",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "ConocoPhillips sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "463cbe344308d507",
+    "date": "2026-10-23",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Atlassian Corporation entra en el Top 10 (puesto #7) con precio objetivo de 307.27 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "88849d46b7bdc9fb",
+    "date": "2026-10-23",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Freedom Broker baja la recomendacion de Hold a Sell. Precio objetivo: 276.00 $."
+  },
+  {
+    "id": "97d34e3371b41d4a",
+    "date": "2026-10-23",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 485.00 $ a 490.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "566f550aca56ff64",
     "date": "2026-10-22",
     "ticker": "MRVL",
@@ -234,6 +270,15 @@
     "description": "Amazon.com, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 291.05 $ (+16.2% a 3 meses)."
   },
   {
+    "id": "8ba4db0f900491ab",
+    "date": "2026-10-22",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 200.00 $ a 275.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "7af8908e19e59d9d",
     "date": "2026-10-21",
     "ticker": "MSFT",
@@ -322,6 +367,15 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Baird baja la recomendacion de Outperform a Neutral. Precio objetivo: 252.00 $."
+  },
+  {
+    "id": "ff04c71d011e589c",
+    "date": "2026-10-21",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 185.00 $ a 250.00 $ (mantiene Buy)."
   },
   {
     "id": "becd22de87f9aba3",

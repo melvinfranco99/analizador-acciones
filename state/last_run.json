@@ -2,71 +2,71 @@
   "CRM": {
     "rank": 1,
     "name": "Salesforce, Inc.",
-    "target_price": 299.08,
-    "upside_pct": 21.2,
-    "total_score": 91.2
+    "target_price": 302.56,
+    "upside_pct": 21.7,
+    "total_score": 96.0
   },
   "IT": {
     "rank": 2,
     "name": "Gartner, Inc.",
-    "target_price": 296.4,
-    "upside_pct": 28.3,
+    "target_price": 294.96,
+    "upside_pct": 28.1,
     "total_score": 82.7
   },
   "MSFT": {
     "rank": 3,
     "name": "Microsoft Corporation",
-    "target_price": 617.57,
-    "upside_pct": 17.6,
+    "target_price": 616.44,
+    "upside_pct": 17.5,
     "total_score": 81.4
   },
-  "COP": {
-    "rank": 4,
-    "name": "ConocoPhillips",
-    "target_price": 176.4,
-    "upside_pct": 16.1,
-    "total_score": 81.2
-  },
   "MPC": {
-    "rank": 5,
+    "rank": 4,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 572.04,
-    "upside_pct": 24.0,
+    "target_price": 564.17,
+    "upside_pct": 23.4,
     "total_score": 81.1
   },
   "WDAY": {
-    "rank": 6,
+    "rank": 5,
     "name": "Workday, Inc.",
-    "target_price": 253.86,
-    "upside_pct": 21.1,
+    "target_price": 254.43,
+    "upside_pct": 21.2,
     "total_score": 80.7
   },
   "ZBRA": {
-    "rank": 7,
+    "rank": 6,
     "name": "Zebra Technologies Corporation",
-    "target_price": 474.51,
-    "upside_pct": 22.9,
+    "target_price": 475.44,
+    "upside_pct": 23.0,
     "total_score": 80.7
+  },
+  "TEAM": {
+    "rank": 7,
+    "name": "Atlassian Corporation",
+    "target_price": 307.27,
+    "upside_pct": 35.0,
+    "total_score": 79.3
   },
   "ACN": {
     "rank": 8,
     "name": "Accenture plc",
-    "target_price": 323.94,
-    "upside_pct": 30.9,
+    "target_price": 328.13,
+    "upside_pct": 31.6,
     "total_score": 79.3
   },
   "VLO": {
     "rank": 9,
     "name": "Valero Energy Corporation",
-    "target_price": 514.21,
-    "upside_pct": 20.3,
+    "target_price": 499.01,
+    "upside_pct": 19.0,
     "total_score": 79.2
   },
   "PSX": {
     "rank": 10,
     "name": "Phillips 66",
-    "target_price": 340.64,
-    "upside_pct": 19.1,
+    "target_price": 335.55,
+    "upside_pct": 18.5,
     "total_score": 79.0
   }
 }
