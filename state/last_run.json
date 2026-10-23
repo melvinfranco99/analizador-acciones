@@ -41,19 +41,19 @@
     "upside_pct": 27.6,
     "total_score": 80.7
   },
-  "PSX": {
+  "VLO": {
     "rank": 7,
+    "name": "Valero Energy Corporation",
+    "target_price": 514.66,
+    "upside_pct": 20.7,
+    "total_score": 79.2
+  },
+  "PSX": {
+    "rank": 8,
     "name": "Phillips 66",
     "target_price": 339.26,
     "upside_pct": 19.2,
     "total_score": 79.0
-  },
-  "VLO": {
-    "rank": 8,
-    "name": "Valero Energy Corporation",
-    "target_price": 514.66,
-    "upside_pct": 20.7,
-    "total_score": 78.7
   },
   "ACN": {
     "rank": 9,
