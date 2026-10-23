@@ -1,5 +1,104 @@
 [
   {
+    "id": "1674c2c7788a1e78",
+    "date": "2026-10-23",
+    "ticker": "IQV",
+    "name": "IQVIA Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "IQVIA Holdings Inc. sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "35a82b357eb49a20",
+    "date": "2026-10-23",
+    "ticker": "HPQ",
+    "name": "HP Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "HP Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "360d766e8921dc9e",
+    "date": "2026-10-23",
+    "ticker": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amazon.com, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "04578634863e6a66",
+    "date": "2026-10-23",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 316.87 $ a 299.08 $ (-5.6%)."
+  },
+  {
+    "id": "2287ac6a474cf87d",
+    "date": "2026-10-23",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Gartner, Inc. entra en el Top 10 (puesto #2) con precio objetivo de 296.40 $ (+28.3% a 3 meses)."
+  },
+  {
+    "id": "fac2f2464b0e40b9",
+    "date": "2026-10-23",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "ConocoPhillips entra en el Top 10 (puesto #4) con precio objetivo de 176.40 $ (+16.1% a 3 meses)."
+  },
+  {
+    "id": "171af0b9320c6062",
+    "date": "2026-10-23",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 267.90 $ a 253.86 $ (-5.2%)."
+  },
+  {
+    "id": "8b9d730eb8efebdd",
+    "date": "2026-10-23",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #7) con precio objetivo de 474.51 $ (+22.9% a 3 meses)."
+  },
+  {
+    "id": "d7086ab78a38ad9b",
+    "date": "2026-10-23",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 349.30 $ a 323.94 $ (-7.3%)."
+  },
+  {
+    "id": "6fcbf9cdcf821f2b",
+    "date": "2026-10-23",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 485.00 $ a 489.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "fe09b3329cd0163d",
+    "date": "2026-10-23",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 441.00 $ a 443.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "566f550aca56ff64",
     "date": "2026-10-22",
     "ticker": "MRVL",
@@ -378,6 +477,15 @@
     "description": "Citigroup sube su precio objetivo de 225.00 $ a 245.00 $ (mantiene Buy)."
   },
   {
+    "id": "594a0eff89ae5237",
+    "date": "2026-10-20",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 161.00 $ a 175.00 $ (mantiene Positive)."
+  },
+  {
     "id": "c3804cca21517150",
     "date": "2026-10-19",
     "ticker": "MSFT",
@@ -718,6 +826,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "TD Cowen sube su precio objetivo de 140.00 $ a 165.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "4847264ee0aa4781",
+    "date": "2026-10-15",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 151.00 $ a 159.00 $ (mantiene Overweight)."
   },
   {
     "id": "571db89acfc9be10",
@@ -1834,6 +1951,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Needham sube su precio objetivo de 300.00 $ a 400.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "48d1396714191ef7",
+    "date": "2026-10-07",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 159.00 $ a 174.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "c15f718659cdef07",
+    "date": "2026-10-07",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 130.00 $ a 136.00 $ (mantiene Hold)."
   },
   {
     "id": "bc9922fa4dfdbf6d",
@@ -3787,6 +3922,15 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Wells Fargo baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 194.00 $."
+  },
+  {
+    "id": "05e745403213f275",
+    "date": "2026-09-14",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 153.00 $ a 169.00 $ (mantiene Buy)."
   },
   {
     "id": "14b2d913a1596ab2",
@@ -8505,6 +8649,24 @@
     "description": "B of A Securities sube su precio objetivo de 130.00 $ a 150.00 $ (mantiene Buy)."
   },
   {
+    "id": "2c0b5c059848a918",
+    "date": "2026-08-19",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 147.00 $ a 151.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "5381c9c9f014ed2e",
+    "date": "2026-08-19",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 136.00 $ a 153.00 $ (mantiene Buy)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
@@ -8946,6 +9108,15 @@
     "description": "UBS baja su precio objetivo de 340.00 $ a 300.00 $ (mantiene Buy)."
   },
   {
+    "id": "e42921f831abbf92",
+    "date": "2026-08-17",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 155.00 $ a 150.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "1a0219f05df38afb",
     "date": "2026-08-16",
     "ticker": "MU",
@@ -9378,6 +9549,15 @@
     "description": "Wells Fargo sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Overweight)."
   },
   {
+    "id": "b702563fef5a2e32",
+    "date": "2026-08-12",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 143.00 $ a 153.00 $ (mantiene Buy)."
+  },
+  {
     "id": "f499ddb7ceee3b44",
     "date": "2026-08-11",
     "ticker": "MPC",
@@ -9439,6 +9619,15 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "UBS sube la recomendacion de Neutral a Buy. Precio objetivo: 430.00 $."
+  },
+  {
+    "id": "10efba0991a0cce3",
+    "date": "2026-08-11",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 155.00 $ a 161.00 $ (mantiene Positive)."
   },
   {
     "id": "2f725a6288c1eea1",
@@ -9529,6 +9718,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Guggenheim baja su precio objetivo de 165.00 $ a 140.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a6108ebfa8f05cb5",
+    "date": "2026-08-10",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 115.00 $ a 130.00 $ (mantiene Hold)."
   },
   {
     "id": "5071cbf24baecbbc",
@@ -9972,6 +10170,15 @@
     "description": "Wells Fargo sube su precio objetivo de 22.00 $ a 28.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "07b90fcf19b2d3e1",
+    "date": "2026-08-07",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 183.00 $ a 189.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "d726d884ec570407",
     "date": "2026-08-06",
     "ticker": "MPC",
@@ -10150,6 +10357,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-06: BPA real 3.38 $ vs estimado 3.14 $ (sorpresa +7.6%)."
+  },
+  {
+    "id": "a8b9c439c96625b1",
+    "date": "2026-08-06",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-06: BPA real 3.24 $ vs estimado 2.93 $ (sorpresa +10.6%)."
   },
   {
     "id": "368f6340a80b1f3c",
