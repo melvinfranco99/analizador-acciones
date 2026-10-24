@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T15:41:57",
-  "duration_seconds": 28.9,
+  "generated_at": "2026-10-24T20:31:34",
+  "duration_seconds": 33.8,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
@@ -311,50 +311,11 @@
         "Potencial estimado a 3 meses: +31.6% (~+9.6%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "RSI en zona de sobrecompra (73); posible correccion a corto plazo.",
-        "Consenso de 24 analistas con precio objetivo medio de 227.07."
+        "Consenso de 24 analistas con precio objetivo medio de 227.99."
       ],
       "pe": 18.390118,
       "num_analysts": 24,
       "rank": 8
-    },
-    {
-      "ticker": "VLO",
-      "name": "Valero Energy Corporation",
-      "sector": "Energy",
-      "industry": "Oil & Gas Refining & Marketing",
-      "price": 419.28,
-      "price_eur": 374.21,
-      "target_price": 499.01,
-      "target_price_eur": 445.37,
-      "upside_pct": 19.0,
-      "stop_loss": 385.6,
-      "stop_loss_eur": 344.15,
-      "stop_loss_pct": 8.0,
-      "technical_score": 80.0,
-      "fundamental_score": 78.3,
-      "total_score": 79.2,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 20,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 100,
-        "growth": 100,
-        "profitability": 50,
-        "analyst_consensus": 53.2
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +19.0% (~+6.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Crecimiento de ingresos solido (51.9% interanual).",
-        "Valoracion contenida (PER 9.5x).",
-        "Consenso de 19 analistas con precio objetivo medio de 423.53."
-      ],
-      "pe": 9.535592,
-      "num_analysts": 19,
-      "rank": 9
     },
     {
       "ticker": "PSX",
@@ -370,8 +331,8 @@
       "stop_loss_eur": 236.81,
       "stop_loss_pct": 6.3,
       "technical_score": 80.0,
-      "fundamental_score": 77.8,
-      "total_score": 79.0,
+      "fundamental_score": 78.0,
+      "total_score": 79.1,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 100,
@@ -382,7 +343,7 @@
         "valuation": 75,
         "growth": 100,
         "profitability": 75,
-        "analyst_consensus": 56.2
+        "analyst_consensus": 57.0
       },
       "rationale": [
         "Potencial estimado a 3 meses: +18.5% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
@@ -392,6 +353,45 @@
         "Consenso de 19 analistas con precio objetivo medio de 285.74."
       ],
       "pe": 16.181713,
+      "num_analysts": 19,
+      "rank": 9
+    },
+    {
+      "ticker": "VLO",
+      "name": "Valero Energy Corporation",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "price": 419.28,
+      "price_eur": 374.21,
+      "target_price": 499.01,
+      "target_price_eur": 445.37,
+      "upside_pct": 19.0,
+      "stop_loss": 385.6,
+      "stop_loss_eur": 344.15,
+      "stop_loss_pct": 8.0,
+      "technical_score": 80.0,
+      "fundamental_score": 77.9,
+      "total_score": 79.1,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 100,
+        "macd": 20,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 50,
+        "analyst_consensus": 51.8
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +19.0% (~+6.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Crecimiento de ingresos solido (51.9% interanual).",
+        "Valoracion contenida (PER 9.5x).",
+        "Consenso de 19 analistas con precio objetivo medio de 423.53."
+      ],
+      "pe": 9.535592,
       "num_analysts": 19,
       "rank": 10
     }
