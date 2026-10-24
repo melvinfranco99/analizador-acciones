@@ -12382,14 +12382,5 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Citigroup baja su precio objetivo de 112.00 $ a 100.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "ec705817c8267957",
-    "date": "2026-07-25",
-    "ticker": "TMUS",
-    "name": "T-Mobile US, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "UBS baja su precio objetivo de 255.00 $ a 235.00 $ (mantiene Buy)."
   }
 ]
