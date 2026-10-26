@@ -1,5 +1,122 @@
 [
   {
+    "id": "1c50e1b32721b2de",
+    "date": "2026-10-26",
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Workday, Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "0198887391cdc08b",
+    "date": "2026-10-26",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Atlassian Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "26e637a4ee4d1fd9",
+    "date": "2026-10-26",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Cognizant Technology Solutions Corporation entra en el Top 10 (puesto #3) con precio objetivo de 82.73 $ (+19.3% a 3 meses)."
+  },
+  {
+    "id": "12470ed4d8698af5",
+    "date": "2026-10-26",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 564.17 $ a 598.18 $ (+6.0%)."
+  },
+  {
+    "id": "b6e24198b2fa047e",
+    "date": "2026-10-26",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 328.13 $ a 310.71 $ (-5.3%)."
+  },
+  {
+    "id": "935ed1dc03e7a721",
+    "date": "2026-10-26",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "ConocoPhillips entra en el Top 10 (puesto #9) con precio objetivo de 176.76 $ (+16.8% a 3 meses)."
+  },
+  {
+    "id": "52853dd37464accf",
+    "date": "2026-10-26",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 475.44 $ a 451.52 $ (-5.0%)."
+  },
+  {
+    "id": "25e5348294f4707d",
+    "date": "2026-10-26",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 67.00 $ a 78.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "f16612799f025724",
+    "date": "2026-10-26",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 67.00 $ a 77.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "ff2360f23a2808f7",
+    "date": "2026-10-26",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 210.00 $ a 252.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "8f42c4667a28bf45",
+    "date": "2026-10-26",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 570.00 $ a 625.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "ca9aeadf80e222db",
+    "date": "2026-10-26",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 575.00 $ a 600.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "dc9ff8bbb939bcd6",
+    "date": "2026-10-26",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Scotiabank sube su precio objetivo de 615.00 $ a 625.00 $ (mantiene Sector Outperform)."
+  },
+  {
     "id": "1674c2c7788a1e78",
     "date": "2026-10-23",
     "ticker": "IQV",
