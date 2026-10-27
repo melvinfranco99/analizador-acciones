@@ -135,6 +135,24 @@
     "description": "Super Micro Computer, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 41.64 $ (+18.4% a 3 meses)."
   },
   {
+    "id": "463ae276c1944f8c",
+    "date": "2026-10-27",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Super Micro Computer, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "a7c74c9dd8af5ddc",
+    "date": "2026-10-27",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Marvell Technology, Inc. entra en el Top 10 (puesto #3) con precio objetivo de 303.36 $ (+24.5% a 3 meses)."
+  },
+  {
     "id": "1c50e1b32721b2de",
     "date": "2026-10-26",
     "ticker": "WDAY",

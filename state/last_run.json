@@ -2,71 +2,71 @@
   "MSFT": {
     "rank": 1,
     "name": "Microsoft Corporation",
-    "target_price": 629.02,
+    "target_price": 627.78,
     "upside_pct": 18.2,
     "total_score": 86.2
   },
   "ACN": {
     "rank": 2,
     "name": "Accenture plc",
-    "target_price": 280.7,
-    "upside_pct": 18.8,
+    "target_price": 278.53,
+    "upside_pct": 18.4,
     "total_score": 85.0
   },
-  "MU": {
+  "MRVL": {
     "rank": 3,
+    "name": "Marvell Technology, Inc.",
+    "target_price": 303.36,
+    "upside_pct": 24.5,
+    "total_score": 83.7
+  },
+  "MU": {
+    "rank": 4,
     "name": "Micron Technology, Inc.",
-    "target_price": 1247.36,
-    "upside_pct": 33.7,
+    "target_price": 1245.34,
+    "upside_pct": 34.1,
     "total_score": 83.3
   },
+  "MPC": {
+    "rank": 5,
+    "name": "Marathon Petroleum Corporation",
+    "target_price": 526.68,
+    "upside_pct": 20.8,
+    "total_score": 82.5
+  },
   "HPE": {
-    "rank": 4,
+    "rank": 6,
     "name": "Hewlett Packard Enterprise Company",
-    "target_price": 72.16,
+    "target_price": 72.17,
     "upside_pct": 18.6,
     "total_score": 82.1
   },
   "IT": {
-    "rank": 5,
+    "rank": 7,
     "name": "Gartner, Inc.",
-    "target_price": 262.64,
-    "upside_pct": 17.5,
+    "target_price": 257.79,
+    "upside_pct": 16.7,
     "total_score": 82.0
   },
   "NTAP": {
-    "rank": 6,
+    "rank": 8,
     "name": "NetApp, Inc.",
-    "target_price": 268.02,
-    "upside_pct": 16.5,
+    "target_price": 263.62,
+    "upside_pct": 15.8,
     "total_score": 81.6
   },
-  "MPC": {
-    "rank": 7,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 531.91,
-    "upside_pct": 21.2,
-    "total_score": 81.1
-  },
   "WDC": {
-    "rank": 8,
+    "rank": 9,
     "name": "Western Digital Corporation",
-    "target_price": 497.77,
-    "upside_pct": 30.3,
+    "target_price": 497.13,
+    "upside_pct": 30.5,
     "total_score": 79.8
   },
   "TEAM": {
-    "rank": 9,
+    "rank": 10,
     "name": "Atlassian Corporation",
-    "target_price": 296.23,
+    "target_price": 296.2,
     "upside_pct": 35.0,
     "total_score": 78.6
-  },
-  "SMCI": {
-    "rank": 10,
-    "name": "Super Micro Computer, Inc.",
-    "target_price": 41.64,
-    "upside_pct": 18.4,
-    "total_score": 78.4
   }
 }
