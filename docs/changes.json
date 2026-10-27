@@ -1,5 +1,140 @@
 [
   {
+    "id": "256f48203f313a2c",
+    "date": "2026-10-27",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Salesforce, Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "997c339c221fafca",
+    "date": "2026-10-27",
+    "ticker": "CTSH",
+    "name": "Cognizant Technology Solutions Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Cognizant Technology Solutions Corporation sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "44363ebf5e1e72b6",
+    "date": "2026-10-27",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Phillips 66 sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "fdf5dce13f17ee22",
+    "date": "2026-10-27",
+    "ticker": "VLO",
+    "name": "Valero Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "4db6e2015781df92",
+    "date": "2026-10-27",
+    "ticker": "COP",
+    "name": "ConocoPhillips",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "ConocoPhillips sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "e83e00647acf6b26",
+    "date": "2026-10-27",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Zebra Technologies Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "9f40deeae1d7a62d",
+    "date": "2026-10-27",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 310.71 $ a 280.70 $ (-9.7%)."
+  },
+  {
+    "id": "b6990117b0fd24bd",
+    "date": "2026-10-27",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Micron Technology, Inc. entra en el Top 10 (puesto #3) con precio objetivo de 1247.36 $ (+33.7% a 3 meses)."
+  },
+  {
+    "id": "f06425685080e446",
+    "date": "2026-10-27",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Hewlett Packard Enterprise Company entra en el Top 10 (puesto #4) con precio objetivo de 72.16 $ (+18.6% a 3 meses)."
+  },
+  {
+    "id": "a259c337b353b3a2",
+    "date": "2026-10-27",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 286.76 $ a 262.64 $ (-8.4%)."
+  },
+  {
+    "id": "0836acacccae814f",
+    "date": "2026-10-27",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "NetApp, Inc. entra en el Top 10 (puesto #6) con precio objetivo de 268.02 $ (+16.5% a 3 meses)."
+  },
+  {
+    "id": "6d43ffad42490a32",
+    "date": "2026-10-27",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 598.18 $ a 531.91 $ (-11.1%)."
+  },
+  {
+    "id": "bd85a4577121b889",
+    "date": "2026-10-27",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Western Digital Corporation entra en el Top 10 (puesto #8) con precio objetivo de 497.77 $ (+30.3% a 3 meses)."
+  },
+  {
+    "id": "8044ea59a8409d45",
+    "date": "2026-10-27",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Atlassian Corporation entra en el Top 10 (puesto #9) con precio objetivo de 296.23 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "99f72233e2697c70",
+    "date": "2026-10-27",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Super Micro Computer, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 41.64 $ (+18.4% a 3 meses)."
+  },
+  {
     "id": "1c50e1b32721b2de",
     "date": "2026-10-26",
     "ticker": "WDAY",
@@ -115,6 +250,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Scotiabank sube su precio objetivo de 615.00 $ a 625.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "1b5bd9c77b613f41",
+    "date": "2026-10-26",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Argus Research baja su precio objetivo de 600.00 $ a 500.00 $ (mantiene Buy)."
   },
   {
     "id": "1674c2c7788a1e78",
@@ -250,6 +394,69 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 485.00 $ a 490.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "b6bd6c845eb64625",
+    "date": "2026-10-23",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 470.00 $ a 435.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "db674c938ecb88c2",
+    "date": "2026-10-23",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 740.00 $ a 660.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "5737353674f0bc14",
+    "date": "2026-10-23",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 600.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "11f825abe9d6637f",
+    "date": "2026-10-23",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 540.00 $ a 430.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "495490d68ef9d4f2",
+    "date": "2026-10-23",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Rosenblatt baja su precio objetivo de 800.00 $ a 650.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e8dee816ff630fcb",
+    "date": "2026-10-23",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 643.00 $ a 668.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "b07140ac7fca9401",
+    "date": "2026-10-23",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Cantor Fitzgerald baja su precio objetivo de 900.00 $ a 625.00 $ (mantiene Overweight)."
   },
   {
     "id": "566f550aca56ff64",
@@ -396,6 +603,15 @@
     "description": "Oppenheimer sube su precio objetivo de 200.00 $ a 275.00 $ (mantiene Outperform)."
   },
   {
+    "id": "8017e79aaf95f8f1",
+    "date": "2026-10-22",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-22: BPA real 4.64 $ vs estimado 4.10 $ (sorpresa +13.2%)."
+  },
+  {
     "id": "7af8908e19e59d9d",
     "date": "2026-10-21",
     "ticker": "MSFT",
@@ -493,6 +709,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Truist Securities sube su precio objetivo de 185.00 $ a 250.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a9725c1014530e26",
+    "date": "2026-10-21",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 720.00 $ a 800.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a23032f9db43d841",
+    "date": "2026-10-21",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 51.00 $ a 57.00 $ (mantiene Buy)."
   },
   {
     "id": "becd22de87f9aba3",
@@ -655,6 +889,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Susquehanna sube su precio objetivo de 161.00 $ a 175.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "a05ad505cee320de",
+    "date": "2026-10-20",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 676.00 $ a 643.00 $ (mantiene Overweight)."
   },
   {
     "id": "c3804cca21517150",
@@ -826,6 +1069,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 140.00 $ a 175.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "2dd6c4bed85125ba",
+    "date": "2026-10-16",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 730.00 $ a 450.00 $ (mantiene Overweight)."
   },
   {
     "id": "9940f122643503f3",
@@ -1204,6 +1456,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Stifel sube su precio objetivo de 276.00 $ a 303.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "eb2deb79fff55ef4",
+    "date": "2026-10-14",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Barclays baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 77.00 $."
   },
   {
     "id": "f1d08bff8de59838",
@@ -1737,6 +1998,15 @@
     "description": "Cantor Fitzgerald baja su precio objetivo de 320.00 $ a 310.00 $ (mantiene Overweight)."
   },
   {
+    "id": "aba94622bff9d232",
+    "date": "2026-10-12",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 525.00 $ a 470.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "c08fd052669f175e",
     "date": "2026-10-09",
     "ticker": "ADSK",
@@ -1906,6 +2176,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Jefferies baja su precio objetivo de 401.00 $ a 394.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "f92ba24cbc15bbdb",
+    "date": "2026-10-08",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 39.00 $ a 45.00 $ (mantiene Neutral)."
   },
   {
     "id": "daddb5665b8967d7",
@@ -2239,6 +2518,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Tigress Financial sube su precio objetivo de 315.00 $ a 385.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b399253da6776f33",
+    "date": "2026-10-06",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 35.00 $ a 43.00 $ (mantiene Neutral)."
   },
   {
     "id": "3078b12474b12218",
@@ -9727,6 +10015,60 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 143.00 $ a 153.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "25cfaea2b54f0b23",
+    "date": "2026-08-12",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 33.00 $ a 39.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "e4a8aafd9cbcd14a",
+    "date": "2026-08-12",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 30.00 $ a 34.00 $ (mantiene Sell)."
+  },
+  {
+    "id": "26bce13945a4478a",
+    "date": "2026-08-12",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 34.00 $ a 35.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "021d67b9a494972b",
+    "date": "2026-08-12",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 34.00 $ a 40.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "0160567cb3bc5a9e",
+    "date": "2026-08-12",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 38.00 $ a 39.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "fa55ad77fdc01531",
+    "date": "2026-08-12",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 45.00 $ a 51.00 $ (mantiene Buy)."
   },
   {
     "id": "f499ddb7ceee3b44",
