@@ -1,5 +1,86 @@
 [
   {
+    "id": "d17c4723fecfac6f",
+    "date": "2026-10-28",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Microsoft Corporation sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "875fdb569e95d53f",
+    "date": "2026-10-28",
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Hewlett Packard Enterprise Company sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "e645df502bdd77ae",
+    "date": "2026-10-28",
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "NetApp, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "01006b7b1e495271",
+    "date": "2026-10-28",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Atlassian Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "77bef59181599c0c",
+    "date": "2026-10-28",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Salesforce, Inc. entra en el Top 10 (puesto #1) con precio objetivo de 283.53 $ (+17.1% a 3 meses)."
+  },
+  {
+    "id": "ec62c8f92c5d7c30",
+    "date": "2026-10-28",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Oracle Corporation entra en el Top 10 (puesto #3) con precio objetivo de 190.17 $ (+31.6% a 3 meses)."
+  },
+  {
+    "id": "a6fb75ab8b3ea453",
+    "date": "2026-10-28",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 278.53 $ a 304.56 $ (+9.3%)."
+  },
+  {
+    "id": "4ff5bc40de041956",
+    "date": "2026-10-28",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #8) con precio objetivo de 448.78 $ (+16.7% a 3 meses)."
+  },
+  {
+    "id": "5eb9a1eb7fc1771b",
+    "date": "2026-10-28",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "CrowdStrike Holdings, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 325.28 $ (+22.0% a 3 meses)."
+  },
+  {
     "id": "256f48203f313a2c",
     "date": "2026-10-27",
     "ticker": "CRM",
@@ -279,6 +360,15 @@
     "description": "Argus Research baja su precio objetivo de 600.00 $ a 500.00 $ (mantiene Buy)."
   },
   {
+    "id": "1641804b930b7543",
+    "date": "2026-10-26",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 280.00 $ a 250.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "1674c2c7788a1e78",
     "date": "2026-10-23",
     "ticker": "IQV",
@@ -477,6 +567,15 @@
     "description": "Cantor Fitzgerald baja su precio objetivo de 900.00 $ a 625.00 $ (mantiene Overweight)."
   },
   {
+    "id": "5c88bf1f8f027648",
+    "date": "2026-10-23",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Goldman Sachs baja su precio objetivo de 240.00 $ a 206.00 $ (mantiene Buy)."
+  },
+  {
     "id": "566f550aca56ff64",
     "date": "2026-10-22",
     "ticker": "MRVL",
@@ -628,6 +727,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-10-22: BPA real 4.64 $ vs estimado 4.10 $ (sorpresa +13.2%)."
+  },
+  {
+    "id": "648036d198028b2a",
+    "date": "2026-10-22",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 250.00 $ a 275.00 $ (mantiene Outperform)."
   },
   {
     "id": "7af8908e19e59d9d",
@@ -1098,6 +1206,15 @@
     "description": "Wells Fargo baja su precio objetivo de 730.00 $ a 450.00 $ (mantiene Overweight)."
   },
   {
+    "id": "e8efa2b274f19faf",
+    "date": "2026-10-16",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 245.00 $ a 265.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "9940f122643503f3",
     "date": "2026-10-15",
     "ticker": "NTAP",
@@ -1276,6 +1393,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 151.00 $ a 159.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7be19daedba34f39",
+    "date": "2026-10-15",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 260.00 $ a 295.00 $ (mantiene Buy)."
   },
   {
     "id": "571db89acfc9be10",
@@ -1483,6 +1609,24 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Barclays baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 77.00 $."
+  },
+  {
+    "id": "f47e7e84a4f19259",
+    "date": "2026-10-14",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Freedom Broker sube su precio objetivo de 260.00 $ a 320.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3f909a2221f9c501",
+    "date": "2026-10-14",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 245.00 $ a 312.00 $ (mantiene Buy)."
   },
   {
     "id": "f1d08bff8de59838",
@@ -1818,6 +1962,15 @@
     "description": "Citigroup sube su precio objetivo de 302.00 $ a 485.00 $ (mantiene Neutral)."
   },
   {
+    "id": "4ccdd8300f76218c",
+    "date": "2026-10-13",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 235.00 $ a 300.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "324391fd3df87488",
     "date": "2026-10-12",
     "ticker": "MU",
@@ -2070,6 +2223,15 @@
     "description": "Dell Technologies Inc. entra en el Top 10 (puesto #10) con precio objetivo de 695.78 $ (+18.7% a 3 meses)."
   },
   {
+    "id": "abe261da5a553700",
+    "date": "2026-10-09",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 250.00 $ a 310.00 $ (mantiene Buy)."
+  },
+  {
     "id": "5d479a547381d39e",
     "date": "2026-10-08",
     "ticker": "MPC",
@@ -2203,6 +2365,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 39.00 $ a 45.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "68f04be95bc3d0d0",
+    "date": "2026-10-08",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 235.00 $ a 295.00 $ (mantiene Outperform)."
   },
   {
     "id": "daddb5665b8967d7",
@@ -2545,6 +2716,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Mizuho sube su precio objetivo de 35.00 $ a 43.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "c2c5cc6c4b95b40f",
+    "date": "2026-10-06",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "StoneX sube su precio objetivo de 250.00 $ a 325.00 $ (mantiene Buy)."
   },
   {
     "id": "3078b12474b12218",
@@ -2914,6 +3094,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "B of A Securities sube su precio objetivo de 395.00 $ a 414.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "72ea782da0d56d1e",
+    "date": "2026-10-02",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 250.00 $ a 280.00 $ (mantiene Buy)."
   },
   {
     "id": "8b722bf324443710",
@@ -3762,6 +3951,15 @@
     "description": "Morgan Stanley sube su precio objetivo de 246.00 $ a 268.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "cd1462982fbe425a",
+    "date": "2026-09-21",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 238.00 $ a 254.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "aa7132a16fde1670",
     "date": "2026-09-18",
     "ticker": "DELL",
@@ -3913,6 +4111,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Deutsche Bank sube su precio objetivo de 65.00 $ a 70.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e99790afcb41e956",
+    "date": "2026-09-18",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 230.00 $ a 260.00 $ (mantiene Neutral)."
   },
   {
     "id": "959dfd4736c0d3c3",
@@ -4410,6 +4617,15 @@
     "description": "UBS sube su precio objetivo de 153.00 $ a 169.00 $ (mantiene Buy)."
   },
   {
+    "id": "97be0036dee1bbab",
+    "date": "2026-09-14",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Freedom Broker baja su precio objetivo de 210.00 $ a 205.00 $ (mantiene Buy)."
+  },
+  {
     "id": "14b2d913a1596ab2",
     "date": "2026-09-11",
     "ticker": "NEM",
@@ -4588,6 +4804,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Needham sube su precio objetivo de 115.00 $ a 155.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "24455e37702b994a",
+    "date": "2026-09-11",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Stifel baja su precio objetivo de 220.00 $ a 200.00 $ (mantiene Buy)."
   },
   {
     "id": "b6291541dbc994b1",
