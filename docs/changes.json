@@ -1,5 +1,68 @@
 [
   {
+    "id": "5ce7e2babb997275",
+    "date": "2026-10-29",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Salesforce, Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "d8225add66f0bee8",
+    "date": "2026-10-29",
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Marvell Technology, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "c67361d4d7302f9d",
+    "date": "2026-10-29",
+    "ticker": "ZBRA",
+    "name": "Zebra Technologies Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Zebra Technologies Corporation sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "19b9a37b8f1713da",
+    "date": "2026-10-29",
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 266.63 $ a 280.23 $ (+5.1%)."
+  },
+  {
+    "id": "e6eb6666a60e0005",
+    "date": "2026-10-29",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zscaler, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 327.00 $ (+32.0% a 3 meses)."
+  },
+  {
+    "id": "120b99a496792853",
+    "date": "2026-10-29",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Atlassian Corporation entra en el Top 10 (puesto #9) con precio objetivo de 275.54 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "a23dad66a37623a1",
+    "date": "2026-10-29",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Illumina, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 350.14 $ (+20.7% a 3 meses)."
+  },
+  {
     "id": "d17c4723fecfac6f",
     "date": "2026-10-28",
     "ticker": "MSFT",
@@ -79,6 +142,15 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "CrowdStrike Holdings, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 325.28 $ (+22.0% a 3 meses)."
+  },
+  {
+    "id": "09f35e56c1763f4b",
+    "date": "2026-10-28",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 230.00 $ a 270.00 $ (mantiene Overweight)."
   },
   {
     "id": "256f48203f313a2c",
@@ -738,6 +810,15 @@
     "description": "Mizuho sube su precio objetivo de 250.00 $ a 275.00 $ (mantiene Outperform)."
   },
   {
+    "id": "685517420d726404",
+    "date": "2026-10-22",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Freedom Broker sube su precio objetivo de 230.00 $ a 270.00 $ (mantiene Buy)."
+  },
+  {
     "id": "7af8908e19e59d9d",
     "date": "2026-10-21",
     "ticker": "MSFT",
@@ -1125,6 +1206,15 @@
     "description": "Morgan Stanley sube su precio objetivo de 335.00 $ a 350.00 $ (mantiene Overweight)."
   },
   {
+    "id": "80b674b41b41cbaf",
+    "date": "2026-10-19",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 205.00 $ a 300.00 $ (mantiene Hold)."
+  },
+  {
     "id": "45d9cf86794a23c7",
     "date": "2026-10-16",
     "ticker": "WDAY",
@@ -1402,6 +1492,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 260.00 $ a 295.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b202022d79adfd26",
+    "date": "2026-10-15",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 245.00 $ a 260.00 $ (mantiene Buy)."
   },
   {
     "id": "571db89acfc9be10",
@@ -1971,6 +2070,15 @@
     "description": "Wells Fargo sube su precio objetivo de 235.00 $ a 300.00 $ (mantiene Overweight)."
   },
   {
+    "id": "59c80f9664c4c81e",
+    "date": "2026-10-13",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 210.00 $ a 270.00 $ (mantiene Hold)."
+  },
+  {
     "id": "324391fd3df87488",
     "date": "2026-10-12",
     "ticker": "MU",
@@ -2230,6 +2338,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Needham sube su precio objetivo de 250.00 $ a 310.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d4d444a92f47f0e6",
+    "date": "2026-10-09",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citizens sube su precio objetivo de 210.00 $ a 265.00 $ (mantiene Market Outperform)."
   },
   {
     "id": "5d479a547381d39e",
@@ -2610,6 +2727,204 @@
     "description": "Truist Securities sube su precio objetivo de 130.00 $ a 136.00 $ (mantiene Hold)."
   },
   {
+    "id": "be70c60db89e4cb6",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Macquarie sube su precio objetivo de 200.00 $ a 250.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "16ca7aa610232b71",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 225.00 $ a 250.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f867daa414b23b98",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 205.00 $ a 245.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "2b2c4e860f6e62f3",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 220.00 $ a 250.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "add6320d6d075c4d",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 210.00 $ a 250.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "73e4f476aaed8be5",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BNP Paribas sube su precio objetivo de 230.00 $ a 250.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "45db7db6fc165527",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 200.00 $ a 250.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a6e406060f7ae3c8",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Scotiabank sube su precio objetivo de 240.00 $ a 255.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "b2f75eeaac7acc98",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 215.00 $ a 245.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "f48b9bef02a1d36a",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 215.00 $ a 260.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "6a4538d1bee2253a",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 220.00 $ a 225.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "c8c5d8cb48857485",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stephens & Co. sube su precio objetivo de 225.00 $ a 265.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "4d6b72c1a09019c6",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 200.00 $ a 230.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d21aa5a05b2a76e9",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 200.00 $ a 235.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d525731d1f427348",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 155.00 $ a 195.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "9b0ce8797f589367",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 214.00 $ a 254.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "39c5170e6bcf0e38",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 215.00 $ a 240.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "67626e033232bb1c",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 230.00 $ a 285.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "cd1fd9a64019e02a",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 225.00 $ a 275.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "4bb6474926e83551",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 165.00 $ a 185.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "9f500782f104d812",
+    "date": "2026-10-07",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 215.00 $ a 255.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f490d88e76186d16",
+    "date": "2026-10-07",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 160.00 $ a 200.00 $ (mantiene Underweight)."
+  },
+  {
     "id": "bc9922fa4dfdbf6d",
     "date": "2026-10-06",
     "ticker": "IT",
@@ -2806,6 +3121,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 196.00 $ a 208.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "f8218a9618b77f71",
+    "date": "2026-10-05",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Scotiabank sube su precio objetivo de 200.00 $ a 240.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "0a76a0e2e1820656",
+    "date": "2026-10-05",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 230.00 $ a 310.00 $ (mantiene Outperform)."
   },
   {
     "id": "4bec64be7b5d9018",
@@ -3276,6 +3609,15 @@
     "description": "Barclays baja su precio objetivo de 426.00 $ a 378.00 $ (mantiene Overweight)."
   },
   {
+    "id": "48cb7d55c4509dc0",
+    "date": "2026-10-01",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 226.00 $ a 305.00 $ (mantiene Buy)."
+  },
+  {
     "id": "bb6be41fb62f9065",
     "date": "2026-09-30",
     "ticker": "IT",
@@ -3402,6 +3744,24 @@
     "description": "RBC Capital sube su precio objetivo de 247.00 $ a 319.00 $ (mantiene Outperform)."
   },
   {
+    "id": "47bac5b5f3e444a1",
+    "date": "2026-09-29",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 200.00 $ a 220.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "2f2d70f4523d93bc",
+    "date": "2026-09-29",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Leerink Partners sube su precio objetivo de 220.00 $ a 300.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "4774e295bf9ba3c6",
     "date": "2026-09-28",
     "ticker": "MU",
@@ -3445,6 +3805,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Truist Securities sube su precio objetivo de 300.00 $ a 329.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "1352d6de5d0d57d8",
+    "date": "2026-09-28",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 225.00 $ a 305.00 $ (mantiene Overweight)."
   },
   {
     "id": "a2e2312aca4bf11c",
@@ -3562,6 +3931,24 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "RBC Capital baja su precio objetivo de 30.00 $ a 26.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "6b129a1d97c5bd7d",
+    "date": "2026-09-25",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 210.00 $ a 236.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "9cd8a416075d793e",
+    "date": "2026-09-25",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 210.00 $ a 220.00 $ (mantiene Outperform)."
   },
   {
     "id": "2ae3ea90531530a8",
@@ -4284,6 +4671,15 @@
     "description": "Morgan Stanley sube su precio objetivo de 240.00 $ a 270.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "1d40342f6234e1ee",
+    "date": "2026-09-17",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 224.00 $ a 298.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "281e465efda2bae2",
     "date": "2026-09-16",
     "ticker": "GDDY",
@@ -4977,6 +5373,15 @@
     "description": "Bernstein baja su precio objetivo de 147.00 $ a 144.00 $ (mantiene Outperform)."
   },
   {
+    "id": "500e58add603bf78",
+    "date": "2026-09-09",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "UBS sube la recomendacion de Neutral a Buy. Precio objetivo: 260.00 $."
+  },
+  {
     "id": "63dac04124072b77",
     "date": "2026-09-08",
     "ticker": "ABNB",
@@ -5056,6 +5461,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "BTIG sube su precio objetivo de 150.00 $ a 170.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ba91c1e5f426b41a",
+    "date": "2026-09-08",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 175.00 $ a 205.00 $ (mantiene Buy)."
   },
   {
     "id": "19f98374a33472c2",
@@ -5299,6 +5713,105 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "DA Davidson baja su precio objetivo de 400.00 $ a 350.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2794f852c5540567",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Macquarie sube su precio objetivo de 172.00 $ a 200.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "7d4e0e853df9a8e2",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "1af1f3075ff70548",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 145.00 $ a 165.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "51e90415855c0c14",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BMO Capital sube su precio objetivo de 178.00 $ a 200.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "602802193d1e0b81",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 220.00 $ a 230.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "34b7f39fb562a3a6",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 210.00 $ a 215.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "731edb8738f16f78",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 200.00 $ a 210.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "596f79b4f839b4ce",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Scotiabank sube su precio objetivo de 175.00 $ a 200.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "00435fb1a230625f",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 192.00 $ a 200.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "99e61695c7f46f1f",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stephens & Co. sube su precio objetivo de 200.00 $ a 225.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "5545527b19b76f69",
+    "date": "2026-09-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 180.00 $ a 215.00 $ (mantiene Buy)."
   },
   {
     "id": "02f6f608bcba8250",
@@ -5695,6 +6208,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 328.00 $ a 338.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "4477ebedc501c6f0",
+    "date": "2026-09-03",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 180.00 $ a 235.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "1c6dd3e33d7cc4b6",
+    "date": "2026-09-03",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-09-03: BPA real 1.19 $ vs estimado 1.09 $ (sorpresa +9.2%)."
   },
   {
     "id": "7a0b1ec046d31bda",
@@ -8181,6 +8712,15 @@
     "description": "JP Morgan baja la recomendacion de Overweight a Neutral. Precio objetivo: 120.00 $."
   },
   {
+    "id": "a374d7d40bef1dcc",
+    "date": "2026-08-26",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 205.00 $ a 215.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "6cf742496a1fb44a",
     "date": "2026-08-25",
     "ticker": "TMO",
@@ -8395,6 +8935,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Deutsche Bank sube su precio objetivo de 692.00 $ a 695.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "54f6db989f201e04",
+    "date": "2026-08-25",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 170.00 $ a 192.00 $ (mantiene Overweight)."
   },
   {
     "id": "af4ab1995538e12c",
@@ -8809,6 +9358,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Oppenheimer sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "65f0af4f154ca9c4",
+    "date": "2026-08-21",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 185.00 $ a 210.00 $ (mantiene Overweight)."
   },
   {
     "id": "74cf6cc05fc3bdf4",
@@ -9369,6 +9927,24 @@
     "description": "Argus Research sube su precio objetivo de 136.00 $ a 153.00 $ (mantiene Buy)."
   },
   {
+    "id": "361f163ce48e78ae",
+    "date": "2026-08-19",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 185.00 $ a 210.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "5e2c0df07cd5c261",
+    "date": "2026-08-19",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 175.00 $ a 200.00 $ (mantiene Buy)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
@@ -9817,6 +10393,24 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Barclays baja su precio objetivo de 155.00 $ a 150.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "25b16c55af0b1d0d",
+    "date": "2026-08-17",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 180.00 $ a 200.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "a95601ce656ed7c0",
+    "date": "2026-08-17",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 180.00 $ a 210.00 $ (mantiene Overweight)."
   },
   {
     "id": "1a0219f05df38afb",
@@ -11763,6 +12357,33 @@
     "description": "Wedbush baja su precio objetivo de 109.00 $ a 93.00 $ (mantiene Outperform)."
   },
   {
+    "id": "4bee8b159116885f",
+    "date": "2026-08-03",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 190.00 $ a 205.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "c2e6ca8642475fb8",
+    "date": "2026-08-03",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 95.00 $ a 113.00 $ (mantiene Sell)."
+  },
+  {
+    "id": "69d025956a0c0b22",
+    "date": "2026-08-03",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 200.00 $ a 225.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "9d10ecd95c1e7404",
     "date": "2026-07-31",
     "ticker": "VLO",
@@ -12202,5 +12823,59 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "JP Morgan sube su precio objetivo de 330.00 $ a 365.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "a6e2ff11635a2a6b",
+    "date": "2026-07-31",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 170.00 $ a 230.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "a6dc371fdca1ec4d",
+    "date": "2026-07-31",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 220.00 $ a 230.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "200cf58d79c161a8",
+    "date": "2026-07-31",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 192.00 $ a 210.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "2d82e093a9efa5ac",
+    "date": "2026-07-31",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 200.00 $ a 226.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "c70b4d6fda582867",
+    "date": "2026-07-31",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 155.00 $ a 225.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "391eeaa2299cfc22",
+    "date": "2026-07-31",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 145.00 $ a 160.00 $ (mantiene Underweight)."
   }
 ]
