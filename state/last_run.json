@@ -1,72 +1,72 @@
 {
-  "MU": {
-    "rank": 1,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1248.09,
-    "upside_pct": 33.6,
-    "total_score": 89.5
-  },
   "MPC": {
-    "rank": 2,
+    "rank": 1,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 512.61,
-    "upside_pct": 18.5,
-    "total_score": 85.3
+    "target_price": 545.34,
+    "upside_pct": 22.6,
+    "total_score": 85.9
   },
-  "IT": {
-    "rank": 3,
-    "name": "Gartner, Inc.",
-    "target_price": 280.23,
-    "upside_pct": 24.5,
-    "total_score": 82.0
-  },
-  "CRWD": {
-    "rank": 4,
-    "name": "CrowdStrike Holdings, Inc.",
-    "target_price": 309.24,
-    "upside_pct": 18.4,
-    "total_score": 80.2
-  },
-  "WDC": {
-    "rank": 5,
-    "name": "Western Digital Corporation",
-    "target_price": 504.39,
-    "upside_pct": 27.6,
-    "total_score": 79.8
+  "PSX": {
+    "rank": 2,
+    "name": "Phillips 66",
+    "target_price": 336.42,
+    "upside_pct": 18.9,
+    "total_score": 84.5
   },
   "ACN": {
-    "rank": 6,
+    "rank": 3,
     "name": "Accenture plc",
-    "target_price": 309.27,
-    "upside_pct": 25.1,
-    "total_score": 79.3
+    "target_price": 331.89,
+    "upside_pct": 28.5,
+    "total_score": 84.1
   },
-  "ORCL": {
-    "rank": 7,
-    "name": "Oracle Corporation",
-    "target_price": 187.68,
-    "upside_pct": 34.5,
-    "total_score": 78.1
+  "GDDY": {
+    "rank": 4,
+    "name": "GoDaddy Inc.",
+    "target_price": 136.32,
+    "upside_pct": 16.3,
+    "total_score": 83.4
+  },
+  "IT": {
+    "rank": 5,
+    "name": "Gartner, Inc.",
+    "target_price": 287.12,
+    "upside_pct": 25.5,
+    "total_score": 77.9
   },
   "ZS": {
-    "rank": 8,
+    "rank": 6,
     "name": "Zscaler, Inc.",
-    "target_price": 327.0,
-    "upside_pct": 32.0,
-    "total_score": 74.6
+    "target_price": 302.01,
+    "upside_pct": 27.0,
+    "total_score": 76.2
   },
-  "TEAM": {
+  "APH": {
+    "rank": 7,
+    "name": "Amphenol Corporation",
+    "target_price": 92.15,
+    "upside_pct": 16.2,
+    "total_score": 71.0
+  },
+  "MCHP": {
+    "rank": 8,
+    "name": "Microchip Technology Incorporated",
+    "target_price": 91.63,
+    "upside_pct": 18.5,
+    "total_score": 70.3
+  },
+  "ORCL": {
     "rank": 9,
-    "name": "Atlassian Corporation",
-    "target_price": 275.54,
+    "name": "Oracle Corporation",
+    "target_price": 176.4,
     "upside_pct": 35.0,
-    "total_score": 73.8
+    "total_score": 69.9
   },
-  "ILMN": {
+  "TMUS": {
     "rank": 10,
-    "name": "Illumina, Inc.",
-    "target_price": 350.14,
-    "upside_pct": 20.7,
-    "total_score": 72.6
+    "name": "T-Mobile US, Inc.",
+    "target_price": 191.7,
+    "upside_pct": 22.5,
+    "total_score": 69.7
   }
 }

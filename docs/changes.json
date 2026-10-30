@@ -1,5 +1,140 @@
 [
   {
+    "id": "7257dacaa41b97df",
+    "date": "2026-10-30",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Micron Technology, Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "094310efac1ad40a",
+    "date": "2026-10-30",
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "CrowdStrike Holdings, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "e1d39d43e411c548",
+    "date": "2026-10-30",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Western Digital Corporation sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "9fac067fa0fc6cde",
+    "date": "2026-10-30",
+    "ticker": "TEAM",
+    "name": "Atlassian Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Atlassian Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "e26a74ff036a4218",
+    "date": "2026-10-30",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Illumina, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "5075802d3b03acea",
+    "date": "2026-10-30",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 512.61 $ a 545.34 $ (+6.4%)."
+  },
+  {
+    "id": "37e7471e7061c10e",
+    "date": "2026-10-30",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Phillips 66 entra en el Top 10 (puesto #2) con precio objetivo de 336.42 $ (+18.9% a 3 meses)."
+  },
+  {
+    "id": "11eebcffecc04182",
+    "date": "2026-10-30",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 309.27 $ a 331.89 $ (+7.3%)."
+  },
+  {
+    "id": "91c2a83d7d3ab065",
+    "date": "2026-10-30",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "GoDaddy Inc. entra en el Top 10 (puesto #4) con precio objetivo de 136.32 $ (+16.3% a 3 meses)."
+  },
+  {
+    "id": "db0b2d7af2009fa9",
+    "date": "2026-10-30",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 327.00 $ a 302.01 $ (-7.6%)."
+  },
+  {
+    "id": "2c7a47b9aef3b0a2",
+    "date": "2026-10-30",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #7) con precio objetivo de 92.15 $ (+16.2% a 3 meses)."
+  },
+  {
+    "id": "e34171f2d775b6a3",
+    "date": "2026-10-30",
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Microchip Technology Incorporated entra en el Top 10 (puesto #8) con precio objetivo de 91.63 $ (+18.5% a 3 meses)."
+  },
+  {
+    "id": "af28fcd2df4e673f",
+    "date": "2026-10-30",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 187.68 $ a 176.40 $ (-6.0%)."
+  },
+  {
+    "id": "3d98a520ac5177af",
+    "date": "2026-10-30",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "T-Mobile US, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 191.70 $ (+22.5% a 3 meses)."
+  },
+  {
+    "id": "3589c00a7cbda8a1",
+    "date": "2026-10-30",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 85.00 $ a 105.00 $ (mantiene In-Line)."
+  },
+  {
     "id": "5ce7e2babb997275",
     "date": "2026-10-29",
     "ticker": "CRM",
@@ -70,6 +205,123 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-10-29: BPA real 1.62 $ vs estimado 1.36 $ (sorpresa +19.3%)."
+  },
+  {
+    "id": "74c5e2c4f7c273ab",
+    "date": "2026-10-29",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 345.00 $ a 346.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "df7281866944f6f6",
+    "date": "2026-10-29",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 264.00 $ a 268.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "715bd6f15ea6ca02",
+    "date": "2026-10-29",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 107.00 $ a 115.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "967c809cf9115027",
+    "date": "2026-10-29",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 112.00 $ a 115.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "7699a14547bc6be0",
+    "date": "2026-10-29",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BNP Paribas sube su precio objetivo de 110.00 $ a 115.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "a1cdc733ff270acd",
+    "date": "2026-10-29",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 105.00 $ a 111.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "34f1210f6fe95c69",
+    "date": "2026-10-29",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 107.50 $ a 112.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "243cdb5e10589ff9",
+    "date": "2026-10-29",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 260.00 $ a 235.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "ee3e8ced4addf768",
+    "date": "2026-10-29",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 225.00 $ a 165.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "374482e5c6543c27",
+    "date": "2026-10-29",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 260.00 $ a 258.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "64e1210bbe911e9f",
+    "date": "2026-10-29",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Scotiabank sube su precio objetivo de 212.00 $ a 214.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "15413bf779d3b8ff",
+    "date": "2026-10-29",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Keybanc baja su precio objetivo de 250.00 $ a 240.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "cc5556f2edd65934",
+    "date": "2026-10-29",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-29: BPA real 2.08 $ vs estimado 1.90 $ (sorpresa +9.6%)."
   },
   {
     "id": "d17c4723fecfac6f",
@@ -160,6 +412,33 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 230.00 $ a 270.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "dea4fe0771fb52e7",
+    "date": "2026-10-28",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-28: BPA real 3.22 $ vs estimado 2.91 $ (sorpresa +10.6%)."
+  },
+  {
+    "id": "301ab0b2d3cb9998",
+    "date": "2026-10-28",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-28: BPA real 14.08 $ vs estimado 11.79 $ (sorpresa +19.4%)."
+  },
+  {
+    "id": "10abffd3938c3c23",
+    "date": "2026-10-28",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-28: BPA real 0.80 $ vs estimado 0.73 $ (sorpresa +9.5%)."
   },
   {
     "id": "256f48203f313a2c",
@@ -828,6 +1107,15 @@
     "description": "Freedom Broker sube su precio objetivo de 230.00 $ a 270.00 $ (mantiene Buy)."
   },
   {
+    "id": "ab1c164eefe94c1e",
+    "date": "2026-10-22",
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B. Riley Securities baja su precio objetivo de 108.00 $ a 98.00 $ (mantiene Buy)."
+  },
+  {
     "id": "7af8908e19e59d9d",
     "date": "2026-10-21",
     "ticker": "MSFT",
@@ -1116,6 +1404,15 @@
     "description": "Morgan Stanley baja su precio objetivo de 676.00 $ a 643.00 $ (mantiene Overweight)."
   },
   {
+    "id": "28c65f6dd7cd53fd",
+    "date": "2026-10-20",
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 88.00 $ a 80.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "c3804cca21517150",
     "date": "2026-10-19",
     "ticker": "MSFT",
@@ -1222,6 +1519,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Canaccord Genuity sube su precio objetivo de 205.00 $ a 300.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "428f737a3df18a44",
+    "date": "2026-10-19",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Cantor Fitzgerald sube su precio objetivo de 90.00 $ a 100.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "d48f1b52999b0902",
+    "date": "2026-10-19",
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 90.00 $ a 75.00 $ (mantiene Hold)."
   },
   {
     "id": "45d9cf86794a23c7",
@@ -2295,6 +2610,33 @@
     "description": "UBS baja su precio objetivo de 525.00 $ a 470.00 $ (mantiene Neutral)."
   },
   {
+    "id": "04d658768198fda7",
+    "date": "2026-10-12",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "RBC Capital baja la recomendacion de Outperform a Sector Perform. Precio objetivo: 95.00 $."
+  },
+  {
+    "id": "901baf9e8082806b",
+    "date": "2026-10-12",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 90.00 $ a 100.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "df92af6f93595ad0",
+    "date": "2026-10-12",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Raymond James sube la recomendacion de Market Perform a Outperform. Precio objetivo: 170.00 $."
+  },
+  {
     "id": "c08fd052669f175e",
     "date": "2026-10-09",
     "ticker": "ADSK",
@@ -2356,6 +2698,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citizens sube su precio objetivo de 210.00 $ a 265.00 $ (mantiene Market Outperform)."
+  },
+  {
+    "id": "a6f4aa3619831e7b",
+    "date": "2026-10-09",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Scotiabank baja su precio objetivo de 217.00 $ a 212.00 $ (mantiene Sector Outperform)."
   },
   {
     "id": "5d479a547381d39e",
@@ -2500,6 +2851,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "BMO Capital sube su precio objetivo de 235.00 $ a 295.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "2a9986d087953e0d",
+    "date": "2026-10-08",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 105.00 $ a 112.00 $ (mantiene Buy)."
   },
   {
     "id": "daddb5665b8967d7",
@@ -2934,6 +3294,15 @@
     "description": "Barclays sube su precio objetivo de 160.00 $ a 200.00 $ (mantiene Underweight)."
   },
   {
+    "id": "ff2be2cd59049ac5",
+    "date": "2026-10-07",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 99.00 $ a 105.00 $ (mantiene Buy)."
+  },
+  {
     "id": "bc9922fa4dfdbf6d",
     "date": "2026-10-06",
     "ticker": "IT",
@@ -3049,6 +3418,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "StoneX sube su precio objetivo de 250.00 $ a 325.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "05f3f32ae61fceb6",
+    "date": "2026-10-06",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 102.00 $ a 116.00 $ (mantiene Buy)."
   },
   {
     "id": "3078b12474b12218",
@@ -3447,6 +3825,15 @@
     "description": "TD Cowen sube su precio objetivo de 250.00 $ a 280.00 $ (mantiene Buy)."
   },
   {
+    "id": "1d4dc30838d71c7d",
+    "date": "2026-10-02",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Scotiabank baja su precio objetivo de 232.00 $ a 217.00 $ (mantiene Sector Outperform)."
+  },
+  {
     "id": "8b722bf324443710",
     "date": "2026-10-01",
     "ticker": "MU",
@@ -3771,6 +4158,15 @@
     "description": "Leerink Partners sube su precio objetivo de 220.00 $ a 300.00 $ (mantiene Outperform)."
   },
   {
+    "id": "76307ba399810f16",
+    "date": "2026-09-29",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 215.00 $ a 200.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "4774e295bf9ba3c6",
     "date": "2026-09-28",
     "ticker": "MU",
@@ -3958,6 +4354,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Mizuho sube su precio objetivo de 210.00 $ a 220.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "3acd7ebb8bc82274",
+    "date": "2026-09-25",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 110.00 $ a 120.00 $ (mantiene Outperform)."
   },
   {
     "id": "2ae3ea90531530a8",
@@ -4221,6 +4626,15 @@
     "description": "Jefferies baja la recomendacion de Buy a Hold. Precio objetivo: 401.00 $."
   },
   {
+    "id": "b513beb1dde87e6c",
+    "date": "2026-09-22",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BNP Paribas sube su precio objetivo de 107.50 $ a 110.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "ba6d037cbceab4e1",
     "date": "2026-09-21",
     "ticker": "MPC",
@@ -4354,6 +4768,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 238.00 $ a 254.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "ad42a71d9c0f2bed",
+    "date": "2026-09-21",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 275.00 $ a 260.00 $ (mantiene Overweight)."
   },
   {
     "id": "aa7132a16fde1670",
@@ -5389,6 +5812,15 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "UBS sube la recomendacion de Neutral a Buy. Precio objetivo: 260.00 $."
+  },
+  {
+    "id": "301aa5f87ea0b23c",
+    "date": "2026-09-09",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 175.00 $ a 90.00 $ (mantiene Hold)."
   },
   {
     "id": "63dac04124072b77",
@@ -11538,6 +11970,33 @@
     "description": "Wells Fargo sube su precio objetivo de 183.00 $ a 189.00 $ (mantiene Overweight)."
   },
   {
+    "id": "cad400fc534524c0",
+    "date": "2026-08-07",
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 130.00 $ a 120.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "bc7e057251d6ac25",
+    "date": "2026-08-07",
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 113.00 $ a 95.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f6a27d7328c9658c",
+    "date": "2026-08-07",
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 105.00 $ a 90.00 $ (mantiene Hold)."
+  },
+  {
     "id": "d726d884ec570407",
     "date": "2026-08-06",
     "ticker": "MPC",
@@ -11725,6 +12184,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-06: BPA real 3.24 $ vs estimado 2.93 $ (sorpresa +10.6%)."
+  },
+  {
+    "id": "4c4359a9adc45cf2",
+    "date": "2026-08-06",
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-06: BPA real 0.76 $ vs estimado 0.70 $ (sorpresa +8.7%)."
   },
   {
     "id": "368f6340a80b1f3c",
