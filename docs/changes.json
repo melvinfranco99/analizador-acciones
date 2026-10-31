@@ -1,5 +1,41 @@
 [
   {
+    "id": "1446ba9ecf8c7920",
+    "date": "2026-10-31",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amphenol Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "bbfa5ce1ffc30b07",
+    "date": "2026-10-31",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Micron Technology, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 1194.40 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "d49fb4660c3d5b70",
+    "date": "2026-10-31",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 100.00 $ a 112.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "9ecc0a11621d274f",
+    "date": "2026-10-31",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Freedom Broker sube la recomendacion de Sell a Hold. Precio objetivo: 258.00 $."
+  },
+  {
     "id": "7257dacaa41b97df",
     "date": "2026-10-30",
     "ticker": "MU",

@@ -11,7 +11,7 @@
     "name": "Phillips 66",
     "target_price": 336.42,
     "upside_pct": 18.9,
-    "total_score": 84.5
+    "total_score": 84.7
   },
   "ACN": {
     "rank": 3,
@@ -41,12 +41,12 @@
     "upside_pct": 27.0,
     "total_score": 76.2
   },
-  "APH": {
+  "TMUS": {
     "rank": 7,
-    "name": "Amphenol Corporation",
-    "target_price": 92.15,
-    "upside_pct": 16.2,
-    "total_score": 71.0
+    "name": "T-Mobile US, Inc.",
+    "target_price": 191.7,
+    "upside_pct": 22.5,
+    "total_score": 72.5
   },
   "MCHP": {
     "rank": 8,
@@ -62,11 +62,11 @@
     "upside_pct": 35.0,
     "total_score": 69.9
   },
-  "TMUS": {
+  "MU": {
     "rank": 10,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 191.7,
-    "upside_pct": 22.5,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1194.4,
+    "upside_pct": 35.0,
     "total_score": 69.7
   }
 }
