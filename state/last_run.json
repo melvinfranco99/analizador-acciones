@@ -1,17 +1,17 @@
 {
-  "MPC": {
+  "PSX": {
     "rank": 1,
+    "name": "Phillips 66",
+    "target_price": 336.42,
+    "upside_pct": 18.9,
+    "total_score": 89.2
+  },
+  "MPC": {
+    "rank": 2,
     "name": "Marathon Petroleum Corporation",
     "target_price": 545.34,
     "upside_pct": 22.6,
     "total_score": 85.9
-  },
-  "PSX": {
-    "rank": 2,
-    "name": "Phillips 66",
-    "target_price": 336.42,
-    "upside_pct": 18.9,
-    "total_score": 84.7
   },
   "ACN": {
     "rank": 3,
@@ -25,7 +25,7 @@
     "name": "GoDaddy Inc.",
     "target_price": 136.32,
     "upside_pct": 16.3,
-    "total_score": 83.4
+    "total_score": 83.9
   },
   "IT": {
     "rank": 5,
@@ -41,12 +41,12 @@
     "upside_pct": 27.0,
     "total_score": 76.2
   },
-  "TMUS": {
+  "APH": {
     "rank": 7,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 191.7,
-    "upside_pct": 22.5,
-    "total_score": 72.5
+    "name": "Amphenol Corporation",
+    "target_price": 92.15,
+    "upside_pct": 16.2,
+    "total_score": 71.0
   },
   "MCHP": {
     "rank": 8,
@@ -62,11 +62,11 @@
     "upside_pct": 35.0,
     "total_score": 69.9
   },
-  "MU": {
+  "TMUS": {
     "rank": 10,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1194.4,
-    "upside_pct": 35.0,
+    "name": "T-Mobile US, Inc.",
+    "target_price": 191.7,
+    "upside_pct": 22.5,
     "total_score": 69.7
   }
 }

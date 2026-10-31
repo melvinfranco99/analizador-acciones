@@ -36,6 +36,24 @@
     "description": "Freedom Broker sube la recomendacion de Sell a Hold. Precio objetivo: 258.00 $."
   },
   {
+    "id": "b59d6b965d66ff9c",
+    "date": "2026-10-31",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Micron Technology, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "2781a7fc784f1942",
+    "date": "2026-10-31",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #7) con precio objetivo de 92.15 $ (+16.2% a 3 meses)."
+  },
+  {
     "id": "7257dacaa41b97df",
     "date": "2026-10-30",
     "ticker": "MU",
