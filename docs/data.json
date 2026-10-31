@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T17:12:41",
-  "duration_seconds": 49.6,
+  "generated_at": "2026-10-31T21:15:30",
+  "duration_seconds": 23.6,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
@@ -160,7 +160,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "MACD en cruce alcista con impulso creciente.",
         "Valoracion contenida (PER 16.1x).",
-        "Consenso de 16 analistas con precio objetivo medio de 107.38."
+        "Consenso de 16 analistas con precio objetivo medio de 109.38."
       ],
       "pe": 16.126547,
       "num_analysts": 16,
@@ -248,9 +248,9 @@
       "industry": "Electronic Components",
       "price": 79.3,
       "price_eur": 70.91,
-      "target_price": 92.15,
-      "target_price_eur": 82.4,
-      "upside_pct": 16.2,
+      "target_price": 92.77,
+      "target_price_eur": 82.96,
+      "upside_pct": 17.0,
       "stop_loss": 72.79,
       "stop_loss_eur": 65.09,
       "stop_loss_pct": 8.2,
@@ -270,9 +270,9 @@
         "analyst_consensus": 93.7
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +16.2% (~+5.1%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +17.0% (~+5.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Crecimiento de ingresos solido (65.1% interanual).",
-        "Consenso de 19 analistas con precio objetivo medio de 105.00."
+        "Consenso de 19 analistas con precio objetivo medio de 106.24."
       ],
       "pe": 34.329006,
       "num_analysts": 19,
@@ -361,9 +361,9 @@
       "industry": "Telecom Services",
       "price": 156.44,
       "price_eur": 139.89,
-      "target_price": 191.7,
-      "target_price_eur": 171.42,
-      "upside_pct": 22.5,
+      "target_price": 191.0,
+      "target_price_eur": 170.8,
+      "upside_pct": 22.1,
       "stop_loss": 144.63,
       "stop_loss_eur": 129.33,
       "stop_loss_pct": 7.5,
@@ -383,11 +383,11 @@
         "analyst_consensus": 90.9
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +22.5% (~+7.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +22.1% (~+6.9%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Tendencia bajista: precio por debajo de sus medias moviles principales.",
         "MACD en cruce alcista con impulso creciente.",
         "Valoracion contenida (PER 15.1x).",
-        "Consenso de 25 analistas con precio objetivo medio de 226.96."
+        "Consenso de 25 analistas con precio objetivo medio de 225.56."
       ],
       "pe": 15.085825,
       "num_analysts": 25,

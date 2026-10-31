@@ -44,8 +44,8 @@
   "APH": {
     "rank": 7,
     "name": "Amphenol Corporation",
-    "target_price": 92.15,
-    "upside_pct": 16.2,
+    "target_price": 92.77,
+    "upside_pct": 17.0,
     "total_score": 71.0
   },
   "MCHP": {
@@ -65,8 +65,8 @@
   "TMUS": {
     "rank": 10,
     "name": "T-Mobile US, Inc.",
-    "target_price": 191.7,
-    "upside_pct": 22.5,
+    "target_price": 191.0,
+    "upside_pct": 22.1,
     "total_score": 69.7
   }
 }
