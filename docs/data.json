@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T05:27:36",
-  "duration_seconds": 26.4,
+  "generated_at": "2026-11-01T12:58:52",
+  "duration_seconds": 37.0,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
@@ -160,7 +160,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "MACD en cruce alcista con impulso creciente.",
         "Valoracion contenida (PER 16.1x).",
-        "Consenso de 16 analistas con precio objetivo medio de 109.38."
+        "Consenso de 16 analistas con precio objetivo medio de 110.00."
       ],
       "pe": 16.126547,
       "num_analysts": 16,
