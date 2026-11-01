@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T12:58:52",
-  "duration_seconds": 37.0,
+  "generated_at": "2026-11-01T21:53:40",
+  "duration_seconds": 39.1,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
@@ -43,7 +43,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Crecimiento de ingresos solido (46.4% interanual).",
         "Valoracion contenida (PER 9.1x).",
-        "Consenso de 19 analistas con precio objetivo medio de 291.74."
+        "Consenso de 19 analistas con precio objetivo medio de 291.79."
       ],
       "pe": 9.070878,
       "num_analysts": 19,
@@ -248,9 +248,9 @@
       "industry": "Electronic Components",
       "price": 79.3,
       "price_eur": 70.91,
-      "target_price": 92.77,
-      "target_price_eur": 82.96,
-      "upside_pct": 17.0,
+      "target_price": 92.85,
+      "target_price_eur": 83.03,
+      "upside_pct": 17.1,
       "stop_loss": 72.79,
       "stop_loss_eur": 65.09,
       "stop_loss_pct": 8.2,
@@ -270,9 +270,9 @@
         "analyst_consensus": 93.7
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +17.0% (~+5.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +17.1% (~+5.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Crecimiento de ingresos solido (65.1% interanual).",
-        "Consenso de 19 analistas con precio objetivo medio de 106.24."
+        "Consenso de 19 analistas con precio objetivo medio de 106.39."
       ],
       "pe": 34.329006,
       "num_analysts": 19,
