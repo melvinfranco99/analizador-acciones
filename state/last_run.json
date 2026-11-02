@@ -2,71 +2,71 @@
   "PSX": {
     "rank": 1,
     "name": "Phillips 66",
-    "target_price": 336.42,
-    "upside_pct": 18.9,
+    "target_price": 335.1,
+    "upside_pct": 18.8,
     "total_score": 89.2
   },
   "MPC": {
     "rank": 2,
     "name": "Marathon Petroleum Corporation",
-    "target_price": 545.34,
-    "upside_pct": 22.6,
+    "target_price": 534.39,
+    "upside_pct": 20.9,
     "total_score": 85.9
   },
   "ACN": {
     "rank": 3,
     "name": "Accenture plc",
-    "target_price": 331.89,
-    "upside_pct": 28.5,
+    "target_price": 330.58,
+    "upside_pct": 27.0,
     "total_score": 84.1
   },
   "GDDY": {
     "rank": 4,
     "name": "GoDaddy Inc.",
-    "target_price": 136.32,
-    "upside_pct": 16.3,
+    "target_price": 140.17,
+    "upside_pct": 17.2,
     "total_score": 83.9
   },
-  "IT": {
+  "PDD": {
     "rank": 5,
-    "name": "Gartner, Inc.",
-    "target_price": 287.12,
-    "upside_pct": 25.5,
-    "total_score": 77.9
+    "name": "PDD Holdings Inc.",
+    "target_price": 99.1,
+    "upside_pct": 19.8,
+    "total_score": 74.3
   },
-  "ZS": {
+  "GNRC": {
     "rank": 6,
-    "name": "Zscaler, Inc.",
-    "target_price": 302.01,
-    "upside_pct": 27.0,
-    "total_score": 76.2
+    "name": "Generac Holdings Inc.",
+    "target_price": 247.69,
+    "upside_pct": 20.1,
+    "total_score": 73.3
   },
-  "APH": {
+  "TMUS": {
     "rank": 7,
-    "name": "Amphenol Corporation",
-    "target_price": 92.85,
-    "upside_pct": 17.1,
-    "total_score": 71.0
+    "name": "T-Mobile US, Inc.",
+    "target_price": 191.7,
+    "upside_pct": 21.5,
+    "total_score": 72.5
   },
   "MCHP": {
     "rank": 8,
     "name": "Microchip Technology Incorporated",
-    "target_price": 91.63,
-    "upside_pct": 18.5,
+    "target_price": 92.59,
+    "upside_pct": 16.8,
     "total_score": 70.3
   },
-  "ORCL": {
+  "ZS": {
     "rank": 9,
-    "name": "Oracle Corporation",
-    "target_price": 176.4,
-    "upside_pct": 35.0,
-    "total_score": 69.9
+    "name": "Zscaler, Inc.",
+    "target_price": 274.35,
+    "upside_pct": 20.0,
+    "total_score": 70.1
   },
-  "TMUS": {
+  "SWKS": {
     "rank": 10,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 191.0,
-    "upside_pct": 22.1,
-    "total_score": 69.7
+    "name": "Skyworks Solutions, Inc.",
+    "target_price": 104.02,
+    "upside_pct": 16.7,
+    "total_score": 69.1
   }
 }
