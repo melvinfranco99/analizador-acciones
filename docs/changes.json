@@ -54,6 +54,15 @@
     "description": "DoorDash, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 220.65 $ (+16.1% a 3 meses)."
   },
   {
+    "id": "0adedef5da935e46",
+    "date": "2026-11-03",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-03: BPA real 26.93 $ vs estimado 26.00 $ (sorpresa +3.6%)."
+  },
+  {
     "id": "e92006ed0cd610b4",
     "date": "2026-11-02",
     "ticker": "IT",
