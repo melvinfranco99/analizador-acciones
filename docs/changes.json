@@ -63,6 +63,51 @@
     "description": "Resultados del 2026-11-03: BPA real 26.93 $ vs estimado 26.00 $ (sorpresa +3.6%)."
   },
   {
+    "id": "5b756a80f2f5f148",
+    "date": "2026-11-03",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amphenol Corporation sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "57dcd101df2c9845",
+    "date": "2026-11-03",
+    "ticker": "DASH",
+    "name": "DoorDash, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "DoorDash, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "dc7939c93cf2b183",
+    "date": "2026-11-03",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Booking Holdings Inc. entra en el Top 10 (puesto #7) con precio objetivo de 194.06 $ (+24.7% a 3 meses)."
+  },
+  {
+    "id": "f150f0da1fbb17ba",
+    "date": "2026-11-03",
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Microchip Technology Incorporated entra en el Top 10 (puesto #9) con precio objetivo de 91.91 $ (+18.0% a 3 meses)."
+  },
+  {
+    "id": "0d0022e6030871f5",
+    "date": "2026-11-03",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 274.00 $ a 265.00 $ (mantiene Buy)."
+  },
+  {
     "id": "e92006ed0cd610b4",
     "date": "2026-11-02",
     "ticker": "IT",
@@ -3240,6 +3285,15 @@
     "description": "Cantor Fitzgerald baja su precio objetivo de 260.00 $ a 240.00 $ (mantiene Overweight)."
   },
   {
+    "id": "ab827ddbacf7890c",
+    "date": "2026-10-12",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Cantor Fitzgerald baja su precio objetivo de 220.00 $ a 170.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "c08fd052669f175e",
     "date": "2026-10-09",
     "ticker": "ADSK",
@@ -3922,6 +3976,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 99.00 $ a 105.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "58b089dbf9747428",
+    "date": "2026-10-07",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 220.00 $ a 190.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "bc9922fa4dfdbf6d",
@@ -4786,6 +4849,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Stifel sube su precio objetivo de 285.00 $ a 290.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3ba545c192bd45c9",
+    "date": "2026-09-30",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 242.00 $ a 216.00 $ (mantiene Buy)."
   },
   {
     "id": "009dda56fd136c9d",
