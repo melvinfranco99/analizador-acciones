@@ -54,6 +54,231 @@
     "description": "Cantor Fitzgerald baja su precio objetivo de 170.00 $ a 150.00 $ (mantiene Neutral)."
   },
   {
+    "id": "5c894a56f3e5a458",
+    "date": "2026-11-04",
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Phillips 66 sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "e038114368bf7718",
+    "date": "2026-11-04",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Marathon Petroleum Corporation sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "fc926ee984358362",
+    "date": "2026-11-04",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "T-Mobile US, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "48c52a12aa41e3ba",
+    "date": "2026-11-04",
+    "ticker": "GNRC",
+    "name": "Generac Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Generac Holdings Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "805ce190b96661ee",
+    "date": "2026-11-04",
+    "ticker": "MCHP",
+    "name": "Microchip Technology Incorporated",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Microchip Technology Incorporated sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "c643025034a08d5b",
+    "date": "2026-11-04",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Zscaler, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "79bac049ccd9c7a7",
+    "date": "2026-11-04",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 318.58 $ a 337.85 $ (+6.0%)."
+  },
+  {
+    "id": "cce0af8ffe1ca9c1",
+    "date": "2026-11-04",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "The Estée Lauder Companies Inc. entra en el Top 10 (puesto #3) con precio objetivo de 129.69 $ (+15.8% a 3 meses)."
+  },
+  {
+    "id": "a2fc4a510cf387f0",
+    "date": "2026-11-04",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "First Solar, Inc. entra en el Top 10 (puesto #4) con precio objetivo de 234.37 $ (+20.5% a 3 meses)."
+  },
+  {
+    "id": "8a3ca737866908c0",
+    "date": "2026-11-04",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Wynn Resorts, Limited entra en el Top 10 (puesto #5) con precio objetivo de 102.01 $ (+23.8% a 3 meses)."
+  },
+  {
+    "id": "1dbdea83cb9f7c8a",
+    "date": "2026-11-04",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "EPAM Systems, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 170.04 $ (+23.8% a 3 meses)."
+  },
+  {
+    "id": "093139c5c0e258c1",
+    "date": "2026-11-04",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #8) con precio objetivo de 92.99 $ (+17.7% a 3 meses)."
+  },
+  {
+    "id": "34e9ba8ff0255a58",
+    "date": "2026-11-04",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "AppLovin Corporation entra en el Top 10 (puesto #9) con precio objetivo de 360.09 $ (+32.5% a 3 meses)."
+  },
+  {
+    "id": "a495af3eef8bdaf9",
+    "date": "2026-11-04",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 108.00 $ a 126.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "eeb448eb48037e6a",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 265.00 $ a 267.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "cccd64dba56d32d9",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 236.00 $ a 220.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3173aca429907c0b",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 248.00 $ a 205.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "394c0d3ce938324c",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 230.00 $ a 200.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "16ceb8710ab8ef11",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 215.00 $ a 200.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "f2becf397c5beb41",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 210.00 $ a 170.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "98391fe041807676",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 190.00 $ a 179.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "f7eca47e6c6edb50",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 220.00 $ a 205.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "dbb38b7c33c1e9e9",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wedbush baja su precio objetivo de 247.00 $ a 210.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "07aca2494456af5f",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B. Riley Securities baja su precio objetivo de 274.00 $ a 265.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "0ea577f9be68cf81",
+    "date": "2026-11-04",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 97.00 $ a 140.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "f950afb0da48636c",
     "date": "2026-11-03",
     "ticker": "GDDY",
@@ -171,6 +396,69 @@
     "description": "Resultados del 2026-11-03: BPA real 4.66 $ vs estimado 4.50 $ (sorpresa +3.6%)."
   },
   {
+    "id": "3f4e94c62cacefe1",
+    "date": "2026-11-03",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 115.00 $ a 121.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e452181795db5c1a",
+    "date": "2026-11-03",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 115.00 $ a 120.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "0a6481be3e24dcac",
+    "date": "2026-11-03",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 112.00 $ a 118.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "bb6db152703720eb",
+    "date": "2026-11-03",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 104.00 $ a 112.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2471bb3975d28968",
+    "date": "2026-11-03",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 100.00 $ a 115.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "bb1f29ad066c0801",
+    "date": "2026-11-03",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 95.00 $ a 110.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "769b034a8ac1d248",
+    "date": "2026-11-03",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 120.00 $ a 126.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "e92006ed0cd610b4",
     "date": "2026-11-02",
     "ticker": "IT",
@@ -259,6 +547,60 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Wedbush sube la recomendacion de Neutral a Outperform. Precio objetivo: 230.00 $."
+  },
+  {
+    "id": "16a50d2b1a7d52f1",
+    "date": "2026-11-02",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 259.00 $ a 230.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "b508c5d6b7243796",
+    "date": "2026-11-02",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 297.00 $ a 283.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ca9acecad463043c",
+    "date": "2026-11-02",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Guggenheim baja su precio objetivo de 299.00 $ a 297.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "e85afa24c2a2869f",
+    "date": "2026-11-02",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Baird baja su precio objetivo de 290.00 $ a 266.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "0cf8b4890f4596e3",
+    "date": "2026-11-02",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 140.00 $ a 160.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "6b3b480f960acaa6",
+    "date": "2026-11-02",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-02: BPA real 0.72 $ vs estimado 0.51 $ (sorpresa +41.9%)."
   },
   {
     "id": "1446ba9ecf8c7920",
@@ -513,6 +855,78 @@
     "description": "Needham baja su precio objetivo de 265.00 $ a 235.00 $ (mantiene Buy)."
   },
   {
+    "id": "fccf19462c85573f",
+    "date": "2026-10-30",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 252.00 $ a 233.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "d51dcb7de9db68bf",
+    "date": "2026-10-30",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 326.00 $ a 307.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "f52d37e40b068910",
+    "date": "2026-10-30",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 236.00 $ a 232.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "e4a9ab3599085df8",
+    "date": "2026-10-30",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 313.00 $ a 260.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "9efa5cbf45bb90a5",
+    "date": "2026-10-30",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "GLJ Research baja la recomendacion de Buy a Hold. Precio objetivo: 161.00 $."
+  },
+  {
+    "id": "7839bf844b4c4e33",
+    "date": "2026-10-30",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Evercore ISI Group baja su precio objetivo de 218.00 $ a 189.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "27276ea6b9d3bee9",
+    "date": "2026-10-30",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Needham baja su precio objetivo de 303.00 $ a 236.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "096b114bbe50e042",
+    "date": "2026-10-30",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Bernstein baja su precio objetivo de 197.00 $ a 169.00 $ (mantiene Underperform)."
+  },
+  {
     "id": "5ce7e2babb997275",
     "date": "2026-10-29",
     "ticker": "CRM",
@@ -747,6 +1161,15 @@
     "description": "Resultados del 2026-10-29: BPA real 1.06 $ vs estimado 0.81 $ (sorpresa +31.4%)."
   },
   {
+    "id": "9410163fbf61992a",
+    "date": "2026-10-29",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-29: BPA real 5.30 $ vs estimado 4.64 $ (sorpresa +14.3%)."
+  },
+  {
     "id": "d17c4723fecfac6f",
     "date": "2026-10-28",
     "ticker": "MSFT",
@@ -871,6 +1294,24 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-10-28: BPA real 2.54 $ vs estimado 2.43 $ (sorpresa +4.6%)."
+  },
+  {
+    "id": "3ab6077f80633f41",
+    "date": "2026-10-28",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 790.00 $ a 414.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "09172896bca9fed2",
+    "date": "2026-10-28",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 575.00 $ a 500.00 $ (mantiene Outperform)."
   },
   {
     "id": "256f48203f313a2c",
@@ -1026,6 +1467,15 @@
     "description": "Marvell Technology, Inc. entra en el Top 10 (puesto #3) con precio objetivo de 303.36 $ (+24.5% a 3 meses)."
   },
   {
+    "id": "c686511c9be7741d",
+    "date": "2026-10-27",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 282.00 $ a 299.00 $ (mantiene Buy)."
+  },
+  {
     "id": "1c50e1b32721b2de",
     "date": "2026-10-26",
     "ticker": "WDAY",
@@ -1159,6 +1609,24 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Wells Fargo baja su precio objetivo de 280.00 $ a 250.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "e236bde263b90f00",
+    "date": "2026-10-26",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 100.00 $ a 140.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "d17636ecdfcd18c9",
+    "date": "2026-10-26",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 125.00 $ a 156.00 $ (mantiene Overweight)."
   },
   {
     "id": "1674c2c7788a1e78",
@@ -1375,6 +1843,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Piper Sandler baja su precio objetivo de 303.00 $ a 279.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "ec30a7b0c4f8b7dd",
+    "date": "2026-10-23",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 115.00 $ a 125.00 $ (mantiene Overweight)."
   },
   {
     "id": "566f550aca56ff64",
@@ -1737,6 +2214,15 @@
     "description": "Pivotal Research sube su precio objetivo de 930.00 $ a 960.00 $ (mantiene Buy)."
   },
   {
+    "id": "2ea8b8dade72483d",
+    "date": "2026-10-22",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 90.00 $ a 109.00 $ (mantiene Hold)."
+  },
+  {
     "id": "7af8908e19e59d9d",
     "date": "2026-10-21",
     "ticker": "MSFT",
@@ -2052,6 +2538,33 @@
     "description": "Wells Fargo baja su precio objetivo de 88.00 $ a 80.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "64c4b7cecf3aa348",
+    "date": "2026-10-20",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 134.00 $ a 115.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "e0241c8fd3fd1ad4",
+    "date": "2026-10-20",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Stifel baja su precio objetivo de 143.00 $ a 120.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "72bf8f56205d72fd",
+    "date": "2026-10-20",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 125.00 $ a 110.00 $ (mantiene Buy)."
+  },
+  {
     "id": "c3804cca21517150",
     "date": "2026-10-19",
     "ticker": "MSFT",
@@ -2185,6 +2698,60 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 775.00 $ a 820.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "5f5bc39a9028f18b",
+    "date": "2026-10-19",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 256.00 $ a 252.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "f2ee7102787647d9",
+    "date": "2026-10-19",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 112.00 $ a 115.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "45c4fc8dc9c14f19",
+    "date": "2026-10-19",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 100.00 $ a 120.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "62064e9474663b50",
+    "date": "2026-10-19",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 128.00 $ a 120.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "9523585e13c3b948",
+    "date": "2026-10-19",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 131.00 $ a 125.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "3b12d2333b6e0166",
+    "date": "2026-10-19",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 600.00 $ a 500.00 $ (mantiene Buy)."
   },
   {
     "id": "45d9cf86794a23c7",
@@ -2484,6 +3051,24 @@
     "description": "Citigroup sube su precio objetivo de 800.00 $ a 895.00 $ (mantiene Buy)."
   },
   {
+    "id": "a4c9f6eacdc9004a",
+    "date": "2026-10-15",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 279.00 $ a 259.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "54ceee1e4507b7a6",
+    "date": "2026-10-15",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 102.00 $ a 112.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "571db89acfc9be10",
     "date": "2026-10-14",
     "ticker": "JBL",
@@ -2725,6 +3310,33 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Guggenheim sube su precio objetivo de 700.00 $ a 850.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "5b76b803ef7dc009",
+    "date": "2026-10-14",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 323.00 $ a 326.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "bc760404f876d45b",
+    "date": "2026-10-14",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Goldman Sachs baja su precio objetivo de 465.00 $ a 400.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "7354200026196221",
+    "date": "2026-10-14",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wedbush baja su precio objetivo de 610.00 $ a 560.00 $ (mantiene Outperform)."
   },
   {
     "id": "f1d08bff8de59838",
@@ -3096,6 +3708,15 @@
     "description": "Truist Securities sube su precio objetivo de 763.00 $ a 1000.00 $ (mantiene Buy)."
   },
   {
+    "id": "0959d63c57fa6b27",
+    "date": "2026-10-13",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 450.00 $ a 400.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "324391fd3df87488",
     "date": "2026-10-12",
     "ticker": "MU",
@@ -3357,6 +3978,33 @@
     "description": "Cantor Fitzgerald baja su precio objetivo de 220.00 $ a 170.00 $ (mantiene Neutral)."
   },
   {
+    "id": "4775cecc5f52593a",
+    "date": "2026-10-12",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Truist Securities sube la recomendacion de Hold a Buy. Precio objetivo: 270.00 $."
+  },
+  {
+    "id": "9b25516dc63727fb",
+    "date": "2026-10-12",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 135.00 $ a 103.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "0f02c71e2cccbf94",
+    "date": "2026-10-12",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Oppenheimer baja su precio objetivo de 560.00 $ a 490.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "c08fd052669f175e",
     "date": "2026-10-09",
     "ticker": "ADSK",
@@ -3436,6 +4084,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Mizuho sube su precio objetivo de 52.00 $ a 61.00 $ (mantiene Underperform)."
+  },
+  {
+    "id": "7ddef61c60594e77",
+    "date": "2026-10-09",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 136.00 $ a 128.00 $ (mantiene Overweight)."
   },
   {
     "id": "5d479a547381d39e",
@@ -3598,6 +4255,24 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Keybanc sube la recomendacion de Sector Weight a Overweight. Precio objetivo: 280.00 $."
+  },
+  {
+    "id": "66fb5c7d96bb6cbd",
+    "date": "2026-10-08",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Goldman Sachs baja su precio objetivo de 310.00 $ a 272.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3a6c3875330a9448",
+    "date": "2026-10-08",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Jefferies baja su precio objetivo de 550.00 $ a 375.00 $ (mantiene Buy)."
   },
   {
     "id": "daddb5665b8967d7",
@@ -4050,6 +4725,15 @@
     "description": "Wells Fargo baja su precio objetivo de 220.00 $ a 190.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "78beba3e9c0aa1d3",
+    "date": "2026-10-07",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Macquarie baja su precio objetivo de 143.00 $ a 132.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "bc9922fa4dfdbf6d",
     "date": "2026-10-06",
     "ticker": "IT",
@@ -4318,6 +5002,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 225.00 $ a 230.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "02378d461f16db69",
+    "date": "2026-10-05",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 104.00 $ a 95.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "ed1356a83f003f8b",
+    "date": "2026-10-05",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Barclays sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 108.00 $."
   },
   {
     "id": "4bec64be7b5d9018",
@@ -4923,6 +5625,15 @@
     "description": "Truist Securities baja su precio objetivo de 242.00 $ a 216.00 $ (mantiene Buy)."
   },
   {
+    "id": "41c5d5f5a157aa8c",
+    "date": "2026-09-30",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 260.00 $ a 251.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "009dda56fd136c9d",
     "date": "2026-09-29",
     "ticker": "CRM",
@@ -5047,6 +5758,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 225.00 $ a 305.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "ee92b466440f6e6e",
+    "date": "2026-09-28",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Keybanc sube la recomendacion de Underweight a Sector Weight."
   },
   {
     "id": "a2e2312aca4bf11c",
@@ -5560,6 +6280,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Jefferies sube su precio objetivo de 710.00 $ a 875.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f8ef28d8dedb516b",
+    "date": "2026-09-22",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "GLJ Research baja su precio objetivo de 315.00 $ a 250.00 $ (mantiene Buy)."
   },
   {
     "id": "ba6d037cbceab4e1",
@@ -6426,6 +7155,15 @@
     "description": "Wedbush sube su precio objetivo de 595.00 $ a 650.00 $ (mantiene Neutral)."
   },
   {
+    "id": "0a6db6759a1cd0d4",
+    "date": "2026-09-14",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 650.00 $ a 450.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "14b2d913a1596ab2",
     "date": "2026-09-11",
     "ticker": "NEM",
@@ -6613,6 +7351,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Stifel baja su precio objetivo de 220.00 $ a 200.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "fa868aa2e1f6285e",
+    "date": "2026-09-11",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 145.00 $ a 138.00 $ (mantiene Buy)."
   },
   {
     "id": "b6291541dbc994b1",
@@ -6901,6 +7648,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 175.00 $ a 205.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "4206866ec5b56fa6",
+    "date": "2026-09-08",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "BTIG baja su precio objetivo de 408.00 $ a 396.00 $ (mantiene Buy)."
   },
   {
     "id": "19f98374a33472c2",
@@ -8395,6 +9151,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-09-01: BPA real 1.90 $ vs estimado 1.61 $ (sorpresa +18.1%)."
+  },
+  {
+    "id": "cef72d8aa1a6fa39",
+    "date": "2026-09-01",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Evercore ISI Group baja su precio objetivo de 630.00 $ a 510.00 $ (mantiene Outperform)."
   },
   {
     "id": "83a36ca7b68aab21",
@@ -9990,6 +10755,15 @@
     "description": "Truist Securities baja su precio objetivo de 770.00 $ a 763.00 $ (mantiene Buy)."
   },
   {
+    "id": "fe23b356572bcc63",
+    "date": "2026-08-27",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "BMO Capital sube la recomendacion de Market Perform a Outperform. Precio objetivo: 263.00 $."
+  },
+  {
     "id": "4216a50735f70d54",
     "date": "2026-08-26",
     "ticker": "MU",
@@ -10168,6 +10942,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "JP Morgan sube su precio objetivo de 205.00 $ a 215.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7a75d9f409ab3103",
+    "date": "2026-08-26",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Deutsche Bank sube su precio objetivo de 272.00 $ a 299.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "cef1beb993fa3bd2",
+    "date": "2026-08-26",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Needham baja su precio objetivo de 500.00 $ a 475.00 $ (mantiene Buy)."
   },
   {
     "id": "6cf742496a1fb44a",
@@ -10845,6 +11637,24 @@
     "description": "Keybanc sube su precio objetivo de 185.00 $ a 210.00 $ (mantiene Overweight)."
   },
   {
+    "id": "f9fed7da48880d09",
+    "date": "2026-08-21",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 80.00 $ a 97.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "29f8401aa20accfa",
+    "date": "2026-08-21",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 385.00 $ a 325.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "74cf6cc05fc3bdf4",
     "date": "2026-08-20",
     "ticker": "BKNG",
@@ -11050,6 +11860,123 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wedbush sube su precio objetivo de 205.00 $ a 220.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "382c7a8f10a39ea3",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 88.00 $ a 100.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "d78f3868d3100f70",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Canaccord Genuity sube su precio objetivo de 85.00 $ a 90.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "212591d5e9bdcad4",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Telsey Advisory Group sube su precio objetivo de 90.00 $ a 108.00 $ (mantiene Market Perform)."
+  },
+  {
+    "id": "9d37cd6d28335d33",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 110.00 $ a 115.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3f6ba8c89fe4718c",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 100.00 $ a 112.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d452093233a434d5",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 94.00 $ a 112.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "4576acb777ed2130",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 90.00 $ a 102.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "6f482574292c9f44",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 86.00 $ a 106.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2a12e5ed99397aa5",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 95.00 $ a 115.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "fb0aa11ac58b0bb0",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 85.00 $ a 104.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "7fc911213abfc725",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 90.00 $ a 100.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "9bf09a5f984493ad",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 111.00 $ a 120.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "7a234d068a7c2c65",
+    "date": "2026-08-20",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B. Riley Securities sube su precio objetivo de 85.00 $ a 100.00 $ (mantiene Neutral)."
   },
   {
     "id": "3b93195006e4315d",
@@ -11430,6 +12357,24 @@
     "description": "Stifel sube su precio objetivo de 175.00 $ a 200.00 $ (mantiene Buy)."
   },
   {
+    "id": "6bd3c2c48e98e02d",
+    "date": "2026-08-19",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 357.00 $ a 325.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "8820f3b0469530fd",
+    "date": "2026-08-19",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-19: BPA real 0.39 $ vs estimado 0.32 $ (sorpresa +22.1%)."
+  },
+  {
     "id": "3e63e83fb083b335",
     "date": "2026-08-18",
     "ticker": "APH",
@@ -11664,6 +12609,15 @@
     "description": "TD Cowen sube su precio objetivo de 200.00 $ a 225.00 $ (mantiene Hold)."
   },
   {
+    "id": "f1366e3eec4b97c7",
+    "date": "2026-08-18",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 245.00 $ a 323.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "c9c6e3f7bb563cfc",
     "date": "2026-08-17",
     "ticker": "SWK",
@@ -11896,6 +12850,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 180.00 $ a 210.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "7762fa7d248bab63",
+    "date": "2026-08-17",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Evercore ISI Group baja su precio objetivo de 219.00 $ a 218.00 $ (mantiene In-Line)."
+  },
+  {
+    "id": "9db0acca7db68a70",
+    "date": "2026-08-17",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Benchmark baja su precio objetivo de 500.00 $ a 440.00 $ (mantiene Buy)."
   },
   {
     "id": "1a0219f05df38afb",
@@ -12393,6 +13365,15 @@
     "description": "Rosenblatt sube su precio objetivo de 45.00 $ a 51.00 $ (mantiene Buy)."
   },
   {
+    "id": "01b84455ed54c63a",
+    "date": "2026-08-12",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "BTIG baja su precio objetivo de 574.00 $ a 408.00 $ (mantiene Buy)."
+  },
+  {
     "id": "f499ddb7ceee3b44",
     "date": "2026-08-11",
     "ticker": "MPC",
@@ -12463,6 +13444,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Susquehanna sube su precio objetivo de 155.00 $ a 161.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "a04c71d188731668",
+    "date": "2026-08-11",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "B of A Securities baja la recomendacion de Buy a Neutral. Precio objetivo: 400.00 $."
   },
   {
     "id": "2f725a6288c1eea1",
@@ -13068,6 +14058,24 @@
     "description": "Susquehanna sube su precio objetivo de 225.00 $ a 250.00 $ (mantiene Positive)."
   },
   {
+    "id": "b4d5c96a96404033",
+    "date": "2026-08-07",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 300.00 $ a 313.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "cb2ace6c9befd720",
+    "date": "2026-08-07",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 710.00 $ a 650.00 $ (mantiene Buy)."
+  },
+  {
     "id": "d726d884ec570407",
     "date": "2026-08-06",
     "ticker": "MPC",
@@ -13336,5 +14344,122 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Cantor Fitzgerald sube su precio objetivo de 230.00 $ a 260.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "10bbb777f9628ccc",
+    "date": "2026-08-06",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Argus Research sube su precio objetivo de 115.00 $ a 130.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "b219ce34aa4129c3",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 798.00 $ a 790.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "5be4bb61f27fa804",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Macquarie baja su precio objetivo de 730.00 $ a 620.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "ff97b8f176c7b427",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 720.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "a361b0d7ee035654",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Piper Sandler baja la recomendacion de Overweight a Neutral. Precio objetivo: 385.00 $."
+  },
+  {
+    "id": "b455cec38b5e72a5",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 700.00 $ a 575.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "8062d7c400593739",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wedbush baja su precio objetivo de 640.00 $ a 610.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "1d591ab126da242b",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Benchmark baja su precio objetivo de 775.00 $ a 500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "c5e1cae1060df8f5",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Goldman Sachs baja su precio objetivo de 585.00 $ a 465.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "6663e5124787356e",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Needham baja su precio objetivo de 700.00 $ a 500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "d07f4bf61dd4d5ba",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Wells Fargo baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 357.00 $."
+  },
+  {
+    "id": "30a75b7bca272f22",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B of A Securities baja su precio objetivo de 705.00 $ a 430.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ac95ea731ab73f21",
+    "date": "2026-08-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "BTIG baja su precio objetivo de 640.00 $ a 574.00 $ (mantiene Buy)."
   }
 ]

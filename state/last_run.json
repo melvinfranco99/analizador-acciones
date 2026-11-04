@@ -1,72 +1,72 @@
 {
-  "PSX": {
-    "rank": 1,
-    "name": "Phillips 66",
-    "target_price": 319.49,
-    "upside_pct": 17.5,
-    "total_score": 85.8
-  },
   "ACN": {
-    "rank": 2,
+    "rank": 1,
     "name": "Accenture plc",
-    "target_price": 318.58,
-    "upside_pct": 25.1,
-    "total_score": 79.3
-  },
-  "MPC": {
-    "rank": 3,
-    "name": "Marathon Petroleum Corporation",
-    "target_price": 521.18,
-    "upside_pct": 22.0,
-    "total_score": 75.3
-  },
-  "TMUS": {
-    "rank": 4,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 190.03,
-    "upside_pct": 23.1,
-    "total_score": 75.3
-  },
-  "PDD": {
-    "rank": 5,
-    "name": "PDD Holdings Inc.",
-    "target_price": 97.53,
-    "upside_pct": 21.6,
-    "total_score": 74.3
-  },
-  "GNRC": {
-    "rank": 6,
-    "name": "Generac Holdings Inc.",
-    "target_price": 249.25,
-    "upside_pct": 19.1,
-    "total_score": 73.3
+    "target_price": 337.85,
+    "upside_pct": 27.8,
+    "total_score": 84.1
   },
   "BKNG": {
-    "rank": 7,
+    "rank": 2,
     "name": "Booking Holdings Inc.",
-    "target_price": 193.49,
-    "upside_pct": 24.3,
-    "total_score": 72.1
+    "target_price": 201.14,
+    "upside_pct": 17.6,
+    "total_score": 80.3
+  },
+  "EL": {
+    "rank": 3,
+    "name": "The Estée Lauder Companies Inc.",
+    "target_price": 129.69,
+    "upside_pct": 15.8,
+    "total_score": 76.8
+  },
+  "FSLR": {
+    "rank": 4,
+    "name": "First Solar, Inc.",
+    "target_price": 234.37,
+    "upside_pct": 20.5,
+    "total_score": 76.6
+  },
+  "WYNN": {
+    "rank": 5,
+    "name": "Wynn Resorts, Limited",
+    "target_price": 102.01,
+    "upside_pct": 23.8,
+    "total_score": 76.4
+  },
+  "PDD": {
+    "rank": 6,
+    "name": "PDD Holdings Inc.",
+    "target_price": 98.58,
+    "upside_pct": 20.0,
+    "total_score": 74.3
+  },
+  "EPAM": {
+    "rank": 7,
+    "name": "EPAM Systems, Inc.",
+    "target_price": 170.04,
+    "upside_pct": 23.8,
+    "total_score": 73.7
+  },
+  "APH": {
+    "rank": 8,
+    "name": "Amphenol Corporation",
+    "target_price": 92.99,
+    "upside_pct": 17.7,
+    "total_score": 72.3
+  },
+  "APP": {
+    "rank": 9,
+    "name": "AppLovin Corporation",
+    "target_price": 360.09,
+    "upside_pct": 32.5,
+    "total_score": 72.0
   },
   "META": {
-    "rank": 8,
-    "name": "Meta Platforms, Inc.",
-    "target_price": 734.7,
-    "upside_pct": 18.3,
-    "total_score": 71.6
-  },
-  "MCHP": {
-    "rank": 9,
-    "name": "Microchip Technology Incorporated",
-    "target_price": 91.91,
-    "upside_pct": 18.0,
-    "total_score": 70.3
-  },
-  "ZS": {
     "rank": 10,
-    "name": "Zscaler, Inc.",
-    "target_price": 269.26,
-    "upside_pct": 19.6,
-    "total_score": 70.1
+    "name": "Meta Platforms, Inc.",
+    "target_price": 739.19,
+    "upside_pct": 17.3,
+    "total_score": 71.6
   }
 }
