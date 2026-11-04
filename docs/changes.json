@@ -1,5 +1,59 @@
 [
   {
+    "id": "721d1bdcb5f5a55a",
+    "date": "2026-11-04",
+    "ticker": "MPC",
+    "name": "Marathon Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 453.00 $ a 458.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "c03b156f8eab982a",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Evercore ISI Group baja su precio objetivo de 270.00 $ a 250.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "0628276cb9180ec6",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Susquehanna baja su precio objetivo de 240.00 $ a 200.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "77ee40b1ac335d64",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Rosenblatt baja su precio objetivo de 245.00 $ a 210.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "70efafcb5ac2fe2e",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B of A Securities baja su precio objetivo de 232.00 $ a 219.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "7bf8d6714894a1d1",
+    "date": "2026-11-04",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Cantor Fitzgerald baja su precio objetivo de 170.00 $ a 150.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "f950afb0da48636c",
     "date": "2026-11-03",
     "ticker": "GDDY",
