@@ -20,26 +20,26 @@
     "upside_pct": 25.1,
     "total_score": 79.3
   },
-  "TMUS": {
-    "rank": 4,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 190.03,
-    "upside_pct": 23.1,
-    "total_score": 75.3
-  },
   "PDD": {
-    "rank": 5,
+    "rank": 4,
     "name": "PDD Holdings Inc.",
-    "target_price": 97.64,
-    "upside_pct": 21.8,
+    "target_price": 97.45,
+    "upside_pct": 21.5,
     "total_score": 74.3
   },
   "GNRC": {
-    "rank": 6,
+    "rank": 5,
     "name": "Generac Holdings Inc.",
     "target_price": 249.25,
     "upside_pct": 19.1,
     "total_score": 73.3
+  },
+  "TMUS": {
+    "rank": 6,
+    "name": "T-Mobile US, Inc.",
+    "target_price": 190.03,
+    "upside_pct": 23.1,
+    "total_score": 72.5
   },
   "BKNG": {
     "rank": 7,
