@@ -1,5 +1,104 @@
 [
   {
+    "id": "1b7688d1974a0ae9",
+    "date": "2026-11-05",
+    "ticker": "EL",
+    "name": "The Estée Lauder Companies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "The Estée Lauder Companies Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "8986186303d8707d",
+    "date": "2026-11-05",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Wynn Resorts, Limited sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "ffe63bf769d60a1b",
+    "date": "2026-11-05",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amphenol Corporation sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "8cfa1ad28e33402b",
+    "date": "2026-11-05",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "AppLovin Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "81d3d621d9ca24e5",
+    "date": "2026-11-05",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "GoDaddy Inc. entra en el Top 10 (puesto #1) con precio objetivo de 139.78 $ (+16.1% a 3 meses)."
+  },
+  {
+    "id": "fe39f3858f1961bd",
+    "date": "2026-11-05",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 170.04 $ a 221.32 $ (+30.2%)."
+  },
+  {
+    "id": "b013c05c1586a470",
+    "date": "2026-11-05",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "T-Mobile US, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 192.61 $ (+20.7% a 3 meses)."
+  },
+  {
+    "id": "ff59037291b53107",
+    "date": "2026-11-05",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Moderna, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 328.62 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "bc3bf5da84707d9b",
+    "date": "2026-11-05",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Take-Two Interactive Software, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 249.27 $ (+17.4% a 3 meses)."
+  },
+  {
+    "id": "f89d3051d8f87f7f",
+    "date": "2026-11-05",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "William Blair sube la recomendacion de Market Perform a Outperform."
+  },
+  {
+    "id": "10c626bc243aa9e2",
+    "date": "2026-11-05",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-05: BPA real 3.51 $ vs estimado 3.41 $ (sorpresa +3.1%)."
+  },
+  {
     "id": "721d1bdcb5f5a55a",
     "date": "2026-11-04",
     "ticker": "MPC",
@@ -286,6 +385,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-11-04: BPA real 4.30 $ vs estimado 4.03 $ (sorpresa +6.7%)."
+  },
+  {
+    "id": "1fed5f2b9741d1ac",
+    "date": "2026-11-04",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "BTIG baja su precio objetivo de 313.00 $ a 262.00 $ (mantiene Buy)."
   },
   {
     "id": "f950afb0da48636c",
@@ -610,6 +718,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-11-02: BPA real 0.72 $ vs estimado 0.51 $ (sorpresa +41.9%)."
+  },
+  {
+    "id": "01fb6ca9b2d54206",
+    "date": "2026-11-02",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 105.00 $ a 135.00 $ (mantiene Buy)."
   },
   {
     "id": "1446ba9ecf8c7920",
@@ -1485,6 +1602,24 @@
     "description": "Guggenheim sube su precio objetivo de 282.00 $ a 299.00 $ (mantiene Buy)."
   },
   {
+    "id": "28d4c27ec584fdc8",
+    "date": "2026-10-27",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "William Blair baja la recomendacion de Outperform a Market Perform."
+  },
+  {
+    "id": "82ee3f231d6444ba",
+    "date": "2026-10-27",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B of A Securities baja su precio objetivo de 368.00 $ a 330.00 $ (mantiene Buy)."
+  },
+  {
     "id": "1c50e1b32721b2de",
     "date": "2026-10-26",
     "ticker": "WDAY",
@@ -1636,6 +1771,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 125.00 $ a 156.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "0f140fdad853f507",
+    "date": "2026-10-26",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 167.00 $ a 230.00 $ (mantiene Overweight)."
   },
   {
     "id": "1674c2c7788a1e78",
@@ -2367,6 +2511,15 @@
     "description": "Resultados del 2026-10-21: BPA real 3.83 $ vs estimado 5.42 $ (sorpresa -29.3%)."
   },
   {
+    "id": "3b3ad0560f4d56a3",
+    "date": "2026-10-21",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 40.00 $ a 90.00 $ (mantiene Hold)."
+  },
+  {
     "id": "becd22de87f9aba3",
     "date": "2026-10-20",
     "ticker": "TEAM",
@@ -3076,6 +3229,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 102.00 $ a 112.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "19e5ca779da8eb2e",
+    "date": "2026-10-15",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 120.00 $ a 137.00 $ (mantiene Neutral)."
   },
   {
     "id": "571db89acfc9be10",
@@ -4743,6 +4905,15 @@
     "description": "Macquarie baja su precio objetivo de 143.00 $ a 132.00 $ (mantiene Outperform)."
   },
   {
+    "id": "85c9437611571662",
+    "date": "2026-10-07",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 89.00 $ a 95.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "bc9922fa4dfdbf6d",
     "date": "2026-10-06",
     "ticker": "IT",
@@ -5641,6 +5812,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Piper Sandler baja su precio objetivo de 260.00 $ a 251.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "c95756cc13547d7e",
+    "date": "2026-09-30",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Citigroup baja la recomendacion de Neutral a Sell. Precio objetivo: 80.00 $."
   },
   {
     "id": "009dda56fd136c9d",
@@ -8424,6 +8604,15 @@
     "description": "Resultados del 2026-09-03: BPA real 1.19 $ vs estimado 1.09 $ (sorpresa +9.2%)."
   },
   {
+    "id": "24c5ed0fde02fdbc",
+    "date": "2026-09-03",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Rothschild & Co baja la recomendacion de Neutral a Sell. Precio objetivo: 81.00 $."
+  },
+  {
     "id": "7a0b1ec046d31bda",
     "date": "2026-09-02",
     "ticker": "ORCL",
@@ -9981,6 +10170,15 @@
     "description": "B of A Securities baja su precio objetivo de 685.00 $ a 650.00 $ (mantiene Buy)."
   },
   {
+    "id": "3361324d1f8702c2",
+    "date": "2026-08-28",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Argus Research sube la recomendacion de Hold a Buy. Precio objetivo: 180.00 $."
+  },
+  {
     "id": "e6e3783f7f24cc6c",
     "date": "2026-08-27",
     "ticker": "ROP",
@@ -11214,6 +11412,15 @@
     "description": "Evercore ISI Group sube su precio objetivo de 820.00 $ a 860.00 $ (mantiene Outperform)."
   },
   {
+    "id": "d394022e76280227",
+    "date": "2026-08-25",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Wolfe Research sube la recomendacion de Underperform a Peer Perform."
+  },
+  {
     "id": "af4ab1995538e12c",
     "date": "2026-08-24",
     "ticker": "PAYX",
@@ -11419,6 +11626,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-24: BPA real 19.33 $ vs estimado 18.35 $ (sorpresa +5.3%)."
+  },
+  {
+    "id": "853da62200e09fe3",
+    "date": "2026-08-24",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 48.00 $ a 125.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "cef957e3c4f90e0f",
@@ -11662,6 +11878,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Piper Sandler baja su precio objetivo de 385.00 $ a 325.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "5556ea213f871ea4",
+    "date": "2026-08-21",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 40.00 $ a 77.00 $ (mantiene Underweight)."
   },
   {
     "id": "74cf6cc05fc3bdf4",
@@ -11986,6 +12211,33 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "B. Riley Securities sube su precio objetivo de 85.00 $ a 100.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "2d4eb49858968161",
+    "date": "2026-08-20",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 67.00 $ a 120.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "3259cbb3b96c3ad4",
+    "date": "2026-08-20",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 50.00 $ a 150.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "74c73f7e40e88e44",
+    "date": "2026-08-20",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 39.00 $ a 89.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "3b93195006e4315d",
@@ -12382,6 +12634,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-08-19: BPA real 0.39 $ vs estimado 0.32 $ (sorpresa +22.1%)."
+  },
+  {
+    "id": "1777e61ecec09686",
+    "date": "2026-08-19",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "William Blair sube la recomendacion de Market Perform a Outperform."
   },
   {
     "id": "3e63e83fb083b335",
@@ -13572,6 +13833,51 @@
     "description": "Roth Capital sube su precio objetivo de 200.00 $ a 220.00 $ (mantiene Neutral)."
   },
   {
+    "id": "3dd0e8f1384f1c4e",
+    "date": "2026-08-10",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Roth Capital sube su precio objetivo de 295.00 $ a 300.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "1f5f8d710a73fbdb",
+    "date": "2026-08-10",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 265.00 $ a 280.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "1843b7499e20e591",
+    "date": "2026-08-10",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 289.00 $ a 300.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1f086a586ba10199",
+    "date": "2026-08-10",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Baird sube su precio objetivo de 265.00 $ a 270.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "f8e3db79ce5df7d3",
+    "date": "2026-08-10",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 293.00 $ a 313.00 $ (mantiene Buy)."
+  },
+  {
     "id": "5071cbf24baecbbc",
     "date": "2026-08-08",
     "ticker": "TEAM",
@@ -14083,5 +14389,14 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Citigroup baja su precio objetivo de 710.00 $ a 650.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "07578252fc273459",
+    "date": "2026-08-07",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-07: BPA real -0.18 $ vs estimado -0.21 $ (sorpresa +13.9%)."
   }
 ]

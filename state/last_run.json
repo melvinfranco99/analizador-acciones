@@ -1,72 +1,72 @@
 {
-  "ACN": {
+  "GDDY": {
     "rank": 1,
+    "name": "GoDaddy Inc.",
+    "target_price": 139.78,
+    "upside_pct": 16.1,
+    "total_score": 85.6
+  },
+  "ACN": {
+    "rank": 2,
     "name": "Accenture plc",
-    "target_price": 337.85,
-    "upside_pct": 27.8,
+    "target_price": 341.5,
+    "upside_pct": 27.1,
     "total_score": 84.1
   },
-  "BKNG": {
-    "rank": 2,
-    "name": "Booking Holdings Inc.",
-    "target_price": 201.14,
-    "upside_pct": 17.6,
-    "total_score": 80.3
-  },
-  "EL": {
-    "rank": 3,
-    "name": "The Estée Lauder Companies Inc.",
-    "target_price": 129.69,
-    "upside_pct": 15.8,
-    "total_score": 76.8
-  },
-  "FSLR": {
-    "rank": 4,
-    "name": "First Solar, Inc.",
-    "target_price": 234.37,
-    "upside_pct": 20.5,
-    "total_score": 76.6
-  },
-  "WYNN": {
-    "rank": 5,
-    "name": "Wynn Resorts, Limited",
-    "target_price": 102.01,
-    "upside_pct": 23.8,
-    "total_score": 76.4
-  },
   "PDD": {
-    "rank": 6,
+    "rank": 3,
     "name": "PDD Holdings Inc.",
-    "target_price": 98.54,
-    "upside_pct": 20.0,
+    "target_price": 99.43,
+    "upside_pct": 18.5,
     "total_score": 74.3
   },
+  "BKNG": {
+    "rank": 4,
+    "name": "Booking Holdings Inc.",
+    "target_price": 199.55,
+    "upside_pct": 18.9,
+    "total_score": 74.2
+  },
   "EPAM": {
-    "rank": 7,
+    "rank": 5,
     "name": "EPAM Systems, Inc.",
-    "target_price": 170.04,
-    "upside_pct": 23.8,
-    "total_score": 73.7
+    "target_price": 221.32,
+    "upside_pct": 34.5,
+    "total_score": 73.8
   },
-  "APH": {
+  "FSLR": {
+    "rank": 6,
+    "name": "First Solar, Inc.",
+    "target_price": 236.15,
+    "upside_pct": 19.2,
+    "total_score": 72.5
+  },
+  "TMUS": {
+    "rank": 7,
+    "name": "T-Mobile US, Inc.",
+    "target_price": 192.61,
+    "upside_pct": 20.7,
+    "total_score": 72.5
+  },
+  "MRNA": {
     "rank": 8,
-    "name": "Amphenol Corporation",
-    "target_price": 92.99,
-    "upside_pct": 17.7,
-    "total_score": 72.3
-  },
-  "APP": {
-    "rank": 9,
-    "name": "AppLovin Corporation",
-    "target_price": 360.09,
-    "upside_pct": 32.5,
-    "total_score": 72.0
+    "name": "Moderna, Inc.",
+    "target_price": 328.62,
+    "upside_pct": 35.0,
+    "total_score": 72.2
   },
   "META": {
-    "rank": 10,
+    "rank": 9,
     "name": "Meta Platforms, Inc.",
-    "target_price": 739.19,
-    "upside_pct": 17.3,
+    "target_price": 727.97,
+    "upside_pct": 19.8,
     "total_score": 71.6
+  },
+  "TTWO": {
+    "rank": 10,
+    "name": "Take-Two Interactive Software, Inc.",
+    "target_price": 249.27,
+    "upside_pct": 17.4,
+    "total_score": 70.4
   }
 }
