@@ -18,6 +18,15 @@
     "description": "Charter Communications, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 148.40 $ (+17.9% a 3 meses)."
   },
   {
+    "id": "0be619706dae97db",
+    "date": "2026-11-06",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 146.00 $ a 190.00 $ (mantiene Positive)."
+  },
+  {
     "id": "1b7688d1974a0ae9",
     "date": "2026-11-05",
     "ticker": "EL",
