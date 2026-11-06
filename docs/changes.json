@@ -1,5 +1,23 @@
 [
   {
+    "id": "c6679a08322739f5",
+    "date": "2026-11-06",
+    "ticker": "META",
+    "name": "Meta Platforms, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Meta Platforms, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "6875b22e2e4cf353",
+    "date": "2026-11-06",
+    "ticker": "CHTR",
+    "name": "Charter Communications, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Charter Communications, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 148.40 $ (+17.9% a 3 meses)."
+  },
+  {
     "id": "1b7688d1974a0ae9",
     "date": "2026-11-05",
     "ticker": "EL",
@@ -97,6 +115,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-11-05: BPA real 3.51 $ vs estimado 3.41 $ (sorpresa +3.1%)."
+  },
+  {
+    "id": "186c21f777ad3683",
+    "date": "2026-11-05",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 120.00 $ a 200.00 $ (mantiene Buy)."
   },
   {
     "id": "721d1bdcb5f5a55a",
@@ -574,6 +601,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "RBC Capital sube su precio objetivo de 120.00 $ a 126.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "54ecc2e1dadeb82e",
+    "date": "2026-11-03",
+    "ticker": "CHTR",
+    "name": "Charter Communications, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 180.00 $ a 140.00 $ (mantiene Buy)."
   },
   {
     "id": "e92006ed0cd610b4",
@@ -5958,6 +5994,15 @@
     "description": "Keybanc sube la recomendacion de Underweight a Sector Weight."
   },
   {
+    "id": "2bd0d946d24e9988",
+    "date": "2026-09-28",
+    "ticker": "CHTR",
+    "name": "Charter Communications, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Morgan Stanley baja su precio objetivo de 150.00 $ a 140.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "a2e2312aca4bf11c",
     "date": "2026-09-25",
     "ticker": "MDB",
@@ -7351,6 +7396,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Morgan Stanley baja su precio objetivo de 650.00 $ a 450.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "03506d2adb37759d",
+    "date": "2026-09-14",
+    "ticker": "CHTR",
+    "name": "Charter Communications, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Wolfe Research baja la recomendacion de Peer Perform a Underperform. Precio objetivo: 118.00 $."
   },
   {
     "id": "14b2d913a1596ab2",
@@ -13894,509 +13948,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "DA Davidson sube su precio objetivo de 162.00 $ a 175.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "c3e6e4b917b4a8e7",
-    "date": "2026-08-07",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Citigroup baja su precio objetivo de 1400.00 $ a 1150.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "fb803d07f69a5ce5",
-    "date": "2026-08-07",
-    "ticker": "WDC",
-    "name": "Western Digital Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Citigroup baja su precio objetivo de 800.00 $ a 740.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "153f2439c20901e4",
-    "date": "2026-08-07",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 74.00 $ a 86.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "db084fb1ac69a1f5",
-    "date": "2026-08-07",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 60.00 $ a 92.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "a4b4873059cca69e",
-    "date": "2026-08-07",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Guggenheim sube su precio objetivo de 85.00 $ a 95.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "2f8ad75bbfd1a1af",
-    "date": "2026-08-07",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Piper Sandler sube su precio objetivo de 70.00 $ a 80.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "d5092090d88e7352",
-    "date": "2026-08-07",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 61.00 $ a 76.00 $ (mantiene Underweight)."
-  },
-  {
-    "id": "cc293885b8ac0374",
-    "date": "2026-08-07",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Evercore ISI Group sube su precio objetivo de 72.00 $ a 83.00 $ (mantiene In-Line)."
-  },
-  {
-    "id": "7c1c1d1039b0123f",
-    "date": "2026-08-07",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Cantor Fitzgerald sube su precio objetivo de 80.00 $ a 85.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "a25c6795d9f8b287",
-    "date": "2026-08-07",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 82.00 $ a 94.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "412cf349b70bdf2e",
-    "date": "2026-08-07",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 100.00 $."
-  },
-  {
-    "id": "1fbe86910538ab2f",
-    "date": "2026-08-07",
-    "ticker": "ETSY",
-    "name": "Etsy, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Needham sube su precio objetivo de 85.00 $ a 100.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "36a0f0f5c966cea5",
-    "date": "2026-08-07",
-    "ticker": "TEAM",
-    "name": "Atlassian Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "TD Cowen sube su precio objetivo de 105.00 $ a 145.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "3f144073600cbbb2",
-    "date": "2026-08-07",
-    "ticker": "TEAM",
-    "name": "Atlassian Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 120.00 $ a 180.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "180e27ce6fe6ba58",
-    "date": "2026-08-07",
-    "ticker": "TEAM",
-    "name": "Atlassian Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Guggenheim sube su precio objetivo de 115.00 $ a 165.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "379ff763183d34cf",
-    "date": "2026-08-07",
-    "ticker": "TEAM",
-    "name": "Atlassian Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Macquarie sube su precio objetivo de 130.00 $ a 170.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "134ae52fefcf53ed",
-    "date": "2026-08-07",
-    "ticker": "TEAM",
-    "name": "Atlassian Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 140.00 $ a 180.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "9fee80a3402a668e",
-    "date": "2026-08-07",
-    "ticker": "TEAM",
-    "name": "Atlassian Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Keybanc sube su precio objetivo de 115.00 $ a 185.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "30223c392fc497a4",
-    "date": "2026-08-07",
-    "ticker": "TEAM",
-    "name": "Atlassian Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Oppenheimer sube su precio objetivo de 110.00 $ a 200.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "1973f726b42c2996",
-    "date": "2026-08-07",
-    "ticker": "TEAM",
-    "name": "Atlassian Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Truist Securities sube su precio objetivo de 100.00 $ a 160.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "30ce916a504c68cd",
-    "date": "2026-08-07",
-    "ticker": "TEAM",
-    "name": "Atlassian Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "BTIG sube su precio objetivo de 130.00 $ a 180.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "5a1381c16234e85b",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 163.00 $ a 172.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "d86ee15aee8c9215",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 175.00 $ a 193.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "17601a82783eb55f",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "RBC Capital sube su precio objetivo de 173.00 $ a 195.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "438c81771d69fe86",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Benchmark sube su precio objetivo de 160.00 $ a 180.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "aff7f62b9508192b",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Piper Sandler sube su precio objetivo de 145.00 $ a 170.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "0e52d436231a1623",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "JP Morgan sube su precio objetivo de 140.00 $ a 170.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "51058e3fd5876298",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 181.00 $ a 186.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "bf868bdf5747a844",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citizens sube su precio objetivo de 170.00 $ a 190.00 $ (mantiene Market Outperform)."
-  },
-  {
-    "id": "01201de4cfd1ea8c",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "Wedbush sube la recomendacion de Neutral a Outperform. Precio objetivo: 200.00 $."
-  },
-  {
-    "id": "9d4c6c0338032862",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Oppenheimer sube su precio objetivo de 180.00 $ a 190.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "c5650b731fdd7a64",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Susquehanna sube su precio objetivo de 170.00 $ a 200.00 $ (mantiene Positive)."
-  },
-  {
-    "id": "349fa75db5829329",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Cantor Fitzgerald sube su precio objetivo de 140.00 $ a 160.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "50f56dc3975ddea5",
-    "date": "2026-08-07",
-    "ticker": "AMGN",
-    "name": "Amgen Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 345.00 $ a 405.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "e5709eaa31c32487",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Baird sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "8021d7ddd99ccac8",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 125.00 $ a 150.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "5f56b3f7c27409a2",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "B of A Securities sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "2a5818eec37eeb78",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "B. Riley Securities sube su precio objetivo de 180.00 $ a 210.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "5351c4cd37131f3f",
-    "date": "2026-08-07",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Canaccord Genuity sube su precio objetivo de 180.00 $ a 200.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "fe365844de9d6232",
-    "date": "2026-08-07",
-    "ticker": "FOXA",
-    "name": "Fox Corporation",
-    "category": "analista",
-    "type": "downgrade_analista",
-    "description": "Seaport Global baja la recomendacion de Buy a Neutral."
-  },
-  {
-    "id": "7935e42940b46738",
-    "date": "2026-08-07",
-    "ticker": "EPAM",
-    "name": "EPAM Systems, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "TD Cowen baja su precio objetivo de 131.00 $ a 120.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "cf8d1b9f7bf70dc2",
-    "date": "2026-08-07",
-    "ticker": "EPAM",
-    "name": "EPAM Systems, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "JP Morgan baja su precio objetivo de 142.00 $ a 120.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "b4ea11cdb1ee88db",
-    "date": "2026-08-07",
-    "ticker": "EPAM",
-    "name": "EPAM Systems, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Truist Securities baja su precio objetivo de 112.00 $ a 110.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "00ab9a5e6936c408",
-    "date": "2026-08-07",
-    "ticker": "EPAM",
-    "name": "EPAM Systems, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Susquehanna baja su precio objetivo de 167.00 $ a 146.00 $ (mantiene Positive)."
-  },
-  {
-    "id": "fb27308f56004a6a",
-    "date": "2026-08-07",
-    "ticker": "GEN",
-    "name": "Gen Digital Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "RBC Capital sube su precio objetivo de 27.00 $ a 30.00 $ (mantiene Sector Perform)."
-  },
-  {
-    "id": "fbe1818cad8334ba",
-    "date": "2026-08-07",
-    "ticker": "GEN",
-    "name": "Gen Digital Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 27.00 $ a 32.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "b971eab2aff6cb7a",
-    "date": "2026-08-07",
-    "ticker": "GEN",
-    "name": "Gen Digital Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 22.00 $ a 28.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "07b90fcf19b2d3e1",
-    "date": "2026-08-07",
-    "ticker": "COP",
-    "name": "ConocoPhillips",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 183.00 $ a 189.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "cad400fc534524c0",
-    "date": "2026-08-07",
-    "ticker": "MCHP",
-    "name": "Microchip Technology Incorporated",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "UBS baja su precio objetivo de 130.00 $ a 120.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "bc7e057251d6ac25",
-    "date": "2026-08-07",
-    "ticker": "MCHP",
-    "name": "Microchip Technology Incorporated",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Citigroup baja su precio objetivo de 113.00 $ a 95.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "f6a27d7328c9658c",
-    "date": "2026-08-07",
-    "ticker": "MCHP",
-    "name": "Microchip Technology Incorporated",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Truist Securities baja su precio objetivo de 105.00 $ a 90.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "a832f06114ae4cb7",
-    "date": "2026-08-07",
-    "ticker": "DASH",
-    "name": "DoorDash, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 199.00 $ a 225.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "23270154675a28b9",
-    "date": "2026-08-07",
-    "ticker": "DASH",
-    "name": "DoorDash, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Susquehanna sube su precio objetivo de 225.00 $ a 250.00 $ (mantiene Positive)."
-  },
-  {
-    "id": "b4d5c96a96404033",
-    "date": "2026-08-07",
-    "ticker": "FSLR",
-    "name": "First Solar, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 300.00 $ a 313.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "cb2ace6c9befd720",
-    "date": "2026-08-07",
-    "ticker": "APP",
-    "name": "AppLovin Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Citigroup baja su precio objetivo de 710.00 $ a 650.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "07578252fc273459",
-    "date": "2026-08-07",
-    "ticker": "TTWO",
-    "name": "Take-Two Interactive Software, Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-08-07: BPA real -0.18 $ vs estimado -0.21 $ (sorpresa +13.9%)."
   }
 ]
