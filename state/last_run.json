@@ -1,72 +1,72 @@
 {
-  "GDDY": {
+  "EPAM": {
     "rank": 1,
-    "name": "GoDaddy Inc.",
-    "target_price": 139.28,
-    "upside_pct": 15.9,
-    "total_score": 85.6
+    "name": "EPAM Systems, Inc.",
+    "target_price": 209.98,
+    "upside_pct": 31.8,
+    "total_score": 79.3
   },
   "ACN": {
     "rank": 2,
     "name": "Accenture plc",
-    "target_price": 334.25,
-    "upside_pct": 26.1,
+    "target_price": 322.13,
+    "upside_pct": 23.7,
     "total_score": 79.3
   },
-  "FSLR": {
-    "rank": 3,
-    "name": "First Solar, Inc.",
-    "target_price": 235.0,
-    "upside_pct": 20.0,
-    "total_score": 76.6
-  },
   "PDD": {
-    "rank": 4,
+    "rank": 3,
     "name": "PDD Holdings Inc.",
-    "target_price": 99.41,
-    "upside_pct": 18.4,
+    "target_price": 99.01,
+    "upside_pct": 19.3,
     "total_score": 74.3
   },
-  "BKNG": {
-    "rank": 5,
-    "name": "Booking Holdings Inc.",
-    "target_price": 199.95,
-    "upside_pct": 18.5,
-    "total_score": 74.2
-  },
-  "EPAM": {
-    "rank": 6,
-    "name": "EPAM Systems, Inc.",
-    "target_price": 223.69,
-    "upside_pct": 35.0,
-    "total_score": 73.8
-  },
   "TMUS": {
-    "rank": 7,
+    "rank": 4,
     "name": "T-Mobile US, Inc.",
-    "target_price": 193.11,
-    "upside_pct": 20.3,
+    "target_price": 193.82,
+    "upside_pct": 19.6,
     "total_score": 72.5
   },
-  "CHTR": {
-    "rank": 8,
-    "name": "Charter Communications, Inc.",
-    "target_price": 148.4,
-    "upside_pct": 17.9,
-    "total_score": 72.4
-  },
   "MRNA": {
-    "rank": 9,
+    "rank": 5,
     "name": "Moderna, Inc.",
-    "target_price": 325.97,
+    "target_price": 343.16,
     "upside_pct": 35.0,
     "total_score": 72.2
   },
+  "META": {
+    "rank": 6,
+    "name": "Meta Platforms, Inc.",
+    "target_price": 729.26,
+    "upside_pct": 19.5,
+    "total_score": 71.6
+  },
+  "RVTY": {
+    "rank": 7,
+    "name": "Revvity, Inc.",
+    "target_price": 181.29,
+    "upside_pct": 16.9,
+    "total_score": 69.8
+  },
   "TTWO": {
-    "rank": 10,
+    "rank": 8,
     "name": "Take-Two Interactive Software, Inc.",
-    "target_price": 249.78,
-    "upside_pct": 17.1,
-    "total_score": 70.4
+    "target_price": 250.54,
+    "upside_pct": 16.6,
+    "total_score": 67.7
+  },
+  "CRM": {
+    "rank": 9,
+    "name": "Salesforce, Inc.",
+    "target_price": 250.37,
+    "upside_pct": 17.2,
+    "total_score": 66.8
+  },
+  "SMCI": {
+    "rank": 10,
+    "name": "Super Micro Computer, Inc.",
+    "target_price": 36.08,
+    "upside_pct": 25.5,
+    "total_score": 66.3
   }
 }

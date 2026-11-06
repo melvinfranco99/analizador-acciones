@@ -27,6 +27,141 @@
     "description": "Susquehanna sube su precio objetivo de 146.00 $ a 190.00 $ (mantiene Positive)."
   },
   {
+    "id": "43a7c8e6ffff5148",
+    "date": "2026-11-06",
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "GoDaddy Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "8227ebf86eb6e165",
+    "date": "2026-11-06",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "First Solar, Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "63939d3cb337106f",
+    "date": "2026-11-06",
+    "ticker": "BKNG",
+    "name": "Booking Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Booking Holdings Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "865b6c4a5b25226e",
+    "date": "2026-11-06",
+    "ticker": "CHTR",
+    "name": "Charter Communications, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Charter Communications, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "32126bd79508fd9f",
+    "date": "2026-11-06",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 223.69 $ a 209.98 $ (-6.1%)."
+  },
+  {
+    "id": "ed67f2cae80e3985",
+    "date": "2026-11-06",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 325.97 $ a 343.16 $ (+5.3%)."
+  },
+  {
+    "id": "9f504c0ae7c577ab",
+    "date": "2026-11-06",
+    "ticker": "META",
+    "name": "Meta Platforms, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Meta Platforms, Inc. entra en el Top 10 (puesto #6) con precio objetivo de 729.26 $ (+19.5% a 3 meses)."
+  },
+  {
+    "id": "e8f490dec21689a0",
+    "date": "2026-11-06",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Revvity, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 181.29 $ (+16.9% a 3 meses)."
+  },
+  {
+    "id": "e7e427fe8da0c26b",
+    "date": "2026-11-06",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Salesforce, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 250.37 $ (+17.2% a 3 meses)."
+  },
+  {
+    "id": "3d1d0eadb24f429b",
+    "date": "2026-11-06",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Super Micro Computer, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 36.08 $ (+25.5% a 3 meses)."
+  },
+  {
+    "id": "78ced5ee9dc9e3c1",
+    "date": "2026-11-06",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 110.00 $ a 150.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "78cab4966c9d2568",
+    "date": "2026-11-06",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 99.00 $ a 160.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "8430f9f799faafcd",
+    "date": "2026-11-06",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Guggenheim sube su precio objetivo de 160.00 $ a 190.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "66cc63c15ff7475b",
+    "date": "2026-11-06",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 156.00 $ a 176.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "afa839cf535d38bf",
+    "date": "2026-11-06",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-06: BPA real 0.38 $ vs estimado -1.25 $ (sorpresa +130.3%)."
+  },
+  {
     "id": "1b7688d1974a0ae9",
     "date": "2026-11-05",
     "ticker": "EL",
@@ -432,6 +567,60 @@
     "description": "BTIG baja su precio objetivo de 313.00 $ a 262.00 $ (mantiene Buy)."
   },
   {
+    "id": "88ff2a133a7f1702",
+    "date": "2026-11-04",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 155.00 $ a 160.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "ffb5b688a92eec49",
+    "date": "2026-11-04",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 175.00 $ a 185.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "add1f07128f21309",
+    "date": "2026-11-04",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 160.00 $ a 175.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "923e09ea191e06af",
+    "date": "2026-11-04",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 135.00 $ a 172.00 $ (mantiene Sector Perform)."
+  },
+  {
+    "id": "f7312721ae898d29",
+    "date": "2026-11-04",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 165.00 $ a 180.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "172a030f8317abf9",
+    "date": "2026-11-04",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 38.00 $ a 39.00 $ (mantiene Underperform)."
+  },
+  {
     "id": "f950afb0da48636c",
     "date": "2026-11-03",
     "ticker": "GDDY",
@@ -619,6 +808,24 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Citigroup baja su precio objetivo de 180.00 $ a 140.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "0a08944506b09332",
+    "date": "2026-11-03",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-03: BPA real 1.37 $ vs estimado 1.30 $ (sorpresa +5.7%)."
+  },
+  {
+    "id": "8c0d578f61c6e3a9",
+    "date": "2026-11-03",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-03: BPA real 1.81 $ vs estimado 1.23 $ (sorpresa +46.6%)."
   },
   {
     "id": "e92006ed0cd610b4",
@@ -3933,6 +4140,15 @@
     "description": "Morgan Stanley baja su precio objetivo de 450.00 $ a 400.00 $ (mantiene Overweight)."
   },
   {
+    "id": "92085532994df249",
+    "date": "2026-10-13",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "TD Cowen sube su precio objetivo de 130.00 $ a 175.00 $ (mantiene Buy)."
+  },
+  {
     "id": "324391fd3df87488",
     "date": "2026-10-12",
     "ticker": "MU",
@@ -4957,6 +5173,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 89.00 $ a 95.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "af6a5b2f422c74a0",
+    "date": "2026-10-07",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Barclays sube su precio objetivo de 115.00 $ a 160.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "bc9922fa4dfdbf6d",
@@ -8251,6 +8476,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Needham sube su precio objetivo de 180.00 $ a 215.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "646e2c142f8fa2d5",
+    "date": "2026-09-04",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 125.00 $ a 165.00 $ (mantiene Overweight)."
   },
   {
     "id": "02f6f608bcba8250",
