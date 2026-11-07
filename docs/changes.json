@@ -14173,23 +14173,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "BTIG sube su precio objetivo de 293.00 $ a 313.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "5071cbf24baecbbc",
-    "date": "2026-08-08",
-    "ticker": "TEAM",
-    "name": "Atlassian Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 95.00 $ a 160.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "d5fc688491b1f33b",
-    "date": "2026-08-08",
-    "ticker": "ABNB",
-    "name": "Airbnb, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "DA Davidson sube su precio objetivo de 162.00 $ a 175.00 $ (mantiene Buy)."
   }
 ]
