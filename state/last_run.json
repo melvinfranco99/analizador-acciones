@@ -4,7 +4,7 @@
     "name": "EPAM Systems, Inc.",
     "target_price": 209.98,
     "upside_pct": 31.8,
-    "total_score": 79.3
+    "total_score": 80.9
   },
   "ACN": {
     "rank": 2,
@@ -37,8 +37,8 @@
   "META": {
     "rank": 6,
     "name": "Meta Platforms, Inc.",
-    "target_price": 729.26,
-    "upside_pct": 19.5,
+    "target_price": 730.13,
+    "upside_pct": 19.7,
     "total_score": 71.6
   },
   "RVTY": {
@@ -46,14 +46,14 @@
     "name": "Revvity, Inc.",
     "target_price": 181.29,
     "upside_pct": 16.9,
-    "total_score": 69.8
+    "total_score": 71.2
   },
   "TTWO": {
     "rank": 8,
     "name": "Take-Two Interactive Software, Inc.",
-    "target_price": 250.54,
-    "upside_pct": 16.6,
-    "total_score": 67.7
+    "target_price": 249.13,
+    "upside_pct": 15.9,
+    "total_score": 67.6
   },
   "CRM": {
     "rank": 9,
