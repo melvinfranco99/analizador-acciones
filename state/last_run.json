@@ -13,26 +13,26 @@
     "upside_pct": 23.7,
     "total_score": 79.3
   },
-  "PDD": {
+  "MRNA": {
     "rank": 3,
+    "name": "Moderna, Inc.",
+    "target_price": 343.16,
+    "upside_pct": 35.0,
+    "total_score": 78.3
+  },
+  "PDD": {
+    "rank": 4,
     "name": "PDD Holdings Inc.",
     "target_price": 98.96,
     "upside_pct": 19.2,
     "total_score": 74.3
   },
   "TMUS": {
-    "rank": 4,
+    "rank": 5,
     "name": "T-Mobile US, Inc.",
     "target_price": 193.82,
     "upside_pct": 19.6,
     "total_score": 72.5
-  },
-  "MRNA": {
-    "rank": 5,
-    "name": "Moderna, Inc.",
-    "target_price": 343.16,
-    "upside_pct": 35.0,
-    "total_score": 72.2
   },
   "META": {
     "rank": 6,
