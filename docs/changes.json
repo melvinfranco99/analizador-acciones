@@ -1,5 +1,95 @@
 [
   {
+    "id": "213157db45aa82f4",
+    "date": "2026-11-09",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Take-Two Interactive Software, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "55c8b820c1134af7",
+    "date": "2026-11-09",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Salesforce, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "3db5414efefb9025",
+    "date": "2026-11-09",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Super Micro Computer, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "ee3a8be0c6d5e73b",
+    "date": "2026-11-09",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 209.98 $ a 198.95 $ (-5.3%)."
+  },
+  {
+    "id": "98958ef5cd657534",
+    "date": "2026-11-09",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 343.16 $ a 365.65 $ (+6.6%)."
+  },
+  {
+    "id": "1eada19fcf525c83",
+    "date": "2026-11-09",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "First Solar, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 222.45 $ (+17.0% a 3 meses)."
+  },
+  {
+    "id": "cb385f0d8e648926",
+    "date": "2026-11-09",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #8) con precio objetivo de 93.06 $ (+17.6% a 3 meses)."
+  },
+  {
+    "id": "5c8687abdc9d38d3",
+    "date": "2026-11-09",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Advanced Micro Devices, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 575.96 $ (+16.7% a 3 meses)."
+  },
+  {
+    "id": "93a060d328b1e3a6",
+    "date": "2026-11-09",
+    "ticker": "PDD",
+    "name": "PDD Holdings Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Morgan Stanley baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 90.00 $."
+  },
+  {
+    "id": "9cc2654ea289523c",
+    "date": "2026-11-09",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Oppenheimer sube la recomendacion de Perform a Outperform. Precio objetivo: 600.00 $."
+  },
+  {
     "id": "c6679a08322739f5",
     "date": "2026-11-06",
     "ticker": "META",
@@ -621,6 +711,96 @@
     "description": "B of A Securities sube su precio objetivo de 38.00 $ a 39.00 $ (mantiene Underperform)."
   },
   {
+    "id": "72a4089f17f36094",
+    "date": "2026-11-04",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 730.00 $ a 700.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "afed745d948920a1",
+    "date": "2026-11-04",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "JP Morgan sube su precio objetivo de 550.00 $ a 575.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "a8ce5747f22af0c6",
+    "date": "2026-11-04",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 510.00 $ a 550.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "6e631f4b4b246784",
+    "date": "2026-11-04",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 600.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "6a56ba4abd2d5f0a",
+    "date": "2026-11-04",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 700.00 $ a 650.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "05da8b9336cea31e",
+    "date": "2026-11-04",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 594.00 $ a 605.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "db0b27034a794636",
+    "date": "2026-11-04",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "DA Davidson sube su precio objetivo de 550.00 $ a 600.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "36773a9c851120cd",
+    "date": "2026-11-04",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Mizuho baja su precio objetivo de 705.00 $ a 610.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "9cd5ded0decbc1e4",
+    "date": "2026-11-04",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 700.00 $ a 725.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "125ead871bbba74f",
+    "date": "2026-11-04",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "B of A Securities baja su precio objetivo de 720.00 $ a 650.00 $ (mantiene Buy)."
+  },
+  {
     "id": "f950afb0da48636c",
     "date": "2026-11-03",
     "ticker": "GDDY",
@@ -828,6 +1008,15 @@
     "description": "Resultados del 2026-11-03: BPA real 1.81 $ vs estimado 1.23 $ (sorpresa +46.6%)."
   },
   {
+    "id": "069939203aad8c71",
+    "date": "2026-11-03",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-03: BPA real 2.09 $ vs estimado 1.95 $ (sorpresa +7.4%)."
+  },
+  {
     "id": "e92006ed0cd610b4",
     "date": "2026-11-02",
     "ticker": "IT",
@@ -979,6 +1168,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 105.00 $ a 135.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "3532185a1f807989",
+    "date": "2026-11-02",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 465.00 $ a 510.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "1446ba9ecf8c7920",
@@ -1690,6 +1888,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "RBC Capital baja su precio objetivo de 575.00 $ a 500.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "9d33584859f48947",
+    "date": "2026-10-28",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 620.00 $ a 650.00 $ (mantiene Positive)."
   },
   {
     "id": "256f48203f313a2c",
@@ -2770,6 +2977,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "TD Cowen sube su precio objetivo de 40.00 $ a 90.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "9ace4ce1b85e2912",
+    "date": "2026-10-21",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 550.00 $ a 620.00 $ (mantiene Positive)."
   },
   {
     "id": "becd22de87f9aba3",
@@ -5337,6 +5553,24 @@
     "description": "Wells Fargo sube su precio objetivo de 796.00 $ a 1000.00 $ (mantiene Overweight)."
   },
   {
+    "id": "2ecb8fd50f48998a",
+    "date": "2026-10-06",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 575.00 $ a 800.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "59f9e679cf085ecd",
+    "date": "2026-10-06",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 580.00 $ a 705.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "3078b12474b12218",
     "date": "2026-10-05",
     "ticker": "DELL",
@@ -5470,6 +5704,15 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Barclays sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 108.00 $."
+  },
+  {
+    "id": "1784eca66db53954",
+    "date": "2026-10-05",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stifel sube su precio objetivo de 635.00 $ a 700.00 $ (mantiene Buy)."
   },
   {
     "id": "4bec64be7b5d9018",
@@ -6415,6 +6658,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 785.00 $ a 875.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1a6d4cfa20b8ec4a",
+    "date": "2026-09-25",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 620.00 $ a 720.00 $ (mantiene Buy)."
   },
   {
     "id": "2ae3ea90531530a8",
@@ -11716,6 +11968,15 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Wolfe Research sube la recomendacion de Underperform a Peer Perform."
+  },
+  {
+    "id": "cdfa70773e957123",
+    "date": "2026-08-25",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Raymond James sube la recomendacion de Outperform a Strong Buy. Precio objetivo: 641.00 $."
   },
   {
     "id": "af4ab1995538e12c",

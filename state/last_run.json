@@ -1,72 +1,72 @@
 {
-  "EPAM": {
+  "TMUS": {
     "rank": 1,
+    "name": "T-Mobile US, Inc.",
+    "target_price": 195.21,
+    "upside_pct": 18.5,
+    "total_score": 80.7
+  },
+  "EPAM": {
+    "rank": 2,
     "name": "EPAM Systems, Inc.",
-    "target_price": 209.98,
-    "upside_pct": 31.8,
-    "total_score": 80.9
+    "target_price": 198.95,
+    "upside_pct": 27.9,
+    "total_score": 77.5
   },
   "ACN": {
-    "rank": 2,
-    "name": "Accenture plc",
-    "target_price": 322.13,
-    "upside_pct": 23.7,
-    "total_score": 79.3
-  },
-  "MRNA": {
     "rank": 3,
-    "name": "Moderna, Inc.",
-    "target_price": 343.16,
-    "upside_pct": 35.0,
-    "total_score": 78.3
-  },
-  "PDD": {
-    "rank": 4,
-    "name": "PDD Holdings Inc.",
-    "target_price": 98.93,
-    "upside_pct": 19.1,
-    "total_score": 74.3
-  },
-  "TMUS": {
-    "rank": 5,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 193.82,
-    "upside_pct": 19.6,
-    "total_score": 72.5
+    "name": "Accenture plc",
+    "target_price": 312.9,
+    "upside_pct": 21.9,
+    "total_score": 77.2
   },
   "META": {
-    "rank": 6,
+    "rank": 4,
     "name": "Meta Platforms, Inc.",
-    "target_price": 730.13,
-    "upside_pct": 19.7,
-    "total_score": 71.6
+    "target_price": 745.24,
+    "upside_pct": 16.4,
+    "total_score": 77.1
   },
   "RVTY": {
-    "rank": 7,
+    "rank": 5,
     "name": "Revvity, Inc.",
-    "target_price": 181.29,
-    "upside_pct": 16.9,
-    "total_score": 71.2
+    "target_price": 186.53,
+    "upside_pct": 18.2,
+    "total_score": 76.0
   },
-  "TTWO": {
+  "MRNA": {
+    "rank": 6,
+    "name": "Moderna, Inc.",
+    "target_price": 365.65,
+    "upside_pct": 35.0,
+    "total_score": 74.2
+  },
+  "FSLR": {
+    "rank": 7,
+    "name": "First Solar, Inc.",
+    "target_price": 222.45,
+    "upside_pct": 17.0,
+    "total_score": 71.9
+  },
+  "APH": {
     "rank": 8,
-    "name": "Take-Two Interactive Software, Inc.",
-    "target_price": 249.13,
-    "upside_pct": 15.9,
-    "total_score": 67.6
+    "name": "Amphenol Corporation",
+    "target_price": 93.06,
+    "upside_pct": 17.6,
+    "total_score": 71.0
   },
-  "CRM": {
+  "PDD": {
     "rank": 9,
-    "name": "Salesforce, Inc.",
-    "target_price": 250.37,
-    "upside_pct": 17.2,
-    "total_score": 66.8
+    "name": "PDD Holdings Inc.",
+    "target_price": 97.45,
+    "upside_pct": 20.2,
+    "total_score": 69.5
   },
-  "SMCI": {
+  "AMD": {
     "rank": 10,
-    "name": "Super Micro Computer, Inc.",
-    "target_price": 36.08,
-    "upside_pct": 25.5,
-    "total_score": 66.3
+    "name": "Advanced Micro Devices, Inc.",
+    "target_price": 575.96,
+    "upside_pct": 16.7,
+    "total_score": 68.1
   }
 }
