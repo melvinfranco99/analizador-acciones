@@ -1,72 +1,72 @@
 {
-  "EPAM": {
-    "rank": 1,
-    "name": "EPAM Systems, Inc.",
-    "target_price": 209.98,
-    "upside_pct": 31.8,
-    "total_score": 82.3
-  },
-  "ACN": {
-    "rank": 2,
-    "name": "Accenture plc",
-    "target_price": 322.13,
-    "upside_pct": 23.7,
-    "total_score": 79.3
-  },
-  "MRNA": {
-    "rank": 3,
-    "name": "Moderna, Inc.",
-    "target_price": 343.16,
-    "upside_pct": 35.0,
-    "total_score": 78.3
-  },
-  "PDD": {
-    "rank": 4,
-    "name": "PDD Holdings Inc.",
-    "target_price": 98.43,
-    "upside_pct": 18.5,
-    "total_score": 74.3
-  },
   "TMUS": {
-    "rank": 5,
+    "rank": 1,
     "name": "T-Mobile US, Inc.",
-    "target_price": 193.82,
-    "upside_pct": 19.6,
-    "total_score": 72.5
+    "target_price": 196.69,
+    "upside_pct": 17.3,
+    "total_score": 80.7
   },
   "META": {
-    "rank": 6,
+    "rank": 2,
     "name": "Meta Platforms, Inc.",
-    "target_price": 730.13,
-    "upside_pct": 19.7,
-    "total_score": 71.6
+    "target_price": 746.09,
+    "upside_pct": 16.2,
+    "total_score": 80.4
+  },
+  "EPAM": {
+    "rank": 3,
+    "name": "EPAM Systems, Inc.",
+    "target_price": 202.02,
+    "upside_pct": 28.4,
+    "total_score": 77.5
+  },
+  "ACN": {
+    "rank": 4,
+    "name": "Accenture plc",
+    "target_price": 309.99,
+    "upside_pct": 21.4,
+    "total_score": 77.2
+  },
+  "APH": {
+    "rank": 5,
+    "name": "Amphenol Corporation",
+    "target_price": 93.55,
+    "upside_pct": 16.8,
+    "total_score": 77.2
   },
   "RVTY": {
-    "rank": 7,
+    "rank": 6,
     "name": "Revvity, Inc.",
-    "target_price": 181.29,
-    "upside_pct": 16.9,
-    "total_score": 71.2
+    "target_price": 183.81,
+    "upside_pct": 16.8,
+    "total_score": 76.0
   },
-  "TTWO": {
+  "APP": {
+    "rank": 7,
+    "name": "AppLovin Corporation",
+    "target_price": 468.03,
+    "upside_pct": 16.3,
+    "total_score": 75.8
+  },
+  "MRNA": {
     "rank": 8,
-    "name": "Take-Two Interactive Software, Inc.",
-    "target_price": 249.41,
-    "upside_pct": 16.1,
-    "total_score": 67.6
+    "name": "Moderna, Inc.",
+    "target_price": 359.94,
+    "upside_pct": 35.0,
+    "total_score": 74.2
   },
   "CRM": {
     "rank": 9,
     "name": "Salesforce, Inc.",
-    "target_price": 250.37,
-    "upside_pct": 17.2,
-    "total_score": 66.9
+    "target_price": 250.54,
+    "upside_pct": 17.1,
+    "total_score": 71.7
   },
-  "SMCI": {
+  "PDD": {
     "rank": 10,
-    "name": "Super Micro Computer, Inc.",
-    "target_price": 36.08,
-    "upside_pct": 25.5,
-    "total_score": 66.3
+    "name": "PDD Holdings Inc.",
+    "target_price": 97.16,
+    "upside_pct": 20.7,
+    "total_score": 69.4
   }
 }

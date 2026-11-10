@@ -72,6 +72,42 @@
     "description": "Super Micro Computer, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 36.08 $ (+25.5% a 3 meses)."
   },
   {
+    "id": "55f9c41ee9c7daeb",
+    "date": "2026-11-10",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Take-Two Interactive Software, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "506379414990ab37",
+    "date": "2026-11-10",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Super Micro Computer, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "bfbbd0e2f1280ad0",
+    "date": "2026-11-10",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #5) con precio objetivo de 93.55 $ (+16.8% a 3 meses)."
+  },
+  {
+    "id": "469e57bba41af510",
+    "date": "2026-11-10",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "AppLovin Corporation entra en el Top 10 (puesto #7) con precio objetivo de 468.03 $ (+16.3% a 3 meses)."
+  },
+  {
     "id": "213157db45aa82f4",
     "date": "2026-11-09",
     "ticker": "TTWO",
@@ -342,6 +378,15 @@
     "description": "Resultados del 2026-11-06: BPA real 0.38 $ vs estimado -1.25 $ (sorpresa +130.3%)."
   },
   {
+    "id": "1935484b5d496af4",
+    "date": "2026-11-06",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 325.00 $ a 347.00 $ (mantiene Equal-Weight)."
+  },
+  {
     "id": "1b7688d1974a0ae9",
     "date": "2026-11-05",
     "ticker": "EL",
@@ -448,6 +493,87 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Needham sube su precio objetivo de 120.00 $ a 200.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "f2095af6d312954a",
+    "date": "2026-11-05",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Scotiabank baja su precio objetivo de 515.00 $ a 450.00 $ (mantiene Sector Outperform)."
+  },
+  {
+    "id": "f843d85294e94753",
+    "date": "2026-11-05",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Macquarie sube su precio objetivo de 460.00 $ a 470.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "95ddced03901cd36",
+    "date": "2026-11-05",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 500.00 $ a 520.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "172ea4b51a20ea9e",
+    "date": "2026-11-05",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 400.00 $ a 445.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "12eecc02fd8dce11",
+    "date": "2026-11-05",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Oppenheimer sube su precio objetivo de 490.00 $ a 520.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "97b8222ff8cba527",
+    "date": "2026-11-05",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 325.00 $ a 355.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "18f82b2749c17cd4",
+    "date": "2026-11-05",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 510.00 $ a 540.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "dacb68da158b00fe",
+    "date": "2026-11-05",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wedbush sube su precio objetivo de 560.00 $ a 600.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "cd3ff5e7d1accfd4",
+    "date": "2026-11-05",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "BTIG sube su precio objetivo de 396.00 $ a 450.00 $ (mantiene Buy)."
   },
   {
     "id": "721d1bdcb5f5a55a",
