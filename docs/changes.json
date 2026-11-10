@@ -1,5 +1,77 @@
 [
   {
+    "id": "bd531b8fb98af6ce",
+    "date": "2026-11-10",
+    "ticker": "FSLR",
+    "name": "First Solar, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "First Solar, Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "bf6dc66cab89385b",
+    "date": "2026-11-10",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amphenol Corporation sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "fb99410930ef7c02",
+    "date": "2026-11-10",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Advanced Micro Devices, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "1c92e3bbdea4edb8",
+    "date": "2026-11-10",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 198.95 $ a 209.98 $ (+5.5%)."
+  },
+  {
+    "id": "aeb8d2515723af84",
+    "date": "2026-11-10",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "objetivo_bajado",
+    "description": "Precio objetivo de nuestro modelo revisado de 365.65 $ a 343.16 $ (-6.2%)."
+  },
+  {
+    "id": "e3fad9aff74260c4",
+    "date": "2026-11-10",
+    "ticker": "TTWO",
+    "name": "Take-Two Interactive Software, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Take-Two Interactive Software, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 249.41 $ (+16.1% a 3 meses)."
+  },
+  {
+    "id": "e1e2e70d768ef648",
+    "date": "2026-11-10",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Salesforce, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 250.37 $ (+17.2% a 3 meses)."
+  },
+  {
+    "id": "4656d400b96427f4",
+    "date": "2026-11-10",
+    "ticker": "SMCI",
+    "name": "Super Micro Computer, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Super Micro Computer, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 36.08 $ (+25.5% a 3 meses)."
+  },
+  {
     "id": "213157db45aa82f4",
     "date": "2026-11-09",
     "ticker": "TTWO",
@@ -88,6 +160,24 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Oppenheimer sube la recomendacion de Perform a Outperform. Precio objetivo: 600.00 $."
+  },
+  {
+    "id": "ca2965fe57a89cc7",
+    "date": "2026-11-09",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 137.00 $ a 195.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "db98387d45e713ce",
+    "date": "2026-11-09",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Piper Sandler sube su precio objetivo de 230.00 $ a 305.00 $ (mantiene Overweight)."
   },
   {
     "id": "c6679a08322739f5",
@@ -14200,86 +14290,5 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "BTIG baja su precio objetivo de 574.00 $ a 408.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "f499ddb7ceee3b44",
-    "date": "2026-08-11",
-    "ticker": "MPC",
-    "name": "Marathon Petroleum Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 284.00 $ a 304.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "ed134aa9878c8e2a",
-    "date": "2026-08-11",
-    "ticker": "BBY",
-    "name": "Best Buy Co., Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 65.00 $ a 85.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "3670547b08c8f7a9",
-    "date": "2026-08-11",
-    "ticker": "BBY",
-    "name": "Best Buy Co., Inc.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "Truist Securities sube la recomendacion de Hold a Buy. Precio objetivo: 95.00 $."
-  },
-  {
-    "id": "de0c9e85dd1c43b9",
-    "date": "2026-08-11",
-    "ticker": "DLTR",
-    "name": "Dollar Tree, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "BMO Capital sube su precio objetivo de 90.00 $ a 98.00 $ (mantiene Underperform)."
-  },
-  {
-    "id": "1f9ef22af733d912",
-    "date": "2026-08-11",
-    "ticker": "SMCI",
-    "name": "Super Micro Computer, Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-08-11: BPA real 1.70 $ vs estimado 0.96 $ (sorpresa +77.5%)."
-  },
-  {
-    "id": "ad4aad00bc921793",
-    "date": "2026-08-11",
-    "ticker": "MDB",
-    "name": "MongoDB, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 455.00 $ a 545.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "43a2acd8c7411d7f",
-    "date": "2026-08-11",
-    "ticker": "JBL",
-    "name": "Jabil Inc.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "UBS sube la recomendacion de Neutral a Buy. Precio objetivo: 430.00 $."
-  },
-  {
-    "id": "10efba0991a0cce3",
-    "date": "2026-08-11",
-    "ticker": "COP",
-    "name": "ConocoPhillips",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Susquehanna sube su precio objetivo de 155.00 $ a 161.00 $ (mantiene Positive)."
-  },
-  {
-    "id": "a04c71d188731668",
-    "date": "2026-08-11",
-    "ticker": "APP",
-    "name": "AppLovin Corporation",
-    "category": "analista",
-    "type": "downgrade_analista",
-    "description": "B of A Securities baja la recomendacion de Buy a Neutral. Precio objetivo: 400.00 $."
   }
 ]
