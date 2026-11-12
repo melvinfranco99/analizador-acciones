@@ -99,6 +99,33 @@
     "description": "Bernstein baja la recomendacion de Outperform a Market Perform. Precio objetivo: 44.00 $."
   },
   {
+    "id": "ff06816d561df4b7",
+    "date": "2026-11-12",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Moderna, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "5e26766163c478f2",
+    "date": "2026-11-12",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "T-Mobile US, Inc. entra en el Top 10 (puesto #6) con precio objetivo de 198.23 $ (+15.9% a 3 meses)."
+  },
+  {
+    "id": "4e94f326adffbdea",
+    "date": "2026-11-12",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Oracle Corporation entra en el Top 10 (puesto #10) con precio objetivo de 171.60 $ (+35.0% a 3 meses)."
+  },
+  {
     "id": "e63b3a1186250ac8",
     "date": "2026-11-11",
     "ticker": "EPAM",
@@ -1654,6 +1681,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Susquehanna baja su precio objetivo de 180.00 $ a 166.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "8095ca553ca58a84",
+    "date": "2026-11-02",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Stephens & Co. sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 213.00 $."
   },
   {
     "id": "1446ba9ecf8c7920",

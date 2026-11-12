@@ -2,29 +2,29 @@
   "AVGO": {
     "rank": 1,
     "name": "Broadcom Inc.",
-    "target_price": 445.83,
-    "upside_pct": 24.5,
+    "target_price": 448.89,
+    "upside_pct": 23.2,
     "total_score": 78.5
   },
   "META": {
     "rank": 2,
     "name": "Meta Platforms, Inc.",
-    "target_price": 737.74,
-    "upside_pct": 18.0,
+    "target_price": 736.86,
+    "upside_pct": 18.2,
     "total_score": 77.8
   },
   "EPAM": {
     "rank": 3,
     "name": "EPAM Systems, Inc.",
-    "target_price": 212.94,
-    "upside_pct": 30.9,
+    "target_price": 215.45,
+    "upside_pct": 31.5,
     "total_score": 77.5
   },
   "ACN": {
     "rank": 4,
     "name": "Accenture plc",
-    "target_price": 313.75,
-    "upside_pct": 22.8,
+    "target_price": 302.98,
+    "upside_pct": 21.2,
     "total_score": 77.2
   },
   "APH": {
@@ -34,39 +34,39 @@
     "upside_pct": 17.2,
     "total_score": 77.2
   },
-  "HWM": {
+  "TMUS": {
     "rank": 6,
+    "name": "T-Mobile US, Inc.",
+    "target_price": 198.23,
+    "upside_pct": 15.9,
+    "total_score": 75.9
+  },
+  "HWM": {
+    "rank": 7,
     "name": "Howmet Aerospace Inc.",
-    "target_price": 259.17,
-    "upside_pct": 16.7,
+    "target_price": 259.7,
+    "upside_pct": 16.4,
     "total_score": 75.5
   },
   "CHRW": {
-    "rank": 7,
+    "rank": 8,
     "name": "C.H. Robinson Worldwide, Inc.",
-    "target_price": 156.87,
+    "target_price": 156.85,
     "upside_pct": 16.7,
     "total_score": 74.7
   },
   "CRM": {
-    "rank": 8,
+    "rank": 9,
     "name": "Salesforce, Inc.",
-    "target_price": 251.41,
-    "upside_pct": 16.5,
+    "target_price": 252.33,
+    "upside_pct": 16.0,
     "total_score": 74.5
   },
-  "MRNA": {
-    "rank": 9,
-    "name": "Moderna, Inc.",
-    "target_price": 324.62,
-    "upside_pct": 35.0,
-    "total_score": 73.5
-  },
-  "DVN": {
+  "ORCL": {
     "rank": 10,
-    "name": "Devon Energy Corporation",
-    "target_price": 53.07,
-    "upside_pct": 17.0,
-    "total_score": 72.3
+    "name": "Oracle Corporation",
+    "target_price": 171.6,
+    "upside_pct": 35.0,
+    "total_score": 72.2
   }
 }
