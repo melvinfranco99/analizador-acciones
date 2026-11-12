@@ -1,72 +1,72 @@
 {
-  "EPAM": {
-    "rank": 1,
-    "name": "EPAM Systems, Inc.",
-    "target_price": 216.39,
-    "upside_pct": 31.8,
-    "total_score": 80.9
-  },
-  "TMUS": {
-    "rank": 2,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 197.36,
-    "upside_pct": 16.7,
-    "total_score": 80.7
-  },
   "META": {
-    "rank": 3,
+    "rank": 1,
     "name": "Meta Platforms, Inc.",
-    "target_price": 745.75,
-    "upside_pct": 16.3,
-    "total_score": 80.4
+    "target_price": 739.44,
+    "upside_pct": 17.6,
+    "total_score": 77.8
+  },
+  "EPAM": {
+    "rank": 2,
+    "name": "EPAM Systems, Inc.",
+    "target_price": 211.94,
+    "upside_pct": 30.2,
+    "total_score": 77.5
   },
   "ACN": {
-    "rank": 4,
+    "rank": 3,
     "name": "Accenture plc",
-    "target_price": 316.23,
-    "upside_pct": 22.3,
+    "target_price": 308.52,
+    "upside_pct": 21.6,
     "total_score": 77.2
   },
   "APH": {
-    "rank": 5,
+    "rank": 4,
     "name": "Amphenol Corporation",
-    "target_price": 93.46,
-    "upside_pct": 16.9,
+    "target_price": 93.14,
+    "upside_pct": 17.4,
     "total_score": 77.2
   },
   "RVTY": {
-    "rank": 6,
+    "rank": 5,
     "name": "Revvity, Inc.",
-    "target_price": 186.96,
-    "upside_pct": 17.5,
+    "target_price": 185.74,
+    "upside_pct": 17.4,
     "total_score": 76.0
   },
-  "CTVA": {
-    "rank": 7,
-    "name": "Corteva, Inc.",
-    "target_price": 14.61,
-    "upside_pct": 20.0,
-    "total_score": 73.9
+  "HWM": {
+    "rank": 6,
+    "name": "Howmet Aerospace Inc.",
+    "target_price": 260.14,
+    "upside_pct": 16.1,
+    "total_score": 75.5
   },
-  "MRNA": {
-    "rank": 8,
-    "name": "Moderna, Inc.",
-    "target_price": 338.62,
-    "upside_pct": 35.0,
-    "total_score": 73.5
+  "CHRW": {
+    "rank": 7,
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "target_price": 156.53,
+    "upside_pct": 17.0,
+    "total_score": 74.7
   },
   "CRM": {
-    "rank": 9,
+    "rank": 8,
     "name": "Salesforce, Inc.",
-    "target_price": 250.28,
-    "upside_pct": 17.2,
-    "total_score": 71.7
+    "target_price": 252.55,
+    "upside_pct": 15.8,
+    "total_score": 74.5
   },
-  "DVN": {
+  "MU": {
+    "rank": 9,
+    "name": "Micron Technology, Inc.",
+    "target_price": 1095.25,
+    "upside_pct": 35.0,
+    "total_score": 74.0
+  },
+  "MRNA": {
     "rank": 10,
-    "name": "Devon Energy Corporation",
-    "target_price": 52.35,
-    "upside_pct": 20.6,
-    "total_score": 69.7
+    "name": "Moderna, Inc.",
+    "target_price": 335.73,
+    "upside_pct": 35.0,
+    "total_score": 73.5
   }
 }

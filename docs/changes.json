@@ -1,5 +1,68 @@
 [
   {
+    "id": "11a4610de233b747",
+    "date": "2026-11-12",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "T-Mobile US, Inc. sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "084765218474c288",
+    "date": "2026-11-12",
+    "ticker": "CTVA",
+    "name": "Corteva, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Corteva, Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "d8440873a136d5e3",
+    "date": "2026-11-12",
+    "ticker": "DVN",
+    "name": "Devon Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Devon Energy Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "21e34590dd2a75b7",
+    "date": "2026-11-12",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Howmet Aerospace Inc. entra en el Top 10 (puesto #6) con precio objetivo de 260.14 $ (+16.1% a 3 meses)."
+  },
+  {
+    "id": "a02cd195775d19bf",
+    "date": "2026-11-12",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "C.H. Robinson Worldwide, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 156.53 $ (+17.0% a 3 meses)."
+  },
+  {
+    "id": "cd0b6e3fa9ba9000",
+    "date": "2026-11-12",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Micron Technology, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 1095.25 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "e63b3a1186250ac8",
+    "date": "2026-11-11",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 140.00 $ a 172.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "bd531b8fb98af6ce",
     "date": "2026-11-10",
     "ticker": "FSLR",
@@ -1350,6 +1413,15 @@
     "description": "Resultados del 2026-11-03: BPA real 2.09 $ vs estimado 1.95 $ (sorpresa +7.4%)."
   },
   {
+    "id": "76e78ae1a91f1da4",
+    "date": "2026-11-03",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Keybanc sube la recomendacion de Sector Weight a Overweight. Precio objetivo: 237.00 $."
+  },
+  {
     "id": "e92006ed0cd610b4",
     "date": "2026-11-02",
     "ticker": "IT",
@@ -1512,6 +1584,33 @@
     "description": "Morgan Stanley sube su precio objetivo de 465.00 $ a 510.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "4726148ad328c487",
+    "date": "2026-11-02",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Jefferies baja su precio objetivo de 370.00 $ a 350.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "03e095c9d677b72f",
+    "date": "2026-11-02",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "BTIG baja su precio objetivo de 340.00 $ a 280.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "31d6f60fc6d013b0",
+    "date": "2026-11-02",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Susquehanna baja su precio objetivo de 180.00 $ a 166.00 $ (mantiene Positive)."
+  },
+  {
     "id": "1446ba9ecf8c7920",
     "date": "2026-10-31",
     "ticker": "APH",
@@ -1573,6 +1672,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "UBS baja su precio objetivo de 225.00 $ a 213.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "0f9524eb89b9f011",
+    "date": "2026-10-31",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 255.00 $ a 230.00 $ (mantiene Neutral)."
   },
   {
     "id": "7257dacaa41b97df",
@@ -1836,6 +1944,24 @@
     "description": "Bernstein baja su precio objetivo de 197.00 $ a 169.00 $ (mantiene Underperform)."
   },
   {
+    "id": "ed5c24b8e06a514b",
+    "date": "2026-10-30",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "BNP Paribas baja su precio objetivo de 310.00 $ a 250.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "526310645ec366e1",
+    "date": "2026-10-30",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Susquehanna baja su precio objetivo de 340.00 $ a 275.00 $ (mantiene Positive)."
+  },
+  {
     "id": "5ce7e2babb997275",
     "date": "2026-10-29",
     "ticker": "CRM",
@@ -2079,6 +2205,87 @@
     "description": "Resultados del 2026-10-29: BPA real 5.30 $ vs estimado 4.64 $ (sorpresa +14.3%)."
   },
   {
+    "id": "6c3a7ac40bc21947",
+    "date": "2026-10-29",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 198.00 $ a 174.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "32f8b7a0233cfdfc",
+    "date": "2026-10-29",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 185.00 $ a 183.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "1f7441813a45d23c",
+    "date": "2026-10-29",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 230.00 $ a 204.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "048deb5cd32aae6e",
+    "date": "2026-10-29",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 152.00 $ a 145.00 $ (mantiene Hold)."
+  },
+  {
+    "id": "c930b63d8cf43ebf",
+    "date": "2026-10-29",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 200.00 $ a 180.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "8405d99e6d7505cf",
+    "date": "2026-10-29",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 215.00 $ a 200.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "8416585a80c42bfe",
+    "date": "2026-10-29",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Stephens & Co. baja su precio objetivo de 200.00 $ a 190.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "c1f1f858a1340a65",
+    "date": "2026-10-29",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Stifel baja su precio objetivo de 209.00 $ a 198.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "87db0b2ab2d321d3",
+    "date": "2026-10-29",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-29: BPA real 1.46 $ vs estimado 1.37 $ (sorpresa +6.5%)."
+  },
+  {
     "id": "d17c4723fecfac6f",
     "date": "2026-10-28",
     "ticker": "MSFT",
@@ -2230,6 +2437,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Susquehanna sube su precio objetivo de 620.00 $ a 650.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "0b8a5dfff1e7bcbd",
+    "date": "2026-10-28",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-28: BPA real 1.80 $ vs estimado 1.75 $ (sorpresa +3.0%)."
   },
   {
     "id": "256f48203f313a2c",
@@ -3816,6 +4032,15 @@
     "description": "Mizuho baja su precio objetivo de 68.00 $ a 65.00 $ (mantiene Outperform)."
   },
   {
+    "id": "1bd998ecd20e042b",
+    "date": "2026-10-16",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "BMO Capital baja su precio objetivo de 190.00 $ a 160.00 $ (mantiene Market Perform)."
+  },
+  {
     "id": "9940f122643503f3",
     "date": "2026-10-15",
     "ticker": "NTAP",
@@ -4057,6 +4282,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 63.00 $ a 65.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "43f598fccda8d440",
+    "date": "2026-10-15",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "RBC Capital baja su precio objetivo de 350.00 $ a 300.00 $ (mantiene Outperform)."
   },
   {
     "id": "571db89acfc9be10",
@@ -5112,6 +5346,15 @@
     "description": "Barclays sube su precio objetivo de 58.00 $ a 60.00 $ (mantiene Overweight)."
   },
   {
+    "id": "5890953e62872b6c",
+    "date": "2026-10-09",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "TD Cowen baja su precio objetivo de 320.00 $ a 280.00 $ (mantiene Buy)."
+  },
+  {
     "id": "5d479a547381d39e",
     "date": "2026-10-08",
     "ticker": "MPC",
@@ -5796,6 +6039,15 @@
     "description": "Truist Securities baja su precio objetivo de 65.00 $ a 61.00 $ (mantiene Buy)."
   },
   {
+    "id": "4c4faa8df42d9fd5",
+    "date": "2026-10-07",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Truist Securities baja su precio objetivo de 215.00 $ a 200.00 $ (mantiene Buy)."
+  },
+  {
     "id": "bc9922fa4dfdbf6d",
     "date": "2026-10-06",
     "ticker": "IT",
@@ -5976,6 +6228,15 @@
     "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 19.00 $."
   },
   {
+    "id": "dc61e604775ae47d",
+    "date": "2026-10-06",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Evercore ISI Group baja su precio objetivo de 237.00 $ a 217.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "3078b12474b12218",
     "date": "2026-10-05",
     "ticker": "DELL",
@@ -6118,6 +6379,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Stifel sube su precio objetivo de 635.00 $ a 700.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "50e549057b7c3508",
+    "date": "2026-10-05",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 225.00 $ a 198.00 $ (mantiene Overweight)."
   },
   {
     "id": "4bec64be7b5d9018",
@@ -6748,6 +7018,15 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Citigroup baja la recomendacion de Neutral a Sell. Precio objetivo: 80.00 $."
+  },
+  {
+    "id": "5bd49d04c944a239",
+    "date": "2026-09-30",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 315.00 $ a 255.00 $ (mantiene Equal-Weight)."
   },
   {
     "id": "009dda56fd136c9d",
@@ -8854,6 +9133,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "BTIG baja su precio objetivo de 408.00 $ a 396.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "682d75dcce573368",
+    "date": "2026-09-08",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Citigroup sube la recomendacion de Neutral a Buy. Precio objetivo: 185.00 $."
   },
   {
     "id": "19f98374a33472c2",
@@ -12672,6 +12960,15 @@
     "description": "Barclays sube su precio objetivo de 48.00 $ a 125.00 $ (mantiene Equal-Weight)."
   },
   {
+    "id": "8ca8bbd8adf92468",
+    "date": "2026-08-24",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Bernstein sube su precio objetivo de 318.00 $ a 328.00 $ (mantiene Outperform)."
+  },
+  {
     "id": "cef957e3c4f90e0f",
     "date": "2026-08-22",
     "ticker": "INCY",
@@ -14479,50 +14776,5 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 82.00 $."
-  },
-  {
-    "id": "4744327481c661d8",
-    "date": "2026-08-13",
-    "ticker": "BBY",
-    "name": "Best Buy Co., Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 79.00 $ a 88.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "04c02748dad72233",
-    "date": "2026-08-13",
-    "ticker": "PAYX",
-    "name": "Paychex, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Jefferies sube su precio objetivo de 105.00 $ a 120.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "1875650155d1855d",
-    "date": "2026-08-13",
-    "ticker": "WDAY",
-    "name": "Workday, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "RBC Capital sube su precio objetivo de 180.00 $ a 220.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "4476c94addc23ccb",
-    "date": "2026-08-13",
-    "ticker": "MDB",
-    "name": "MongoDB, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "RBC Capital sube su precio objetivo de 395.00 $ a 515.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "ad5f259dcc5c57c2",
-    "date": "2026-08-13",
-    "ticker": "DVN",
-    "name": "Devon Energy Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Wells Fargo baja su precio objetivo de 68.00 $ a 65.00 $ (mantiene Overweight)."
   }
 ]
