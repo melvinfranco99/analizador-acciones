@@ -1,72 +1,72 @@
 {
-  "META": {
+  "AVGO": {
     "rank": 1,
+    "name": "Broadcom Inc.",
+    "target_price": 445.83,
+    "upside_pct": 24.5,
+    "total_score": 78.5
+  },
+  "META": {
+    "rank": 2,
     "name": "Meta Platforms, Inc.",
-    "target_price": 739.44,
-    "upside_pct": 17.6,
+    "target_price": 737.74,
+    "upside_pct": 18.0,
     "total_score": 77.8
   },
   "EPAM": {
-    "rank": 2,
+    "rank": 3,
     "name": "EPAM Systems, Inc.",
-    "target_price": 211.94,
-    "upside_pct": 30.2,
+    "target_price": 212.94,
+    "upside_pct": 30.9,
     "total_score": 77.5
   },
   "ACN": {
-    "rank": 3,
+    "rank": 4,
     "name": "Accenture plc",
-    "target_price": 308.52,
-    "upside_pct": 21.6,
+    "target_price": 313.75,
+    "upside_pct": 22.8,
     "total_score": 77.2
   },
   "APH": {
-    "rank": 4,
-    "name": "Amphenol Corporation",
-    "target_price": 93.14,
-    "upside_pct": 17.4,
-    "total_score": 77.2
-  },
-  "RVTY": {
     "rank": 5,
-    "name": "Revvity, Inc.",
-    "target_price": 185.74,
-    "upside_pct": 17.4,
-    "total_score": 76.0
+    "name": "Amphenol Corporation",
+    "target_price": 93.3,
+    "upside_pct": 17.2,
+    "total_score": 77.2
   },
   "HWM": {
     "rank": 6,
     "name": "Howmet Aerospace Inc.",
-    "target_price": 260.14,
-    "upside_pct": 16.1,
+    "target_price": 259.17,
+    "upside_pct": 16.7,
     "total_score": 75.5
   },
   "CHRW": {
     "rank": 7,
     "name": "C.H. Robinson Worldwide, Inc.",
-    "target_price": 156.53,
-    "upside_pct": 17.0,
+    "target_price": 156.87,
+    "upside_pct": 16.7,
     "total_score": 74.7
   },
   "CRM": {
     "rank": 8,
     "name": "Salesforce, Inc.",
-    "target_price": 252.55,
-    "upside_pct": 15.8,
+    "target_price": 251.41,
+    "upside_pct": 16.5,
     "total_score": 74.5
   },
-  "MU": {
-    "rank": 9,
-    "name": "Micron Technology, Inc.",
-    "target_price": 1095.25,
-    "upside_pct": 35.0,
-    "total_score": 74.0
-  },
   "MRNA": {
-    "rank": 10,
+    "rank": 9,
     "name": "Moderna, Inc.",
-    "target_price": 335.73,
+    "target_price": 324.62,
     "upside_pct": 35.0,
     "total_score": 73.5
+  },
+  "DVN": {
+    "rank": 10,
+    "name": "Devon Energy Corporation",
+    "target_price": 53.07,
+    "upside_pct": 17.0,
+    "total_score": 72.3
   }
 }

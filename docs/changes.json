@@ -54,6 +54,51 @@
     "description": "Micron Technology, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 1095.25 $ (+35.0% a 3 meses)."
   },
   {
+    "id": "f2ca385a1c49e78f",
+    "date": "2026-11-12",
+    "ticker": "RVTY",
+    "name": "Revvity, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Revvity, Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "6b6eff12027f0fb5",
+    "date": "2026-11-12",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Micron Technology, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "cdede2e3623307d5",
+    "date": "2026-11-12",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Broadcom Inc. entra en el Top 10 (puesto #1) con precio objetivo de 445.83 $ (+24.5% a 3 meses)."
+  },
+  {
+    "id": "31c626d6133e96e1",
+    "date": "2026-11-12",
+    "ticker": "DVN",
+    "name": "Devon Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Devon Energy Corporation entra en el Top 10 (puesto #10) con precio objetivo de 53.07 $ (+17.0% a 3 meses)."
+  },
+  {
+    "id": "51879492fde5d6e6",
+    "date": "2026-11-12",
+    "ticker": "DVN",
+    "name": "Devon Energy Corporation",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Bernstein baja la recomendacion de Outperform a Market Perform. Precio objetivo: 44.00 $."
+  },
+  {
     "id": "e63b3a1186250ac8",
     "date": "2026-11-11",
     "ticker": "EPAM",
@@ -2626,6 +2671,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "B of A Securities baja su precio objetivo de 368.00 $ a 330.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "15c4b1c28fcc86f3",
+    "date": "2026-10-27",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "DA Davidson sube la recomendacion de Neutral a Buy. Precio objetivo: 400.00 $."
   },
   {
     "id": "1c50e1b32721b2de",
