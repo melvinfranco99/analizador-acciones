@@ -1,5 +1,23 @@
 [
   {
+    "id": "19bd8789d3eb7593",
+    "date": "2026-11-13",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Howmet Aerospace Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "5b98eeefd621288c",
+    "date": "2026-11-13",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Ulta Beauty, Inc. entra en el Top 10 (puesto #2) con precio objetivo de 772.70 $ (+17.0% a 3 meses)."
+  },
+  {
     "id": "11a4610de233b747",
     "date": "2026-11-12",
     "ticker": "TMUS",
@@ -628,6 +646,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Barclays baja su precio objetivo de 60.00 $ a 57.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "68b7ba7e17ebb0ae",
+    "date": "2026-11-06",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 580.00 $ a 685.00 $ (mantiene Neutral)."
   },
   {
     "id": "1b7688d1974a0ae9",
@@ -3103,6 +3130,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Piper Sandler sube su precio objetivo de 115.00 $ a 125.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "3e4e323865bd1aee",
+    "date": "2026-10-23",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 670.00 $ a 730.00 $ (mantiene Buy)."
   },
   {
     "id": "566f550aca56ff64",
