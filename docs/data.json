@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T13:16:31",
-  "duration_seconds": 24.7,
+  "generated_at": "2026-11-14T22:11:08",
+  "duration_seconds": 37.3,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
@@ -191,7 +191,7 @@
       "rationale": [
         "Potencial estimado a 3 meses: +24.3% (~+7.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Consenso de 24 analistas con precio objetivo medio de 233.21."
+        "Consenso de 24 analistas con precio objetivo medio de 233.84."
       ],
       "pe": 18.472713,
       "num_analysts": 24,
