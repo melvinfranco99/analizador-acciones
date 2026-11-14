@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T05:48:45",
-  "duration_seconds": 23.3,
+  "generated_at": "2026-11-14T13:16:31",
+  "duration_seconds": 24.7,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
@@ -44,7 +44,7 @@
         "Crecimiento de ingresos solido (26.1% interanual).",
         "Consenso de 57 analistas con precio objetivo medio de 850.10."
       ],
-      "pe": 21.276194,
+      "pe": 21.893211,
       "num_analysts": 57,
       "rank": 1
     },
@@ -81,7 +81,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 25 analistas con precio objetivo medio de 642.12."
       ],
-      "pe": 23.722082,
+      "pe": 24.076529,
       "num_analysts": 25,
       "rank": 2
     },
@@ -117,10 +117,9 @@
         "Potencial estimado a 3 meses: +26.3% (~+8.1%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (85.5% interanual).",
-        "Valoracion exigente (PER 46.5x); ya descuenta buenas noticias.",
         "Consenso de 47 analistas con precio objetivo medio de 529.24."
       ],
-      "pe": 46.516087,
+      "pe": 44.31801,
       "num_analysts": 47,
       "rank": 3
     },
@@ -157,7 +156,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 17 analistas con precio objetivo medio de 172.88."
       ],
-      "pe": 20.547857,
+      "pe": 20.470514,
       "num_analysts": 17,
       "rank": 4
     },
@@ -194,7 +193,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 24 analistas con precio objetivo medio de 233.21."
       ],
-      "pe": 18.431936,
+      "pe": 18.472713,
       "num_analysts": 24,
       "rank": 5
     },
@@ -228,10 +227,10 @@
       },
       "rationale": [
         "Potencial estimado a 3 meses: +16.3% (~+5.2%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
-        "Valoracion contenida (PER 16.5x).",
+        "Valoracion contenida (PER 16.4x).",
         "Consenso de 25 analistas con precio objetivo medio de 225.44."
       ],
-      "pe": 16.5,
+      "pe": 16.38862,
       "num_analysts": 25,
       "rank": 6
     },
@@ -306,7 +305,7 @@
         "Potencial estimado a 3 meses: +15.9% (~+5.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Consenso de 53 analistas con precio objetivo medio de 287.08."
       ],
-      "pe": 19.912249,
+      "pe": 19.930466,
       "num_analysts": 53,
       "rank": 8
     },
@@ -343,7 +342,7 @@
         "Crecimiento de ingresos solido (65.1% interanual).",
         "Consenso de 19 analistas con precio objetivo medio de 106.97."
       ],
-      "pe": 34.615047,
+      "pe": 34.013046,
       "num_analysts": 19,
       "rank": 9
     },
