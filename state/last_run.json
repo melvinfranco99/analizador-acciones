@@ -1,72 +1,72 @@
 {
-  "META": {
-    "rank": 1,
-    "name": "Meta Platforms, Inc.",
-    "target_price": 746.41,
-    "upside_pct": 16.3,
-    "total_score": 86.6
-  },
-  "ULTA": {
-    "rank": 2,
-    "name": "Ulta Beauty, Inc.",
-    "target_price": 772.7,
-    "upside_pct": 17.0,
-    "total_score": 79.3
-  },
-  "AVGO": {
-    "rank": 3,
-    "name": "Broadcom Inc.",
-    "target_price": 438.12,
-    "upside_pct": 26.3,
-    "total_score": 78.5
-  },
   "EPAM": {
-    "rank": 4,
+    "rank": 1,
     "name": "EPAM Systems, Inc.",
     "target_price": 216.38,
-    "upside_pct": 32.6,
+    "upside_pct": 31.9,
     "total_score": 77.5
   },
   "ACN": {
-    "rank": 5,
+    "rank": 2,
     "name": "Accenture plc",
-    "target_price": 311.29,
-    "upside_pct": 24.3,
+    "target_price": 308.29,
+    "upside_pct": 23.0,
     "total_score": 77.2
   },
-  "TMUS": {
-    "rank": 6,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 197.69,
-    "upside_pct": 16.3,
-    "total_score": 75.9
+  "APP": {
+    "rank": 3,
+    "name": "AppLovin Corporation",
+    "target_price": 482.22,
+    "upside_pct": 17.0,
+    "total_score": 76.4
+  },
+  "META": {
+    "rank": 4,
+    "name": "Meta Platforms, Inc.",
+    "target_price": 736.89,
+    "upside_pct": 18.2,
+    "total_score": 76.2
   },
   "CHRW": {
-    "rank": 7,
+    "rank": 5,
     "name": "C.H. Robinson Worldwide, Inc.",
-    "target_price": 156.88,
-    "upside_pct": 16.7,
+    "target_price": 156.35,
+    "upside_pct": 17.2,
     "total_score": 74.7
   },
   "CRM": {
-    "rank": 8,
+    "rank": 6,
     "name": "Salesforce, Inc.",
-    "target_price": 252.46,
-    "upside_pct": 15.9,
+    "target_price": 251.24,
+    "upside_pct": 16.6,
     "total_score": 74.5
   },
-  "APH": {
-    "rank": 9,
-    "name": "Amphenol Corporation",
-    "target_price": 92.6,
-    "upside_pct": 18.4,
-    "total_score": 72.3
+  "PTC": {
+    "rank": 7,
+    "name": "PTC Inc.",
+    "target_price": 229.37,
+    "upside_pct": 16.9,
+    "total_score": 69.9
   },
-  "ORCL": {
+  "HAL": {
+    "rank": 8,
+    "name": "Halliburton Company",
+    "target_price": 38.21,
+    "upside_pct": 16.3,
+    "total_score": 69.0
+  },
+  "DVN": {
+    "rank": 9,
+    "name": "Devon Energy Corporation",
+    "target_price": 52.71,
+    "upside_pct": 16.4,
+    "total_score": 69.0
+  },
+  "MRNA": {
     "rank": 10,
-    "name": "Oracle Corporation",
-    "target_price": 169.22,
+    "name": "Moderna, Inc.",
+    "target_price": 291.34,
     "upside_pct": 35.0,
-    "total_score": 72.2
+    "total_score": 67.3
   }
 }

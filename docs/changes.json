@@ -1,5 +1,95 @@
 [
   {
+    "id": "bb41dc0fbd79c932",
+    "date": "2026-11-16",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Ulta Beauty, Inc. sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "443e52f9e09bf086",
+    "date": "2026-11-16",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Broadcom Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "7015cc956da5c8fc",
+    "date": "2026-11-16",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "T-Mobile US, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "79215997376095df",
+    "date": "2026-11-16",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amphenol Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "3650b9996582d79f",
+    "date": "2026-11-16",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Oracle Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "d8e58b8c299e29a0",
+    "date": "2026-11-16",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "AppLovin Corporation entra en el Top 10 (puesto #3) con precio objetivo de 482.22 $ (+17.0% a 3 meses)."
+  },
+  {
+    "id": "947d3831b93c5219",
+    "date": "2026-11-16",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "PTC Inc. entra en el Top 10 (puesto #7) con precio objetivo de 229.37 $ (+16.9% a 3 meses)."
+  },
+  {
+    "id": "7dcf409d5633621d",
+    "date": "2026-11-16",
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Halliburton Company entra en el Top 10 (puesto #8) con precio objetivo de 38.21 $ (+16.3% a 3 meses)."
+  },
+  {
+    "id": "9859ab9d2bca976b",
+    "date": "2026-11-16",
+    "ticker": "DVN",
+    "name": "Devon Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Devon Energy Corporation entra en el Top 10 (puesto #9) con precio objetivo de 52.71 $ (+16.4% a 3 meses)."
+  },
+  {
+    "id": "0f3d749dbee717d9",
+    "date": "2026-11-16",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Moderna, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 291.34 $ (+35.0% a 3 meses)."
+  },
+  {
     "id": "19bd8789d3eb7593",
     "date": "2026-11-13",
     "ticker": "HWM",
@@ -142,6 +232,15 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Oracle Corporation entra en el Top 10 (puesto #10) con precio objetivo de 171.60 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "b437ab98eaf74618",
+    "date": "2026-11-12",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Wolfe Research baja la recomendacion de Outperform a Peer Perform."
   },
   {
     "id": "e63b3a1186250ac8",
@@ -1294,6 +1393,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "B of A Securities baja su precio objetivo de 720.00 $ a 650.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "cf6f54c34f760182",
+    "date": "2026-11-04",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-04: BPA real 2.03 $ vs estimado 1.96 $ (sorpresa +3.4%)."
   },
   {
     "id": "f950afb0da48636c",
@@ -3510,6 +3618,24 @@
     "description": "Canaccord Genuity sube su precio objetivo de 90.00 $ a 109.00 $ (mantiene Hold)."
   },
   {
+    "id": "e0270a81226af422",
+    "date": "2026-10-22",
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Freedom Broker sube la recomendacion de Hold a Buy. Precio objetivo: 40.00 $."
+  },
+  {
+    "id": "53133e55c21d3367",
+    "date": "2026-10-22",
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 42.00 $ a 41.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "7af8908e19e59d9d",
     "date": "2026-10-21",
     "ticker": "MSFT",
@@ -3661,6 +3787,33 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Susquehanna sube su precio objetivo de 550.00 $ a 620.00 $ (mantiene Positive)."
+  },
+  {
+    "id": "43e46851dd676c43",
+    "date": "2026-10-21",
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Jefferies sube su precio objetivo de 47.00 $ a 48.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ab39c36d634bf0a1",
+    "date": "2026-10-21",
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 53.00 $ a 51.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "547727fd5362c9b8",
+    "date": "2026-10-21",
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "RBC Capital sube su precio objetivo de 45.00 $ a 46.00 $ (mantiene Outperform)."
   },
   {
     "id": "becd22de87f9aba3",
@@ -4057,6 +4210,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Citigroup baja su precio objetivo de 600.00 $ a 500.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "45c9b4be37bb9331",
+    "date": "2026-10-19",
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 43.00 $ a 42.00 $ (mantiene Overweight)."
   },
   {
     "id": "45d9cf86794a23c7",
@@ -6363,6 +6525,42 @@
     "description": "Evercore ISI Group baja su precio objetivo de 237.00 $ a 217.00 $ (mantiene Outperform)."
   },
   {
+    "id": "285225db57767905",
+    "date": "2026-10-06",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 141.00 $ a 205.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "6c9b1e6654574a5c",
+    "date": "2026-10-06",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Oppenheimer baja la recomendacion de Outperform a Perform."
+  },
+  {
+    "id": "5984425a48e720f6",
+    "date": "2026-10-06",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Mizuho sube su precio objetivo de 160.00 $ a 205.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "85b9496ac269d1f1",
+    "date": "2026-10-06",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "BMO Capital baja la recomendacion de Outperform a Market Perform. Precio objetivo: 205.00 $."
+  },
+  {
     "id": "3078b12474b12218",
     "date": "2026-10-05",
     "ticker": "DELL",
@@ -6514,6 +6712,60 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "JP Morgan baja su precio objetivo de 225.00 $ a 198.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "e5a284d5cd9c87fb",
+    "date": "2026-10-05",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Rosenblatt baja la recomendacion de Buy a Neutral. Precio objetivo: 205.00 $."
+  },
+  {
+    "id": "983d8253fd872038",
+    "date": "2026-10-05",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Barclays baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 205.00 $."
+  },
+  {
+    "id": "faa00ad8b31376c9",
+    "date": "2026-10-05",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "JP Morgan sube la recomendacion de Underweight a Neutral. Precio objetivo: 205.00 $."
+  },
+  {
+    "id": "f0e9573561421f1b",
+    "date": "2026-10-05",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "RBC Capital baja la recomendacion de Outperform a Sector Perform. Precio objetivo: 306.00 $."
+  },
+  {
+    "id": "f6419de8ff72b5c4",
+    "date": "2026-10-05",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Keybanc baja la recomendacion de Overweight a Sector Weight."
+  },
+  {
+    "id": "ec95966fd40f4682",
+    "date": "2026-10-05",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Loop Capital baja la recomendacion de Buy a Hold. Precio objetivo: 205.00 $."
   },
   {
     "id": "4bec64be7b5d9018",
@@ -8764,6 +9016,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "UBS sube su precio objetivo de 55.00 $ a 63.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "ace2eaf3a86b7afe",
+    "date": "2026-09-14",
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 39.00 $ a 42.00 $ (mantiene Neutral)."
   },
   {
     "id": "14b2d913a1596ab2",
