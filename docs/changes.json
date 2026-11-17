@@ -1,5 +1,95 @@
 [
   {
+    "id": "2bc2db42a1f9ea52",
+    "date": "2026-11-17",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "AppLovin Corporation sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "6b162511ec1f6d90",
+    "date": "2026-11-17",
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "PTC Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "6634c707cfab6515",
+    "date": "2026-11-17",
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Halliburton Company sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "7d5f59cb5cf79749",
+    "date": "2026-11-17",
+    "ticker": "DVN",
+    "name": "Devon Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Devon Energy Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "246b96573ddf006d",
+    "date": "2026-11-17",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Moderna, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "000aa2f567563f2c",
+    "date": "2026-11-17",
+    "ticker": "ULTA",
+    "name": "Ulta Beauty, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Ulta Beauty, Inc. entra en el Top 10 (puesto #2) con precio objetivo de 772.70 $ (+17.0% a 3 meses)."
+  },
+  {
+    "id": "a37aa41c87201f3d",
+    "date": "2026-11-17",
+    "ticker": "AVGO",
+    "name": "Broadcom Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Broadcom Inc. entra en el Top 10 (puesto #3) con precio objetivo de 437.59 $ (+26.1% a 3 meses)."
+  },
+  {
+    "id": "6c93673a48ffadae",
+    "date": "2026-11-17",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "T-Mobile US, Inc. entra en el Top 10 (puesto #6) con precio objetivo de 197.69 $ (+16.3% a 3 meses)."
+  },
+  {
+    "id": "95a3052b52369072",
+    "date": "2026-11-17",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #9) con precio objetivo de 92.60 $ (+18.4% a 3 meses)."
+  },
+  {
+    "id": "732951e09071107f",
+    "date": "2026-11-17",
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Oracle Corporation entra en el Top 10 (puesto #10) con precio objetivo de 169.22 $ (+35.0% a 3 meses)."
+  },
+  {
     "id": "bb41dc0fbd79c932",
     "date": "2026-11-16",
     "ticker": "ULTA",
@@ -14362,257 +14452,5 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "William Blair sube la recomendacion de Market Perform a Outperform."
-  },
-  {
-    "id": "3e63e83fb083b335",
-    "date": "2026-08-18",
-    "ticker": "APH",
-    "name": "Amphenol Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Amphenol Corporation sale del Top 10 (antes en el puesto #2)."
-  },
-  {
-    "id": "6aabbaef8d025e90",
-    "date": "2026-08-18",
-    "ticker": "BKNG",
-    "name": "Booking Holdings Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Booking Holdings Inc. sale del Top 10 (antes en el puesto #5)."
-  },
-  {
-    "id": "1ebde63f51480207",
-    "date": "2026-08-18",
-    "ticker": "A",
-    "name": "Agilent Technologies, Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Agilent Technologies, Inc. sale del Top 10 (antes en el puesto #7)."
-  },
-  {
-    "id": "6e414893fbb2c76b",
-    "date": "2026-08-18",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #4) con precio objetivo de 662.59 $ (+35.0% a 3 meses)."
-  },
-  {
-    "id": "a2f27a35126f839f",
-    "date": "2026-08-18",
-    "ticker": "SWK",
-    "name": "Stanley Black & Decker, Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Stanley Black & Decker, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 119.07 $ (+16.7% a 3 meses)."
-  },
-  {
-    "id": "88554520022bde60",
-    "date": "2026-08-18",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "modelo",
-    "type": "objetivo_subido",
-    "description": "Precio objetivo de nuestro modelo revisado de 108.30 $ a 114.53 $ (+5.8%)."
-  },
-  {
-    "id": "cd33f51bbc0279bc",
-    "date": "2026-08-18",
-    "ticker": "HPQ",
-    "name": "HP Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "HP Inc. entra en el Top 10 (puesto #10) con precio objetivo de 37.15 $ (+23.4% a 3 meses)."
-  },
-  {
-    "id": "d320e9c9de2f25c6",
-    "date": "2026-08-18",
-    "ticker": "SWK",
-    "name": "Stanley Black & Decker, Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Stanley Black & Decker, Inc. sale del Top 10 (antes en el puesto #5)."
-  },
-  {
-    "id": "c50832dc4de00157",
-    "date": "2026-08-18",
-    "ticker": "CDW",
-    "name": "CDW Corporation",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "CDW Corporation entra en el Top 10 (puesto #7) con precio objetivo de 165.05 $ (+18.4% a 3 meses)."
-  },
-  {
-    "id": "9ee75a2260c47203",
-    "date": "2026-08-18",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #4)."
-  },
-  {
-    "id": "5a27b8de7632c951",
-    "date": "2026-08-18",
-    "ticker": "CDW",
-    "name": "CDW Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "CDW Corporation sale del Top 10 (antes en el puesto #7)."
-  },
-  {
-    "id": "5712da654c9f06c2",
-    "date": "2026-08-18",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "DexCom, Inc. sale del Top 10 (antes en el puesto #9)."
-  },
-  {
-    "id": "9a2481c803a1c151",
-    "date": "2026-08-18",
-    "ticker": "HPQ",
-    "name": "HP Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "HP Inc. sale del Top 10 (antes en el puesto #10)."
-  },
-  {
-    "id": "aa6550fd03b77780",
-    "date": "2026-08-18",
-    "ticker": "BKNG",
-    "name": "Booking Holdings Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Booking Holdings Inc. entra en el Top 10 (puesto #1) con precio objetivo de 247.89 $ (+17.9% a 3 meses)."
-  },
-  {
-    "id": "486954b727807d3a",
-    "date": "2026-08-18",
-    "ticker": "WDC",
-    "name": "Western Digital Corporation",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Western Digital Corporation entra en el Top 10 (puesto #3) con precio objetivo de 580.91 $ (+16.9% a 3 meses)."
-  },
-  {
-    "id": "92c65c6fb3d47d3e",
-    "date": "2026-08-18",
-    "ticker": "A",
-    "name": "Agilent Technologies, Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Agilent Technologies, Inc. entra en el Top 10 (puesto #4) con precio objetivo de 173.61 $ (+16.6% a 3 meses)."
-  },
-  {
-    "id": "3636eb9d0d42b1cf",
-    "date": "2026-08-18",
-    "ticker": "ZBRA",
-    "name": "Zebra Technologies Corporation",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #10) con precio objetivo de 446.63 $ (+21.0% a 3 meses)."
-  },
-  {
-    "id": "0b18f8f68f6d7e2e",
-    "date": "2026-08-18",
-    "ticker": "NTAP",
-    "name": "NetApp, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 150.00 $ a 209.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "aee7b81949496068",
-    "date": "2026-08-18",
-    "ticker": "CRM",
-    "name": "Salesforce, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 187.00 $ a 204.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "338963436ce78d34",
-    "date": "2026-08-18",
-    "ticker": "AMGN",
-    "name": "Amgen Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 303.00 $ a 352.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "728c56a36d26ddc8",
-    "date": "2026-08-18",
-    "ticker": "AMGN",
-    "name": "Amgen Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Cantor Fitzgerald sube su precio objetivo de 350.00 $ a 400.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "f35f505c8b330f95",
-    "date": "2026-08-18",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 169.00 $ a 235.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "d8563143d34531d8",
-    "date": "2026-08-18",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Benchmark sube su precio objetivo de 230.00 $ a 250.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "45e7040e83f77f9c",
-    "date": "2026-08-18",
-    "ticker": "MDB",
-    "name": "MongoDB, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Guggenheim sube su precio objetivo de 475.00 $ a 560.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "d7d70a9ad1494884",
-    "date": "2026-08-18",
-    "ticker": "IT",
-    "name": "Gartner, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "BMO Capital baja su precio objetivo de 214.00 $ a 206.00 $ (mantiene Market Perform)."
-  },
-  {
-    "id": "5e56e7e80f77e5d3",
-    "date": "2026-08-18",
-    "ticker": "MRVL",
-    "name": "Marvell Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "TD Cowen sube su precio objetivo de 200.00 $ a 225.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "f1366e3eec4b97c7",
-    "date": "2026-08-18",
-    "ticker": "FSLR",
-    "name": "First Solar, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 245.00 $ a 323.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "6598846b7f83a49f",
-    "date": "2026-08-18",
-    "ticker": "CTVA",
-    "name": "Corteva, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "UBS baja su precio objetivo de 89.00 $ a 85.00 $ (mantiene Neutral)."
   }
 ]
