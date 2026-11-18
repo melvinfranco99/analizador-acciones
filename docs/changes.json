@@ -72,6 +72,42 @@
     "description": "Cisco Systems, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 112.81 $ (+18.6% a 3 meses)."
   },
   {
+    "id": "67759b19063fe717",
+    "date": "2026-11-18",
+    "ticker": "CBOE",
+    "name": "Cboe Global Markets, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Cboe Global Markets, Inc. sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "715df4c2de8acd99",
+    "date": "2026-11-18",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Accenture plc sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "0d778173f1445b46",
+    "date": "2026-11-18",
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Micron Technology, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 959.57 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "f82747e8e928b90c",
+    "date": "2026-11-18",
+    "ticker": "GNRC",
+    "name": "Generac Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Generac Holdings Inc. entra en el Top 10 (puesto #9) con precio objetivo de 242.99 $ (+23.0% a 3 meses)."
+  },
+  {
     "id": "2bc2db42a1f9ea52",
     "date": "2026-11-17",
     "ticker": "APP",
@@ -871,6 +907,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Keybanc sube su precio objetivo de 57.00 $ a 59.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "5c203a5ba1a375d7",
+    "date": "2026-11-09",
+    "ticker": "GNRC",
+    "name": "Generac Holdings Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 279.00 $ a 266.00 $ (mantiene Overweight)."
   },
   {
     "id": "c6679a08322739f5",

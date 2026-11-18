@@ -1,72 +1,72 @@
 {
-  "EPAM": {
+  "AVGO": {
     "rank": 1,
-    "name": "EPAM Systems, Inc.",
-    "target_price": 187.71,
-    "upside_pct": 21.8,
-    "total_score": 81.6
-  },
-  "CBOE": {
-    "rank": 2,
-    "name": "Cboe Global Markets, Inc.",
-    "target_price": 429.62,
-    "upside_pct": 16.1,
-    "total_score": 79.8
-  },
-  "ACN": {
-    "rank": 3,
-    "name": "Accenture plc",
-    "target_price": 277.18,
-    "upside_pct": 15.8,
-    "total_score": 78.9
+    "name": "Broadcom Inc.",
+    "target_price": 441.15,
+    "upside_pct": 24.6,
+    "total_score": 81.8
   },
   "META": {
-    "rank": 4,
+    "rank": 2,
     "name": "Meta Platforms, Inc.",
-    "target_price": 733.55,
-    "upside_pct": 18.5,
+    "target_price": 732.09,
+    "upside_pct": 18.9,
     "total_score": 76.2
   },
-  "TMUS": {
-    "rank": 5,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 197.07,
-    "upside_pct": 17.4,
-    "total_score": 75.9
+  "EPAM": {
+    "rank": 3,
+    "name": "EPAM Systems, Inc.",
+    "target_price": 188.76,
+    "upside_pct": 22.3,
+    "total_score": 75.5
   },
   "APH": {
-    "rank": 6,
+    "rank": 4,
     "name": "Amphenol Corporation",
-    "target_price": 91.67,
-    "upside_pct": 20.0,
+    "target_price": 91.66,
+    "upside_pct": 20.1,
     "total_score": 69.5
   },
+  "KEYS": {
+    "rank": 5,
+    "name": "Keysight Technologies, Inc.",
+    "target_price": 353.1,
+    "upside_pct": 23.2,
+    "total_score": 69.3
+  },
   "STX": {
-    "rank": 7,
+    "rank": 6,
     "name": "Seagate Technology Holdings plc",
-    "target_price": 680.94,
+    "target_price": 687.04,
     "upside_pct": 35.0,
     "total_score": 68.9
   },
-  "AVGO": {
+  "MU": {
+    "rank": 7,
+    "name": "Micron Technology, Inc.",
+    "target_price": 959.57,
+    "upside_pct": 35.0,
+    "total_score": 68.5
+  },
+  "TMUS": {
     "rank": 8,
-    "name": "Broadcom Inc.",
-    "target_price": 434.89,
-    "upside_pct": 27.3,
-    "total_score": 65.4
+    "name": "T-Mobile US, Inc.",
+    "target_price": 194.48,
+    "upside_pct": 19.5,
+    "total_score": 67.6
+  },
+  "GNRC": {
+    "rank": 9,
+    "name": "Generac Holdings Inc.",
+    "target_price": 242.99,
+    "upside_pct": 23.0,
+    "total_score": 65.1
   },
   "CSCO": {
-    "rank": 9,
-    "name": "Cisco Systems, Inc.",
-    "target_price": 112.81,
-    "upside_pct": 18.6,
-    "total_score": 64.8
-  },
-  "KEYS": {
     "rank": 10,
-    "name": "Keysight Technologies, Inc.",
-    "target_price": 352.06,
-    "upside_pct": 23.8,
-    "total_score": 64.4
+    "name": "Cisco Systems, Inc.",
+    "target_price": 112.87,
+    "upside_pct": 18.5,
+    "total_score": 64.8
   }
 }
