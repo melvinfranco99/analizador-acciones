@@ -1,5 +1,77 @@
 [
   {
+    "id": "5386a7641155817a",
+    "date": "2026-11-18",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "C.H. Robinson Worldwide, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "e1e223b833b7d0bb",
+    "date": "2026-11-18",
+    "ticker": "DVN",
+    "name": "Devon Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Devon Energy Corporation sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "229f2baf5bd765b6",
+    "date": "2026-11-18",
+    "ticker": "ILMN",
+    "name": "Illumina, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Illumina, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "473df163a538aed3",
+    "date": "2026-11-18",
+    "ticker": "CE",
+    "name": "Celanese Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Celanese Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "92a1f9f5e683dac8",
+    "date": "2026-11-18",
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Accenture plc entra en el Top 10 (puesto #3) con precio objetivo de 277.18 $ (+15.8% a 3 meses)."
+  },
+  {
+    "id": "95fb50ba23debc51",
+    "date": "2026-11-18",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "T-Mobile US, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 197.07 $ (+17.4% a 3 meses)."
+  },
+  {
+    "id": "096151265b490984",
+    "date": "2026-11-18",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #6) con precio objetivo de 91.67 $ (+20.0% a 3 meses)."
+  },
+  {
+    "id": "511a487364770c8e",
+    "date": "2026-11-18",
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Cisco Systems, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 112.81 $ (+18.6% a 3 meses)."
+  },
+  {
     "id": "2bc2db42a1f9ea52",
     "date": "2026-11-17",
     "ticker": "APP",
@@ -448,6 +520,15 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Wolfe Research baja la recomendacion de Outperform a Peer Perform."
+  },
+  {
+    "id": "9d6a383ab62897da",
+    "date": "2026-11-12",
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-12: BPA real 1.40 $ vs estimado 1.33 $ (sorpresa +5.6%)."
   },
   {
     "id": "e63b3a1186250ac8",
@@ -1186,6 +1267,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Wells Fargo baja su precio objetivo de 65.00 $ a 60.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "74ea6a94cc009351",
+    "date": "2026-11-05",
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Morgan Stanley baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 120.00 $."
   },
   {
     "id": "721d1bdcb5f5a55a",
@@ -8640,6 +8730,15 @@
     "description": "GLJ Research baja su precio objetivo de 315.00 $ a 250.00 $ (mantiene Buy)."
   },
   {
+    "id": "055140913b74abb4",
+    "date": "2026-09-22",
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Piper Sandler baja su precio objetivo de 132.00 $ a 125.00 $ (mantiene Neutral)."
+  },
+  {
     "id": "ba6d037cbceab4e1",
     "date": "2026-09-21",
     "ticker": "MPC",
@@ -14506,482 +14605,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Morgan Stanley sube su precio objetivo de 39.00 $ a 89.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "3b93195006e4315d",
-    "date": "2026-08-19",
-    "ticker": "ZBRA",
-    "name": "Zebra Technologies Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Zebra Technologies Corporation sale del Top 10 (antes en el puesto #10)."
-  },
-  {
-    "id": "1495897e8efb760d",
-    "date": "2026-08-19",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "DexCom, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 106.47 $ (+18.8% a 3 meses)."
-  },
-  {
-    "id": "7882a6f3e454fbf6",
-    "date": "2026-08-19",
-    "ticker": "PSX",
-    "name": "Phillips 66",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Phillips 66 sale del Top 10 (antes en el puesto #6)."
-  },
-  {
-    "id": "ae9ba7958b3383de",
-    "date": "2026-08-19",
-    "ticker": "APH",
-    "name": "Amphenol Corporation",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Amphenol Corporation entra en el Top 10 (puesto #2) con precio objetivo de 202.40 $ (+18.5% a 3 meses)."
-  },
-  {
-    "id": "56819c1c72f2314a",
-    "date": "2026-08-19",
-    "ticker": "BBY",
-    "name": "Best Buy Co., Inc.",
-    "category": "modelo",
-    "type": "objetivo_bajado",
-    "description": "Precio objetivo de nuestro modelo revisado de 113.14 $ a 107.38 $ (-5.1%)."
-  },
-  {
-    "id": "c8de46d2cd3cb6df",
-    "date": "2026-08-19",
-    "ticker": "APH",
-    "name": "Amphenol Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Amphenol Corporation sale del Top 10 (antes en el puesto #2)."
-  },
-  {
-    "id": "c57f4714f637e277",
-    "date": "2026-08-19",
-    "ticker": "BKNG",
-    "name": "Booking Holdings Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Booking Holdings Inc. sale del Top 10 (antes en el puesto #5)."
-  },
-  {
-    "id": "7d7b34e60e25318b",
-    "date": "2026-08-19",
-    "ticker": "A",
-    "name": "Agilent Technologies, Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Agilent Technologies, Inc. sale del Top 10 (antes en el puesto #8)."
-  },
-  {
-    "id": "539e04cd056e64ad",
-    "date": "2026-08-19",
-    "ticker": "PSX",
-    "name": "Phillips 66",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Phillips 66 entra en el Top 10 (puesto #4) con precio objetivo de 287.49 $ (+18.1% a 3 meses)."
-  },
-  {
-    "id": "0440826f32af6e08",
-    "date": "2026-08-19",
-    "ticker": "ZBRA",
-    "name": "Zebra Technologies Corporation",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Zebra Technologies Corporation entra en el Top 10 (puesto #9) con precio objetivo de 455.26 $ (+24.2% a 3 meses)."
-  },
-  {
-    "id": "79290c46ac4c44a6",
-    "date": "2026-08-19",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #10) con precio objetivo de 632.68 $ (+35.0% a 3 meses)."
-  },
-  {
-    "id": "115e505eca9d89d4",
-    "date": "2026-08-19",
-    "ticker": "WDC",
-    "name": "Western Digital Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Western Digital Corporation sale del Top 10 (antes en el puesto #2)."
-  },
-  {
-    "id": "4025b8e5c554fc3d",
-    "date": "2026-08-19",
-    "ticker": "PSX",
-    "name": "Phillips 66",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Phillips 66 sale del Top 10 (antes en el puesto #4)."
-  },
-  {
-    "id": "89621483933da739",
-    "date": "2026-08-19",
-    "ticker": "DXCM",
-    "name": "DexCom, Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "DexCom, Inc. sale del Top 10 (antes en el puesto #6)."
-  },
-  {
-    "id": "ef467a9b638cfc28",
-    "date": "2026-08-19",
-    "ticker": "ZBRA",
-    "name": "Zebra Technologies Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Zebra Technologies Corporation sale del Top 10 (antes en el puesto #9)."
-  },
-  {
-    "id": "91e309fd23fa26b1",
-    "date": "2026-08-19",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #10)."
-  },
-  {
-    "id": "956e524f78ccba44",
-    "date": "2026-08-19",
-    "ticker": "BKNG",
-    "name": "Booking Holdings Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Booking Holdings Inc. entra en el Top 10 (puesto #1) con precio objetivo de 257.11 $ (+19.7% a 3 meses)."
-  },
-  {
-    "id": "5d66373dabbcc8f5",
-    "date": "2026-08-19",
-    "ticker": "INCY",
-    "name": "Incyte Corporation",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Incyte Corporation entra en el Top 10 (puesto #2) con precio objetivo de 150.24 $ (+17.1% a 3 meses)."
-  },
-  {
-    "id": "bbc347c3f574852b",
-    "date": "2026-08-19",
-    "ticker": "CDW",
-    "name": "CDW Corporation",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "CDW Corporation entra en el Top 10 (puesto #6) con precio objetivo de 160.87 $ (+17.4% a 3 meses)."
-  },
-  {
-    "id": "57fc4d3a9c362e60",
-    "date": "2026-08-19",
-    "ticker": "HPE",
-    "name": "Hewlett Packard Enterprise Company",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Hewlett Packard Enterprise Company entra en el Top 10 (puesto #9) con precio objetivo de 69.49 $ (+31.3% a 3 meses)."
-  },
-  {
-    "id": "9172a0690b4b8220",
-    "date": "2026-08-19",
-    "ticker": "A",
-    "name": "Agilent Technologies, Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Agilent Technologies, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 186.89 $ (+20.4% a 3 meses)."
-  },
-  {
-    "id": "3461ddf885d9f4c9",
-    "date": "2026-08-19",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Evercore ISI Group sube su precio objetivo de 500.00 $ a 550.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "3f036425fe9a6b00",
-    "date": "2026-08-19",
-    "ticker": "DLTR",
-    "name": "Dollar Tree, Inc.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "Jefferies sube la recomendacion de Underperform a Hold. Precio objetivo: 135.00 $."
-  },
-  {
-    "id": "da9be3cb02aac33f",
-    "date": "2026-08-19",
-    "ticker": "AJG",
-    "name": "Arthur J. Gallagher & Co.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 270.00 $ a 290.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "59a8828358638285",
-    "date": "2026-08-19",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 305.00 $ a 415.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "ae76b514f3ad9cee",
-    "date": "2026-08-19",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Stifel sube su precio objetivo de 330.00 $ a 415.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "e52d2cf6ecd88c15",
-    "date": "2026-08-19",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 300.00 $ a 390.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "af574dac4fc1535b",
-    "date": "2026-08-19",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Truist Securities sube su precio objetivo de 375.00 $ a 435.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "4f78bdf1846eb9ff",
-    "date": "2026-08-19",
-    "ticker": "PANW",
-    "name": "Palo Alto Networks, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Cantor Fitzgerald sube su precio objetivo de 340.00 $ a 425.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "60212d4b4c7efd34",
-    "date": "2026-08-19",
-    "ticker": "AMGN",
-    "name": "Amgen Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Argus Research sube su precio objetivo de 375.00 $ a 460.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "b9bdcfe1fe08bac0",
-    "date": "2026-08-19",
-    "ticker": "AMGN",
-    "name": "Amgen Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 351.00 $ a 362.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "5250864730a0f019",
-    "date": "2026-08-19",
-    "ticker": "WDAY",
-    "name": "Workday, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "B of A Securities sube su precio objetivo de 140.00 $ a 205.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "f0e8a2d10e15ccdb",
-    "date": "2026-08-19",
-    "ticker": "PYPL",
-    "name": "PayPal Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Truist Securities sube su precio objetivo de 59.00 $ a 62.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "a2ef6773c4e86cd4",
-    "date": "2026-08-19",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 175.00 $ a 240.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "9003964b5fa3a54d",
-    "date": "2026-08-19",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Truist Securities sube su precio objetivo de 187.50 $ a 245.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "4449a35ae17fc56f",
-    "date": "2026-08-19",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Cantor Fitzgerald baja su precio objetivo de 725.00 $ a 250.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "f2d90ebd710481a9",
-    "date": "2026-08-19",
-    "ticker": "MDB",
-    "name": "MongoDB, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citizens sube su precio objetivo de 366.00 $ a 519.00 $ (mantiene Market Outperform)."
-  },
-  {
-    "id": "0a133e585c505a27",
-    "date": "2026-08-19",
-    "ticker": "NOW",
-    "name": "ServiceNow, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "B of A Securities sube su precio objetivo de 130.00 $ a 150.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "2c0b5c059848a918",
-    "date": "2026-08-19",
-    "ticker": "COP",
-    "name": "ConocoPhillips",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 147.00 $ a 151.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "5381c9c9f014ed2e",
-    "date": "2026-08-19",
-    "ticker": "COP",
-    "name": "ConocoPhillips",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Argus Research sube su precio objetivo de 136.00 $ a 153.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "361f163ce48e78ae",
-    "date": "2026-08-19",
-    "ticker": "ZS",
-    "name": "Zscaler, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Mizuho sube su precio objetivo de 185.00 $ a 210.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "5e2c0df07cd5c261",
-    "date": "2026-08-19",
-    "ticker": "ZS",
-    "name": "Zscaler, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Stifel sube su precio objetivo de 175.00 $ a 200.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "6bd3c2c48e98e02d",
-    "date": "2026-08-19",
-    "ticker": "APP",
-    "name": "AppLovin Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Wells Fargo baja su precio objetivo de 357.00 $ a 325.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "8820f3b0469530fd",
-    "date": "2026-08-19",
-    "ticker": "EL",
-    "name": "The Estée Lauder Companies Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-08-19: BPA real 0.39 $ vs estimado 0.32 $ (sorpresa +22.1%)."
-  },
-  {
-    "id": "1777e61ecec09686",
-    "date": "2026-08-19",
-    "ticker": "MRNA",
-    "name": "Moderna, Inc.",
-    "category": "analista",
-    "type": "upgrade_analista",
-    "description": "William Blair sube la recomendacion de Market Perform a Outperform."
-  },
-  {
-    "id": "d7190c342a285311",
-    "date": "2026-08-19",
-    "ticker": "KEYS",
-    "name": "Keysight Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "JP Morgan sube su precio objetivo de 400.00 $ a 425.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "d39b09d66c0056aa",
-    "date": "2026-08-19",
-    "ticker": "KEYS",
-    "name": "Keysight Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 400.00 $ a 425.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "ca33578c056069f6",
-    "date": "2026-08-19",
-    "ticker": "KEYS",
-    "name": "Keysight Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 420.00 $ a 440.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "8d09f922c75dca8c",
-    "date": "2026-08-19",
-    "ticker": "KEYS",
-    "name": "Keysight Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Truist Securities sube su precio objetivo de 376.00 $ a 400.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "edd2e02cdb665fd1",
-    "date": "2026-08-19",
-    "ticker": "KEYS",
-    "name": "Keysight Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 387.00 $ a 429.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "f34113964c49be94",
-    "date": "2026-08-19",
-    "ticker": "KEYS",
-    "name": "Keysight Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Wells Fargo sube su precio objetivo de 390.00 $ a 405.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "a146db34b44ddb8e",
-    "date": "2026-08-19",
-    "ticker": "KEYS",
-    "name": "Keysight Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Susquehanna sube su precio objetivo de 425.00 $ a 440.00 $ (mantiene Positive)."
-  },
-  {
-    "id": "633f91043d6f3376",
-    "date": "2026-08-19",
-    "ticker": "KEYS",
-    "name": "Keysight Technologies, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Baird sube su precio objetivo de 385.00 $ a 410.00 $ (mantiene Outperform)."
   }
 ]
