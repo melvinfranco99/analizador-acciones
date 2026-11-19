@@ -18,6 +18,69 @@
     "description": "Howmet Aerospace Inc. entra en el Top 10 (puesto #6) con precio objetivo de 258.72 $ (+17.0% a 3 meses)."
   },
   {
+    "id": "8d45dd0686dcf664",
+    "date": "2026-11-19",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "T-Mobile US, Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "1366fda936419816",
+    "date": "2026-11-19",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Seagate Technology Holdings plc sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "c4cdc6d2e86226f8",
+    "date": "2026-11-19",
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Cisco Systems, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "422dfcd5be90c101",
+    "date": "2026-11-19",
+    "ticker": "PDD",
+    "name": "PDD Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "PDD Holdings Inc. entra en el Top 10 (puesto #2) con precio objetivo de 99.52 $ (+16.5% a 3 meses)."
+  },
+  {
+    "id": "fd95dbbbd2821462",
+    "date": "2026-11-19",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Synopsys, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 517.85 $ (+16.6% a 3 meses)."
+  },
+  {
+    "id": "c9a8b2571838ac6f",
+    "date": "2026-11-19",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Western Digital Corporation entra en el Top 10 (puesto #9) con precio objetivo de 411.74 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "1d6411e6ae538b87",
+    "date": "2026-11-19",
+    "ticker": "PDD",
+    "name": "PDD Holdings Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-19: BPA real 21.04 $ vs estimado 18.84 $ (sorpresa +11.7%)."
+  },
+  {
     "id": "5386a7641155817a",
     "date": "2026-11-18",
     "ticker": "CHRW",
@@ -4635,6 +4698,15 @@
     "description": "Morgan Stanley sube su precio objetivo de 1187.00 $ a 1200.00 $ (mantiene Overweight)."
   },
   {
+    "id": "bfa67c917ce9204f",
+    "date": "2026-10-20",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 500.00 $ a 574.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "c3804cca21517150",
     "date": "2026-10-19",
     "ticker": "MSFT",
@@ -6181,6 +6253,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "TD Cowen sube su precio objetivo de 334.00 $ a 342.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "1f487498c4b9fa69",
+    "date": "2026-10-12",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Needham sube su precio objetivo de 580.00 $ a 620.00 $ (mantiene Buy)."
   },
   {
     "id": "c08fd052669f175e",
@@ -7965,6 +8046,33 @@
     "description": "RBC Capital sube su precio objetivo de 70.00 $ a 95.00 $ (mantiene Sector Perform)."
   },
   {
+    "id": "6647eba601bd588f",
+    "date": "2026-10-01",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 475.00 $ a 540.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "1d749a6165c6d46a",
+    "date": "2026-10-01",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Keybanc sube su precio objetivo de 600.00 $ a 605.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "968b1aef3836cefc",
+    "date": "2026-10-01",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Rosenblatt sube su precio objetivo de 575.00 $ a 620.00 $ (mantiene Buy)."
+  },
+  {
     "id": "bb6be41fb62f9065",
     "date": "2026-09-30",
     "ticker": "IT",
@@ -8451,6 +8559,15 @@
     "description": "B of A Securities sube su precio objetivo de 620.00 $ a 720.00 $ (mantiene Buy)."
   },
   {
+    "id": "0753b0f3919d584f",
+    "date": "2026-09-25",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "HSBC sube la recomendacion de Hold a Buy. Precio objetivo: 700.00 $."
+  },
+  {
     "id": "2ae3ea90531530a8",
     "date": "2026-09-24",
     "ticker": "PCTY",
@@ -8503,6 +8620,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citizens sube su precio objetivo de 770.00 $ a 885.00 $ (mantiene Market Outperform)."
+  },
+  {
+    "id": "471192ca2cb9ba0e",
+    "date": "2026-09-24",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "BNP Paribas sube la recomendacion de Underperform a Neutral. Precio objetivo: 420.00 $."
   },
   {
     "id": "c5a3d5376b95a5a5",
@@ -10080,6 +10206,15 @@
     "description": "JP Morgan sube la recomendacion de Neutral a Overweight. Precio objetivo: 820.00 $."
   },
   {
+    "id": "eeb475f45b01d7a2",
+    "date": "2026-09-10",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Wells Fargo sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 475.00 $."
+  },
+  {
     "id": "88082c2a8366766e",
     "date": "2026-09-09",
     "ticker": "DELL",
@@ -10240,6 +10375,15 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Citigroup sube la recomendacion de Neutral a Buy. Precio objetivo: 185.00 $."
+  },
+  {
+    "id": "42bf6a01869165eb",
+    "date": "2026-09-08",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Morgan Stanley sube la recomendacion de Equal-Weight a Overweight. Precio objetivo: 500.00 $."
   },
   {
     "id": "19f98374a33472c2",
@@ -13383,6 +13527,24 @@
     "description": "BMO Capital sube la recomendacion de Market Perform a Outperform. Precio objetivo: 263.00 $."
   },
   {
+    "id": "8310cad91deb1c7a",
+    "date": "2026-08-27",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Mizuho baja su precio objetivo de 600.00 $ a 550.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "81d6b51ee21b50a0",
+    "date": "2026-08-27",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Baird sube la recomendacion de Neutral a Outperform. Precio objetivo: 560.00 $."
+  },
+  {
     "id": "4216a50735f70d54",
     "date": "2026-08-26",
     "ticker": "MU",
@@ -13579,6 +13741,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Needham baja su precio objetivo de 500.00 $ a 475.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "8ebb39e08767e433",
+    "date": "2026-08-26",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-26: BPA real 3.91 $ vs estimado 3.67 $ (sorpresa +6.4%)."
   },
   {
     "id": "6cf742496a1fb44a",
