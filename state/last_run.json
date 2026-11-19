@@ -2,71 +2,71 @@
   "AVGO": {
     "rank": 1,
     "name": "Broadcom Inc.",
-    "target_price": 441.15,
+    "target_price": 441.11,
     "upside_pct": 24.6,
     "total_score": 81.8
   },
-  "META": {
+  "GNRC": {
     "rank": 2,
+    "name": "Generac Holdings Inc.",
+    "target_price": 246.97,
+    "upside_pct": 20.2,
+    "total_score": 76.6
+  },
+  "META": {
+    "rank": 3,
     "name": "Meta Platforms, Inc.",
-    "target_price": 732.09,
-    "upside_pct": 18.9,
+    "target_price": 732.3,
+    "upside_pct": 18.8,
     "total_score": 76.2
   },
+  "TMUS": {
+    "rank": 4,
+    "name": "T-Mobile US, Inc.",
+    "target_price": 195.13,
+    "upside_pct": 19.0,
+    "total_score": 75.9
+  },
   "EPAM": {
-    "rank": 3,
+    "rank": 5,
     "name": "EPAM Systems, Inc.",
-    "target_price": 188.76,
-    "upside_pct": 22.3,
+    "target_price": 188.38,
+    "upside_pct": 22.2,
+    "total_score": 75.5
+  },
+  "HWM": {
+    "rank": 6,
+    "name": "Howmet Aerospace Inc.",
+    "target_price": 258.72,
+    "upside_pct": 17.0,
     "total_score": 75.5
   },
   "APH": {
-    "rank": 4,
+    "rank": 7,
     "name": "Amphenol Corporation",
-    "target_price": 91.66,
+    "target_price": 91.65,
     "upside_pct": 20.1,
     "total_score": 69.5
   },
   "KEYS": {
-    "rank": 5,
+    "rank": 8,
     "name": "Keysight Technologies, Inc.",
-    "target_price": 353.1,
-    "upside_pct": 23.2,
+    "target_price": 352.98,
+    "upside_pct": 23.3,
     "total_score": 69.3
   },
   "STX": {
-    "rank": 6,
+    "rank": 9,
     "name": "Seagate Technology Holdings plc",
-    "target_price": 687.04,
+    "target_price": 696.47,
     "upside_pct": 35.0,
     "total_score": 68.9
-  },
-  "MU": {
-    "rank": 7,
-    "name": "Micron Technology, Inc.",
-    "target_price": 959.57,
-    "upside_pct": 35.0,
-    "total_score": 68.5
-  },
-  "TMUS": {
-    "rank": 8,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 194.48,
-    "upside_pct": 19.5,
-    "total_score": 67.6
-  },
-  "GNRC": {
-    "rank": 9,
-    "name": "Generac Holdings Inc.",
-    "target_price": 242.99,
-    "upside_pct": 23.0,
-    "total_score": 65.1
   },
   "CSCO": {
     "rank": 10,
     "name": "Cisco Systems, Inc.",
-    "target_price": 112.87,
-    "upside_pct": 18.5,
-    "total_score": 64.8
+    "target_price": 113.84,
+    "upside_pct": 17.1,
+    "total_score": 64.9
   }
 }
