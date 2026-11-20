@@ -54,6 +54,87 @@
     "description": "Seagate Technology Holdings plc entra en el Top 10 (puesto #10) con precio objetivo de 703.88 $ (+35.0% a 3 meses)."
   },
   {
+    "id": "337295eeb2f9964a",
+    "date": "2026-11-20",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Howmet Aerospace Inc. sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "d5dd42e3c8c44bea",
+    "date": "2026-11-20",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Advanced Micro Devices, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "c3e0dc23cdcf2e5b",
+    "date": "2026-11-20",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Western Digital Corporation sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "948a23574fdec7e1",
+    "date": "2026-11-20",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Seagate Technology Holdings plc sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "85cf7ad7489953c2",
+    "date": "2026-11-20",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 177.78 $ a 191.36 $ (+7.6%)."
+  },
+  {
+    "id": "77f47bea824db856",
+    "date": "2026-11-20",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "C.H. Robinson Worldwide, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 157.81 $ (+15.8% a 3 meses)."
+  },
+  {
+    "id": "db4b142818e06590",
+    "date": "2026-11-20",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Moderna, Inc. entra en el Top 10 (puesto #6) con precio objetivo de 260.94 $ (+25.1% a 3 meses)."
+  },
+  {
+    "id": "c6c4ba0e5b443dbe",
+    "date": "2026-11-20",
+    "ticker": "DVN",
+    "name": "Devon Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Devon Energy Corporation entra en el Top 10 (puesto #7) con precio objetivo de 51.06 $ (+20.7% a 3 meses)."
+  },
+  {
+    "id": "ed1a295f77947019",
+    "date": "2026-11-20",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Occidental Petroleum Corporation entra en el Top 10 (puesto #9) con precio objetivo de 62.56 $ (+15.8% a 3 meses)."
+  },
+  {
     "id": "880ca51c63ba8f48",
     "date": "2026-11-19",
     "ticker": "MU",
@@ -729,6 +810,15 @@
     "description": "Citigroup sube su precio objetivo de 140.00 $ a 172.00 $ (mantiene Neutral)."
   },
   {
+    "id": "dce4af4ced5b8578",
+    "date": "2026-11-11",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 82.00 $ a 76.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "bd531b8fb98af6ce",
     "date": "2026-11-10",
     "ticker": "FSLR",
@@ -1069,6 +1159,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Piper Sandler baja su precio objetivo de 279.00 $ a 266.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "9cf97043fed24993",
+    "date": "2026-11-09",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-09: BPA real 1.91 $ vs estimado 1.48 $ (sorpresa +29.0%)."
   },
   {
     "id": "c6679a08322739f5",
@@ -3573,6 +3672,15 @@
     "description": "Resultados del 2026-10-27: BPA real 7.68 $ vs estimado 7.43 $ (sorpresa +3.4%)."
   },
   {
+    "id": "4beb4e24a2c32bee",
+    "date": "2026-10-27",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Goldman Sachs sube su precio objetivo de 69.00 $ a 76.00 $ (mantiene Buy)."
+  },
+  {
     "id": "1c50e1b32721b2de",
     "date": "2026-10-26",
     "ticker": "WDAY",
@@ -4779,6 +4887,15 @@
     "description": "Morgan Stanley sube su precio objetivo de 500.00 $ a 574.00 $ (mantiene Overweight)."
   },
   {
+    "id": "647b8dc7b52cbd16",
+    "date": "2026-10-20",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Susquehanna sube su precio objetivo de 70.00 $ a 77.00 $ (mantiene Positive)."
+  },
+  {
     "id": "c3804cca21517150",
     "date": "2026-10-19",
     "ticker": "MSFT",
@@ -4975,6 +5092,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "Piper Sandler baja su precio objetivo de 43.00 $ a 42.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "c02a01dc4dcaa504",
+    "date": "2026-10-19",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Stephens & Co. sube su precio objetivo de 78.00 $ a 80.00 $ (mantiene Overweight)."
   },
   {
     "id": "45d9cf86794a23c7",
@@ -5346,6 +5472,24 @@
     "description": "RBC Capital baja su precio objetivo de 350.00 $ a 300.00 $ (mantiene Outperform)."
   },
   {
+    "id": "4bf7fd159d723c7d",
+    "date": "2026-10-15",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 69.00 $ a 71.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "62c8e6a1c45f2965",
+    "date": "2026-10-15",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Truist Securities sube su precio objetivo de 63.00 $ a 64.00 $ (mantiene Hold)."
+  },
+  {
     "id": "571db89acfc9be10",
     "date": "2026-10-14",
     "ticker": "JBL",
@@ -5623,6 +5767,15 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Wells Fargo sube su precio objetivo de 301.00 $ a 309.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "00dd2876fb721266",
+    "date": "2026-10-14",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 67.00 $ a 73.00 $ (mantiene Neutral)."
   },
   {
     "id": "f1d08bff8de59838",
@@ -8145,6 +8298,15 @@
     "description": "Rosenblatt sube su precio objetivo de 575.00 $ a 620.00 $ (mantiene Buy)."
   },
   {
+    "id": "200e2d9f0c6fbd51",
+    "date": "2026-10-01",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Goldman Sachs sube la recomendacion de Neutral a Buy. Precio objetivo: 69.00 $."
+  },
+  {
     "id": "bb6be41fb62f9065",
     "date": "2026-09-30",
     "ticker": "IT",
@@ -9936,6 +10098,24 @@
     "description": "UBS sube su precio objetivo de 39.00 $ a 42.00 $ (mantiene Neutral)."
   },
   {
+    "id": "37d9866c2d5aedaa",
+    "date": "2026-09-14",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "UBS sube su precio objetivo de 59.00 $ a 67.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "982107ea2d98b858",
+    "date": "2026-09-14",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Wells Fargo sube su precio objetivo de 79.00 $ a 82.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "14b2d913a1596ab2",
     "date": "2026-09-11",
     "ticker": "NEM",
@@ -10132,6 +10312,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "UBS baja su precio objetivo de 145.00 $ a 138.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "75ee89f560e34014",
+    "date": "2026-09-11",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Evercore ISI Group sube su precio objetivo de 65.00 $ a 70.00 $ (mantiene Outperform)."
   },
   {
     "id": "b6291541dbc994b1",
