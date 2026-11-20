@@ -1,5 +1,59 @@
 [
   {
+    "id": "6fe0a5907b7ef28e",
+    "date": "2026-11-20",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amphenol Corporation sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "dc7cb024868df9e7",
+    "date": "2026-11-20",
+    "ticker": "SNPS",
+    "name": "Synopsys, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Synopsys, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "9b517619c8f47481",
+    "date": "2026-11-20",
+    "ticker": "KEYS",
+    "name": "Keysight Technologies, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Keysight Technologies, Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "4cfb36d17441041a",
+    "date": "2026-11-20",
+    "ticker": "TMUS",
+    "name": "T-Mobile US, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "T-Mobile US, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 194.38 $ (+19.6% a 3 meses)."
+  },
+  {
+    "id": "45f0f73ac7c9b25b",
+    "date": "2026-11-20",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Advanced Micro Devices, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 573.47 $ (+17.2% a 3 meses)."
+  },
+  {
+    "id": "09a31a5b2cd5e37d",
+    "date": "2026-11-20",
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Seagate Technology Holdings plc entra en el Top 10 (puesto #10) con precio objetivo de 703.88 $ (+35.0% a 3 meses)."
+  },
+  {
     "id": "880ca51c63ba8f48",
     "date": "2026-11-19",
     "ticker": "MU",
@@ -646,6 +700,24 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-11-12: BPA real 1.40 $ vs estimado 1.33 $ (sorpresa +5.6%)."
+  },
+  {
+    "id": "cb22fe9bec070746",
+    "date": "2026-11-12",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "B of A Securities sube su precio objetivo de 650.00 $ a 700.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "be2f9f2833630fe6",
+    "date": "2026-11-12",
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "William Blair sube la recomendacion de Market Perform a Outperform."
   },
   {
     "id": "e63b3a1186250ac8",
@@ -14272,221 +14344,5 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #10) con precio objetivo de 181.90 $ (+18.6% a 3 meses)."
-  },
-  {
-    "id": "65d41412646398c2",
-    "date": "2026-08-21",
-    "ticker": "INCY",
-    "name": "Incyte Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Incyte Corporation sale del Top 10 (antes en el puesto #1)."
-  },
-  {
-    "id": "c55e3c279637e36b",
-    "date": "2026-08-21",
-    "ticker": "CDW",
-    "name": "CDW Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "CDW Corporation sale del Top 10 (antes en el puesto #5)."
-  },
-  {
-    "id": "20a5e9c565654f39",
-    "date": "2026-08-21",
-    "ticker": "AMCR",
-    "name": "Amcor plc",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Amcor plc sale del Top 10 (antes en el puesto #7)."
-  },
-  {
-    "id": "b378e3d5aedbd6d8",
-    "date": "2026-08-21",
-    "ticker": "PAYX",
-    "name": "Paychex, Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Paychex, Inc. sale del Top 10 (antes en el puesto #10)."
-  },
-  {
-    "id": "3551f9a4beb61a6a",
-    "date": "2026-08-21",
-    "ticker": "IQV",
-    "name": "IQVIA Holdings Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "IQVIA Holdings Inc. entra en el Top 10 (puesto #7) con precio objetivo de 317.31 $ (+23.9% a 3 meses)."
-  },
-  {
-    "id": "fb6dba84ba3a8fc4",
-    "date": "2026-08-21",
-    "ticker": "TMO",
-    "name": "Thermo Fisher Scientific Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Thermo Fisher Scientific Inc. entra en el Top 10 (puesto #8) con precio objetivo de 750.05 $ (+19.5% a 3 meses)."
-  },
-  {
-    "id": "eeec8e361c99262c",
-    "date": "2026-08-21",
-    "ticker": "BBY",
-    "name": "Best Buy Co., Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Best Buy Co., Inc. entra en el Top 10 (puesto #9) con precio objetivo de 103.93 $ (+21.2% a 3 meses)."
-  },
-  {
-    "id": "e9258a04f0972fe9",
-    "date": "2026-08-21",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #10) con precio objetivo de 586.95 $ (+35.0% a 3 meses)."
-  },
-  {
-    "id": "55742527d88ac332",
-    "date": "2026-08-21",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "NVIDIA Corporation sale del Top 10 (antes en el puesto #4)."
-  },
-  {
-    "id": "b7d4de8a98cfbe72",
-    "date": "2026-08-21",
-    "ticker": "BBY",
-    "name": "Best Buy Co., Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Best Buy Co., Inc. sale del Top 10 (antes en el puesto #9)."
-  },
-  {
-    "id": "e61aab4cc04f9617",
-    "date": "2026-08-21",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #10)."
-  },
-  {
-    "id": "8e6a75b2a1ddc2e7",
-    "date": "2026-08-21",
-    "ticker": "INCY",
-    "name": "Incyte Corporation",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Incyte Corporation entra en el Top 10 (puesto #2) con precio objetivo de 148.92 $ (+15.9% a 3 meses)."
-  },
-  {
-    "id": "770f04f85bbf5dfe",
-    "date": "2026-08-21",
-    "ticker": "VLO",
-    "name": "Valero Energy Corporation",
-    "category": "modelo",
-    "type": "objetivo_subido",
-    "description": "Precio objetivo de nuestro modelo revisado de 402.53 $ a 427.96 $ (+6.3%)."
-  },
-  {
-    "id": "5e4e93bcd5cfcb8c",
-    "date": "2026-08-21",
-    "ticker": "PAYX",
-    "name": "Paychex, Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Paychex, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 143.78 $ (+16.3% a 3 meses)."
-  },
-  {
-    "id": "f4860790ff1a3b57",
-    "date": "2026-08-21",
-    "ticker": "DLTR",
-    "name": "Dollar Tree, Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Dollar Tree, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 154.12 $ (+18.1% a 3 meses)."
-  },
-  {
-    "id": "2970ba2e5a674d9f",
-    "date": "2026-08-21",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Scotiabank baja su precio objetivo de 805.00 $ a 227.00 $ (mantiene Sector Outperform)."
-  },
-  {
-    "id": "42ee821fd9cfd9c3",
-    "date": "2026-08-21",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Keybanc sube su precio objetivo de 234.00 $ a 240.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "962f8cc707c10055",
-    "date": "2026-08-21",
-    "ticker": "ADSK",
-    "name": "Autodesk, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Baird sube su precio objetivo de 312.00 $ a 325.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "f2a1075941080413",
-    "date": "2026-08-21",
-    "ticker": "MRVL",
-    "name": "Marvell Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Citigroup sube su precio objetivo de 225.00 $ a 275.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "b1e97e3cfee35b21",
-    "date": "2026-08-21",
-    "ticker": "MRVL",
-    "name": "Marvell Technology, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Oppenheimer sube su precio objetivo de 250.00 $ a 300.00 $ (mantiene Outperform)."
-  },
-  {
-    "id": "65f0af4f154ca9c4",
-    "date": "2026-08-21",
-    "ticker": "ZS",
-    "name": "Zscaler, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Keybanc sube su precio objetivo de 185.00 $ a 210.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "f9fed7da48880d09",
-    "date": "2026-08-21",
-    "ticker": "EL",
-    "name": "The Estée Lauder Companies Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 80.00 $ a 97.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "29f8401aa20accfa",
-    "date": "2026-08-21",
-    "ticker": "APP",
-    "name": "AppLovin Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Piper Sandler baja su precio objetivo de 385.00 $ a 325.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "5556ea213f871ea4",
-    "date": "2026-08-21",
-    "ticker": "MRNA",
-    "name": "Moderna, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "JP Morgan sube su precio objetivo de 40.00 $ a 77.00 $ (mantiene Underweight)."
   }
 ]
