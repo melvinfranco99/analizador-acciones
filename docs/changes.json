@@ -14794,41 +14794,5 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Jefferies sube su precio objetivo de 145.00 $ a 150.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "cef957e3c4f90e0f",
-    "date": "2026-08-22",
-    "ticker": "INCY",
-    "name": "Incyte Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Incyte Corporation sale del Top 10 (antes en el puesto #2)."
-  },
-  {
-    "id": "85c260be1fb0d519",
-    "date": "2026-08-22",
-    "ticker": "BBY",
-    "name": "Best Buy Co., Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Best Buy Co., Inc. entra en el Top 10 (puesto #10) con precio objetivo de 104.07 $ (+21.2% a 3 meses)."
-  },
-  {
-    "id": "857e597d4a55d101",
-    "date": "2026-08-22",
-    "ticker": "IQV",
-    "name": "IQVIA Holdings Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "IQVIA Holdings Inc. sale del Top 10 (antes en el puesto #7)."
-  },
-  {
-    "id": "2f4e3e98ead31709",
-    "date": "2026-08-22",
-    "ticker": "PCTY",
-    "name": "Paylocity Holding Corporation",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Paylocity Holding Corporation entra en el Top 10 (puesto #10) con precio objetivo de 181.90 $ (+18.6% a 3 meses)."
   }
 ]
