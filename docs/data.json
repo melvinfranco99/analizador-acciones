@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T06:34:13",
-  "duration_seconds": 31.3,
+  "generated_at": "2026-11-21T18:56:55",
+  "duration_seconds": 24.4,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
@@ -24,8 +24,8 @@
       "stop_loss_eur": 276.56,
       "stop_loss_pct": 12.9,
       "technical_score": 79.2,
-      "fundamental_score": 91.5,
-      "total_score": 84.7,
+      "fundamental_score": 91.6,
+      "total_score": 84.8,
       "technical_breakdown": {
         "trend": 60,
         "momentum": 100,
@@ -36,7 +36,7 @@
         "valuation": 75,
         "growth": 100,
         "profitability": 100,
-        "analyst_consensus": 91.1
+        "analyst_consensus": 91.4
       },
       "rationale": [
         "Potencial estimado a 3 meses: +15.8% (~+5.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
@@ -54,15 +54,15 @@
       "industry": "Internet Retail",
       "price": 83.68,
       "price_eur": 76.28,
-      "target_price": 98.76,
-      "target_price_eur": 90.03,
-      "upside_pct": 18.0,
+      "target_price": 98.87,
+      "target_price_eur": 90.13,
+      "upside_pct": 18.2,
       "stop_loss": 77.93,
       "stop_loss_eur": 71.04,
       "stop_loss_pct": 6.9,
       "technical_score": 82.0,
-      "fundamental_score": 82.6,
-      "total_score": 82.3,
+      "fundamental_score": 83.3,
+      "total_score": 82.6,
       "technical_breakdown": {
         "trend": 60,
         "momentum": 100,
@@ -73,15 +73,15 @@
         "valuation": 100,
         "growth": 55,
         "profitability": 100,
-        "analyst_consensus": 84.6
+        "analyst_consensus": 87.2
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +18.0% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +18.2% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "MACD en cruce alcista con impulso creciente.",
-        "Valoracion contenida (PER 9.5x).",
-        "Consenso de 33 analistas con precio objetivo medio de 113.84."
+        "Valoracion contenida (PER 9.2x).",
+        "Consenso de 33 analistas con precio objetivo medio de 114.07."
       ],
-      "pe": 9.476784,
+      "pe": 9.22602,
       "num_analysts": 33,
       "rank": 2
     },
@@ -115,10 +115,10 @@
       },
       "rationale": [
         "Potencial estimado a 3 meses: +18.3% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
-        "Valoracion contenida (PER 15.7x).",
+        "Valoracion contenida (PER 16.0x).",
         "Consenso de 25 analistas con precio objetivo medio de 226.24."
       ],
-      "pe": 15.666983,
+      "pe": 15.969143,
       "num_analysts": 25,
       "rank": 3
     },
@@ -155,7 +155,7 @@
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Consenso de 17 analistas con precio objetivo medio de 172.88."
       ],
-      "pe": 18.871922,
+      "pe": 19.227102,
       "num_analysts": 17,
       "rank": 4
     },
@@ -268,7 +268,7 @@
         "Valoracion contenida (PER 12.0x).",
         "Consenso de 27 analistas con precio objetivo medio de 71.11."
       ],
-      "pe": 11.977778,
+      "pe": 12.004456,
       "num_analysts": 27,
       "rank": 7
     },
@@ -279,9 +279,9 @@
       "industry": "Oil & Gas E&P",
       "price": 175.75,
       "price_eur": 160.21,
-      "target_price": 207.05,
-      "target_price_eur": 188.75,
-      "upside_pct": 17.8,
+      "target_price": 207.15,
+      "target_price_eur": 188.84,
+      "upside_pct": 17.9,
       "stop_loss": 168.72,
       "stop_loss_eur": 153.81,
       "stop_loss_pct": 4.0,
@@ -301,9 +301,9 @@
         "analyst_consensus": 92.3
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +17.8% (~+5.6%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +17.9% (~+5.6%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Crecimiento de ingresos solido (32.0% interanual).",
-        "Consenso de 29 analistas con precio objetivo medio de 238.34."
+        "Consenso de 29 analistas con precio objetivo medio de 238.55."
       ],
       "pe": 23.654106,
       "num_analysts": 29,
@@ -354,9 +354,9 @@
       "industry": "Specialty Industrial Machinery",
       "price": 94.66,
       "price_eur": 86.29,
-      "target_price": 110.05,
-      "target_price_eur": 100.32,
-      "upside_pct": 16.3,
+      "target_price": 109.58,
+      "target_price_eur": 99.89,
+      "upside_pct": 15.8,
       "stop_loss": 88.61,
       "stop_loss_eur": 80.78,
       "stop_loss_pct": 6.4,
@@ -376,10 +376,10 @@
         "analyst_consensus": 84.3
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +16.3% (~+5.2%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +15.8% (~+5.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Tendencia bajista: precio por debajo de sus medias moviles principales.",
         "MACD en cruce alcista con impulso creciente.",
-        "Consenso de 16 analistas con precio objetivo medio de 125.44."
+        "Consenso de 16 analistas con precio objetivo medio de 124.50."
       ],
       "pe": 20.988913,
       "num_analysts": 16,

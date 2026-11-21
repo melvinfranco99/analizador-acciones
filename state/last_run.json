@@ -4,14 +4,14 @@
     "name": "AppLovin Corporation",
     "target_price": 403.2,
     "upside_pct": 15.8,
-    "total_score": 84.7
+    "total_score": 84.8
   },
   "PDD": {
     "rank": 2,
     "name": "PDD Holdings Inc.",
-    "target_price": 98.76,
-    "upside_pct": 18.0,
-    "total_score": 82.3
+    "target_price": 98.87,
+    "upside_pct": 18.2,
+    "total_score": 82.6
   },
   "TMUS": {
     "rank": 3,
@@ -51,8 +51,8 @@
   "FANG": {
     "rank": 8,
     "name": "Diamondback Energy, Inc.",
-    "target_price": 207.05,
-    "upside_pct": 17.8,
+    "target_price": 207.15,
+    "upside_pct": 17.9,
     "total_score": 63.7
   },
   "GNRC": {
@@ -65,8 +65,8 @@
   "XYL": {
     "rank": 10,
     "name": "Xylem Inc.",
-    "target_price": 110.05,
-    "upside_pct": 16.3,
+    "target_price": 109.58,
+    "upside_pct": 15.8,
     "total_score": 63.5
   }
 }
