@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T06:01:54",
-  "duration_seconds": 21.1,
+  "generated_at": "2026-11-22T19:17:54",
+  "duration_seconds": 24.9,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
@@ -54,9 +54,9 @@
       "industry": "Internet Retail",
       "price": 83.68,
       "price_eur": 76.28,
-      "target_price": 98.75,
-      "target_price_eur": 90.02,
-      "upside_pct": 18.0,
+      "target_price": 98.87,
+      "target_price_eur": 90.13,
+      "upside_pct": 18.2,
       "stop_loss": 77.93,
       "stop_loss_eur": 71.04,
       "stop_loss_pct": 6.9,
@@ -76,10 +76,10 @@
         "analyst_consensus": 87.2
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +18.0% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +18.2% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "MACD en cruce alcista con impulso creciente.",
         "Valoracion contenida (PER 9.2x).",
-        "Consenso de 33 analistas con precio objetivo medio de 113.81."
+        "Consenso de 33 analistas con precio objetivo medio de 114.07."
       ],
       "pe": 9.22602,
       "num_analysts": 33,
