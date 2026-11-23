@@ -1,72 +1,72 @@
 {
-  "APP": {
+  "ZS": {
     "rank": 1,
-    "name": "AppLovin Corporation",
-    "target_price": 403.2,
-    "upside_pct": 15.8,
-    "total_score": 84.8
-  },
-  "PDD": {
-    "rank": 2,
-    "name": "PDD Holdings Inc.",
-    "target_price": 98.84,
+    "name": "Zscaler, Inc.",
+    "target_price": 270.63,
     "upside_pct": 18.1,
-    "total_score": 82.6
-  },
-  "TMUS": {
-    "rank": 3,
-    "name": "T-Mobile US, Inc.",
-    "target_price": 195.92,
-    "upside_pct": 18.3,
-    "total_score": 79.2
+    "total_score": 81.1
   },
   "EPAM": {
-    "rank": 4,
+    "rank": 2,
     "name": "EPAM Systems, Inc.",
-    "target_price": 182.15,
-    "upside_pct": 18.9,
-    "total_score": 75.5
+    "target_price": 190.06,
+    "upside_pct": 20.5,
+    "total_score": 80.4
   },
-  "CHRW": {
-    "rank": 5,
-    "name": "C.H. Robinson Worldwide, Inc.",
-    "target_price": 156.65,
-    "upside_pct": 16.9,
-    "total_score": 73.2
-  },
-  "META": {
-    "rank": 6,
-    "name": "Meta Platforms, Inc.",
-    "target_price": 703.67,
-    "upside_pct": 25.5,
-    "total_score": 67.3
-  },
-  "OXY": {
-    "rank": 7,
-    "name": "Occidental Petroleum Corporation",
-    "target_price": 62.51,
-    "upside_pct": 16.0,
-    "total_score": 66.9
-  },
-  "FANG": {
-    "rank": 8,
-    "name": "Diamondback Energy, Inc.",
-    "target_price": 207.15,
-    "upside_pct": 17.9,
-    "total_score": 63.7
+  "KEYS": {
+    "rank": 3,
+    "name": "Keysight Technologies, Inc.",
+    "target_price": 340.36,
+    "upside_pct": 17.5,
+    "total_score": 77.0
   },
   "GNRC": {
-    "rank": 9,
+    "rank": 4,
     "name": "Generac Holdings Inc.",
-    "target_price": 241.14,
-    "upside_pct": 24.8,
-    "total_score": 63.6
+    "target_price": 246.9,
+    "upside_pct": 20.6,
+    "total_score": 76.6
   },
-  "XYL": {
+  "PARA": {
+    "rank": 5,
+    "name": "Parabolic Technologies, Inc.",
+    "target_price": 3.67,
+    "upside_pct": 35.0,
+    "total_score": 76.5
+  },
+  "TMUS": {
+    "rank": 6,
+    "name": "T-Mobile US, Inc.",
+    "target_price": 196.3,
+    "upside_pct": 18.0,
+    "total_score": 75.9
+  },
+  "META": {
+    "rank": 7,
+    "name": "Meta Platforms, Inc.",
+    "target_price": 722.05,
+    "upside_pct": 20.8,
+    "total_score": 74.9
+  },
+  "APH": {
+    "rank": 8,
+    "name": "Amphenol Corporation",
+    "target_price": 92.19,
+    "upside_pct": 19.1,
+    "total_score": 74.3
+  },
+  "MRNA": {
+    "rank": 9,
+    "name": "Moderna, Inc.",
+    "target_price": 247.63,
+    "upside_pct": 16.8,
+    "total_score": 72.2
+  },
+  "ZM": {
     "rank": 10,
-    "name": "Xylem Inc.",
-    "target_price": 109.58,
-    "upside_pct": 15.8,
-    "total_score": 63.5
+    "name": "Zoom Communications, Inc.",
+    "target_price": 102.27,
+    "upside_pct": 18.9,
+    "total_score": 70.4
   }
 }

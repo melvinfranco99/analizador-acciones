@@ -1,5 +1,122 @@
 [
   {
+    "id": "08e0a68f737d9955",
+    "date": "2026-11-23",
+    "ticker": "APP",
+    "name": "AppLovin Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "AppLovin Corporation sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "63359b6bd4b903ac",
+    "date": "2026-11-23",
+    "ticker": "PDD",
+    "name": "PDD Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "PDD Holdings Inc. sale del Top 10 (antes en el puesto #2)."
+  },
+  {
+    "id": "0cac71fc1e754e6d",
+    "date": "2026-11-23",
+    "ticker": "CHRW",
+    "name": "C.H. Robinson Worldwide, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "C.H. Robinson Worldwide, Inc. sale del Top 10 (antes en el puesto #5)."
+  },
+  {
+    "id": "0fc3af4edd8fb427",
+    "date": "2026-11-23",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Occidental Petroleum Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "95f137fd8e24cdf0",
+    "date": "2026-11-23",
+    "ticker": "FANG",
+    "name": "Diamondback Energy, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Diamondback Energy, Inc. sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "8f3555e10d9b5450",
+    "date": "2026-11-23",
+    "ticker": "XYL",
+    "name": "Xylem Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Xylem Inc. sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "d05c20530356e4c6",
+    "date": "2026-11-23",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zscaler, Inc. entra en el Top 10 (puesto #1) con precio objetivo de 270.63 $ (+18.1% a 3 meses)."
+  },
+  {
+    "id": "b6d5a67503cb4748",
+    "date": "2026-11-23",
+    "ticker": "KEYS",
+    "name": "Keysight Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Keysight Technologies, Inc. entra en el Top 10 (puesto #3) con precio objetivo de 340.36 $ (+17.5% a 3 meses)."
+  },
+  {
+    "id": "6933e0c6f6e2c53c",
+    "date": "2026-11-23",
+    "ticker": "PARA",
+    "name": "Parabolic Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Parabolic Technologies, Inc. entra en el Top 10 (puesto #5) con precio objetivo de 3.67 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "8cb65cfba54541ef",
+    "date": "2026-11-23",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #8) con precio objetivo de 92.19 $ (+19.1% a 3 meses)."
+  },
+  {
+    "id": "fe1c3dc7a35a235d",
+    "date": "2026-11-23",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Moderna, Inc. entra en el Top 10 (puesto #9) con precio objetivo de 247.63 $ (+16.8% a 3 meses)."
+  },
+  {
+    "id": "31c86d3b8dcb9566",
+    "date": "2026-11-23",
+    "ticker": "ZM",
+    "name": "Zoom Communications, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Zoom Communications, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 102.27 $ (+18.9% a 3 meses)."
+  },
+  {
+    "id": "0689097fafbe1e7e",
+    "date": "2026-11-23",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-23: BPA real 1.23 $ vs estimado 1.16 $ (sorpresa +5.9%)."
+  },
+  {
     "id": "6fe0a5907b7ef28e",
     "date": "2026-11-20",
     "ticker": "APH",
@@ -268,6 +385,15 @@
     "category": "resultados",
     "type": "resultados_positivos",
     "description": "Resultados del 2026-11-19: BPA real 21.04 $ vs estimado 18.84 $ (sorpresa +11.7%)."
+  },
+  {
+    "id": "f03dbc0eb2320d8b",
+    "date": "2026-11-19",
+    "ticker": "KEYS",
+    "name": "Keysight Technologies, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-19: BPA real 3.61 $ vs estimado 3.38 $ (sorpresa +6.8%)."
   },
   {
     "id": "5386a7641155817a",
@@ -673,6 +799,15 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Moderna, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 291.34 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "889310caf9e741d8",
+    "date": "2026-11-16",
+    "ticker": "PARA",
+    "name": "Parabolic Technologies, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-16: BPA real -1045.57 $ vs estimado -1220.00 $ (sorpresa +14.3%)."
   },
   {
     "id": "19bd8789d3eb7593",
@@ -4858,6 +4993,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "B of A Securities sube su precio objetivo de 1150.00 $ a 1200.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "12ad79e0fd5308ed",
+    "date": "2026-10-21",
+    "ticker": "ZM",
+    "name": "Zoom Communications, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "UBS baja su precio objetivo de 115.00 $ a 112.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "de1d99d52fbb5ba1",
+    "date": "2026-10-21",
+    "ticker": "ZM",
+    "name": "Zoom Communications, Inc.",
+    "category": "analista",
+    "type": "upgrade_analista",
+    "description": "Oppenheimer sube la recomendacion de Perform a Outperform. Precio objetivo: 130.00 $."
   },
   {
     "id": "becd22de87f9aba3",
@@ -10404,6 +10557,15 @@
     "description": "UBS sube su precio objetivo de 243.00 $ a 253.00 $ (mantiene Buy)."
   },
   {
+    "id": "deac0b2adc00af9e",
+    "date": "2026-09-14",
+    "ticker": "PARA",
+    "name": "Parabolic Technologies, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Ascendiant Capital baja su precio objetivo de 42.00 $ a 24.00 $ (mantiene Buy)."
+  },
+  {
     "id": "14b2d913a1596ab2",
     "date": "2026-09-11",
     "ticker": "NEM",
@@ -14301,6 +14463,24 @@
     "description": "Resultados del 2026-08-26: BPA real 3.91 $ vs estimado 3.67 $ (sorpresa +6.4%)."
   },
   {
+    "id": "4472f6c9f4129034",
+    "date": "2026-08-26",
+    "ticker": "ZM",
+    "name": "Zoom Communications, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Morgan Stanley sube su precio objetivo de 105.00 $ a 107.00 $ (mantiene Equal-Weight)."
+  },
+  {
+    "id": "d2672a5c70a00035",
+    "date": "2026-08-26",
+    "ticker": "ZM",
+    "name": "Zoom Communications, Inc.",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Jefferies baja su precio objetivo de 118.00 $ a 116.00 $ (mantiene Buy)."
+  },
+  {
     "id": "6cf742496a1fb44a",
     "date": "2026-08-25",
     "ticker": "TMO",
@@ -14560,5 +14740,14 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Raymond James sube la recomendacion de Outperform a Strong Buy. Precio objetivo: 641.00 $."
+  },
+  {
+    "id": "f3daaf114ff9f206",
+    "date": "2026-08-25",
+    "ticker": "ZM",
+    "name": "Zoom Communications, Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-08-25: BPA real 1.55 $ vs estimado 1.48 $ (sorpresa +5.0%)."
   }
 ]
