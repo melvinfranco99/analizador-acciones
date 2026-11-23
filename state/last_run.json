@@ -9,8 +9,8 @@
   "PDD": {
     "rank": 2,
     "name": "PDD Holdings Inc.",
-    "target_price": 98.87,
-    "upside_pct": 18.2,
+    "target_price": 98.84,
+    "upside_pct": 18.1,
     "total_score": 82.6
   },
   "TMUS": {
@@ -37,8 +37,8 @@
   "META": {
     "rank": 6,
     "name": "Meta Platforms, Inc.",
-    "target_price": 704.53,
-    "upside_pct": 25.6,
+    "target_price": 703.67,
+    "upside_pct": 25.5,
     "total_score": 67.3
   },
   "OXY": {
