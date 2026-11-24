@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-23T23:40:05",
-  "duration_seconds": 26.4,
+  "generated_at": "2026-11-24T09:21:14",
+  "duration_seconds": 22.7,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
-  "candidates_below_threshold": 309,
+  "candidates_below_threshold": 310,
   "min_monthly_return_pct": 5.0,
   "min_upside_pct_3m": 15.8,
   "benchmark_return_3m": -5.7,
-  "eur_usd_rate": 1.090869426727295,
+  "eur_usd_rate": 1.091941475868225,
   "results": [
     {
       "ticker": "ZS",
@@ -16,16 +16,16 @@
       "sector": "Technology",
       "industry": "Software - Infrastructure",
       "price": 229.24,
-      "price_eur": 210.14,
+      "price_eur": 209.94,
       "target_price": 270.63,
-      "target_price_eur": 248.09,
+      "target_price_eur": 247.84,
       "upside_pct": 18.1,
       "stop_loss": 197.82,
-      "stop_loss_eur": 181.34,
+      "stop_loss_eur": 181.16,
       "stop_loss_pct": 13.7,
       "technical_score": 100.0,
-      "fundamental_score": 58.0,
-      "total_score": 81.1,
+      "fundamental_score": 60.7,
+      "total_score": 82.3,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 100,
@@ -36,17 +36,17 @@
         "valuation": 30,
         "growth": 100,
         "profitability": 20,
-        "analyst_consensus": 66.1
+        "analyst_consensus": 76.9
       },
       "rationale": [
         "Potencial estimado a 3 meses: +18.1% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (24.9% interanual).",
-        "Consenso de 44 analistas con precio objetivo medio de 235.23."
+        "Consenso de 41 analistas con precio objetivo medio de 242.11."
       ],
       "pe": null,
-      "num_analysts": 44,
+      "num_analysts": 41,
       "rank": 1
     },
     {
@@ -55,13 +55,13 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "price": 157.72,
-      "price_eur": 144.58,
+      "price_eur": 144.44,
       "target_price": 190.06,
-      "target_price_eur": 174.23,
+      "target_price_eur": 174.06,
       "upside_pct": 20.5,
-      "stop_loss": 144.02,
-      "stop_loss_eur": 132.02,
-      "stop_loss_pct": 8.7,
+      "stop_loss": 143.86,
+      "stop_loss_eur": 131.75,
+      "stop_loss_pct": 8.8,
       "technical_score": 88.8,
       "fundamental_score": 70.1,
       "total_score": 80.4,
@@ -92,12 +92,12 @@
       "sector": "Technology",
       "industry": "Scientific & Technical Instruments",
       "price": 289.63,
-      "price_eur": 265.5,
+      "price_eur": 265.24,
       "target_price": 340.36,
-      "target_price_eur": 312.01,
+      "target_price_eur": 311.7,
       "upside_pct": 17.5,
       "stop_loss": 255.35,
-      "stop_loss_eur": 234.08,
+      "stop_loss_eur": 233.85,
       "stop_loss_pct": 11.8,
       "technical_score": 70.0,
       "fundamental_score": 85.6,
@@ -120,7 +120,7 @@
         "Crecimiento de ingresos solido (40.5% interanual).",
         "Consenso de 12 analistas con precio objetivo medio de 391.08."
       ],
-      "pe": 33.10057,
+      "pe": 29.889578,
       "num_analysts": 12,
       "rank": 3
     },
@@ -130,12 +130,12 @@
       "sector": "Industrials",
       "industry": "Specialty Industrial Machinery",
       "price": 204.75,
-      "price_eur": 187.69,
+      "price_eur": 187.51,
       "target_price": 246.9,
-      "target_price_eur": 226.33,
+      "target_price_eur": 226.11,
       "upside_pct": 20.6,
       "stop_loss": 178.96,
-      "stop_loss_eur": 164.05,
+      "stop_loss_eur": 163.89,
       "stop_loss_pct": 12.6,
       "technical_score": 82.0,
       "fundamental_score": 70.1,
@@ -163,55 +163,17 @@
       "rank": 4
     },
     {
-      "ticker": "PARA",
-      "name": "Parabolic Technologies, Inc.",
-      "sector": "Technology",
-      "industry": "Software - Application",
-      "price": 2.72,
-      "price_eur": 2.49,
-      "target_price": 3.67,
-      "target_price_eur": 3.36,
-      "upside_pct": 35.0,
-      "stop_loss": 2.31,
-      "stop_loss_eur": 2.12,
-      "stop_loss_pct": 15.0,
-      "technical_score": 80.5,
-      "fundamental_score": 71.5,
-      "total_score": 76.5,
-      "technical_breakdown": {
-        "trend": 60,
-        "momentum": 70,
-        "macd": 100,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 100,
-        "growth": 100,
-        "profitability": 20,
-        "analyst_consensus": 50.0
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +35.0% (~+10.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "MACD en cruce alcista con impulso creciente.",
-        "Crecimiento de ingresos solido (64.7% interanual).",
-        "Valoracion contenida (PER 0.0x)."
-      ],
-      "pe": 0.00010505581,
-      "num_analysts": 1,
-      "rank": 5
-    },
-    {
       "ticker": "TMUS",
       "name": "T-Mobile US, Inc.",
       "sector": "Communication Services",
       "industry": "Telecom Services",
       "price": 166.36,
-      "price_eur": 152.5,
+      "price_eur": 152.35,
       "target_price": 196.3,
-      "target_price_eur": 179.95,
+      "target_price_eur": 179.77,
       "upside_pct": 18.0,
       "stop_loss": 155.56,
-      "stop_loss_eur": 142.6,
+      "stop_loss_eur": 142.46,
       "stop_loss_pct": 6.5,
       "technical_score": 67.2,
       "fundamental_score": 86.5,
@@ -235,7 +197,7 @@
       ],
       "pe": 16.04243,
       "num_analysts": 25,
-      "rank": 6
+      "rank": 5
     },
     {
       "ticker": "META",
@@ -243,12 +205,12 @@
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
       "price": 597.6,
-      "price_eur": 547.82,
-      "target_price": 722.05,
-      "target_price_eur": 661.9,
-      "upside_pct": 20.8,
+      "price_eur": 547.28,
+      "target_price": 721.49,
+      "target_price_eur": 660.74,
+      "upside_pct": 20.7,
       "stop_loss": 553.09,
-      "stop_loss_eur": 507.02,
+      "stop_loss_eur": 506.52,
       "stop_loss_pct": 7.4,
       "technical_score": 60.8,
       "fundamental_score": 92.2,
@@ -266,13 +228,13 @@
         "analyst_consensus": 93.7
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +20.8% (~+6.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +20.7% (~+6.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Crecimiento de ingresos solido (26.1% interanual).",
-        "Consenso de 58 analistas con precio objetivo medio de 846.50."
+        "Consenso de 58 analistas con precio objetivo medio de 845.38."
       ],
       "pe": 20.388945,
       "num_analysts": 58,
-      "rank": 7
+      "rank": 6
     },
     {
       "ticker": "APH",
@@ -280,12 +242,12 @@
       "sector": "Technology",
       "industry": "Electronic Components",
       "price": 77.41,
-      "price_eur": 70.96,
+      "price_eur": 70.89,
       "target_price": 92.19,
-      "target_price_eur": 84.51,
+      "target_price_eur": 84.43,
       "upside_pct": 19.1,
       "stop_loss": 68.65,
-      "stop_loss_eur": 62.93,
+      "stop_loss_eur": 62.87,
       "stop_loss_pct": 11.3,
       "technical_score": 64.8,
       "fundamental_score": 85.9,
@@ -309,7 +271,7 @@
       ],
       "pe": 33.510826,
       "num_analysts": 19,
-      "rank": 8
+      "rank": 7
     },
     {
       "ticker": "MRNA",
@@ -317,12 +279,12 @@
       "sector": "Healthcare",
       "industry": "Biotechnology",
       "price": 212.08,
-      "price_eur": 194.41,
+      "price_eur": 194.22,
       "target_price": 247.63,
-      "target_price_eur": 227.0,
+      "target_price_eur": 226.78,
       "upside_pct": 16.8,
       "stop_loss": 180.27,
-      "stop_loss_eur": 165.25,
+      "stop_loss_eur": 165.09,
       "stop_loss_pct": 15.0,
       "technical_score": 88.8,
       "fundamental_score": 51.8,
@@ -347,7 +309,7 @@
       ],
       "pe": null,
       "num_analysts": 19,
-      "rank": 9
+      "rank": 8
     },
     {
       "ticker": "ZM",
@@ -355,12 +317,12 @@
       "sector": "Technology",
       "industry": "Software - Application",
       "price": 86.03,
-      "price_eur": 78.86,
+      "price_eur": 78.79,
       "target_price": 102.27,
-      "target_price_eur": 93.75,
+      "target_price_eur": 93.66,
       "upside_pct": 18.9,
       "stop_loss": 79.81,
-      "stop_loss_eur": 73.16,
+      "stop_loss_eur": 73.09,
       "stop_loss_pct": 7.2,
       "technical_score": 48.8,
       "fundamental_score": 96.8,
@@ -384,6 +346,45 @@
       ],
       "pe": 7.98052,
       "num_analysts": 25,
+      "rank": 9
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital Corporation",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "price": 297.25,
+      "price_eur": 272.22,
+      "target_price": 401.29,
+      "target_price_eur": 367.5,
+      "upside_pct": 35.0,
+      "stop_loss": 254.31,
+      "stop_loss_eur": 232.9,
+      "stop_loss_pct": 14.4,
+      "technical_score": 46.0,
+      "fundamental_score": 98.1,
+      "total_score": 69.4,
+      "technical_breakdown": {
+        "trend": 10,
+        "momentum": 60,
+        "macd": 100,
+        "relative_strength": 15
+      },
+      "fundamental_breakdown": {
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 92.5
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +35.0% (~+10.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Tendencia bajista: precio por debajo de sus medias moviles principales.",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (55.5% interanual).",
+        "Valoracion contenida (PER 10.5x)."
+      ],
+      "pe": 10.455504,
+      "num_analysts": 24,
       "rank": 10
     }
   ]

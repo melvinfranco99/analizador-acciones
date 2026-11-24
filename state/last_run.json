@@ -4,7 +4,7 @@
     "name": "Zscaler, Inc.",
     "target_price": 270.63,
     "upside_pct": 18.1,
-    "total_score": 81.1
+    "total_score": 82.3
   },
   "EPAM": {
     "rank": 2,
@@ -27,46 +27,46 @@
     "upside_pct": 20.6,
     "total_score": 76.6
   },
-  "PARA": {
-    "rank": 5,
-    "name": "Parabolic Technologies, Inc.",
-    "target_price": 3.67,
-    "upside_pct": 35.0,
-    "total_score": 76.5
-  },
   "TMUS": {
-    "rank": 6,
+    "rank": 5,
     "name": "T-Mobile US, Inc.",
     "target_price": 196.3,
     "upside_pct": 18.0,
     "total_score": 75.9
   },
   "META": {
-    "rank": 7,
+    "rank": 6,
     "name": "Meta Platforms, Inc.",
-    "target_price": 722.05,
-    "upside_pct": 20.8,
+    "target_price": 721.49,
+    "upside_pct": 20.7,
     "total_score": 74.9
   },
   "APH": {
-    "rank": 8,
+    "rank": 7,
     "name": "Amphenol Corporation",
     "target_price": 92.19,
     "upside_pct": 19.1,
     "total_score": 74.3
   },
   "MRNA": {
-    "rank": 9,
+    "rank": 8,
     "name": "Moderna, Inc.",
     "target_price": 247.63,
     "upside_pct": 16.8,
     "total_score": 72.2
   },
   "ZM": {
-    "rank": 10,
+    "rank": 9,
     "name": "Zoom Communications, Inc.",
     "target_price": 102.27,
     "upside_pct": 18.9,
     "total_score": 70.4
+  },
+  "WDC": {
+    "rank": 10,
+    "name": "Western Digital Corporation",
+    "target_price": 401.29,
+    "upside_pct": 35.0,
+    "total_score": 69.4
   }
 }
