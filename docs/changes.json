@@ -18,6 +18,114 @@
     "description": "Western Digital Corporation entra en el Top 10 (puesto #10) con precio objetivo de 401.29 $ (+35.0% a 3 meses)."
   },
   {
+    "id": "bd2f84becb3f53bc",
+    "date": "2026-11-24",
+    "ticker": "KEYS",
+    "name": "Keysight Technologies, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Keysight Technologies, Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "b3bf8eb738e16504",
+    "date": "2026-11-24",
+    "ticker": "GNRC",
+    "name": "Generac Holdings Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Generac Holdings Inc. sale del Top 10 (antes en el puesto #4)."
+  },
+  {
+    "id": "322ed6dd8f038f40",
+    "date": "2026-11-24",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Amphenol Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "71035e973542fe0d",
+    "date": "2026-11-24",
+    "ticker": "ZM",
+    "name": "Zoom Communications, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Zoom Communications, Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "07a5b865d0cfe115",
+    "date": "2026-11-24",
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Western Digital Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "ffb3a369163a6632",
+    "date": "2026-11-24",
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 190.06 $ a 199.96 $ (+5.2%)."
+  },
+  {
+    "id": "78b73e6638d49ae9",
+    "date": "2026-11-24",
+    "ticker": "PARA",
+    "name": "Parabolic Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Parabolic Technologies, Inc. entra en el Top 10 (puesto #3) con precio objetivo de 4.10 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "6ddad22863330225",
+    "date": "2026-11-24",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 247.63 $ a 286.42 $ (+15.7%)."
+  },
+  {
+    "id": "c063f0dc0c0d4f24",
+    "date": "2026-11-24",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Salesforce, Inc. entra en el Top 10 (puesto #7) con precio objetivo de 238.85 $ (+23.6% a 3 meses)."
+  },
+  {
+    "id": "94d5d4d09d3a27a1",
+    "date": "2026-11-24",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Wynn Resorts, Limited entra en el Top 10 (puesto #8) con precio objetivo de 100.01 $ (+18.9% a 3 meses)."
+  },
+  {
+    "id": "2f91f7a2b9297ba3",
+    "date": "2026-11-24",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Newmont Corporation entra en el Top 10 (puesto #9) con precio objetivo de 116.75 $ (+17.1% a 3 meses)."
+  },
+  {
+    "id": "3de6f6616e2e27b3",
+    "date": "2026-11-24",
+    "ticker": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Cisco Systems, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 111.83 $ (+19.0% a 3 meses)."
+  },
+  {
     "id": "08e0a68f737d9955",
     "date": "2026-11-23",
     "ticker": "APP",
@@ -1395,6 +1503,33 @@
     "description": "Resultados del 2026-11-09: BPA real 1.91 $ vs estimado 1.48 $ (sorpresa +29.0%)."
   },
   {
+    "id": "95cdb9a75cb4685b",
+    "date": "2026-11-09",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Citigroup baja su precio objetivo de 103.00 $ a 100.00 $ (mantiene Buy)."
+  },
+  {
+    "id": "4f7460bfc35275d6",
+    "date": "2026-11-07",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Macquarie baja su precio objetivo de 132.00 $ a 128.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "90c905bba2f28503",
+    "date": "2026-11-07",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "JP Morgan baja su precio objetivo de 115.00 $ a 112.00 $ (mantiene Overweight)."
+  },
+  {
     "id": "c6679a08322739f5",
     "date": "2026-11-06",
     "ticker": "META",
@@ -1582,6 +1717,24 @@
     "category": "analista",
     "type": "objetivo_analista_subido",
     "description": "Citigroup sube su precio objetivo de 580.00 $ a 685.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "b3f8a21490abb057",
+    "date": "2026-11-06",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 128.00 $ a 120.00 $ (mantiene Overweight)."
+  },
+  {
+    "id": "b51d96c1e4bab96a",
+    "date": "2026-11-06",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Wells Fargo baja su precio objetivo de 125.00 $ a 122.00 $ (mantiene Overweight)."
   },
   {
     "id": "1b7688d1974a0ae9",
@@ -1798,6 +1951,15 @@
     "category": "analista",
     "type": "downgrade_analista",
     "description": "Morgan Stanley baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 120.00 $."
+  },
+  {
+    "id": "2b572a2fbc48e95c",
+    "date": "2026-11-05",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "resultados",
+    "type": "resultados_negativos",
+    "description": "Resultados del 2026-11-05: BPA real 0.33 $ vs estimado 0.59 $ (sorpresa -44.5%)."
   },
   {
     "id": "721d1bdcb5f5a55a",
@@ -4032,6 +4194,15 @@
     "description": "Goldman Sachs sube su precio objetivo de 69.00 $ a 76.00 $ (mantiene Buy)."
   },
   {
+    "id": "06aa9609149bced4",
+    "date": "2026-10-27",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Scotiabank baja su precio objetivo de 149.00 $ a 148.00 $ (mantiene Sector Outperform)."
+  },
+  {
     "id": "1c50e1b32721b2de",
     "date": "2026-10-26",
     "ticker": "WDAY",
@@ -4824,6 +4995,24 @@
     "description": "UBS baja su precio objetivo de 42.00 $ a 41.00 $ (mantiene Neutral)."
   },
   {
+    "id": "8c84618ae88d1398",
+    "date": "2026-10-22",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Freedom Broker baja la recomendacion de Buy a Hold. Precio objetivo: 116.00 $."
+  },
+  {
+    "id": "1e3f038a6cecac74",
+    "date": "2026-10-22",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-10-22: BPA real 2.20 $ vs estimado 1.95 $ (sorpresa +13.0%)."
+  },
+  {
     "id": "7af8908e19e59d9d",
     "date": "2026-10-21",
     "ticker": "MSFT",
@@ -5265,6 +5454,15 @@
     "description": "Susquehanna sube su precio objetivo de 70.00 $ a 77.00 $ (mantiene Positive)."
   },
   {
+    "id": "b6ef0a3eef50e4d3",
+    "date": "2026-10-20",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_subido",
+    "description": "Citigroup sube su precio objetivo de 125.00 $ a 140.00 $ (mantiene Buy)."
+  },
+  {
     "id": "c3804cca21517150",
     "date": "2026-10-19",
     "ticker": "MSFT",
@@ -5479,6 +5677,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "JP Morgan baja su precio objetivo de 137.00 $ a 118.00 $ (mantiene Neutral)."
+  },
+  {
+    "id": "6089f8bc2566844e",
+    "date": "2026-10-19",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "analista",
+    "type": "objetivo_analista_bajado",
+    "description": "Barclays baja su precio objetivo de 124.00 $ a 123.00 $ (mantiene Overweight)."
   },
   {
     "id": "45d9cf86794a23c7",

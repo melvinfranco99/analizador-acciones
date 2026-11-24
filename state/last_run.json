@@ -2,71 +2,71 @@
   "ZS": {
     "rank": 1,
     "name": "Zscaler, Inc.",
-    "target_price": 270.63,
-    "upside_pct": 18.1,
+    "target_price": 273.31,
+    "upside_pct": 18.0,
     "total_score": 82.3
   },
   "EPAM": {
     "rank": 2,
     "name": "EPAM Systems, Inc.",
-    "target_price": 190.06,
-    "upside_pct": 20.5,
+    "target_price": 199.96,
+    "upside_pct": 23.8,
     "total_score": 80.4
   },
-  "KEYS": {
+  "PARA": {
     "rank": 3,
-    "name": "Keysight Technologies, Inc.",
-    "target_price": 340.36,
-    "upside_pct": 17.5,
-    "total_score": 77.0
-  },
-  "GNRC": {
-    "rank": 4,
-    "name": "Generac Holdings Inc.",
-    "target_price": 246.9,
-    "upside_pct": 20.6,
-    "total_score": 76.6
+    "name": "Parabolic Technologies, Inc.",
+    "target_price": 4.1,
+    "upside_pct": 35.0,
+    "total_score": 76.5
   },
   "TMUS": {
-    "rank": 5,
+    "rank": 4,
     "name": "T-Mobile US, Inc.",
-    "target_price": 196.3,
-    "upside_pct": 18.0,
+    "target_price": 196.77,
+    "upside_pct": 17.6,
     "total_score": 75.9
+  },
+  "MRNA": {
+    "rank": 5,
+    "name": "Moderna, Inc.",
+    "target_price": 286.42,
+    "upside_pct": 26.0,
+    "total_score": 72.2
   },
   "META": {
     "rank": 6,
     "name": "Meta Platforms, Inc.",
-    "target_price": 721.49,
-    "upside_pct": 20.7,
-    "total_score": 74.9
+    "target_price": 716.18,
+    "upside_pct": 21.4,
+    "total_score": 71.6
   },
-  "APH": {
+  "CRM": {
     "rank": 7,
-    "name": "Amphenol Corporation",
-    "target_price": 92.19,
-    "upside_pct": 19.1,
-    "total_score": 74.3
+    "name": "Salesforce, Inc.",
+    "target_price": 238.85,
+    "upside_pct": 23.6,
+    "total_score": 68.4
   },
-  "MRNA": {
+  "WYNN": {
     "rank": 8,
-    "name": "Moderna, Inc.",
-    "target_price": 247.63,
-    "upside_pct": 16.8,
-    "total_score": 72.2
-  },
-  "ZM": {
-    "rank": 9,
-    "name": "Zoom Communications, Inc.",
-    "target_price": 102.27,
+    "name": "Wynn Resorts, Limited",
+    "target_price": 100.01,
     "upside_pct": 18.9,
-    "total_score": 70.4
+    "total_score": 68.2
   },
-  "WDC": {
+  "NEM": {
+    "rank": 9,
+    "name": "Newmont Corporation",
+    "target_price": 116.75,
+    "upside_pct": 17.1,
+    "total_score": 67.9
+  },
+  "CSCO": {
     "rank": 10,
-    "name": "Western Digital Corporation",
-    "target_price": 401.29,
-    "upside_pct": 35.0,
-    "total_score": 69.4
+    "name": "Cisco Systems, Inc.",
+    "target_price": 111.83,
+    "upside_pct": 19.0,
+    "total_score": 67.7
   }
 }
