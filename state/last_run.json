@@ -1,72 +1,72 @@
 {
-  "ZS": {
+  "META": {
     "rank": 1,
-    "name": "Zscaler, Inc.",
-    "target_price": 273.31,
-    "upside_pct": 18.0,
-    "total_score": 81.8
-  },
-  "EPAM": {
-    "rank": 2,
-    "name": "EPAM Systems, Inc.",
-    "target_price": 199.96,
-    "upside_pct": 23.8,
+    "name": "Meta Platforms, Inc.",
+    "target_price": 726.21,
+    "upside_pct": 19.1,
     "total_score": 80.4
+  },
+  "GNRC": {
+    "rank": 2,
+    "name": "Generac Holdings Inc.",
+    "target_price": 246.52,
+    "upside_pct": 20.9,
+    "total_score": 79.9
   },
   "TMUS": {
     "rank": 3,
     "name": "T-Mobile US, Inc.",
-    "target_price": 196.77,
-    "upside_pct": 17.6,
-    "total_score": 75.9
+    "target_price": 196.25,
+    "upside_pct": 18.0,
+    "total_score": 79.2
+  },
+  "PARA": {
+    "rank": 4,
+    "name": "Parabolic Technologies, Inc.",
+    "target_price": 3.69,
+    "upside_pct": 35.0,
+    "total_score": 76.5
+  },
+  "EPAM": {
+    "rank": 5,
+    "name": "EPAM Systems, Inc.",
+    "target_price": 202.48,
+    "upside_pct": 23.0,
+    "total_score": 76.4
   },
   "MRNA": {
-    "rank": 4,
+    "rank": 6,
     "name": "Moderna, Inc.",
-    "target_price": 286.42,
-    "upside_pct": 26.0,
+    "target_price": 281.22,
+    "upside_pct": 27.3,
     "total_score": 72.2
   },
-  "META": {
-    "rank": 5,
-    "name": "Meta Platforms, Inc.",
-    "target_price": 716.18,
-    "upside_pct": 21.4,
-    "total_score": 71.6
-  },
-  "CRM": {
-    "rank": 6,
-    "name": "Salesforce, Inc.",
-    "target_price": 238.85,
-    "upside_pct": 23.6,
-    "total_score": 68.4
+  "DVN": {
+    "rank": 7,
+    "name": "Devon Energy Corporation",
+    "target_price": 51.13,
+    "upside_pct": 20.5,
+    "total_score": 69.0
   },
   "WYNN": {
-    "rank": 7,
+    "rank": 8,
     "name": "Wynn Resorts, Limited",
-    "target_price": 100.01,
-    "upside_pct": 18.9,
+    "target_price": 100.99,
+    "upside_pct": 17.3,
     "total_score": 68.2
   },
-  "NEM": {
-    "rank": 8,
-    "name": "Newmont Corporation",
-    "target_price": 116.75,
-    "upside_pct": 17.1,
-    "total_score": 67.9
+  "DELL": {
+    "rank": 9,
+    "name": "Dell Technologies Inc.",
+    "target_price": 401.03,
+    "upside_pct": 35.0,
+    "total_score": 66.5
   },
   "CSCO": {
-    "rank": 9,
-    "name": "Cisco Systems, Inc.",
-    "target_price": 111.83,
-    "upside_pct": 19.0,
-    "total_score": 67.7
-  },
-  "OXY": {
     "rank": 10,
-    "name": "Occidental Petroleum Corporation",
-    "target_price": 62.0,
-    "upside_pct": 16.2,
-    "total_score": 67.0
+    "name": "Cisco Systems, Inc.",
+    "target_price": 111.62,
+    "upside_pct": 18.5,
+    "total_score": 64.9
   }
 }

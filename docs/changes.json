@@ -18,6 +18,78 @@
     "description": "Occidental Petroleum Corporation entra en el Top 10 (puesto #10) con precio objetivo de 62.00 $ (+16.2% a 3 meses)."
   },
   {
+    "id": "2a81a657bc9d16ac",
+    "date": "2026-11-25",
+    "ticker": "ZS",
+    "name": "Zscaler, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Zscaler, Inc. sale del Top 10 (antes en el puesto #1)."
+  },
+  {
+    "id": "6716d204b92a0ee3",
+    "date": "2026-11-25",
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Salesforce, Inc. sale del Top 10 (antes en el puesto #6)."
+  },
+  {
+    "id": "10323a6bf8db4e68",
+    "date": "2026-11-25",
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Newmont Corporation sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "58e00a5a4196eb54",
+    "date": "2026-11-25",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Occidental Petroleum Corporation sale del Top 10 (antes en el puesto #10)."
+  },
+  {
+    "id": "17b061cde08550b1",
+    "date": "2026-11-25",
+    "ticker": "GNRC",
+    "name": "Generac Holdings Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Generac Holdings Inc. entra en el Top 10 (puesto #2) con precio objetivo de 246.52 $ (+20.9% a 3 meses)."
+  },
+  {
+    "id": "ce1559d11e678b82",
+    "date": "2026-11-25",
+    "ticker": "PARA",
+    "name": "Parabolic Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Parabolic Technologies, Inc. entra en el Top 10 (puesto #4) con precio objetivo de 3.69 $ (+35.0% a 3 meses)."
+  },
+  {
+    "id": "f2622b101a378eb6",
+    "date": "2026-11-25",
+    "ticker": "DVN",
+    "name": "Devon Energy Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Devon Energy Corporation entra en el Top 10 (puesto #7) con precio objetivo de 51.13 $ (+20.5% a 3 meses)."
+  },
+  {
+    "id": "45b95c0a6d9aae23",
+    "date": "2026-11-25",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Dell Technologies Inc. entra en el Top 10 (puesto #9) con precio objetivo de 401.03 $ (+35.0% a 3 meses)."
+  },
+  {
     "id": "a16ff379abcf64c3",
     "date": "2026-11-24",
     "ticker": "PARA",
@@ -142,6 +214,15 @@
     "category": "modelo",
     "type": "entra_top10",
     "description": "Cisco Systems, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 111.83 $ (+19.0% a 3 meses)."
+  },
+  {
+    "id": "80eeab0a9cf349d4",
+    "date": "2026-11-24",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "resultados",
+    "type": "resultados_positivos",
+    "description": "Resultados del 2026-11-24: BPA real 9.45 $ vs estimado 6.59 $ (sorpresa +43.5%)."
   },
   {
     "id": "08e0a68f737d9955",
@@ -6415,6 +6496,15 @@
     "category": "analista",
     "type": "objetivo_analista_bajado",
     "description": "RBC Capital baja su precio objetivo de 164.00 $ a 135.00 $ (mantiene Outperform)."
+  },
+  {
+    "id": "98479886694f0739",
+    "date": "2026-10-14",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "analista",
+    "type": "downgrade_analista",
+    "description": "Barclays baja la recomendacion de Overweight a Equal-Weight. Precio objetivo: 574.00 $."
   },
   {
     "id": "f1d08bff8de59838",

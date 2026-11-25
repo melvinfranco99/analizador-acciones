@@ -1,33 +1,70 @@
 {
-  "generated_at": "2026-11-25T07:54:30",
-  "duration_seconds": 32.0,
+  "generated_at": "2026-11-25T21:27:24",
+  "duration_seconds": 26.0,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
-  "candidates_below_threshold": 321,
+  "candidates_below_threshold": 330,
   "min_monthly_return_pct": 5.0,
   "min_upside_pct_3m": 15.8,
-  "benchmark_return_3m": -6.2,
-  "eur_usd_rate": 1.0945708751678467,
+  "benchmark_return_3m": -7.1,
+  "eur_usd_rate": 1.0978153944015503,
   "results": [
     {
-      "ticker": "ZS",
-      "name": "Zscaler, Inc.",
-      "sector": "Technology",
-      "industry": "Software - Infrastructure",
-      "price": 231.62,
-      "price_eur": 211.61,
-      "target_price": 273.31,
-      "target_price_eur": 249.7,
-      "upside_pct": 18.0,
-      "stop_loss": 201.24,
-      "stop_loss_eur": 183.85,
-      "stop_loss_pct": 13.1,
-      "technical_score": 100.0,
-      "fundamental_score": 59.6,
-      "total_score": 81.8,
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "price": 609.89,
+      "price_eur": 555.55,
+      "target_price": 726.21,
+      "target_price_eur": 661.5,
+      "upside_pct": 19.1,
+      "stop_loss": 559.18,
+      "stop_loss_eur": 509.36,
+      "stop_loss_pct": 8.3,
+      "technical_score": 70.8,
+      "fundamental_score": 92.2,
+      "total_score": 80.4,
       "technical_breakdown": {
-        "trend": 100,
+        "trend": 40,
+        "momentum": 100,
+        "macd": 55,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 93.7
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +19.1% (~+6.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Crecimiento de ingresos solido (26.1% interanual).",
+        "Consenso de 58 analistas con precio objetivo medio de 842.54."
+      ],
+      "pe": 20.808258,
+      "num_analysts": 58,
+      "rank": 1
+    },
+    {
+      "ticker": "GNRC",
+      "name": "Generac Holdings Inc.",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "price": 203.99,
+      "price_eur": 185.81,
+      "target_price": 246.52,
+      "target_price_eur": 224.56,
+      "upside_pct": 20.9,
+      "stop_loss": 178.04,
+      "stop_loss_eur": 162.18,
+      "stop_loss_pct": 12.7,
+      "technical_score": 88.0,
+      "fundamental_score": 70.1,
+      "total_score": 79.9,
+      "technical_breakdown": {
+        "trend": 60,
         "momentum": 100,
         "macd": 100,
         "relative_strength": 100
@@ -35,55 +72,17 @@
       "fundamental_breakdown": {
         "valuation": 30,
         "growth": 100,
-        "profitability": 20,
-        "analyst_consensus": 72.5
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +18.0% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "MACD en cruce alcista con impulso creciente.",
-        "Crecimiento de ingresos solido (20.5% interanual).",
-        "Consenso de 40 analistas con precio objetivo medio de 252.66."
-      ],
-      "pe": null,
-      "num_analysts": 40,
-      "rank": 1
-    },
-    {
-      "ticker": "EPAM",
-      "name": "EPAM Systems, Inc.",
-      "sector": "Technology",
-      "industry": "Information Technology Services",
-      "price": 161.48,
-      "price_eur": 147.53,
-      "target_price": 199.96,
-      "target_price_eur": 182.68,
-      "upside_pct": 23.8,
-      "stop_loss": 147.6,
-      "stop_loss_eur": 134.85,
-      "stop_loss_pct": 8.6,
-      "technical_score": 88.8,
-      "fundamental_score": 70.1,
-      "total_score": 80.4,
-      "technical_breakdown": {
-        "trend": 100,
-        "momentum": 100,
-        "macd": 55,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 75,
-        "growth": 80,
         "profitability": 50,
-        "analyst_consensus": 69.3
+        "analyst_consensus": 90.5
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +23.8% (~+7.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
-        "Consenso de 17 analistas con precio objetivo medio de 172.88."
+        "Potencial estimado a 3 meses: +20.9% (~+6.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (16.2% interanual).",
+        "Consenso de 18 analistas con precio objetivo medio de 289.06."
       ],
-      "pe": 20.260979,
-      "num_analysts": 17,
+      "pe": 40.234715,
+      "num_analysts": 18,
       "rank": 2
     },
     {
@@ -91,22 +90,22 @@
       "name": "T-Mobile US, Inc.",
       "sector": "Communication Services",
       "industry": "Telecom Services",
-      "price": 167.3,
-      "price_eur": 152.85,
-      "target_price": 196.77,
-      "target_price_eur": 179.77,
-      "upside_pct": 17.6,
-      "stop_loss": 156.6,
-      "stop_loss_eur": 143.07,
-      "stop_loss_pct": 6.4,
-      "technical_score": 67.2,
+      "price": 166.25,
+      "price_eur": 151.44,
+      "target_price": 196.25,
+      "target_price_eur": 178.76,
+      "upside_pct": 18.0,
+      "stop_loss": 155.97,
+      "stop_loss_eur": 142.07,
+      "stop_loss_pct": 6.2,
+      "technical_score": 73.2,
       "fundamental_score": 86.5,
-      "total_score": 75.9,
+      "total_score": 79.2,
       "technical_breakdown": {
         "trend": 60,
         "momentum": 100,
         "macd": 65,
-        "relative_strength": 40
+        "relative_strength": 70
       },
       "fundamental_breakdown": {
         "valuation": 75,
@@ -115,27 +114,102 @@
         "analyst_consensus": 90.9
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +17.6% (~+5.6%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
-        "Valoracion contenida (PER 16.1x).",
+        "Potencial estimado a 3 meses: +18.0% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Valoracion contenida (PER 16.0x).",
         "Consenso de 25 analistas con precio objetivo medio de 226.24."
       ],
-      "pe": 16.133076,
+      "pe": 16.031822,
       "num_analysts": 25,
       "rank": 3
+    },
+    {
+      "ticker": "PARA",
+      "name": "Parabolic Technologies, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 2.73,
+      "price_eur": 2.49,
+      "target_price": 3.69,
+      "target_price_eur": 3.36,
+      "upside_pct": 35.0,
+      "stop_loss": 2.32,
+      "stop_loss_eur": 2.11,
+      "stop_loss_pct": 15.0,
+      "technical_score": 80.5,
+      "fundamental_score": 71.5,
+      "total_score": 76.5,
+      "technical_breakdown": {
+        "trend": 60,
+        "momentum": 70,
+        "macd": 100,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 20,
+        "analyst_consensus": 50.0
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +35.0% (~+10.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (64.7% interanual).",
+        "Valoracion contenida (PER 0.0x)."
+      ],
+      "pe": 0.00010544204,
+      "num_analysts": 1,
+      "rank": 4
+    },
+    {
+      "ticker": "EPAM",
+      "name": "EPAM Systems, Inc.",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "price": 164.63,
+      "price_eur": 149.96,
+      "target_price": 202.48,
+      "target_price_eur": 184.44,
+      "upside_pct": 23.0,
+      "stop_loss": 150.66,
+      "stop_loss_eur": 137.24,
+      "stop_loss_pct": 8.5,
+      "technical_score": 81.2,
+      "fundamental_score": 70.5,
+      "total_score": 76.4,
+      "technical_breakdown": {
+        "trend": 100,
+        "momentum": 70,
+        "macd": 55,
+        "relative_strength": 100
+      },
+      "fundamental_breakdown": {
+        "valuation": 75,
+        "growth": 80,
+        "profitability": 50,
+        "analyst_consensus": 70.9
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +23.0% (~+7.1%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
+        "Consenso de 17 analistas con precio objetivo medio de 174.12."
+      ],
+      "pe": 20.656212,
+      "num_analysts": 17,
+      "rank": 5
     },
     {
       "ticker": "MRNA",
       "name": "Moderna, Inc.",
       "sector": "Healthcare",
       "industry": "Biotechnology",
-      "price": 227.38,
-      "price_eur": 207.73,
-      "target_price": 286.42,
-      "target_price_eur": 261.67,
-      "upside_pct": 26.0,
-      "stop_loss": 193.27,
-      "stop_loss_eur": 176.57,
-      "stop_loss_pct": 15.0,
+      "price": 220.84,
+      "price_eur": 201.16,
+      "target_price": 281.22,
+      "target_price_eur": 256.16,
+      "upside_pct": 27.3,
+      "stop_loss": 188.08,
+      "stop_loss_eur": 171.32,
+      "stop_loss_pct": 14.8,
       "technical_score": 88.8,
       "fundamental_score": 51.8,
       "total_score": 72.2,
@@ -152,102 +226,66 @@
         "analyst_consensus": 31.3
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +26.0% (~+8.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
+        "Potencial estimado a 3 meses: +27.3% (~+8.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "Crecimiento de ingresos solido (29.2% interanual).",
         "Consenso de 19 analistas con precio objetivo medio de 163.74."
       ],
       "pe": null,
       "num_analysts": 19,
-      "rank": 4
+      "rank": 6
     },
     {
-      "ticker": "META",
-      "name": "Meta Platforms, Inc.",
-      "sector": "Communication Services",
-      "industry": "Internet Content & Information",
-      "price": 589.82,
-      "price_eur": 538.86,
-      "target_price": 716.18,
-      "target_price_eur": 654.3,
-      "upside_pct": 21.4,
-      "stop_loss": 553.09,
-      "stop_loss_eur": 505.3,
-      "stop_loss_pct": 6.2,
-      "technical_score": 54.8,
-      "fundamental_score": 92.2,
-      "total_score": 71.6,
+      "ticker": "DVN",
+      "name": "Devon Energy Corporation",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "price": 42.45,
+      "price_eur": 38.67,
+      "target_price": 51.13,
+      "target_price_eur": 46.57,
+      "upside_pct": 20.5,
+      "stop_loss": 40.19,
+      "stop_loss_eur": 36.61,
+      "stop_loss_pct": 5.3,
+      "technical_score": 48.8,
+      "fundamental_score": 93.8,
+      "total_score": 69.0,
       "technical_breakdown": {
         "trend": 40,
         "momentum": 60,
         "macd": 55,
-        "relative_strength": 70
+        "relative_strength": 40
       },
       "fundamental_breakdown": {
-        "valuation": 75,
+        "valuation": 100,
         "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 93.7
+        "profitability": 75,
+        "analyst_consensus": 95.2
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +21.4% (~+6.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
-        "Crecimiento de ingresos solido (26.1% interanual).",
-        "Consenso de 58 analistas con precio objetivo medio de 842.54."
+        "Potencial estimado a 3 meses: +20.5% (~+6.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Crecimiento de ingresos solido (74.0% interanual).",
+        "Valoracion contenida (PER 10.0x).",
+        "Consenso de 27 analistas con precio objetivo medio de 59.81."
       ],
-      "pe": 20.123508,
-      "num_analysts": 58,
-      "rank": 5
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce, Inc.",
-      "sector": "Technology",
-      "industry": "Software - Application",
-      "price": 193.26,
-      "price_eur": 176.56,
-      "target_price": 238.85,
-      "target_price_eur": 218.21,
-      "upside_pct": 23.6,
-      "stop_loss": 178.12,
-      "stop_loss_eur": 162.73,
-      "stop_loss_pct": 7.8,
-      "technical_score": 49.8,
-      "fundamental_score": 91.2,
-      "total_score": 68.4,
-      "technical_breakdown": {
-        "trend": 40,
-        "momentum": 40,
-        "macd": 55,
-        "relative_strength": 70
-      },
-      "fundamental_breakdown": {
-        "valuation": 75,
-        "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 89.6
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +23.6% (~+7.3%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
-        "Valoracion contenida (PER 17.7x).",
-        "Consenso de 53 analistas con precio objetivo medio de 284.44."
-      ],
-      "pe": 17.68161,
-      "num_analysts": 53,
-      "rank": 6
+      "pe": 9.964788,
+      "num_analysts": 27,
+      "rank": 7
     },
     {
       "ticker": "WYNN",
       "name": "Wynn Resorts, Limited",
       "sector": "Consumer Cyclical",
       "industry": "Resorts & Casinos",
-      "price": 84.11,
-      "price_eur": 76.84,
-      "target_price": 100.01,
-      "target_price_eur": 91.37,
-      "upside_pct": 18.9,
-      "stop_loss": 78.04,
-      "stop_loss_eur": 71.3,
-      "stop_loss_pct": 7.2,
+      "price": 86.08,
+      "price_eur": 78.41,
+      "target_price": 100.99,
+      "target_price_eur": 91.99,
+      "upside_pct": 17.3,
+      "stop_loss": 79.81,
+      "stop_loss_eur": 72.7,
+      "stop_loss_pct": 7.3,
       "technical_score": 76.0,
       "fundamental_score": 58.7,
       "total_score": 68.2,
@@ -264,68 +302,69 @@
         "analyst_consensus": 95.7
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +18.9% (~+5.9%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +17.3% (~+5.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "MACD en cruce alcista con impulso creciente.",
         "Consenso de 20 analistas con precio objetivo medio de 115.90."
       ],
-      "pe": 23.759888,
+      "pe": 24.316385,
       "num_analysts": 20,
-      "rank": 7
+      "rank": 8
     },
     {
-      "ticker": "NEM",
-      "name": "Newmont Corporation",
-      "sector": "Basic Materials",
-      "industry": "Gold",
-      "price": 99.69,
-      "price_eur": 91.08,
-      "target_price": 116.75,
-      "target_price_eur": 106.66,
-      "upside_pct": 17.1,
-      "stop_loss": 92.96,
-      "stop_loss_eur": 84.93,
-      "stop_loss_pct": 6.7,
-      "technical_score": 43.8,
-      "fundamental_score": 97.3,
-      "total_score": 67.9,
+      "ticker": "DELL",
+      "name": "Dell Technologies Inc.",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "price": 297.06,
+      "price_eur": 270.59,
+      "target_price": 401.03,
+      "target_price_eur": 365.3,
+      "upside_pct": 35.0,
+      "stop_loss": 262.35,
+      "stop_loss_eur": 238.97,
+      "stop_loss_pct": 11.7,
+      "technical_score": 55.0,
+      "fundamental_score": 80.6,
+      "total_score": 66.5,
       "technical_breakdown": {
         "trend": 40,
         "momentum": 60,
-        "macd": 55,
+        "macd": 100,
         "relative_strength": 15
       },
       "fundamental_breakdown": {
-        "valuation": 100,
+        "valuation": 75,
         "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 89.3
+        "profitability": 50,
+        "analyst_consensus": 87.6
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +17.1% (~+5.4%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
-        "Crecimiento de ingresos solido (15.2% interanual).",
-        "Valoracion contenida (PER 11.6x).",
-        "Consenso de 16 analistas con precio objetivo medio de 133.80."
+        "Potencial estimado a 3 meses: +35.0% (~+10.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "MACD en cruce alcista con impulso creciente.",
+        "Crecimiento de ingresos solido (57.7% interanual).",
+        "Valoracion contenida (PER 17.3x).",
+        "Consenso de 25 analistas con precio objetivo medio de 509.88."
       ],
-      "pe": 11.564965,
-      "num_analysts": 16,
-      "rank": 8
+      "pe": 17.27093,
+      "num_analysts": 25,
+      "rank": 9
     },
     {
       "ticker": "CSCO",
       "name": "Cisco Systems, Inc.",
       "sector": "Technology",
       "industry": "Communication Equipment",
-      "price": 93.99,
-      "price_eur": 85.87,
-      "target_price": 111.83,
-      "target_price_eur": 102.17,
-      "upside_pct": 19.0,
+      "price": 94.2,
+      "price_eur": 85.81,
+      "target_price": 111.62,
+      "target_price_eur": 101.67,
+      "upside_pct": 18.5,
       "stop_loss": 89.09,
-      "stop_loss_eur": 81.39,
-      "stop_loss_pct": 5.2,
+      "stop_loss_eur": 81.15,
+      "stop_loss_pct": 5.4,
       "technical_score": 48.8,
-      "fundamental_score": 90.8,
-      "total_score": 67.7,
+      "fundamental_score": 84.6,
+      "total_score": 64.9,
       "technical_breakdown": {
         "trend": 40,
         "momentum": 60,
@@ -333,56 +372,18 @@
         "relative_strength": 40
       },
       "fundamental_breakdown": {
-        "valuation": 75,
+        "valuation": 50,
         "growth": 100,
         "profitability": 100,
         "analyst_consensus": 88.2
       },
       "rationale": [
-        "Potencial estimado a 3 meses: +19.0% (~+6.0%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Potencial estimado a 3 meses: +18.5% (~+5.8%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
         "Crecimiento de ingresos solido (24.4% interanual).",
-        "Consenso de 24 analistas con precio objetivo medio de 129.67."
+        "Consenso de 24 analistas con precio objetivo medio de 129.04."
       ],
-      "pe": 24.99734,
+      "pe": 25.05319,
       "num_analysts": 24,
-      "rank": 9
-    },
-    {
-      "ticker": "OXY",
-      "name": "Occidental Petroleum Corporation",
-      "sector": "Energy",
-      "industry": "Oil & Gas E&P",
-      "price": 53.38,
-      "price_eur": 48.77,
-      "target_price": 62.0,
-      "target_price_eur": 56.64,
-      "upside_pct": 16.2,
-      "stop_loss": 51.24,
-      "stop_loss_eur": 46.81,
-      "stop_loss_pct": 4.0,
-      "technical_score": 43.8,
-      "fundamental_score": 95.3,
-      "total_score": 67.0,
-      "technical_breakdown": {
-        "trend": 40,
-        "momentum": 40,
-        "macd": 55,
-        "relative_strength": 40
-      },
-      "fundamental_breakdown": {
-        "valuation": 100,
-        "growth": 100,
-        "profitability": 100,
-        "analyst_consensus": 81.2
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +16.2% (~+5.1%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
-        "Crecimiento de ingresos solido (19.0% interanual).",
-        "Valoracion contenida (PER 11.9x).",
-        "Consenso de 27 analistas con precio objetivo medio de 70.63."
-      ],
-      "pe": 11.888642,
-      "num_analysts": 27,
       "rank": 10
     }
   ]
