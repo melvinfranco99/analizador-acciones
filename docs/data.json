@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-24T22:11:19",
-  "duration_seconds": 25.6,
+  "generated_at": "2026-11-25T07:54:30",
+  "duration_seconds": 32.0,
   "universe_size": 436,
   "tickers_with_data": 422,
   "candidates_analyzed": 350,
-  "candidates_below_threshold": 320,
+  "candidates_below_threshold": 321,
   "min_monthly_return_pct": 5.0,
   "min_upside_pct_3m": 15.8,
   "benchmark_return_3m": -6.2,
-  "eur_usd_rate": 1.096611499786377,
+  "eur_usd_rate": 1.0945708751678467,
   "results": [
     {
       "ticker": "ZS",
@@ -16,16 +16,16 @@
       "sector": "Technology",
       "industry": "Software - Infrastructure",
       "price": 231.62,
-      "price_eur": 211.21,
+      "price_eur": 211.61,
       "target_price": 273.31,
-      "target_price_eur": 249.23,
+      "target_price_eur": 249.7,
       "upside_pct": 18.0,
-      "stop_loss": 201.25,
-      "stop_loss_eur": 183.52,
+      "stop_loss": 201.24,
+      "stop_loss_eur": 183.85,
       "stop_loss_pct": 13.1,
       "technical_score": 100.0,
-      "fundamental_score": 60.7,
-      "total_score": 82.3,
+      "fundamental_score": 59.6,
+      "total_score": 81.8,
       "technical_breakdown": {
         "trend": 100,
         "momentum": 100,
@@ -36,14 +36,14 @@
         "valuation": 30,
         "growth": 100,
         "profitability": 20,
-        "analyst_consensus": 76.7
+        "analyst_consensus": 72.5
       },
       "rationale": [
         "Potencial estimado a 3 meses: +18.0% (~+5.7%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
         "Tendencia alcista clara: precio por encima de sus medias de 50 y 200 sesiones.",
         "MACD en cruce alcista con impulso creciente.",
         "Crecimiento de ingresos solido (20.5% interanual).",
-        "Consenso de 40 analistas con precio objetivo medio de 252.53."
+        "Consenso de 40 analistas con precio objetivo medio de 252.66."
       ],
       "pe": null,
       "num_analysts": 40,
@@ -55,12 +55,12 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "price": 161.48,
-      "price_eur": 147.25,
+      "price_eur": 147.53,
       "target_price": 199.96,
-      "target_price_eur": 182.34,
+      "target_price_eur": 182.68,
       "upside_pct": 23.8,
       "stop_loss": 147.6,
-      "stop_loss_eur": 134.6,
+      "stop_loss_eur": 134.85,
       "stop_loss_pct": 8.6,
       "technical_score": 88.8,
       "fundamental_score": 70.1,
@@ -87,55 +87,17 @@
       "rank": 2
     },
     {
-      "ticker": "PARA",
-      "name": "Parabolic Technologies, Inc.",
-      "sector": "Technology",
-      "industry": "Software - Application",
-      "price": 3.04,
-      "price_eur": 2.77,
-      "target_price": 4.1,
-      "target_price_eur": 3.74,
-      "upside_pct": 35.0,
-      "stop_loss": 2.58,
-      "stop_loss_eur": 2.35,
-      "stop_loss_pct": 15.0,
-      "technical_score": 80.5,
-      "fundamental_score": 71.5,
-      "total_score": 76.5,
-      "technical_breakdown": {
-        "trend": 60,
-        "momentum": 70,
-        "macd": 100,
-        "relative_strength": 100
-      },
-      "fundamental_breakdown": {
-        "valuation": 100,
-        "growth": 100,
-        "profitability": 20,
-        "analyst_consensus": 50.0
-      },
-      "rationale": [
-        "Potencial estimado a 3 meses: +35.0% (~+10.5%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el momentum tecnico reciente).",
-        "MACD en cruce alcista con impulso creciente.",
-        "Crecimiento de ingresos solido (64.7% interanual).",
-        "Valoracion contenida (PER 0.0x)."
-      ],
-      "pe": 0.000117415315,
-      "num_analysts": 1,
-      "rank": 3
-    },
-    {
       "ticker": "TMUS",
       "name": "T-Mobile US, Inc.",
       "sector": "Communication Services",
       "industry": "Telecom Services",
       "price": 167.3,
-      "price_eur": 152.56,
+      "price_eur": 152.85,
       "target_price": 196.77,
-      "target_price_eur": 179.43,
+      "target_price_eur": 179.77,
       "upside_pct": 17.6,
       "stop_loss": 156.6,
-      "stop_loss_eur": 142.8,
+      "stop_loss_eur": 143.07,
       "stop_loss_pct": 6.4,
       "technical_score": 67.2,
       "fundamental_score": 86.5,
@@ -159,7 +121,7 @@
       ],
       "pe": 16.133076,
       "num_analysts": 25,
-      "rank": 4
+      "rank": 3
     },
     {
       "ticker": "MRNA",
@@ -167,12 +129,12 @@
       "sector": "Healthcare",
       "industry": "Biotechnology",
       "price": 227.38,
-      "price_eur": 207.35,
+      "price_eur": 207.73,
       "target_price": 286.42,
-      "target_price_eur": 261.19,
+      "target_price_eur": 261.67,
       "upside_pct": 26.0,
       "stop_loss": 193.27,
-      "stop_loss_eur": 176.24,
+      "stop_loss_eur": 176.57,
       "stop_loss_pct": 15.0,
       "technical_score": 88.8,
       "fundamental_score": 51.8,
@@ -197,7 +159,7 @@
       ],
       "pe": null,
       "num_analysts": 19,
-      "rank": 5
+      "rank": 4
     },
     {
       "ticker": "META",
@@ -205,12 +167,12 @@
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
       "price": 589.82,
-      "price_eur": 537.86,
+      "price_eur": 538.86,
       "target_price": 716.18,
-      "target_price_eur": 653.08,
+      "target_price_eur": 654.3,
       "upside_pct": 21.4,
       "stop_loss": 553.09,
-      "stop_loss_eur": 504.36,
+      "stop_loss_eur": 505.3,
       "stop_loss_pct": 6.2,
       "technical_score": 54.8,
       "fundamental_score": 92.2,
@@ -234,7 +196,7 @@
       ],
       "pe": 20.123508,
       "num_analysts": 58,
-      "rank": 6
+      "rank": 5
     },
     {
       "ticker": "CRM",
@@ -242,12 +204,12 @@
       "sector": "Technology",
       "industry": "Software - Application",
       "price": 193.26,
-      "price_eur": 176.23,
+      "price_eur": 176.56,
       "target_price": 238.85,
-      "target_price_eur": 217.81,
+      "target_price_eur": 218.21,
       "upside_pct": 23.6,
       "stop_loss": 178.12,
-      "stop_loss_eur": 162.43,
+      "stop_loss_eur": 162.73,
       "stop_loss_pct": 7.8,
       "technical_score": 49.8,
       "fundamental_score": 91.2,
@@ -271,7 +233,7 @@
       ],
       "pe": 17.68161,
       "num_analysts": 53,
-      "rank": 7
+      "rank": 6
     },
     {
       "ticker": "WYNN",
@@ -279,12 +241,12 @@
       "sector": "Consumer Cyclical",
       "industry": "Resorts & Casinos",
       "price": 84.11,
-      "price_eur": 76.7,
+      "price_eur": 76.84,
       "target_price": 100.01,
-      "target_price_eur": 91.2,
+      "target_price_eur": 91.37,
       "upside_pct": 18.9,
-      "stop_loss": 78.06,
-      "stop_loss_eur": 71.18,
+      "stop_loss": 78.04,
+      "stop_loss_eur": 71.3,
       "stop_loss_pct": 7.2,
       "technical_score": 76.0,
       "fundamental_score": 58.7,
@@ -308,7 +270,7 @@
       ],
       "pe": 23.759888,
       "num_analysts": 20,
-      "rank": 8
+      "rank": 7
     },
     {
       "ticker": "NEM",
@@ -316,12 +278,12 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "price": 99.69,
-      "price_eur": 90.91,
+      "price_eur": 91.08,
       "target_price": 116.75,
-      "target_price_eur": 106.46,
+      "target_price_eur": 106.66,
       "upside_pct": 17.1,
       "stop_loss": 92.96,
-      "stop_loss_eur": 84.77,
+      "stop_loss_eur": 84.93,
       "stop_loss_pct": 6.7,
       "technical_score": 43.8,
       "fundamental_score": 97.3,
@@ -346,7 +308,7 @@
       ],
       "pe": 11.564965,
       "num_analysts": 16,
-      "rank": 9
+      "rank": 8
     },
     {
       "ticker": "CSCO",
@@ -354,12 +316,12 @@
       "sector": "Technology",
       "industry": "Communication Equipment",
       "price": 93.99,
-      "price_eur": 85.71,
+      "price_eur": 85.87,
       "target_price": 111.83,
-      "target_price_eur": 101.98,
+      "target_price_eur": 102.17,
       "upside_pct": 19.0,
       "stop_loss": 89.09,
-      "stop_loss_eur": 81.24,
+      "stop_loss_eur": 81.39,
       "stop_loss_pct": 5.2,
       "technical_score": 48.8,
       "fundamental_score": 90.8,
@@ -383,6 +345,44 @@
       ],
       "pe": 24.99734,
       "num_analysts": 24,
+      "rank": 9
+    },
+    {
+      "ticker": "OXY",
+      "name": "Occidental Petroleum Corporation",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "price": 53.38,
+      "price_eur": 48.77,
+      "target_price": 62.0,
+      "target_price_eur": 56.64,
+      "upside_pct": 16.2,
+      "stop_loss": 51.24,
+      "stop_loss_eur": 46.81,
+      "stop_loss_pct": 4.0,
+      "technical_score": 43.8,
+      "fundamental_score": 95.3,
+      "total_score": 67.0,
+      "technical_breakdown": {
+        "trend": 40,
+        "momentum": 40,
+        "macd": 55,
+        "relative_strength": 40
+      },
+      "fundamental_breakdown": {
+        "valuation": 100,
+        "growth": 100,
+        "profitability": 100,
+        "analyst_consensus": 81.2
+      },
+      "rationale": [
+        "Potencial estimado a 3 meses: +16.2% (~+5.1%/mes), por encima del umbral minimo exigido del 5%/mes (impulsado por el consenso de precio objetivo de analistas).",
+        "Crecimiento de ingresos solido (19.0% interanual).",
+        "Valoracion contenida (PER 11.9x).",
+        "Consenso de 27 analistas con precio objetivo medio de 70.63."
+      ],
+      "pe": 11.888642,
+      "num_analysts": 27,
       "rank": 10
     }
   ]

@@ -1,5 +1,23 @@
 [
   {
+    "id": "ac5b2b9ecb1d4b7d",
+    "date": "2026-11-25",
+    "ticker": "PARA",
+    "name": "Parabolic Technologies, Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Parabolic Technologies, Inc. sale del Top 10 (antes en el puesto #3)."
+  },
+  {
+    "id": "fc46dd975afc8c91",
+    "date": "2026-11-25",
+    "ticker": "OXY",
+    "name": "Occidental Petroleum Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Occidental Petroleum Corporation entra en el Top 10 (puesto #10) con precio objetivo de 62.00 $ (+16.2% a 3 meses)."
+  },
+  {
     "id": "a16ff379abcf64c3",
     "date": "2026-11-24",
     "ticker": "PARA",
@@ -14479,230 +14497,5 @@
     "category": "analista",
     "type": "upgrade_analista",
     "description": "Baird sube la recomendacion de Neutral a Outperform. Precio objetivo: 560.00 $."
-  },
-  {
-    "id": "4216a50735f70d54",
-    "date": "2026-08-26",
-    "ticker": "MU",
-    "name": "Micron Technology, Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Micron Technology, Inc. sale del Top 10 (antes en el puesto #10)."
-  },
-  {
-    "id": "f754bc590c25bbe7",
-    "date": "2026-08-26",
-    "ticker": "PAYX",
-    "name": "Paychex, Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Paychex, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 145.75 $ (+16.6% a 3 meses)."
-  },
-  {
-    "id": "b238a568fa5be97b",
-    "date": "2026-08-26",
-    "ticker": "VLO",
-    "name": "Valero Energy Corporation",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Valero Energy Corporation sale del Top 10 (antes en el puesto #2)."
-  },
-  {
-    "id": "825255218606a485",
-    "date": "2026-08-26",
-    "ticker": "AJG",
-    "name": "Arthur J. Gallagher & Co.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Arthur J. Gallagher & Co. sale del Top 10 (antes en el puesto #6)."
-  },
-  {
-    "id": "21a8d31a037a0945",
-    "date": "2026-08-26",
-    "ticker": "PAYX",
-    "name": "Paychex, Inc.",
-    "category": "modelo",
-    "type": "sale_top10",
-    "description": "Paychex, Inc. sale del Top 10 (antes en el puesto #8)."
-  },
-  {
-    "id": "c51a2fc66f940c84",
-    "date": "2026-08-26",
-    "ticker": "ROP",
-    "name": "Roper Technologies, Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Roper Technologies, Inc. entra en el Top 10 (puesto #3) con precio objetivo de 480.96 $ (+15.8% a 3 meses)."
-  },
-  {
-    "id": "19adb2b8323c2f53",
-    "date": "2026-08-26",
-    "ticker": "BBY",
-    "name": "Best Buy Co., Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "Best Buy Co., Inc. entra en el Top 10 (puesto #7) con precio objetivo de 104.60 $ (+19.0% a 3 meses)."
-  },
-  {
-    "id": "ac1dd35905e0a9f4",
-    "date": "2026-08-26",
-    "ticker": "NTAP",
-    "name": "NetApp, Inc.",
-    "category": "modelo",
-    "type": "entra_top10",
-    "description": "NetApp, Inc. entra en el Top 10 (puesto #8) con precio objetivo de 229.80 $ (+18.3% a 3 meses)."
-  },
-  {
-    "id": "35289cd883340357",
-    "date": "2026-08-26",
-    "ticker": "A",
-    "name": "Agilent Technologies, Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-08-26: BPA real 1.62 $ vs estimado 1.49 $ (sorpresa +9.0%)."
-  },
-  {
-    "id": "df7ade346462e8a7",
-    "date": "2026-08-26",
-    "ticker": "NVDA",
-    "name": "NVIDIA Corporation",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-08-26: BPA real 2.22 $ vs estimado 2.09 $ (sorpresa +6.2%)."
-  },
-  {
-    "id": "ba3b0b357d5c1053",
-    "date": "2026-08-26",
-    "ticker": "CRM",
-    "name": "Salesforce, Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-08-26: BPA real 5.90 $ vs estimado 3.27 $ (sorpresa +80.4%)."
-  },
-  {
-    "id": "05da8f9d6fd64ca6",
-    "date": "2026-08-26",
-    "ticker": "DELL",
-    "name": "Dell Technologies Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "UBS sube su precio objetivo de 440.00 $ a 455.00 $ (mantiene Neutral)."
-  },
-  {
-    "id": "a00bf4947c15beb6",
-    "date": "2026-08-26",
-    "ticker": "HPQ",
-    "name": "HP Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-08-26: BPA real 0.83 $ vs estimado 0.69 $ (sorpresa +20.0%)."
-  },
-  {
-    "id": "d07cf424a72f18f1",
-    "date": "2026-08-26",
-    "ticker": "CRWD",
-    "name": "CrowdStrike Holdings, Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-08-26: BPA real 0.31 $ vs estimado 0.29 $ (sorpresa +6.4%)."
-  },
-  {
-    "id": "ecd497e4e35c992b",
-    "date": "2026-08-26",
-    "ticker": "GDDY",
-    "name": "GoDaddy Inc.",
-    "category": "analista",
-    "type": "downgrade_analista",
-    "description": "Wells Fargo baja la recomendacion de Equal-Weight a Underweight. Precio objetivo: 76.00 $."
-  },
-  {
-    "id": "5bc6374bb173ac62",
-    "date": "2026-08-26",
-    "ticker": "MDB",
-    "name": "MongoDB, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "DA Davidson sube su precio objetivo de 375.00 $ a 465.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "07d5014e80c186bf",
-    "date": "2026-08-26",
-    "ticker": "MDB",
-    "name": "MongoDB, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Barclays sube su precio objetivo de 387.00 $ a 460.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "a632e5bffa187c2c",
-    "date": "2026-08-26",
-    "ticker": "ACN",
-    "name": "Accenture plc",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "TD Cowen sube su precio objetivo de 151.00 $ a 173.00 $ (mantiene Hold)."
-  },
-  {
-    "id": "26779981f0a6b935",
-    "date": "2026-08-26",
-    "ticker": "EPAM",
-    "name": "EPAM Systems, Inc.",
-    "category": "analista",
-    "type": "downgrade_analista",
-    "description": "JP Morgan baja la recomendacion de Overweight a Neutral. Precio objetivo: 120.00 $."
-  },
-  {
-    "id": "a374d7d40bef1dcc",
-    "date": "2026-08-26",
-    "ticker": "ZS",
-    "name": "Zscaler, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "JP Morgan sube su precio objetivo de 205.00 $ a 215.00 $ (mantiene Overweight)."
-  },
-  {
-    "id": "7a75d9f409ab3103",
-    "date": "2026-08-26",
-    "ticker": "FSLR",
-    "name": "First Solar, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Deutsche Bank sube su precio objetivo de 272.00 $ a 299.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "cef1beb993fa3bd2",
-    "date": "2026-08-26",
-    "ticker": "APP",
-    "name": "AppLovin Corporation",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Needham baja su precio objetivo de 500.00 $ a 475.00 $ (mantiene Buy)."
-  },
-  {
-    "id": "8ebb39e08767e433",
-    "date": "2026-08-26",
-    "ticker": "SNPS",
-    "name": "Synopsys, Inc.",
-    "category": "resultados",
-    "type": "resultados_positivos",
-    "description": "Resultados del 2026-08-26: BPA real 3.91 $ vs estimado 3.67 $ (sorpresa +6.4%)."
-  },
-  {
-    "id": "4472f6c9f4129034",
-    "date": "2026-08-26",
-    "ticker": "ZM",
-    "name": "Zoom Communications, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_subido",
-    "description": "Morgan Stanley sube su precio objetivo de 105.00 $ a 107.00 $ (mantiene Equal-Weight)."
-  },
-  {
-    "id": "d2672a5c70a00035",
-    "date": "2026-08-26",
-    "ticker": "ZM",
-    "name": "Zoom Communications, Inc.",
-    "category": "analista",
-    "type": "objetivo_analista_bajado",
-    "description": "Jefferies baja su precio objetivo de 118.00 $ a 116.00 $ (mantiene Buy)."
   }
 ]

@@ -4,7 +4,7 @@
     "name": "Zscaler, Inc.",
     "target_price": 273.31,
     "upside_pct": 18.0,
-    "total_score": 82.3
+    "total_score": 81.8
   },
   "EPAM": {
     "rank": 2,
@@ -13,60 +13,60 @@
     "upside_pct": 23.8,
     "total_score": 80.4
   },
-  "PARA": {
-    "rank": 3,
-    "name": "Parabolic Technologies, Inc.",
-    "target_price": 4.1,
-    "upside_pct": 35.0,
-    "total_score": 76.5
-  },
   "TMUS": {
-    "rank": 4,
+    "rank": 3,
     "name": "T-Mobile US, Inc.",
     "target_price": 196.77,
     "upside_pct": 17.6,
     "total_score": 75.9
   },
   "MRNA": {
-    "rank": 5,
+    "rank": 4,
     "name": "Moderna, Inc.",
     "target_price": 286.42,
     "upside_pct": 26.0,
     "total_score": 72.2
   },
   "META": {
-    "rank": 6,
+    "rank": 5,
     "name": "Meta Platforms, Inc.",
     "target_price": 716.18,
     "upside_pct": 21.4,
     "total_score": 71.6
   },
   "CRM": {
-    "rank": 7,
+    "rank": 6,
     "name": "Salesforce, Inc.",
     "target_price": 238.85,
     "upside_pct": 23.6,
     "total_score": 68.4
   },
   "WYNN": {
-    "rank": 8,
+    "rank": 7,
     "name": "Wynn Resorts, Limited",
     "target_price": 100.01,
     "upside_pct": 18.9,
     "total_score": 68.2
   },
   "NEM": {
-    "rank": 9,
+    "rank": 8,
     "name": "Newmont Corporation",
     "target_price": 116.75,
     "upside_pct": 17.1,
     "total_score": 67.9
   },
   "CSCO": {
-    "rank": 10,
+    "rank": 9,
     "name": "Cisco Systems, Inc.",
     "target_price": 111.83,
     "upside_pct": 19.0,
     "total_score": 67.7
+  },
+  "OXY": {
+    "rank": 10,
+    "name": "Occidental Petroleum Corporation",
+    "target_price": 62.0,
+    "upside_pct": 16.2,
+    "total_score": 67.0
   }
 }
