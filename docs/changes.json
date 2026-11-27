@@ -1,5 +1,68 @@
 [
   {
+    "id": "25937d6172685137",
+    "date": "2026-11-27",
+    "ticker": "DVN",
+    "name": "Devon Energy Corporation",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Devon Energy Corporation sale del Top 10 (antes en el puesto #7)."
+  },
+  {
+    "id": "7bb64f48707f3cb8",
+    "date": "2026-11-27",
+    "ticker": "WYNN",
+    "name": "Wynn Resorts, Limited",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Wynn Resorts, Limited sale del Top 10 (antes en el puesto #8)."
+  },
+  {
+    "id": "7760ac4220a90b75",
+    "date": "2026-11-27",
+    "ticker": "DELL",
+    "name": "Dell Technologies Inc.",
+    "category": "modelo",
+    "type": "sale_top10",
+    "description": "Dell Technologies Inc. sale del Top 10 (antes en el puesto #9)."
+  },
+  {
+    "id": "db27d83626bc31df",
+    "date": "2026-11-27",
+    "ticker": "APH",
+    "name": "Amphenol Corporation",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Amphenol Corporation entra en el Top 10 (puesto #7) con precio objetivo de 90.66 $ (+20.7% a 3 meses)."
+  },
+  {
+    "id": "287c6624dc73d2f1",
+    "date": "2026-11-27",
+    "ticker": "HWM",
+    "name": "Howmet Aerospace Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Howmet Aerospace Inc. entra en el Top 10 (puesto #8) con precio objetivo de 256.85 $ (+18.1% a 3 meses)."
+  },
+  {
+    "id": "2514ac3da084ef6c",
+    "date": "2026-11-27",
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "category": "modelo",
+    "type": "objetivo_subido",
+    "description": "Precio objetivo de nuestro modelo revisado de 281.22 $ a 303.74 $ (+8.0%)."
+  },
+  {
+    "id": "158d526bbbcd98e6",
+    "date": "2026-11-27",
+    "ticker": "KEYS",
+    "name": "Keysight Technologies, Inc.",
+    "category": "modelo",
+    "type": "entra_top10",
+    "description": "Keysight Technologies, Inc. entra en el Top 10 (puesto #10) con precio objetivo de 334.91 $ (+20.2% a 3 meses)."
+  },
+  {
     "id": "ac5b2b9ecb1d4b7d",
     "date": "2026-11-25",
     "ticker": "PARA",
